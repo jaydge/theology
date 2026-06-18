@@ -1,0 +1,254 @@
+# On Incense and the Altar: My current understanding, and what I'd like to understand
+
+**Last updated: 260618-1** (date-stamped, format yymmdd-iteration)
+
+*Topic-complete reference on incense and the regulative principle of worship. This single document gathers (1) where I currently stand, (2) the classically Reformed, Anglican, and Lutheran positions on the question and on the regulative-versus-normative-principle dispute that underlies it, (3) the scriptural foundation for the regulative principle, and (4) my questions for Rev. James, in the friendly form suitable for relay. This is the shareable, canonical home for the friendly questions; the master question list (`RJ_Final_Question_List.md`) keeps the analytical forms and cross-references these by ID. The backstage leverage analysis lives separately in `RJ_Incense_Analysis.md` and is not part of this document.*
+
+*A note on the spirit of the whole thing: this comes from someone who counts Rev. James a brother in Christ. We differ in significant ways on theology and practice, but we are on the same team, and that is the posture throughout. I am settled on the ground below, and I am glad to hear it pressed.*
+
+---
+
+## Where Rev. James stands, as I understand it
+
+I went looking through Rev. James's YouTube transcripts to see where he talks about incense, and the clearest material is in his Revelation series. Two lines anchor what I understand his position to be:
+
+"This isn't reflecting our worship. Our worship is reflecting their worship, right?" (Revelation Class, Session 4, commentary on Revelation 5:9-10)
+
+"Note that not only is incense being used, but an altar as well... we take a lot of our worship theology from the book of Revelation. This is one of the reasons we have incense. This is one of the reasons why we have an altar." (Revelation Class, Session 6, commentary on Revelation 8:3-5)
+
+As I understand it, his case for keeping incense and the altar rests on two things: (1) **heaven-earth participation**, the worship John sees in Revelation is the real, ongoing worship of heaven, which *has* incense, an altar, and white robes, and our worship reflects and joins it rather than projecting our own worship upward; and (2) **a distinction in fulfillment**, what the New Covenant abrogates is specifically the *bloody, animal sacrificial system*, while *non-sacrificial* ceremony (incense, altar, vestments) survives. If either of those is wrong, my questions fall apart, so corrections to the framing are welcome.
+
+---
+
+## My understanding
+
+I hold the classically Reformed (CR for short) position, to the extent that I understand it - I fully admit that I’m not a seminary scholar and I still have a long way to go in learning, but I’m pretty firmly settled in this view. The CR position is based largely on Cranmer's English Reformation and the Westminster Confession. On the points below I don't think I differ from Cranmer at all. I'd like to start by measuring all of this against the Thirty-Nine Articles more than against anything of my own, because the Articles are Rev. James's own standard too, so wherever we share the same understanding of them, we're on common ground. I'm very well settled in the classically reformed theological position, but I'm genuinely glad to hear it argued the other way.
+
+My understanding of "classically Reformed" on worship, is that the gathered worship of the church is governed by what God has positively given to us in Scripture (it would have to be either a command, an apostolic example, or what follows from those by good and necessary consequence), rather than by whatever Scripture happens not to forbid. 
+
+**On heaven-earth participation, I think we share the same understanding.** The Reformed tradition, from my initial research, agrees that our worship joins Heaven's. Hebrews 12:22 says believers "are come unto mount Sion... to the heavenly Jerusalem," and Calvin's whole view of the Lord's Supper rests on "lift up your hearts": by the Spirit the church is genuinely raised into the worship already going on above. So the premise Rev. James leads with is one I share. The one line I'd draw is that seeing heaven's furniture in a vision isn't the same as being told to build that furniture here. We share in the realities the vision shows us (praise, ascending prayer, Christ's intercession) without concluding that we must construct the sea of glass, seat 24 elders, or burn the incense.
+
+**On fulfillment, the line falls at shadow and substance.** I take the New Testament to draw the fulfillment line at type and fulfillment, shadow versus substance, rather than at blood. Colossians 2:17 calls the old observances "a shadow of the things to come, but the body is of Christ," and Hebrews 10:1 calls the law "a shadow of good things to come." On this reading the animal sacrifices stopped not because blood was involved, but because they were types whose substance has now arrived in Christ, and the same logic reaches anything in the tabernacle that worked as a type, incense and altar included. That's also why I keep a table rather than an altar: Hebrews puts the true altar, priest, and sacrifice in Christ's heavenly ministry, so "we have an altar" (Hebrews 13:10) points up to Christ, not across to a piece of furniture.
+
+**The 39 Articles also indicate this at key points:**
+
+- **Article 31** calls Christ's offering "that perfect redemption, propitiation, and satisfaction for all the sins of the whole world... and there is none other satisfaction for sin, but that alone," and calls the sacrifices of the Mass "blasphemous fables." That rules out any propitiatory altar-sacrifice in worship.  
+- **Article 28** denies transubstantiation and says the Supper is received "after a heavenly and spiritual manner" through faith, which is the "lift up your hearts" logic again, not a re-sacrifice on an altar.  
+- **Article 34** gives the church authority over ceremonies "ordained only by man's authority," meaning things indifferent, changeable "according to the diversity of countries, times, and men's manners." So a true ceremony of human ordering is adjustable and not required by God. Anything claimed as required by God would fall outside this and would need a positive command from Scripture.  
+- **Article 35** commends the Homilies, which include a long argument against bringing Old Testament and visionary imagery into worship as physical objects.
+
+The Articles are more open on ceremony than Westminster is, so there's real room here. But on the core, one finished sacrifice, no propitiatory altar, the Supper received heavenly-and-spiritually rather than re-offered, the Articles and the Reformed tradition stand together. That's the ground I'd want us both reasoning from, since it's a standard we both hold.
+
+**On the incense itself.** Revelation tells us what the incense means. Revelation 5:8 calls the golden bowls of incense "the prayers of the saints," and 8:3 has the incense rise "with the prayers of all saints." When Psalm 141:2 says "let my prayer be set forth before thee as incense" it establishes that prayer-typology before Christ ever comes. So I take the vision to give us the thing signified (prayer ascending, Christ's intercession) rather than a command to burn the sign. The new-covenant church offers the reality the incense always pointed to: prayer, praise, and thanksgiving, the "sacrifice of praise" of Hebrews 13:15. The Sanctus is the test case both sides accept: we sing "holy, holy, holy" with the angels, real participation in heaven's worship, without installing heaven's furniture to do it.
+
+---
+
+---
+
+## Anglican formularies and Reformers on Incense
+
+A fair question is whether the Reformed and Cranmerian tradition I'm appealing to really speaks against burning incense in worship, or whether I'm reading my own preference back into it. So here are the primary sources, quoted directly, with one honest caveat at the end about where the Anglican picture is genuinely contested.
+
+**The Homily Against Peril of Idolatry (commended in Article 35).** Article 35 says the Homilies contain "godly and wholesome doctrine," and this one treats incense as part of the apparatus of idolatry, not as licit ceremony. Listing the marks of image-worship that the Reformers wanted purged, it names burning incense explicitly:
+
+"Wherefore, when we see men and women on heaps to go on pilgrimage to images, kneel before them, hold up their hands before them, set up candles, burn incense before them, offer up gold and silver unto them... who can doubt, but that our image maintainers, agreeing in all idolatrous opinions, outward rites, and ceremonies with the Gentile idolaters, agree also with them in committing most abominable idolatry?"
+
+The Homily also sets out, in positive terms, what it thinks belongs in God's house, and the list is strikingly plain:
+
+"the Church or house of God, is a place appointed... where the lively word of God ought to be read, taught, and heard, the Lord's holy name called upon by public prayer, hearty thanks given to his Majesty... his holy Sacraments duly and reverently ministered."
+
+Word, prayer, thanksgiving, sacrament. No incense, no altar of offering. That is the Cranmerian vision of the church's furniture, stated by the formularies RJ holds.
+
+**Cranmer's own prayer books.** Cranmer's reforming direction ran steadily away from this kind of ceremony. His first book (1549) was transitional, but he and his fellow reformers judged it had not gone far enough, and his second book (1552) was revised to be explicitly Reformed, replacing stone altars with wooden tables and stripping the sensory-ceremonial layer of the medieval Mass, incense included. Incense belonged to the old Sarum Use that Cranmer's books were displacing; none of his books prescribe it. So when I say I don't think I differ from Cranmer here, this is why: incense in the parish service has no place in the worship he actually authorized.
+
+**Calvin, on why the ceremonies ended.** Calvin grounds the whole thing exactly where my second question does, at shadow and substance, and he ties it to the same Colossians 2:17 text:
+
+"Paul, in order to prove that the observance of them was not only superfluous, but pernicious also, says that they 'are a shadow of things to come; but the body is of Christ' (Col. 2:17)... the truth is made clearer by their abolition than if Christ, who has been openly manifested, were still figured by them as at a distance, and as under a veil."
+
+And on the simplicity of new-covenant worship:
+
+"while under Moses the spiritual worship of God was shadowed, and, as it were, entangled by many ceremonies, these have been abolished, and worship is now more simple."
+
+Calvin's point is not that the old ceremonies were bad, but that reviving them now obscures the Christ who has come. That is the same concern Rev. James himself voices in the Christ-in-the-Old-Testament material, which is part of why I find the incense practice puzzling on his own terms.
+
+**Where I'll be honest about the limits.** Two things, so I'm not overclaiming:
+
+First, the Articles do not mention incense by name. The case from the formularies is the Homily above, plus the trajectory of Cranmer's prayer books, plus the logic of Article 31 (one finished sacrifice, no propitiatory altar). It's a strong cumulative case, but it's an inference to incense, not a single verse that bans it.
+
+And the Homily's target is specifically incense burned *before images*, in veneration. Rev. James does not cense images; he censes toward God in the heaven-participation logic. So the Homily lands squarely on the broader image-and-furniture question and on the Reformers' instinct against importing Old Covenant sensory ceremony, but it is not a direct hit on his specific practice. I'd rather say that plainly than stretch the quote past what it says.
+
+Second, there is a real Anglican defense of incense, and it isn't fringe. It runs through the normative principle (whatever Scripture does not forbid is permitted) and uses the very heaven-and-temple argument Rev. James uses, that Revelation shows incense and an altar in heaven's worship, so they remain fitting on earth. That stream is genuinely Anglican. It is the stream of the later Caroline divines and the 19th-century ritualists, not of Cranmer, and it depends on the normative principle rather than the regulative one. So the honest shape of the disagreement is this: Rev. James stands in a real Anglican tradition, but it is the *later* and *normative-principle* tradition, while the claim that his view is the more consistent regulative principle is the part I can't make fit, because Cranmer, the Homilies, and Calvin all run the other way.
+
+That's the whole of the historical case, laid out so anyone can check it. It doesn't settle the argument by itself. It just shows that when I appeal to the Cranmerian and Reformed ground, I'm appealing to something real and specific, not to a preference dressed up as a tradition.
+
+##
+
+---
+
+## The classically Reformed case against incense, from the ground up
+
+This is the non-Anglican version of the argument, the one that doesn't lean on Cranmer or the Articles at all, but on the older Reformed conviction about how God may be worshiped. I'm laying it out from the beginning because a common and fair reaction is, "the regulative principle can't be real, because you Reformed folks still make a hundred human judgment calls every Sunday, what time to start, what translation, how many songs, so why is incense the line?" That objection deserves a straight answer, and answering it is most of the work.
+
+### First, the rule itself
+
+The classically Reformed position on worship is summed up in one sentence from the Westminster Confession (21.1):
+
+"the acceptable way of worshipping the true God is instituted by himself, and so limited by his own revealed will, that he may not be worshipped according to the imaginations and devices of men, or the suggestions of Satan, under any visible representation, or any other way not prescribed in the Holy Scripture."
+
+Deut. 12:30-32 (ESV) sets the RPW very plainly, and this principle was never abrogated:
+
+“take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, **‘How did these nations serve their gods?—that I also may do the same.’** **You shall not worship the Lord your God in that way,** for every abominable thing that the Lord hates they have done for their gods, for they even burn their sons and their daughters in the fire to their gods. “**Everything that I command you, you shall be careful to do. You shall not add to it or take from it.**”
+
+The plain idea: God gets to say how he is worshiped. We don't get to invent new ways to approach him and assume he'll be pleased, however sincere or beautiful they are. This is sometimes called the regulative principle, and it's older than the Anglican-vs-Reformed argument. Calvin put it bluntly: God disapproves of any mode of worship his Word has not sanctioned.
+
+### The objection, taken seriously
+
+Now the hard part, the thing that makes people think the rule is incoherent. If worship is "only what God prescribes," how does a Reformed church justify a start time, a building with a roof, pews, a sound system, a pitch for the opening note, the decision to sing four songs instead of three? None of those is "prescribed in the Holy Scripture." If the rule really forbade everything God didn't command, you couldn't hold a service at all. So either the Reformed are massively inconsistent, or the rule is secretly just "do whatever isn't forbidden," which is the normative principle they claim to reject.
+
+That's a genuinely good objection, and the answer is a single distinction that the whole position rests on. Miss it and the position looks ridiculous. Get it and it holds together.
+
+### The distinction that resolves it: elements vs. circumstances
+
+The Reformed don't say "every detail of worship must be commanded." They say the *parts* of worship, the actual acts by which we draw near to God, must be commanded. Those parts are called **elements**. The surrounding practical arrangements that *any* human gathering would need are called **circumstances**, and those are left to sanctified common sense.
+
+An **element** is a distinct act of worship, a way of approaching God: reading Scripture, preaching it, praying, singing praise, the Lord's Supper, baptism, giving. These need a warrant from Scripture, because these are the actual channels through which we come before God, and God reserves the right to name them.
+
+A **circumstance**, in the precise sense, is not an act of worship and is not an object added to the room. It is a *modal condition* of a commanded act: the when, where, how long, how loud, in what order, in what posture, in what language that act is carried out. The Confession calls these "common to human actions and societies" and assigns them to "the light of nature and Christian prudence." They are unavoidable, not because the building needs them, but because the act itself cannot be performed without them being settled one way or another. Praise has to be sung at *some* volume; prayer offered in *some* posture; the service begun at *some* time. Scripture leaves these open because choosing among them adds no new way of approaching God. It only carries out, in some necessary manner, an act God already appointed. That is what makes the necessity real: a genuine circumstance is forced on us by the act, so we are deciding not *whether* to have a volume, only *which*.
+
+This is also why something like a flower arrangement does not fit here, and noticing that sharpens the categories rather than breaking them. Flowers are not a modal condition of any commanded act; the service proceeds with or without them. They fall instead into a third lawful category that is easy to miss: the adornment of the meeting place, an indifferent thing the church may use or omit by Christian liberty, governed not by a warrant but by the general rules of edification, decency, and order. You may set out flowers freely, then, not because "every meeting needs them" (it does not), but because they are lawful adornment that is no act of worship at all.
+
+So there are really three buckets, not two:
+
+- **Elements**: the acts by which we draw near to God. These need warrant.
+- **Circumstances**: the unavoidable when, where, and how of those acts. Necessary by nature, ordered by prudence.
+- **Adornment and things indifferent**: optional features of the place, a flower arrangement, the paint, pew cushions, a wall clock. Neither acts of worship nor conditions of worship; lawful by Christian liberty under the general rules.
+
+The line that matters runs between the first bucket and the other two. Buckets two and three never need a proof text, because nothing in them is an act of worship offered to God. The first bucket always does.
+
+### Now apply it to incense
+
+Here's the question that decides everything: **is burning incense an element, or does it belong to one of the two lawful non-element buckets?**
+
+It is not a circumstance, because it is not a modal condition of any commanded act. Nothing we are told to do (read, preach, pray, sing, commune) requires incense in order to be done at all; the service is whole without it. And it is not mere adornment either, and here the people who use it settle the matter for us. They do not defend it as something that simply makes the room pleasant, the way flowers do. They defend it as a Godward offering, the pure offering of Malachi, the smoke that ascends with prayer, and as a sacred sign that signifies the prayers of the saints (Revelation 5:8), sanctifies the space, and joins the worship of heaven. Two marks disqualify a thing from the adornment bucket: being offered to God as worship, and bearing an imposed sacred signification. Incense, by the testimony of its own defenders, carries both. A thing offered Godward and freighted with sacred meaning is precisely what we mean by an act of worship.
+
+So incense lands in the first bucket. It is an added act of worship. And once it is there, the rule applies: an element needs a positive warrant from God for the new-covenant church, a command, an apostolic example, or something that follows necessarily from Scripture. And that warrant is exactly what's missing. There is no command to burn incense in Christian worship, no example of the apostolic church doing it, and the one place it appears, the heavenly vision of Revelation, the text interprets the incense *as* "the prayers of the saints" rather than telling the church to burn the substance.
+
+So the Reformed conclusion isn't "incense is forbidden because it's not explicitly banned." It's tighter than that: incense is an *added element of worship*, elements require God's warrant, and for the church after Christ no such warrant exists. It falls under exactly what the Confession means by worship offered "according to the imaginations and devices of men," however devout the intention.
+
+### Why this isn't pedantry
+
+The reason the Reformed hold the line here, and not out of a hatred of beauty, is the conviction underneath WCF 21.1: that *who* decides how God is approached is itself a question of God's lordship. If the church may add new acts of approach whenever they seem fitting or edifying, then in practice the church, not God, is setting the terms of access to God. The Reformed read the Old Testament as full of warnings on exactly this point, people offering worship that was sincere, beautiful, and unauthorized, and being refused. Nadab and Abihu offered "strange fire" no one had commanded. Uzzah steadied the ark with the best of intentions. The issue in those accounts is never sincerity; it's authorization. So the smallness of the thing is part of the point: if God cares who sets the terms even in small things, the principle holds across the board.
+
+### The one-paragraph version
+
+The regulative principle isn't "nothing uncommanded may happen in a service," which would be self-defeating. It's "the *acts of worship themselves* must be the ones God appointed, while the practical arrangements any meeting needs are left to wisdom." Incense isn't a practical arrangement; it's an added act of worship, an offering meant to do something Godward. Added acts of worship need God's warrant, and for the Christian church there is none for incense, not in command, not in apostolic practice, and not even in the heavenly vision, which names the incense as the prayers of the saints rather than prescribing the substance. That's the whole case, and it stands without appealing to a single Anglican document.
+
+---
+
+## The Lutheran position, as a labeled contrast case
+
+It is worth setting the Lutheran view alongside the Reformed and Anglican ones, because it is often summarized too quickly as "Lutherans allow whatever is not forbidden." That is true for ceremonies but misleading if you stop there, and the nuance is useful.
+
+**Where Lutherans share the regulating instinct.** At the level of doctrine and the means of grace, Lutheran worship theology is strict and Word-bound. Worship is first *Gottesdienst*, God's service to us, God coming to bestow forgiveness through Word and Sacrament, with our praise and prayer as the answering response. Because of that, the Augsburg Confession reforms worship by a hard doctrinal criterion: anything that obscures the gospel, binds conscience as necessary for salvation, or turns worship into a human work earning merit is to be purged. That is the burden of Augsburg Confession XXIV (Of the Mass) and the long Apology Article XXIV: they retain the historic Mass with its ceremonies and reverence, but they cut out the propitiatory sacrifice, the notion that the Mass is an offering that merits grace. So they did regulate, and they regulated by Scripture. The shared premise is real (worship governed by the Word and centered on the means God appointed), and so is the shared edge against works-merit and conscience-binding. What Lutherans do not share is the Reformed *conclusion about ceremonies*: they never adopt "an act of worship not commanded is therefore excluded."
+
+**Where they are not regulative: adiaphora.** For rites and ceremonies (as distinct from doctrine), the Lutheran governor is adiaphora, things neither commanded nor forbidden by God. The relevant texts are Augsburg XV, the Apology XV, and most fully the Formula of Concord, Article X (Of Church Rites). The rule runs roughly: such rites are free; the church may retain or drop them for good order, reverence, and edification; but they must never be taught as necessary for salvation, must not obscure the gospel, must leave consciences free, and (the famous Formula X clause) in a moment when confession of the truth is at stake under pressure, even an indifferent thing stops being indifferent and must not be conceded. For ceremonies, this is functionally the normative principle (permitted unless forbidden or harmful), but it is a gospel-fenced normative principle, not a bare one. That is why Augsburg sits on the other side of the line from Westminster while being nothing like "anything goes."
+
+**Why Lutherans tolerate incense.** They do, and it is the textbook adiaphoron: neither commanded nor forbidden, so a ceremony the church is free to keep or omit. The Lutheran Reformation was retentive of ceremonial in a way the Reformed were not; Luther kept vestments, candles, chanting, and much of the Mass's outward shape, removing only what taught false doctrine, so incense survived in many places. Practice varies widely: the American German confessional bodies (LCMS, WELS) tend not to use it, more from inherited low-church sensibility than from principle, while "evangelical catholic" high-church Lutherans and the Nordic churches (the Church of Sweden especially) have kept a rich ceremonial that can include it. The variation is the point: because it is adiaphora, the answer is local and prudential, not doctrinal. The condition a confessional Lutheran *will* insist on is that incense be ceremonial reverence and not a propitiatory offering, not made necessary, not conscience-binding.
+
+**Why this matters for the question with Rev. James.** Two things. First, the Lutheran toleration of incense depends entirely on classifying it as adiaphora, a ceremony, not an act of worship requiring warrant. That is exactly the classification in dispute. The Lutheran "it is fine, it is indifferent" only holds if incense is in fact indifferent, which is the question, not the answer. Second, and more useful, the Apology gives a distinction worth borrowing: it splits sacrifice into the *propitiatory* (Christ's alone, once for all) and the *eucharistic* or thank-offering kind (prayer, praise, thanksgiving). A Lutheran defends incense only as a sign of the latter and rejects any propitiatory or oblationary construal, which is the very thing cut from the Mass in Augsburg XXIV. So a confessional Lutheran and a Reformed Presbyterian, for parallel reasons, both flinch at the *sacrificial* construal of incense even where the Lutheran permits the *ceremonial* one. That convergence isolates the real pressure point: not the smoke in the room, but the offering language.
+
+---
+
+## The scriptural foundation for the regulative principle
+
+The classically Reformed case does not rest on the Westminster Confession as a starting point; the Confession is summarizing a pattern it found in Scripture. Here is that pattern, grouped by the kind of force each text carries. Throughout, the principle being established is simple: God determines how he is to be worshiped, and worship offered by human invention, however sincere, is not on that account acceptable.
+
+**The formal "add nothing, take nothing" statements.** Deuteronomy 12:32 is the summary of a sustained worship chapter ("Everything that I command you, you shall be careful to do. You shall not add to it or take from it"), and it is framed by the warning not to ask "how did these nations serve their gods, that I also may do the same" (12:30-31), so the add-and-take formula lands specifically on the manner of worship, not on law-keeping in general. Deuteronomy 12:13-14 says the same thing in positive form (sacrifice only at the place God chooses, not wherever seems good). Deuteronomy 4:2 is the twin of 12:32 and stands at the head of the whole covenant exposition. Proverbs 30:6 and Revelation 22:18-19 echo the add-and-take warning, though both are best treated as corroborating rather than load-bearing, since neither is set specifically in a worship context.
+
+**"Which I did not command."** The most striking thread runs from Deuteronomy 12:31 (which grounds the prohibition in the worst false worship, child sacrifice, "they even burn their sons and their daughters") into Jeremiah. In Jeremiah 7:31, 19:5, and 32:35, God condemns that very practice with a recurring formula: it is something "which I did not command, nor did it come into my mind." The disqualifier God names is not that he forbade it, though he did, but that he never commanded it. That is the regulative principle stated from God's own mouth, and it answers the predictable objection ("absence of a command does not make a thing wrong") directly: in the case God treats as the paradigm of false worship, the absence of a command is exactly what makes it wrong.
+
+**The judgment narratives: sincere, zealous, unauthorized, refused.** These turn on authorization rather than sincerity, which is the heart of the matter. Leviticus 10:1-3 is the paradigm: Nadab and Abihu offer "unauthorized fire, which he had not commanded them," and the verdict is "Among those who are near me I will be sanctified." The logic is not "he forbade this fire" but "he had not commanded it." First Kings 12:32-33 indicts Jeroboam for a feast "in the month that he had devised from his own heart," the indictment being the *source*. First Samuel 13:8-14 (Saul's unlawful sacrifice) and Second Samuel 6:6-7 (Uzzah and the ark) show that good motive does not cure unauthorized manner; the Uzzah episode has a valuable sequel in First Chronicles 15:13, where David diagnoses the disaster precisely ("we did not seek him according to the rule") and then does it the prescribed way.
+
+**The incense-specific cases.** Three judgment narratives involve incense directly, and they connect to the priesthood point (Hebrews 7:12). In Numbers 16 (Korah), the 250 men offer incense and are consumed, and their censers are hammered into a covering for the altar as a perpetual reminder that "no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the Lord" (16:40). Second Chronicles 26:16-21 (Uzziah) is the sharpest: a king, not a wicked one, enters the temple to burn incense and is met by the priests ("It is not for you, Uzziah, to burn incense to the Lord, but for the priests the sons of Aaron, who are consecrated to burn incense") and is struck with leprosy mid-act. With Leviticus 10, these mean the heaviest Old Testament incense acts are all stories of judgment on *unauthorized* incense, which is an uncomfortable backdrop for treating incense as freely transferable into new-covenant worship.
+
+**The New Testament statements.** In Matthew 15:9 (and Mark 7:7), Jesus, quoting Isaiah 29:13, condemns worship rendered futile because it consists of "teaching as doctrines the commandments of men," and the target in Mark 7 is specifically a ceremonial tradition not commanded by God. Colossians 2:20-23 dismisses regulations of "self-made religion" with "an appearance of wisdom"; the older translations render the key word (*ethelothreskia*) as "will-worship," worship originating in the human will, which is nearly a one-word name for what the principle excludes. (In fairness, the Colossians context is ascetic rules, so a careful reader will note the passage is not only about worship-mode; the will-worship rendering is still fair and pointed.)
+
+**The positive form: worship to a pattern.** The principle is not only a set of prohibitions. Exodus 25:40, "see that you make them after the pattern shown you on the mountain," is quoted in Hebrews 8:5 precisely to establish that God's worship follows God's pattern, not human improvement. That reframes the question from "what may we add?" to "are we building to the pattern given?", which is firmer ground than pure negation.
+
+**Soft spots held honestly.** A few texts often pressed into service are weaker than they look. Cain and Abel (Genesis 4) does not plainly say Abel's offering was *commanded*; Hebrews 11:4 attributes the difference to faith, so it is better not leaned on. Revelation 22:18-19 concerns the integrity of that book's prophecy, so using it as a worship proof is a slight overreach. The second commandment (Exodus 20:4-6) is a genuine regulative text on the *mode* of worship, but it functions best against image-worship specifically rather than as a general add-and-take rule, so it is best paired with the explicit add-and-take verses rather than carrying the whole principle. The tightest core to build on: Deuteronomy 12:32 and 4:2 (the rule), Leviticus 10:1-3 and First Kings 12:33 (the case law), the Jeremiah "I did not command" verses (God's own logic), Matthew 15:9 with Colossians 2:23 (the New Testament seal), and for this topic specifically the incense trio of Leviticus 10, Numbers 16, and Second Chronicles 26.
+
+---
+
+## On Malachi 1:11, the one verse that carries the most weight
+
+Because the regulative principle is common ground (Rev. James affirms it, and I hold it), the case for incense, if it is to be made on regulative grounds at all, has to locate a positive command, and Malachi 1:11 is the verse most often reached for. It is worth setting out how the verse is usually read, so the question about it is fair and informed rather than a trap.
+
+The text ("in every place incense is offered to my name, and a pure offering") is read by most Reformed commentators, and many others, as *prophetic and figurative*: a description of the worldwide spiritual worship of the gospel age, not legislation for a liturgical practice. Three observations support that reading. First, it is prophecy, a future-tense description of what *will* be, not an imperative commanding the church to do anything; a description of universal worship is not a command to burn a substance. Second, the "pure offering" (*minchah*) and incense language is the natural prophetic idiom for prayer and praise ascending, which is exactly how Revelation 5:8 interprets the image ("incense, which are the prayers of the saints"), the antitype naming itself. Third, "in every place" is doing anti-Levitical work: the point is that worship is no longer confined to the temple in Jerusalem, which cuts against importing temple ceremonial rather than for it; if Malachi were instituting literal incense everywhere, he would be universalizing the very Levitical apparatus the rest of the canon treats as fulfilled.
+
+One honest caveat: some early fathers read Malachi 1:11 eucharistically, taking the offering to be the Eucharist. That reading is real, but it points toward the Eucharist as offering, not toward incense specifically, so it does not by itself deliver a command to burn incense; at most it relocates the discussion to the question of Eucharistic sacrifice (which touches Article 31), a separate topic.
+
+---
+
+## My questions for Rev. James (friendly form, relay-ready)
+
+These come from someone who count Rev. James a brother in Christ. Though we differ in significant ways on theology and practice, but we're on the same team, and that's the spirit throughout. I'm settled on the ground above, and I'm glad to hear it pressed. These are the places where I can't yet reconcile that ground with the practice, and I'd genuinely like to understand the reasoning.
+
+**0. Is Mal. 1:11 a command to burn incense and therefore mandatory, or how does it fit within RPW?** You stated that you follow the RPW and that you rightly understand it. Do you see Mal 1:11 as a command to burn incense in new covenant worship? If so, do you view it as a mandatory part of the church service? If not, why not? And if you don’t see Mal 1:11 as a command, then how do you justify it under the RPW?
+
+**1. Why the line at blood rather than shadow?**
+
+You seem to be drawing the fulfillment line at *bloody vs. non-sacrificial*. But Colossians 2:17 and Hebrews 10:1 both speak of the law as a "shadow," which sounds to me like the line is *shadow vs. substance*, type vs. fulfillment, rather than the presence of blood. If that's the real axis, the live question becomes "was incense a type whose substance has come?" rather than "was incense bloody?" Why is the dividing line blood rather than shadow-and-substance?
+
+**2. What does Revelation say the incense *is*?**
+
+In the same vision, the text seems to interpret its own symbol. Revelation 5:8 says the golden bowls of incense "are the prayers of the saints," and 8:3–4 has the incense ascend "with the prayers of all saints," and Psalm 141:2 runs the same way. If the vision hands us the *meaning* of the incense (ascending prayer, Christ's intercession), what leads you to reproduce the physical symbol rather than offer the thing it signifies?
+
+*The next two only matter if the bloody / non-sacrificial line is in fact the hinge, so they're phrased as "if that's the line, then how does this fit?"*
+
+**3. If the line is bloody vs. non-sacrificial, how do you read the Day of Atonement incense?**
+
+The weightiest incense in the Torah is the high priest's censer carried inside the veil on Yom Kippur (Leviticus 16:12–13), set right inside the atonement ritual Hebrews 9 says Christ fulfilled. That one seems hard to file under "non-sacrificial." How do you place it?
+
+**4. If incense survives because it's non-sacrificial, how does it survive the change in priesthood?**
+
+Incense was priest-only, on pain of death (Nadab and Abihu, Korah, Uzziah). Hebrews 7:12 says "the priesthood being changed, there is made... a change also of the law." If the priesthood that alone could lawfully offer incense is transformed in Christ, what footing does the incense stand on afterward?
+
+**5. What's the principle for what transfers from the vision?**
+
+You read the white robes in the same vision as a symbol (Revelation 19:8 says "the fine linen is the righteousness of saints"), so you don't reproduce literal robes as the point. The vision also has a sea of glass, harps, seven lampstands, and a Lamb with seven horns, which we don't build either. What's the principle that brings incense and the altar down into the room as physical objects, but leaves the sea of glass and the harps in the vision?
+
+---
+
+A couple of related threads, a question about Malachi's "pure offering" and one about Article 34 and church authority over ceremonies, are probably easier to talk through in person than in writing, so I've left them off this list for now.
+
+**Where this lands.** None of this requires Rev. James to be acting in bad faith, or even to be inconsistent by his own lights. His position has a real internal logic, and his lead premise, that our worship joins heaven's, is one I actually share. The disagreement is genuine and it's narrow. It comes down to whether the fulfillment line runs at blood or at shadow-and-substance, and whether seeing heaven's furniture means reproducing it. If, once we understand each other better, we still land in different places, incense or no incense, altar or table, we can hold that difference the way brothers in one Lord should: honestly, charitably, and without pretending the gap is bigger or smaller than it really is.
+
+---
+
+## A reading list on the regulative principle and the element/circumstance distinction
+
+Grouped by where each source sits. The crisp element-versus-circumstance vocabulary, and the criteria for what makes a lawful circumstance versus a "significant ceremony," crystallizes in the Westminster and Puritan writers; Calvin has the substance but not yet that exact terminology; the confessions give the settled summary.
+
+**Confessional statements.** Westminster Confession 21.1 (the rule) and 1.6 (the circumstances clause, "common to human actions and societies, ordered by the light of nature and Christian prudence"), with 20.2 on liberty of conscience. Heidelberg Catechism, Lord's Day 35 (Q&A 96-98), a clean continental witness. Belgic Confession, Articles 7 and 32 (Article 32 rejecting "human inventions" introduced into worship). On the *other* side of the line, and useful as labeled contrast: Augsburg Confession XV, Apology XXIV (the propitiatory-versus-eucharistic sacrifice distinction), and Formula of Concord X (the mature adiaphora rule); and the Thirty-Nine Articles 20 and 34 (the church's authority over rites "not contrary to God's Word"), which is the normative-leaning grant that the later Anglican defense of incense stands on.
+
+**Calvin.** Institutes Book IV, chapter 10, especially the closing stretch (roughly IV.10.27-32) on 1 Corinthians 14:40, where the general principle of decency and order is laid down by Scripture and particular forms are arranged under it; this is the seed of the modal-circumstance idea. Supporting: Institutes I.11-12 on images, and II.8 on the second commandment. Outside the Institutes, the treatise "The Necessity of Reforming the Church" (1543), Calvin's most concentrated statement on why the manner of worship is God's to set.
+
+**The treatments at length.** George Gillespie, "A Dispute Against the English Popish Ceremonies" (1637), the single best primary source for the lawful-circumstance criteria and the category of the unlawful "significant ceremony" (the ancestor of the "imposed sacred signification" disqualifier); the relevant machinery is in Part 3. William Ames, "A Fresh Suit Against Human Ceremonies" (1633), with the worship sections of "The Marrow of Theology." John Owen, "A Discourse Concerning Liturgies" and "A Brief Instruction in the Worship of God" (Goold edition, vol. 15), the most theologically heavyweight, drawing the parts-of-worship versus circumstances distinction explicitly; and his exposition of Hebrews 8-10, which argues the new-covenant priest, sacrifice, tabernacle, and altar are all heavenly (Christ's), the exact answer to "heaven has an altar, so we have one." Jeremiah Burroughs, "Gospel Worship" (1648), the accessible, pastoral classic on the Nadab-and-Abihu theme.
+
+**Modern entry points.** "Give Praise to God: A Vision for Reforming Worship" (2003), ed. Ryken, Thomas, and Duncan, the best modern single volume; Ligon Duncan's essays state elements, circumstances, and forms in current language. G. I. Williamson, "The Westminster Confession of Faith for Study Classes," a plain exposition of 1.6 and 21.1. Brian Schwertley, "Sola Scriptura and the Regulative Principle of Worship," a thorough strict-Presbyterian treatment available online.
+
+**The serious internal correctives (worth reading to stress-test the position).** John Frame, "Worship in Spirit and Truth" (1996), the major revisionist, arguing the elements/circumstances line is blurrier than the tradition admits; the most intelligent version of the broad-category instinct, and so the best to argue against. T. David Gordon's Westminster Theological Journal response to Frame defends the traditional distinction (confirm the exact volume and pages before citing formally). R. J. Gore, "Covenantal Worship: Reconsidering the Puritan Regulative Principle" (2002), arguing the strict Puritan form over-tightened what Calvin held more moderately; it marks precisely where the moderate and strict readings diverge.
+
+**Anglican sources (for understanding Rev. James's own ground).** Richard Hooker, "Of the Laws of Ecclesiastical Polity," especially Books IV and V, the foundational Anglican answer to the Puritans and the most intelligent statement of the retained-ceremony instinct (it belongs on the normative-principle list too). W. H. Griffith Thomas, "The Principles of Theology" (the evangelical-Anglican reading of the Articles) and E. J. Bicknell, "A Theological Introduction to the Thirty-Nine Articles" (the higher-church reading); reading the two side by side on Articles 20, 31, and 34 shows the internal Anglican spread. Cranmer's Homilies, especially the Homily Against the Peril of Idolatry. Dom Gregory Dix, "The Shape of the Liturgy" (1945), Anglo-Catholic liturgical scholarship, read critically (much of its early-church reconstruction is contested), but it is the engine behind a great deal of the eucharistic-offering language.
+
+---
+
+## Where this lands
+
+None of this requires Rev. James to be acting in bad faith, or even to be inconsistent by his own lights. His position has a real internal logic, and his lead premise, that our worship joins heaven's, is one I actually share. The disagreement is genuine and it is narrow. It comes down to whether the fulfillment line runs at blood or at shadow-and-substance, whether seeing heaven's furniture means reproducing it, and whether incense, as it is actually defended, is a free ceremony or an act of worship that would need a warrant. If, once we understand each other better, we still land in different places, incense or no incense, altar or table, we can hold that difference the way brothers in one Lord should: honestly, charitably, and without pretending the gap is bigger or smaller than it really is.
+
+---
+
+## Changelog
+
+- **260618-1 (2026-06-18):** Created by consolidating three prior incense documents (the friendly-questions doc, the Anglican-and-CR-cases doc, and this thread's harvest) into one topic-complete reference. Applied the three-bucket element/circumstance/adornment fix to the CR-case section (correcting the earlier "every gathering needs" definition). Added the Lutheran contrast section (Augsburg XV, Apology XXIV, Formula X), the scriptural-foundation section (Deuteronomy 12 and 4:2, the Jeremiah "which I did not command" thread, the Leviticus 10 / Numbers 16 / Second Chronicles 26 incense trio, the New Testament seal), the Malachi 1:11 section, and the reading list. This document is now the canonical home for the friendly relay questions; the master question list keeps the analytical forms and cross-references these. New prose written without em-dashes per standing preference; em-dashes remaining are inside verbatim Scripture quotations (e.g. the ESV of Deuteronomy 12:30), where altering the text would be worse than keeping it.
