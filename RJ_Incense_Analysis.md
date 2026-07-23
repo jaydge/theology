@@ -1,165 +1,313 @@
 # RJ Incense Analysis
-
+ 
 > **INTERNAL STRATEGY — DO NOT SHARE.** This file contains the leverage analysis and conversational sequencing for the incense cluster (which move to lead with, where the "fork with no comfortable exit" sits, how to make RJ reach for an unstated principle). It is written backstage. The friendship-preserving posture of the project depends on this never being relayed to Rev. James or forwarded through the Discord intermediary. The shareable material lives in `On_Incense_and_the_Altar.md`.
-
-**Last updated: 260621-1** (date-stamped, format yymmdd-iteration)
-
+ 
+**Last updated: 260715-1** (date-stamped, format yymmdd-iteration)
+ 
 *Deep-dive reference — Incense cluster. Standalone resource for the in-person conversation with Rev. James Gadomski (RJ), rector of St. Francis Anglican Church (EMC), Spartanburg SC. Cross-referenced from the questions doc (Q-Inc-*) and the compendium. Findings drawn on: IP-1 (Malachi, session prior), IP-2–IP-5 (session 2026-06-14), OQ8; RC-3 (2025 Mass-teaching); the BP "Responding to Matthew Everhard on the Regulative Principle" video (current-voice); the 2025 Revelation class (Rev-9/10/11); EXT-1 (Ritualist/pontifical-vesture history); GV-30 (first-person practice sourcing).*
-
+ 
 ---
-
+ 
 ## 1. Core tension(s)
-
+ 
 **The single question on which the whole cluster turns:** is liturgical incense a fulfilled *type* whose substance has come, or a retained *non-sacrificial ceremony* that survives the New Covenant intact?
-
+ 
 RJ now answers with a two-pronged warrant:
-
+ 
 1. **Heaven-earth participation (his current lead).** The Revelation worship is "perfect worship," a heavenly vision that "has incense... an altar... white robes." Worship is "a union of heaven and earth"; to call imitation of heaven's own pattern sin is "wild." This is realized-eschatology reasoning: the church's worship reflects and participates in the worship already going on above. The 2025 Revelation class moves this warrant from IP-paraphrase to flat, repeated, first-person statement: on Rev 8:3–5, *"not only is incense being used, but an altar as well. Again, we take a lot of our worship theology from the book of Revelation. This is one of the reasons we have incense. This is one of the reasons why we have an altar"*; on Rev 5:8, *"which is why we use incense at church"*; and the governing principle, on Rev 5, *"this isn't reflecting our worship. Our worship is reflecting their worship."* **[Stated, Rev-9, Rev-10, Rev-11]**  
      
 2. **Selective fulfillment (his decisive defensive move).** What the NT abrogates is *specifically the bloody/animal sacrificial system*, because it pointed to Christ's one sacrifice. *Non-sacrificial* ceremonial — he bundles incense + altar + vestments — survives. "Only insofar as it is rejecting Christ's one sacrifice would it be bad."
-
 Malachi 1:11 is now demoted to a prong inside (1)/(2) rather than the load-bearing piece it was at IP-1 — but read this as **register-dependent foregrounding, not a one-way historical demotion.** He was "not so insistent" on Malachi when first ordained (~2020), called it "the final nail in the coffin" by 2025 (RC3-10), and reweights to the heaven-earth lead by 2026 (IP-3); yet in polemical register (the BP/Everhard video) Malachi resurfaces as the lead, explicit, *imperatival* warrant — *"This is not about the Old Testament. This is about the New Testament church… incense is a standard part of the worship of the people of God in the New Testament church, according to Malachi 1.11"* (BP-39). Both prongs are live; which one leads varies by context (teaching vs. polemical), so do not rely on a settled "Malachi demoted" hierarchy. **[Stated, RC3-10, BP-39]**
-
+ 
 **Why this is the real fight:** prong (2) is RJ pre-empting the strongest internal lever against him — his own Hebrews / Covenant-of-the-Tongue fulfillment hermeneutic, which forbids reviving fulfilled OT ceremonial. He has built a firewall: draw the fulfillment line around *bloody sacrifice only*, and the sanctuary furniture stays on the licit side. The conversation is won or lost on whether that firewall holds. It does not — but it must be dismantled at the level of the distinction itself, not by re-asserting the old lever.
-
+ 
 ---
-
+ 
 ## 2. Internal contradictions (the internal-Anglican pressure — highest-value leverage)
-
+ 
 These are the points where RJ is in tension with *his own* commitments, not merely with the Reformed tradition. Weight these above cross-tradition disagreement.
-
+ 
 **2.1 The wrong axis.** RJ's partition runs on *bloody vs. non-sacrificial*. That is not the axis Scripture uses. Colossians 2:16–17 ("a shadow of things to come; but the body is of Christ") and Hebrews 10:1 ("a shadow of good things to come") draw the line at *shadow vs. substance / type vs. fulfillment*. Animal sacrifice is abrogated not because it was bloody but because it was a type fulfilled in Christ. So the only real question is whether incense was a type whose antitype has come — and on that question his own favorite book answers against him (see §4).
-
+ 
 **2.2 The RPW-in-clothing inconsistency (IP-4).** RJ claims his position *is* the regulative principle "rightly understood" and rejects the normative-principle label ("too loosey-goosey"). But his operative rule is "keep what the Church has received unless Scripture positively excludes it" — the normative principle. His own tell: "something that is expected of God... is not something that God doesn't want us to do" is not-forbidden-therefore-permitted reasoning, which genuine RPW (WCF 21.1, requiring positive institution for the gathered NT church) explicitly excludes. He is claiming the *name* RPW while operating the *rule* of the normative principle, and using it to license exactly the ceremonial classic Puritan RPW was built to exclude. His own latent instinct cuts the other way, which is what makes this a tension rather than a flat disagreement: he says "we don't try to improve upon the blueprints" (GV-35) — a regulative posture *in principle*, sitting against a practice that runs normative. Worth a gentle probe: does "don't improve the blueprint" extend to liturgy, and *whose* blueprint — Christ's institution plus apostolic practice, or the received ceremonial tradition? **[Stated-Analysis, GV-35]**
-
+ 
 **2.3 The Article 34 fork (the sharpest formulary lever).** RJ treats incense as expected of God, required every Sunday, and will defend it (IP-5). Article 34 gives the Church authority only over ceremonies "ordained only by man's authority" — changeable, "to edifying," adiaphora. This forces a fork with no comfortable exit:
-
+ 
 - If incense is an Article 34 ceremony → it is of *man's* authority, changeable → then it is **not** "expected of God," and he has overclaimed.  
 - If incense is *divinely* required (to keep "expected of God") → it falls **outside** Article 34's scope → and a divinely-required ceremony for the NT church needs **positive Scripture institution**, which a vision and a prophecy do not supply.
-
 The verbatim pivot is **"ordained only by man's authority."** That phrase is what makes the two horns mutually exclusive.
-
+ 
 *Supporting history (EXT-1, vesture-focused but bears on the ceremonial-authority thread).* Article 34's third clause locates ceremonial authority in the *national Church's* corporate power to ordain, change, and **abolish** ceremonies — and that abolition power was actually exercised against exactly this kind of furniture: the 1552 rubric reduced clergy to the surplice alone, and full pontifical vesture was absent for roughly three centuries until the 19th-c. Ritualist movement reintroduced it from the 1850s. **Use the corrected mechanism, not the overstated one:** the episcopate was *divided*, not unified in opposition; civil enforcement via the Public Worship Regulation Act 1874 largely failed (the 1877 Ridsdale judgment, four clergy imprisoned 1878–81), and prosecutions were eventually abandoned through the episcopal veto. The structural point Article 34 actually makes is therefore sharper than "bishops disapproved": ceremonial authority sits in the national Church's corporate power to abolish/re-authorize, not in individual parish clergy reviving corporately-abolished ceremony by private reading of a contested rubric. **[External, EXT-1]** **[Analysis]** This is background to the altar/ceremonial-authority thread (cross-ref `On_Incense_and_the_Altar.md` and the question list's Q8a/QA-Art34); incense is not vesture, so weight it as a parallel, not a direct claim about incense.
-
+ 
 **2.4 The unprobed transfer boundary (IP-5).** RJ drew no stopping point for how much of Revelation's heavenly furniture transfers to earth. He takes incense, altar, vestments; he does not reproduce the sea of glass, harps, seven lampstands, four living creatures, the Lamb with seven horns. He has no stated principle distinguishing what transfers from what doesn't — and the text marks the very items he keeps (incense, robes) as significatory (see §4.3), which excludes them under any "reproduce the non-symbolic furniture" principle he might reach for.
-
+ 
 **2.5 The asymmetry levers (two internal inconsistencies, neither requiring an imported Reformed premise).**
-
+ 
 - **Burden-of-proof asymmetry (the highest-value new lever; cross-ref `QC-f`).** On incense, RJ inverts the burden: it is in the OT, "never negated," present in heaven's worship, and prophesied in Malachi, so "I need a strong argument" to *exclude* it (RC3-9). On the papacy, he runs the burden the *other* way — refusing to presuppose Vatican I and requiring the *innovator* (Rome) to supply positive warrant (RC5-6). Same man, two opposite default rules, selected by which conclusion each protects. This lever is independent of the Malachi exegesis entirely: it asks only why the burden runs toward retention for incense but toward proof for the papacy. **[Stated, RC3-9, RC5-6]** **[Analysis]** Pre-empt his likely "doctrine vs. ceremony" distinction — he holds incense as *expected of God* and *required* (IP-4/IP-5), i.e. not bare adiaphora, so the ceremony/doctrine line does not obviously rescue the asymmetry.
-
 - **Instruments vs. incense (GV-28).** He grants that contemporary instruments and songs (guitars, drums) are "not in and of themselves a problem" — adiaphora, no strict-RPW exclusion. That *isolates* the extra theological freight he loads specifically onto incense: if guitars are indifferent circumstances but incense is a commanded/signifying element ("expected of God," tied to Malachi and the heavenly pattern), the asymmetry inside his own practice is itself a question — what makes incense an *element* requiring warrant while instruments stay a free circumstance? **[Stated, GV-28]**
-
 ---
-
+ 
+**2.6 The dual-warrant tension (new 260715 — the sharpest structural lever in the file).** RJ justifies incense on **two grounds that pull against each other**:
+ 
+- **(a) CONTINUITY WARRANT.** Incense belongs to the non-bloody ceremonial that was never rescinded and survives fulfillment. On this ground incense is **OLD** and inherits OT law → **the strange-fire pincer** (§4.7).
+- **(b) PRESCRIPTIVE WARRANT.** Malachi 1:11 mandates incense for the new covenant church — his declarative: incense is "a standard part of the worship of the people of God in the New Testament church, according to Malachi 1:11" (plus the BP-39 reductio *question*, which is **not** a declarative and must not be quoted as one). On this ground incense is **NEW** and inherits **the institution problem**.
+He cannot need both, and each undermines the other. **If continuity works, Malachi is superfluous. If Malachi institutes something new, "never rescinded" does no work and the continuity claim is forfeit.** Sharper still: the continuity claim says the fulfillment line **spared** incense; the Malachi claim says incense needed a prophetic **re-issue** for the gospel age. Those are different histories of the same practice.
+ 
+Asking which is the actual warrant is short, non-hostile, and **every answer routes to a prepared horn**. Deployment form is Question List 1b. This fork recurs in two other dresses — the Hanukkah pre-empt (§9) and the Anglican-history flank (§8) — and recognizing it as one structure is what makes those sections cheap to deploy.
+ 
 ## 3. Formulary leverage points (his own standards)
-
+ 
 - **Article 34** — ceremonies are "ordained only by man's authority," may be "changed according to the diversity of countries, times, and men's manners," to be done "to edifying." A divinely-required, every-Sunday, will-defend ceremony cannot live here. The third (abolish/change) clause adds a second edge, with the Reformation's actual abolition-and-Ritualist-reintroduction history behind it (§2.3, EXT-1). (§2.3)  
 - **WCF 21.1** (the RPW he claims) — acceptable worship is limited to what God has positively instituted; "not excluded" is never sufficient. His Malachi reasoning violates this. (§2.2)  
 - **Homily Against Peril of Idolatry** (commended in Article 35) — available as a secondary internal lever on the broader furniture/imagery question if the conversation widens.  
 - His own **Hebrews / Covenant-of-the-Tongue fulfillment hermeneutic** — the engine of prong (2); turned against him via the shadow-vs-substance axis and the Rev 5:8 self-identification (§4).
-
 ---
-
+ 
 ## 4. Scriptural leverage points — primary-source grounds RJ respects
-
+ 
 Ordered as a build. The spearhead is that **his strongest book identifies the incense for him.**
-
+ 
 **4.1 Incense is a fulfilled type — of prayer — and Revelation supplies the antitype.**
-
+ 
 - **Rev 5:8** — the golden vials of incense are named, in the verse itself, as "the prayers of saints."  
 - **Rev 8:3–4** — the incense ascends "with the prayers of all saints," repeating the identification.  
 - **Ps 141:2** — "let my prayer be set forth before thee as incense" fixes the prayer-typology before Christ.
-
 Key line to put to him: **"Revelation 5:8 tells you what the incense is — the prayers of the saints. If the text names its own symbol's meaning, why reproduce the symbol instead of offering the thing it stands for?"**
-
+ 
 *He already has a ready counter to this — anticipate it.* He **concedes** the symbolism (RC3-8: incense "symbolizes the prayers"; BP-38: *"incense is an imagery… We're not saying that the incense is the actual prayers, right?"*) and then reclaims the physical object with an unargued premise: *"An image doesn't work if it's not being used. It has to be used for it to work… So we should be using it for worship"* (BP-38) / "a symbol doesn't work well if it's not there" (RC3-8). So the self-identification move does not land on its own; he grants the antitype and keeps the type anyway. This is why the real fight is on the shadow-vs-substance / fulfillment axis (§4.5), not the symbolic axis alone — and his rejoinder runs against his *own* fulfillment hermeneutic, which is the seam §4.6 and the BP-53 analysis below exploit. **[Stated, RC3-8, BP-38]**
-
+ 
 **4.2 The strongest incense in Torah is Day-of-Atonement incense — inside the complex he concedes is fulfilled.** This dismantles "non-sacrificial."
-
+ 
 - **Lev 16:12–13** — the high priest carries a censer of coals and incense *into* the Holy of Holies on Yom Kippur, the cloud over the mercy seat "that he die not."  
 - **Exod 30:10** — annual atonement on the horns of the incense altar with the blood of the sin offering.  
 - **Heb 9:7, 11–12, 24–26** — Christ's once-for-all entry fulfilling exactly this ritual.
-
 The paradigmatic biblical incense act is *embedded in* the atonement system RJ grants is abrogated. His "non-sacrificial incense" is a category Scripture does not supply.
-
+ 
 **4.3 The priesthood lever closes the door from the other side.** Incense was never free-floating furniture; it was priest-restricted on pain of death.
-
+ 
 - **Lev 10:1–2** (Nadab and Abihu), **Num 16** (Korah), **2 Chron 26:16–21** (Uzziah struck with leprosy).  
 - **Heb 7:12** — "the priesthood being changed, there is made... a change also of the law."
-
 If the priesthood that alone could lawfully offer incense is transformed in Christ, the incense cannot survive the priesthood that licensed it. His bundling of *vestments* (Exod 28, "for Aaron... for glory and for beauty") makes this worse — vestments are even more nakedly priesthood-specific.
-
+ 
 **4.4 Self-interpretation consistency on the robes (answers prong 1 without denying participation).**
-
+ 
 - **Rev 7:14** — robes washed white in the blood of the Lamb; **Rev 19:8** — "the fine linen is the righteousness of saints."
-
 The same vision interprets its own props significatorily. You cannot read the incense as prescriptive-physical and its neighbor the robes as significatory. One hermeneutic must govern the throne-room furniture.
-
+ 
 **4.5 The abrogation axis (the verse that reframes prong 2).**
-
+ 
 - **Col 2:16–17; Heb 10:1** — shadow vs. substance, not bloody vs. non-bloody.  
 - **Gal 4:9–10** — reviving the shadow after the substance has come, named as the error.
-
 *Restated to survive the heavenly-participation escape hatch (Rev class).* He reads the heavenly incense itself as a symbol — Rev 5:8 / 8:3–4 *interpret* the bowls and smoke as "the prayers of the saints," and he plausibly identifies the angel-priest at the altar as Christ in his intercessory role. So on **his own** reading the vision points to *the prayers of the saints + Christ's heavenly intercession* — precisely the fulfilled realities Hebrews says replace the shadow. Revelation thus becomes a witness *for* the fulfillment reading, not against it: the text directs us to the reality, and reviving the shadow's physical apparatus (altar + incense) in the assembly is the move his Hebrews argument forbids. This is the form of the fulfillment lever that does not die to "I'm joining heaven's worship, not Exodus 30." **[Stated, Rev-9, Rev-10, Rev-11]**
-
+ 
 **4.6 Malachi 1:11 — the "pure offering" self-inconsistency (upgraded from reserve to a lead internal lever).** The "pure offering" (*minchah tehorah*) stands in synonymous parallelism with the incense in the same clause; one hermeneutic must govern both. The lever is now **his own interpretive rule applied evenly within one verse**, and it needs no imported Reformed premise:
-
+ 
 - **The concede-then-reclaim structure, named (BP-53).** His Malachi argument runs: (1) demand justification for any "spiritualizing" reading; (2) appear to concede it — *"Let's say Malachi 1.11 is actually about a spiritual thing… Let's just even give that to them"*; (3) immediately reclaim physical incense via the unargued premise *"an image doesn't work if it's not being used."* Step 3 does not follow from step 2; it is a hidden premise doing a conclusion's work, wrapped as a fair-minded concession. **[Stated, BP-53; quotes per BP-38/39]**
 - **The parallel-clause inconsistency (the cleanest form).** He applies "the image needs a literal referent to work" to *incense* but not to the parallel *"pure offering"* in the same clause. If the rule licenses physical incense, identical logic licenses a literal sacrificial **offering on an altar** — and that is exactly the reading **Trent (Session 22, ch. 1)** cites for the Mass as a propitiatory sacrifice, further than the Articles go and in tension with his own "only bloody sacrifice is abrogated." He will not go there: he frames the eucharistic oblation as non-propitiatory (RC3-22) and the incense as "nothing magical," non-propitiatory (RC3-11), and he flatly rejects the Roman doctrine of justification (GV-1) — so he tacitly abandons his own rule for the clause that would embarrass him. **[Stated, RC3-11; GV-1 confirms the rejection]**
 - **The "in what sense an offering?" gap (BP-43).** He grounds incense in Malachi's "pure offering / pure sacrifice" language while insisting it is *not* meritorious or propitiatory (formative, not earning). So: if it is the "pure offering" of Mal 1:11 but explicitly non-propitiatory, in what sense is it an *offering* at all — and how does that differ from the bare adiaphora a confessional Lutheran already grants (BP-44, Lutheran non-use as aesthetic/historical, not principled)? **[Stated, BP-43, BP-44]**
 - **Consistency hook (GV-20).** His own essence-realist, anti-metaphorical hermeneutic ("this is my body" resists metaphor) is the very figurative-vs-literal pressure this lever turns on: applied evenly to Mal 1:11's "pure offering" and to Rev 5:8's "incense = prayer," it cannot literalize the one and spiritualize the other. **[Stated-Analysis, GV-20]**
-
 If instead he reads the offering spiritually (prayer, thanksgiving — Heb 13:15), the incense beside it is spiritual on the same reading. He cannot literalize the incense and spiritualize the offering in one clause. (In-house twist retained: **Mal 3:3** a few verses on — literal purified "sons of Levi" offering — which he will not literalize. Ask why the hermeneutic switches inside one book.) **Drafting note:** per the ledger, future Q4a drafting should lead with the "pure offering" parallel-clause inconsistency rather than holding Malachi back.
-
+ 
 ---
-
+ 
+**4.7 The strange-fire pincer — jaws 3 and 4 (new 260715).**
+ 
+*Jaws 1 and 2 (place and priesthood) are §4.3 above. These complete it.*
+ 
+**JAW 3 — THE COMPOUND.** `[Analysis; inference pending confirmation]` Exodus 30:34-38 gives the incense a **prescribed compound** (stacte, onycha, galbanum, frankincense, salted, "pure and holy") and **forbids imitation for any other use on pain of being cut off**. Commercial ecclesiastical incense is frankincense-based trade blends; no supplier sells the Exodus 30 formula. So the continuity warrant fails **on its own terms**: Exodus 30 regulates **PLACE** (sanctuary), **PERSONNEL** (Aaronic), and **COMPOSITION**, and the practice keeps **none of the three**. What was allegedly never rescinded is not what is being done.
+ 
+> *Conversational form:* "If the warrant is that the OT incense was never rescinded, then what survives is the OT incense: its place, its priesthood, and its recipe. You keep none of the three. So whatever is being burned on Sunday, it isn't the thing that was never rescinded."
+ 
+> **⚠️ ATTRIBUTION.** **No logged RJ statement on his compound exists.** Keep at "very likely." **Deploy as a QUESTION (Question List item 21), not as an assertion**, until answered.
+ 
+> *Rhetorical symmetry — **save for late**, and soften to question form with RJ:* on his own account **Leviticus 10 is the hallmark passage of regulated worship**, and its lesson is that God cares about the **manner** of incense, not merely the fact of it. Nadab and Abihu offered real incense, Godward, sincerely, and died for the unauthorized manner. A position that leads with that passage and then burns an unprescribed compound, by unprescribed hands, in an unprescribed place, on the strength of a verse that prescribes nothing, has conceded the principle that convicts the practice. **This is a charge. Ask it instead.**
+ 
+**JAW 4 — METHOD SYMMETRY.** `[Analysis; grounded in DQ-3, DQ-4]` RJ defends **images** by citing where God **COMMANDED** them (bronze serpent, cherubim, temple), **hymns** by dominical **EXAMPLE** (Matt 26:30), **instruments** by **COMMAND** (Ps 150) — and has now **affirmed the rule explicitly** (DQ-4: "Correct," acts of worship require positive warrant by command, approved example, or necessary inference). So **"where is incense commanded, and what does the command regulate?" is HIS method, not an imported one.** Expect him to name **Malachi 1:11 rather than Exodus 30** as the command; **the regulation demand survives that answer untouched** (Question List 1c): every commanded element in Scripture arrives regulated, either within the command itself (Exodus 30 at length; the Supper's words, elements, recipients) or by its institution. **Malachi regulates nothing.** So the manner comes either from OT regulation (and the pincer engages) or from post-apostolic tradition (and the tradition diagnosis arrives by his own route).
+ 
+**4.8 The minchah fork ("the pure offering is just the incense") — new 260715.** Both prongs cut the same way.
+ 
+- **PRONG A — two items.** The Hebrew coordinates two nouns: *muqtar* (that which is burned) *muggash* to my name, **"and a pure minchah."** *Minchah* is the technical term for the **tribute/grain offering** of Leviticus 2, an altar offering by fire. If the verse names two literal items, then the same verse "commanding" incense **commands a literal grain offering on an altar**. Either perform grain offerings (nobody does) or **spiritualize the minchah — which concedes the hermeneutic that spiritualizes the incense**. Synonymous parallelism within one clause cannot be read half literal, half figural.
+- **PRONG B — epexegetical (one item).** Then **incense is itself classified as a minchah**, i.e. an offering in the **sacrificial category**. Two consequences: **(i)** it falls inside the offering system Hebrews declares fulfilled, so the fulfillment argument catches it **by their own reading**; **(ii)** it **collapses the bloody/non-bloody defense**, since the minchah was bloodless yet unambiguously part of the abrogated altar cult. **A bloodless altar offering that everyone agrees was fulfilled is the counterexample the bloody/non-bloody line cannot absorb.**
+> **CONTEXT LOCK.** The dispute of Malachi 1 is **defiled offerings on the altar**, "the table of the LORD" (vv. 7-8, 12-13), blemished animals. Verse 11 is **the contrast**: not polluted offerings in Jerusalem but a pure offering in every place. *Minchah* in v. 11 **tracks the altar offerings under indictment** — that is what makes the contrast bite. Reading it as "merely the incense, nothing altar-related" **severs the verse from the argument it concludes**.
+ 
+> **SHORT FORM.** "Either the verse names two things, incense and a grain offering, in which case you owe me the grain offering too or you're already spiritualizing half the clause; or it names one thing, in which case incense is itself being called an offering, which puts it inside the sacrificial system you agree is fulfilled. Either way the verse won't do the work."
+ 
+**4.9 Prophetic cult-vocabulary parallels — the consistency lock (new 260715).**
+ 
+**FRAME:** the prophets consistently portray the worship of the coming age in the **Levitical vocabulary of their hearers**, and in **every parallel case** (Levites, Booths, altars, burnt offerings, temple) the church — **including its Anglo-Catholic wing** — reads the vocabulary as **figure**. **Malachi's incense is the sole exception, selected for literalism only where a practice needs the warrant.**
+ 
+*Core list (entries 1-7: future worship in cultic vocabulary his own tradition does not literalize).*
+ 
+1. **MALACHI 3:3-4 — same book, two chapters later. Strongest entry.** "He shall purify the sons of Levi… that they may offer unto the LORD an offering [*minchah*] in righteousness. Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old." Purified Levites offering *minchah* in the messianic age — **same book, same word as 1:11**. Nobody restores a literal Levitical order. **If 3:3 is figural, 1:11 cannot demand literalism two chapters earlier. The hermeneutical switch happens INSIDE ONE PROPHET.**
+   - **PRE-CLOSE THE ESCAPE** (a pre-Christ reading exists in the literature): 3:3's purification belongs to the **"day of his coming"** of 3:1-2, one continuous oracle, and **Jesus applies 3:1 to John the Baptist** (Matt 11:10; Luke 7:27; cf. Mark 1:2, where Mal 3:1 appears in **composite** with Isa 40:3 under the attribution "Isaiah the prophet," a standard conflation convention naming the majority partner — the wording of the first half is unambiguously Malachi's). Reinforced from the book's other end: Mal 4:5-6 promises Elijah, and Jesus identifies John as that Elijah (Matt 11:14; 17:10-13). Detaching 3:3 from 3:1 **splits one scene**: messenger and Lord's arrival messianic, refining a century earlier. Also, the pre-Christ fulfillment **did not durably occur** (Neh 13 shows corruption resuming; the first-century priesthood is as the Gospels describe).
+   - **FALLBACK IF HE PERSISTS:** granting a pre-Christ 3:3 **concedes that Malachi's two *minchah* passages sit on different horizons**, which forfeits any appeal to the book's vocabulary as univocal and leaves 1:11 standing alone, exposed to entries 2-7 where no pre-Christ escape exists.
+   - **HONEST RANKING:** very strong **against RJ specifically** given the Gospel citations of 3:1; **not logically airtight** against every possible reader. **Do not present as beyond reply.**
+2. **ZECHARIAH 14:16-21.** The nations go up to Jerusalem "to keep the feast of tabernacles" yearly, **on pain of drought**; "every pot in Jerusalem" becomes holy for sacrificing. Universal Gentile worship — **exactly Mal 1:11's theme** — cast as pilgrimage feast and sacrifice. No one requires Booths of the church.
+   - **PRE-CLOSE THE "ETERNAL STATE" ESCAPE:** a literal eternal-state reading requires an **annual pilgrimage cycle** (presupposing sun and seasons), travel to a **geographic Jerusalem**, and the **sanction clause** — no rain on the families that fail to come up (14:17), i.e. **drought, crop failure, and want INSIDE the new creation**. Revelation's eternal state runs the other way: **no temple** (21:22), no night, the nations **permanently present** rather than annually pilgrim. And 14:20-21 (every pot holy; "HOLINESS UNTO THE LORD" on the bells of the horses) is read by essentially everyone as **figure**: the erasure of the sacred/common boundary. Whichever horizon is chosen, **the Booths and the pots end up figural**; the eternal-state option relocates the figure without producing a literal Feast of Tabernacles anywhere.
+   - **RJ-SPECIFIC EDGE:** deferring Zech 14 to the eternal state to spare it from literal fulfillment is **equally available for Mal 1:11 — and he cannot take it**, because his whole use of Malachi requires the verse to describe the church's worship **now**. He needs a principled reason why **two prophecies of the nations worshiping, in cultic vocabulary, land on different horizons with different hermeneutics.** "The one I practice is present-literal, the one I don't is future-figural" is not a principle.
+3. **EZEKIEL 40-48.** Full temple with dimensions, functioning altar (43:18-27), sin and burnt offerings, Zadokite priesthood (44:15-16), a prince offering sacrifices (45:17; 46:2). Read literally: **restored animal sacrifice in the age to come**. Virtually every non-dispensationalist tradition, **Anglo-Catholics included**, reads it as a figure of God dwelling with his people; Rev 21-22 reworks its imagery for a New Jerusalem **with no temple at all** (21:22).
+   - **⚠️ [FLAG] Stress-test before committing.** Will draw the "eschatological, not yet" reply. Same treatment as entries 1-2 recommended.
+4. **ISAIAH 19:19-21.** "In that day shall there be an altar to the LORD in the midst of the land of Egypt… and the Egyptians… shall do sacrifice and oblation [*minchah*]." **Altar and sacrifices outside the land, among the nations, in the day of salvation.** Deuteronomy 12's central-sanctuary law makes a literal reading **a prescription for what Torah forbids** — the same structure as the strange-fire point on Malachi. Universally read as Egypt converted and worshiping acceptably.
+5. **ISAIAH 56:6-7.** Foreigners' "burnt offerings and their sacrifices shall be accepted upon mine altar: for mine house shall be called an house of prayer for all people." **Jesus quotes the PRAYER clause** (Mark 11:17) as its point; no one takes the burnt-offerings clause as standing orders for the church. **One verse whose sacrificial half everyone spiritualizes and whose prayer half everyone keeps** — precisely the move being made with Malachi's incense/pure-offering pair.
+   - **PRE-CLOSE THE INTERTESTAMENTAL / PRE-70 READING** (JD raised this; the pieces do not fit): **(i)** proselyte access **already existed** under Torah (Exod 12:48), so if Isa 56 merely promised that, it promised nothing new — the oracle's rhetorical energy ("neither let the son of the stranger… say, The LORD hath utterly separated me from his people") signals more; **(ii)** the same oracle welcomes **THE EUNUCH** (56:3-5) with "a name better than of sons and of daughters," and **Deut 23:1 excluded the eunuch outright with no proselyte path** — the oracle promises what the Mosaic order positively forbade, no intertestamental development delivered it, and the first eunuch brought in is **Acts 8, by baptism**, not by temple admission; **(iii)** the first-century temple ran the **OPPOSITE** direction — Gentiles confined to the outer court behind the *soreg*, whose inscriptions warned foreigners of **death** for passing further (Paul nearly killed over this accusation, Acts 21:28-29); **(iv)** Jesus' temple action is **INDICTMENT, not fulfillment report** — Mark 11:17 alone quotes the full clause, "a house of prayer for **all nations**," and the commerce he overturned occupied **the court of the Gentiles, the one space the nations had**, with Mark wrapping the fig tree around the incident as verdict. **So the first-century temple is the FOIL of Isaiah 56, not its fulfillment.**
+6. **ISAIAH 66:20-21, 23.** The nations bring the scattered Israelites "for an offering [*minchah*] unto the LORD… and I will also take of them for priests and for Levites," with all flesh worshiping "from one new moon to another, and from one sabbath to another." **Gentile converts described as a *minchah* and as new Levites.** Paul's commentary is **Romans 15:16**: his priestly service is "that the offering up of the Gentiles might be acceptable." **Apostolic handling of exactly this vocabulary: PEOPLE, not grain, are the offering.**
+7. **JEREMIAH 33:17-18.** "Neither shall the priests the Levites want a man before me to offer burnt offerings, and to kindle meat offerings [*minchah*], and to do sacrifice continually" — an explicitly **PERPETUAL** Levitical sacrificial ministry, **in the same oracle as the perpetual Davidic throne**. Christians read the Davidic half as fulfilled in Christ's kingship and the Levitical half as fulfilled in Christ's priesthood (Hebrews); **nobody staffs a Levitical line**. **A PERPETUITY FORMULA attached to sacrifices everyone agrees ended — a direct answer to "never rescinded" reasoning.**
+   - **⚠️ [FLAG] Stress-test before committing.** Will draw a perpetuity-formula reply.
+*Canonical keys (Scripture decoding its own idiom).*
+ 
+8. **HOSEA 14:2 with HEBREWS 13:15.** "So will we render the calves of our lips" (LXX: "the fruit of our lips") — **praise described as sacrificial animals**. Heb 13:15 picks up the LXX phrase and names the church's sacrifice: "the fruit of our lips, giving thanks to his name." **Intra-canonical proof that prophetic sacrifice-language means praise, certified by the NT itself.**
+9. **PSALM 141:2.** "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice." Not a prophecy but **the OT's own key for the figure**: incense stands for prayer **inside the Psalter**, centuries before Rev 5:8 confirms it. **The interpretive bridge.**
+*Optional widener.*
+ 
+10. **JOEL 2:28 via ACTS 2.** Non-cultic control case: Peter declares **"this is that"** of a prophecy whose imagery (sun to darkness, moon to blood) was **not literally occurring at Pentecost**. Prophetic idiom describes new covenant realities in inherited imagery, and **the apostles interpret accordingly**.
+> **DRAFTING CAUTION.** Entries 3 and 2 will invite "but those are eschatological, while Malachi describes the present church age." **Pre-empt:** RJ's own use of Mal 1:11 treats it as describing the **CURRENT** worship of the church, and Zech 14 and Isa 19 are likewise "in that day" oracles of the age of the nations' ingathering — **which on his reading of Malachi is now**. The distinction would need independent grounding he has not offered.
+ 
+**4.10 What the incense symbolized, and the four-question chain (new 260715).**
+ 
+*The OT symbolism, in two layers.*
+ 
+- **(a) THE DAILY INCENSE: PRAYER ASCENDING.** The *tamid* incense burned on the golden altar morning and evening **at the same appointed hours as the daily offerings** (Exod 30:7-8). Scripture links it to prayer **from inside the canon**: "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice" (Ps 141:2). **Luke 1:10** shows the link lived in practice: while Zacharias offered incense within, "the whole multitude of the people were praying without at the time of incense." The smoke rising from the golden altar, which stood **directly before the veil** (Exod 30:6), was the visible form of Israel's approach. **NOTE THE MEDIATION:** the people prayed **outside**; the priest carried the symbol **inside**. The rite did not merely say "prayer rises"; it said **"prayer rises THROUGH THE APPOINTED MEDIATOR."**
+- **(b) THE DAY OF ATONEMENT INCENSE: COVERING FOR A MEDIATOR ENTERING THE PRESENCE.** Leviticus 16:12-13: Aaron takes coals and incense within the veil "that the cloud of the incense may cover the mercy seat that is upon the testimony, **that he die not**." The incense is **protective screen**; the mediator survives entry into the immediate Presence **only under the cloud**. The weightiest incense act in the system **symbolizes the problem the system existed to address**: sinful men — even the high priest, even once a year, even with blood — could not stand before God unshielded. **Numbers 16:41-50** adds a third function: Aaron running with the censer **between the dead and the living** to make atonement and stop the plague (vv. 46-48), i.e. incense as priestly **INTERCESSION**, the mediator standing between wrath and people.
+> **THE TYPE, PRECISELY:** incense = **THE PRAYERS OF GOD'S PEOPLE, ASCENDING TO GOD THROUGH AN APPOINTED PRIESTLY MEDIATOR, MADE ACCEPTABLE AND SAFE IN HIS PRESENCE.**
+>
+> **Both halves have named antitypes.** The **PRAYERS** half: **Rev 5:8** ("golden vials full of odours, which are the prayers of saints") and **8:3-4** (the angel at the heavenly altar adding incense to the saints' prayers — the mediation half in visionary form). The **MEDIATOR** half: **Hebrews** — Christ entered within the veil for us (6:19-20; 9:24), ever living to make intercession (7:25), which is why the church comes **boldly** to the throne (4:16) rather than standing outside at the hour of incense. **The intercession the smoke screened and symbolized is now PERFORMED, continually, by the living Christ. The fulfilled type has NO REMAINDER:** both referents — the people's prayers and the mediator's intercession — are **present realities**.
+ 
+*The four-question chain (conversational form).*
+ 
+1. **What did the incense symbolize in the OT?** Prayer ascending to God (Ps 141:2; Luke 1:10), **through a priestly mediator** whose intercession made the people's approach safe (Lev 16:12-13; Num 16:46-48).
+2. **What does the incense represent in the vision in Revelation?** The prayers of the saints (Rev 5:8), presented with heavenly mediation (8:3-4). **Same symbol, same referents, stated by the text.**
+3. **How does a NT Christian offer that incense?** By **praying** (1 Tim 2:8; Heb 13:15), through the one mediator whose intercession is **no longer symbolized but actual** (Heb 7:25; 4:16).
+4. **Then what is someone offering, or symbolizing, when they burn incense in a NT service?** If it symbolizes their prayers, **the prayers are already being offered in the same service, as the reality** — why re-present them in shadow? And if it symbolizes the mediation, **that work is Christ's, presently performed** — what is a minister's censer adding to it?
+> **[Analysis]** **Question 4's SECOND half is the sharper edge in an Anglo-Catholic setting.** Censing performed by a **vested priest at an altar** does not read as "the congregation's prayers" symbolically; **it reads as PRIESTLY MEDIATION** — and priestly mediation is the one thing the NT says is now **exclusively Christ's** (1 Tim 2:5; Heb 7:23-25).
+ 
+> **EXPECTED ANSWERS AT STEP 4, AND REPLIES:**
+> - **"It symbolizes our prayers, and we do pray; the incense accompanies the prayer as its visible sign."** *(RJ's likeliest.)* **Reply:** a God-given sign accompanied the reality under the old covenant **BECAUSE the reality was mediated at a distance** (people outside, priest inside, veil between). The new covenant's change is **precisely the removal of the distance** (Heb 10:19-22: boldness to enter by the blood of Jesus, through the veil). **Reinstating the sign re-stages the distance the gospel abolished.** And the accompaniment claim faces **the warrant question in miniature**: the Supper accompanies the gospel with a visible sign **because Christ INSTITUTED the accompaniment. Who instituted this one?**
+> - **"It symbolizes the church's participation in heaven's worship."** Routes to the heaven's-liturgy material: **the vision interprets its own incense** (5:8); one hermeneutic governs the throne room.
+ 
+> **[Analysis] RESERVE ASSET** — answers *"show me where the NT revokes incense"*: **the NT never has to name incense when abolishing it.** The incense was **the ritual dress of priestly intercession at the point of entry into the Presence**; Hebrews' entire argument (chs. 7-10) is that **the entry has been accomplished and the intercession is live**. Abolish the mediating priesthood's approach-work and **the smoke that clothed it has nothing left to clothe**. The NT does not revoke the costume separately; **it announces the actor has finished the scene.**
+ 
+**4.11 The overlap period (AD 30-70) — promoted to a named concept (new 260715).**
+ 
+Between the cross and the fall of Jerusalem there was a roughly **forty-year transition in which the shadow still stood while the substance reigned**. Conduct tolerated within it shows **ACCOMMODATION TO A PASSING ORDER**, not warrant for perpetuating it.
+ 
+- **FACTS.** The temple cult operated until the city fell in **AD 70** (the daily offering ceased shortly before the end of the siege, summer 70; Josephus records the cessation). Destruction came in the first Jewish revolt when Titus's legions took Jerusalem and the temple burned. **Never rebuilt**; the sacrificial system ended as a practical matter, sacrifice being lawful nowhere else.
+- **JEWISH CHRISTIANS.** Continued temple attendance at the hours of prayer (**Acts 3:1**), taught in its courts (5:42), and in at least one case **participated in offerings** — **Acts 21:23-26**, where Paul at James's urging joins four men in a Nazirite-style vow completion entailing sacrifices, **expressly to demonstrate he did not teach Jews to abandon Moses**. Tolerated as **national custom** during the overlap. **Hebrews**, written while the cult apparently still ran (present tenses), argues the whole apparatus was **"ready to vanish away" (8:13)**: a shadow **already obsolete IN PRINCIPLE before it ceased IN FACT**.
+- **GENTILES — the decisive datum.** The apostolic ruling was **the OPPOSITE of admission to the cult**. The Jerusalem council (**Acts 15**) determined Gentile converts were **not to be circumcised**, which by that decision **barred them from Passover and full cultic participation** (Exod 12:48 conditions Passover on circumcision); Galatians treats seeking circumcision as **falling from grace** (5:2-4). **Presented with the live option of routing the incoming nations through the existing proselyte-and-sacrifice system, the apostolic church FORMALLY DECLINED IT.** This is the sharpest possible commentary on what Isa 56's "their burnt offerings accepted on mine altar" was taken to mean: **the nations streamed in exactly as prophesied, and the apostles deliberately did not bring them to the altar.** The prayer clause was fulfilled to overflowing; the sacrificial vocabulary was cashed out, per the standing apostolic pattern, as **the spiritual sacrifices of the new temple** (1 Pet 2:5, Gentile believers as "an holy priesthood, to offer up spiritual sacrifices"; Heb 13:15-16).
+> **[Analysis]** This **pre-answers RJ's own Acts 3:1 / synagogue datum** (DQ-3, point 4). Tolerated Jewish custom during the overlap, in a system whose end Hebrews announces, is **no precedent for importing temple ceremonial into GENTILE worship** — the very thing the Jerusalem council declined to do.
+ 
+> **[Analysis]** Fits JD's **partial preterist** framework cleanly: **AD 70 was the visible removal of the already-obsolete shadow.**
+ 
 ## 5. Strongest opposing arguments (steelman — engage, do not dismiss)
-
+ 
 **5.1 Heaven-earth participation is a real and Reformed-affirmed premise.** The classically Reformed tradition itself affirms heaven-earth union in worship — **Heb 12:22–24** ("ye are come unto mount Sion... to the heavenly Jerusalem"); Calvin's *sursum corda*. RJ's prong (1) is therefore **not** answerable by denying participation. The disagreement is narrower and must be stated narrowly: whether a vision of heaven's *symbolic furniture* prescribes *physically reproducing that furniture on earth*. Concede the premise; contest only the inference to physical reproduction. Dismissing the heaven-earth premise would be both wrong and rhetorically self-defeating. *He states the warrant in his own words* — *"we are joining in the heavenly worship with the angels and archangels"* (Sanctus → Sursum Corda) and *"this isn't reflecting our worship. Our worship is reflecting their worship"* (Rev-11) — so this is his actual escape hatch, not a strawman, and you must locate the limit precisely rather than deny the category. **The limit:** participation transmits the heavenly *realities* (access to God, communion with Christ and the saints, the prayers ascending, the "holy, holy, holy"), not a mandate to *reproduce the heavenly furniture as physical objects* (WCF 21.1; Heb 8:1–5 makes the true tabernacle heaven itself, so fulfillment runs *away from* re-materializing altars and incense). **The Sanctus is the test case to hand him:** the Reformed gladly *sing* "holy, holy, holy" with the angels — a real reality-participation — without installing a literal sea of glass, six-winged creatures, or 24 thrones. Incense is the one item where he crosses from participating-in-the-reality to reproducing-the-furniture. **[Stated, Rev-11; Analysis]**
-
+ 
 **5.2 The "newness" point has bite.** RJ can fairly say the flat "it's just abrogated ceremony" reply misses that Malachi/Revelation describe something the Mosaic system never had — incense among the *Gentiles*, outside the temple, in heaven's own courts. The CR answer must *grant the newness and relocate it*: the novelty is the universality and spirituality of the worship (John 4:21–24, neither this mountain nor Jerusalem; spirit and truth), with cultic vocabulary functioning significatorily — exactly how the prophets characteristically describe New Covenant realities in Old Covenant idiom (Isa 19:19–21 altar in Egypt; Isa 56:7; Isa 66:20–21 Gentile "Levites"; Zech 14:16–21; Amos 9:11–12 read by Acts 15:15–17 as Gentile inclusion). The newness is real; it is not the newness of relocated incense.
-
+ 
 **5.3 Prong (2) is internally coherent on its own terms.** Do not mistake it for a weak move. *If* the abrogation axis were bloody-vs-non-sacrificial, his retention of incense would follow cleanly. The whole weight rests on the axis being mis-drawn (§2.1, §4.5). That is the load-bearing reply; everything else is reinforcement.
-
+ 
 **5.4 He holds it as defended, not adiaphoron (IP-5).** Do not engage as though he might concede it as a thing indifferent. He will defend incense as expected/required. The only boundary he volunteered is practical ("a little bit... I don't try to kill everybody with the incense"), which concedes nothing theological.
-
+ 
 ---
-
+ 
 **5.5 Master framing caveat — don't accept his target (BP-41).** His strongest *consistency* argument is a good-and-necessary-consequence wedge: the Reformed accept things without explicit command (the Saturday→Sunday shift, synagogue worship, OT calendar additions like Hanukkah), so a strict-imperative-only RPW is self-defeating. That wedge works — but only against a **caricature** (RPW = bare explicit imperatives) that this project does not hold. WCF 21.1's actual three-source test (command + approved apostolic example + good-and-necessary inference) and the three-bucket grid (**element / circumstance / adornment** — developed in `On_Incense_and_the_Altar.md`) absorb every counterexample he raises while still excluding incense, which has none of the four warrants and which he treats as an *element*, not a circumstance. Do not let him frame the disagreement as strict-imperative-RPW-vs-him, or as exclusive-psalmody-Puritans-vs-him (BP-42) — that mischaracterizes the project's stated RPW scope. Redirect to the three-bucket grid. **[Stated, BP-41, BP-42; Analysis]**
-
+ 
 ---
-
+ 
 ## 6. Suggested conversational entry points
-
+ 
 Sequenced so each move sets up the next. The aim is friendly, precise pressure that makes *him* reach for a principle he has not stated.
-
+ 
 *Practice sourcing (GV-30).* He is on record in his own first-person voice describing his own liturgy as *"Book of Common Prayer in 1928 with incense ad orientem"* — direct confirmation that he uses incense and worships ad orientem (log the **ad orientem** datum for the altar/sacrifice thread). He also confirms current practice elsewhere: "We should use incense every service, and I do… And I think that this is a good and godly thing to do" (BP-45). Edition caveat: the 1928 use is later switched to ACNA 2019 (~2022, GV-54), so when citing formularies lead with 1662 + the Articles, not the 1928 book. **[Stated, GV-30, BP-45]**
-
+ 
 **Opening (concede, then narrow).** Grant the heaven-earth premise warmly — "I'm with you that our worship joins heaven's; Hebrews 12 and Calvin both say so." Then narrow: "The question I can't resolve is why the *vision* of heaven's furniture means we *build* the furniture, when the same vision tells us what the furniture *means*." This disarms the "calling it sin is wild" framing by agreeing with everything except the inference.
-
+ 
 **Move 1 — the self-identification (lead here).** Q-Inc-NEW1. "Revelation 5:8 tells you what the incense is — the prayers of the saints. If the text names its own symbol's meaning, why reproduce the symbol instead of offering the thing it stands for?" This is the sharpest single thing he has not had to answer, and it runs *through* his favorite book.
-
+ 
 **Move 2 — break the distinction (Yom Kippur + priesthood).** The two follow-ups under Q-Inc-NEW1. The Day-of-Atonement censer (Lev 16:12–13) shows the weightiest incense sits *inside* the fulfilled atonement complex; Heb 7:12 shows the priesthood that licensed incense is changed. Together these collapse "non-sacrificial incense" as a category.
-
+ 
 **Move 3 — the boundary question (make him state a principle).** Q-Inc-NEW3. The sea of glass, harps, lampstands. "What's the principle that brings incense and the altar down but leaves the harps in the vision?" He has no stated answer; whatever he reaches for, the text's own interpretation of the robes and incense (§4.4) excludes the items he keeps.
-
+ 
 **Move 4 — the internal-Anglican fork (the formulary close).** Q-Inc-NEW2. Quote "ordained only by man's authority" verbatim and present the fork (§2.3). This is the strongest internal lever and a good place to land, because it forces a choice between overclaiming and needing a Scripture institution he cannot produce.
-
+ 
 **Reserve — Malachi / pure offering.** Q-Inc-NEW4. Deploy only if he leans back on Malachi: ask what the "pure offering" is, and let the Trent/Mass consequence or the spiritualizing-consistency consequence do the work.
-
+ 
 **Tone note.** The whole sequence is friendship-preserving by design: every move either concedes a premise first (heaven-earth, newness) or uses *his own* texts and formularies (Revelation, Hebrews, Article 34) rather than importing an external Reformed standard. The posture is "help me see how your own commitments fit together," not "here is where you are wrong."
-
+ 
 ---
-
+ 
 ## 7. Open / unresolved (carry forward)
-
+ 
 - He has **not yet** had to answer Rev 5:8 self-identification or Heb 9:4 folding the golden altar into the fulfilled sanctuary — both remain live for the in-person conversation.  
 - The transfer boundary (§2.4) is genuinely unprobed; his answer there is new data worth a finding when it comes.  
 - Whether, pressed on the Malachi "pure offering," he will move toward a sacrificial reading (→ Trent proximity) or retreat to spiritual (→ concedes the incense) — unknown, and diagnostic of how far his Romeward drift actually runs.
-
 ---
-
+ 
+## 8. The Anglican-history flank (supporting, never lead) — new 260715
+ 
+**FUNCTION:** **not** "old means true" (that concedes the traditionalist premise) but a **tu quoque against the RETRIEVAL NARRATIVE**. Pairs with **BP-59** (the arrogance charge): the charge that the Reformation was arrogant innovation applies with equal force to a nineteenth-century ceremonial revival.
+ 
+- **THE DISUSE.** English church worship was plain and **essentially incense-free from the Edwardian Reformation until the ritualist revival of the 1850s onward** — a **second-generation** Oxford Movement development; the first-generation Tractarians (Newman, Pusey, Keble) were concerned with **theology** and gave little attention to ritual. **Roughly three centuries absent**, and the revival so contested that use could spark riots and lead to **prosecution and imprisonment of priests**.
+- **WHEN SQUARELY TESTED.** The Court of Arches held the ceremonial use **illegal** in **Elphinstone v. Purchas (1870)**; John Purchas was charged with using incense "for censing persons and things… as a matter of ceremony" during Holy Communion and **admonished to abstain**.
+- **THE 1899 LAMBETH OPINION** (Archbishops **Frederick Temple** of Canterbury and **William Maclagan** of York): "the use of incense in the public worship, and as a part of that worship, **is not at present enjoined nor permitted by the law of the Church of England**; and it is our duty to request the Clergy who so use it to discontinue that use. If used at all, it must be used (in George Herbert's language) **to sweeten the Church, and outside the worship altogether**."
+  - **[Analysis]** The Archbishops themselves drew **the ELEMENT/CIRCUMSTANCE line**, permitting the **non-worship fumigatory use only**. A gift for the three-bucket frame — and it comes from the tradition's own custodians, not from Geneva.
+- **CONFESSIONAL-LEVEL PROHIBITION.** The **Church of Ireland BCP**: "No incense or any substitution therefore or imitation thereof shall at any time be used in any church or chapel or other place in which the public services of the Church are celebrated." **An Anglican prayer book prohibiting incense outright** — proof that "Anglican formularies exclude it" is **not a Puritan invention**.
+**AFTERMATH — for the "1899 was invalidated" objection.** **Concede immediately** that the Opinion has **no legal force today**; the objection is correct as far as it goes. Three phases:
+ 
+- **Phase 1, DEFIANCE (1899-1974).** The Opinion **failed to convince the clergy at whom it was directed**; after partial initial compliance they reverted, insisting on ceremonial incense as Catholic practice **notwithstanding the decisions of ecclesiastical judges and the opinions of the archbishops**. A **1900 parliamentary debate** records incense in use in **25 London churches** after the Opinion, with bishops brokering local compromises rather than enforcing.
+- **Phase 2, THE LEGAL GROUND DISSOLVES (1974).** The **Worship and Doctrine Measure 1974** repealed the **Act of Uniformity 1662**, the statutory foundation of the Victorian case law. Prevailing analysis: the old ceremonial case law can no longer be good law, and practices not retained in the Prayer Book are now **prima facie permitted** rather than forbidden, subject to the canons. **But this is a REPEAL OF THE ENFORCEMENT REGIME, not a vindication.** Even now the fit is awkward: **Canon B5's** discretionary variations are limited to what is **"not of substantial importance,"** and given the long and bitter ritualism controversy it is hard to argue ritualistic practices are not of substantial importance.
+- **Phase 3, NOTHING WAS EVER INSTITUTED.** At **no point** did any Anglican authority say incense **is now an authorized ceremony**. Sequence: **forbidden and condemned when tested, practiced anyway, and the prohibition machinery eventually dismantled AROUND the continuing practice. LEGALIZATION BY ATTRITION, NOT AUTHORIZATION.**
+**TWO EDGES:**
+ 
+1. **Distinguish what was REPEALED from what was DECIDED.** The 1974 Measure removed **Parliament's enforcement** of the 1662 regime; **it did not find Temple and Maclagan wrong about what the formularies MEANT**. Their reasoning was **historical and liturgical**: the Prayer Book's own preface on ceremonies ("why some be abolished, and some retained") meant **ceremonies not retained were abolished**, incense included. **That reading of the 1662 book stands unrefuted**; what changed is that the C of E **stopped requiring conformity to the 1662 book at all**. For anyone who — **like RJ** — names **the 1662 BCP as the theological standard all prayer books should conform to (GV-37)**, the 1899 Opinion is **the most authoritative interpretation ever rendered of what that standard permits, and nothing has ever answered it.**
+2. **Notice what the "invalidated" objection APPEALS TO:** the church later **loosened its worship law** and the practice was **tolerated**. **A warrant from institutional drift and tolerated non-compliance is a strange foundation for a practice elsewhere defended as COMMANDED by Malachi 1:11.** If the verse commands it, then three centuries of Anglican worship **disobeyed** and the 1899 Archbishops **requested clergy to persist in disobedience**. If instead it stands because the church eventually stopped forbidding it, it is **a tolerated human ceremony — Article 34 territory, changeable and not required — and the divine-command warrant has been quietly dropped. SAME FORK AS THE DUAL-WARRANT TENSION (§2.6), IN HISTORICAL DRESS.**
+**PRE-EMPT THE ANDREWES COUNTEREXAMPLE.** Lancelot Andrewes burned incense **in his private chapel**, adding ceremonies and formulas **not authorised in the prayer book**. What the citation proves: **the exceptions were PRIVATE, PARTY-MARKED, AND UNAUTHORIZED**, in a church whose **public** worship did not include it. **It concedes the point.** Honest formulation: "the exceptions were private, party-marked, and unauthorized; the public liturgy of the Church of England from Cranmer to the ritualists knew no censer."
+ 
+**⚠️ CAUTIONS — read before deploying any of this:**
+ 
+- **NO direct anti-incense quotation from Cranmer is in hand. DO NOT CLAIM ONE.** The era's evidence is **structural**: no provision for incense in 1549 or 1552; Edwardian injunctions and inventories **stripped censers** with the rest of the apparatus; the 1899 Opinion's own historical review treats the Elizabethan settlement as having excluded the liturgical use while leaving the fumigatory use alone. For a Reformation-era literary witness, **the Homilies** (commended by Article 35) argue against importing OT and visionary ceremonial as physical objects.
+- **Do not overclaim "always illegal."** The 1899 Opinion itself left open that **the Crown with the Archbishop's consent could order new ceremonies including incense in future**. Claim only what is documented: **not enjoined, not permitted, judicially condemned when tested, absent from the formularies.**
+- **⚠️ JURISDICTION.** All of this is **Church of England law and never bound American Anglicanism**. PECUSA fought its own ritualism battle (the **1874 canon** against ceremonies symbolizing false doctrine) and **never authorized or prohibited incense by name**. Present the flank as **evidence of what the SHARED FORMULARIES were understood to mean by their own custodians when the question was squarely put** — **NOT** as jurisdiction over St. Francis. And per the standing rule: **"the 1662 book Rev. James names as the theological standard," never "the formularies he calls binding."**
+---  
+ 
+## 9. The Hanukkah pre-empt — new 260715
+ 
+**RJ (DQ-3, point 4):** "Feast Days can be added to the Calendar apart from Divine Command," grounded in Christ's participation in the **Feast of Dedication** (John 10:22-23), which comes from **1 Macc 4:52-59** — with the added barb that those holding the strict RPW **uniformly reject 1 Maccabees as Scripture**.
+ 
+**This is his one genuinely normative-principle argument.** Do not swat it; **it is a good argument against the position it targets**. Limits:
+ 
+1. **Attendance at a national commemoration is not the INSTITUTION of a worship element.** Christ attended; he did not institute, prescribe, or command it, and nothing in John 10:22-23 makes the Feast an act of divinely warranted worship rather than a setting in which he taught.
+2. **The precedent licenses at most uncommanded CALENDAR observances** — which is **Lent / Article 34 territory** and **uncontested by this argument** (see §10, Lent calibration).
+3. **It cannot reach incense**, because on his account incense is **not an uncommanded adiaphoron but a COMMANDED offering** (Mal 1:11). **A commanded offering cannot simultaneously shelter as an optional human addition. HIS OWN WARRANT CLAIM CLOSES THE HANUKKAH DOOR FOR INCENSE.** Same fork as the dual-warrant tension (§2.6).
+> *The barb about 1 Maccabees is worth conceding cheerfully and without defensiveness; it costs nothing, and the argument does not turn on the canonical status of 1 Maccabees — it turns on the difference between attending a feast and instituting an element.*
+ 
+---  
+ 
+## 10. Standing recalibrations & rebuttal handlers — new 260715
+ 
+**10.1 THE HYBRID-PRINCIPLE RECALIBRATION (supersedes prior framing).** RJ's operating principle, now on record (**DQ-3 + DQ-4**), is a **HYBRID**: **prohibitions require biblical basis** (normative in form), while **practices are defended by command or example wherever available** (regulative in form). **The incense argument works on EITHER half:** the **warrant demand** engages his regulative half; the **shadow-revival warnings** (Col 2:16-17; Gal 4:9-10) engage his normative half. **⚠️ This supersedes any earlier framing in this file that treated him as simply normative-principle in practice.**
+ 
+**10.2 LENT CALIBRATION (rationale, for the record).** The shadow-revival argument reaches Lent **ONLY** insofar as Lent is defended as **re-enacting a fulfilled DIVINE type** or **imposed as required by God**. Three reasons the parallel is weaker than it looks and **stays do-not-deploy**:
+ 
+1. **Col 2:16-17 concerns shadows of the MOSAIC LAW** ("meat, drink, holyday, new moon, sabbath") — things **God instituted as types**. **Lent was never a God-given type**, so "reviving a fulfilled shadow" does not describe it precisely; the accurate charge against Lent is **different** (a human addition binding conscience, or will-worship if imposed as necessary). **Mixing the charges lets a sharp interlocutor say the texts are being stretched — which casts doubt back on the strong use against incense.**
+2. **Lent is BCP-consonant** and **Article 34 covers ceremonies of human ordering** the church may appoint. **On his own principles it sits in the adiaphora range.**
+3. **Tactically: incense is where his own principles convict him; Lent is where they defend him.**
+> **IF SOMEONE ELSE RAISES THE PARALLEL against JD:** *"It reaches Lent only insofar as Lent is defended as re-enacting a fulfilled type or imposed as required by God. Defended as a changeable human custom of fasting, it falls under Christian liberty and Article 34, and my argument doesn't touch it. Incense can't take that shelter, because its defenders claim divine warrant for it — Malachi and heaven's liturgy — which is exactly what moves it out of the changeable-custom category."* **Costs nothing and demonstrates the argument is calibrated, not a wrecking ball.**
+ 
+**10.3 DEFENDING Col 2 / Gal 4 AGAINST "YOU'RE MISINTERPRETING."** Three-step reply. **Defend the MINIMAL reading, not the maximal one.**
+ 
+- **STEP 1 — the uncontested core.** Whatever else Col 2:16-17 means, it says the Mosaic ceremonial observances are **"a shadow of the things to come, but the body is of Christ,"** and that Christians are **not to be judged by them**. **Shadow/body is PAUL'S vocabulary.** **Heb 10:1** independently says the law has "a shadow of good things to come, and not the very image of the things." **The shadow-to-substance structure is not an interpretation; it is stated twice in so many words.** The only added step is asking whether **tabernacle incense** is inside the category "shadow" — and **Heb 9:4** answers by listing the golden censer/incense altar among the first tabernacle's furniture, the **"patterns of things in the heavens"** (9:23). **Every link is a citation, not a construal.**
+- **STEP 2 — concede the contested parts freely.** Gal 4:9-10 addresses **Gentile converts adopting Jewish calendar observance under judaizing pressure**; Col 2 targets **a specific Colossian error**. **Grant it.** What the concession leaves standing: **Paul's REASON in both places is not "these particular teachers are bad" but that the observances are SHADOWS and elementary things whose substance has come.** **An argument from the NATURE OF THE THING generalizes wherever the thing appears; an argument from local circumstances would not. Paul argues from the former.**
+- **STEP 3 — return the burden with his own materials.** RJ himself teaches (**Christ-in-the-OT** material) that **Hebrews forbids reviving fulfilled OT ceremonial**, because re-adopting a fulfilled shadow **says liturgically that Christ has not yet come**. So the reading called a misinterpretation **is one he holds**; the disagreement is **not about what the texts teach about shadows** but about **whether incense is IN the shadow category**. Fair challenge back: *"Which link do you deny? That the ceremonial law is shadow (Paul's word), that shadows are fulfilled in Christ (Hebrews' claim), or that tabernacle incense is part of the ceremonial shadow (Heb 9:4's list)? I'm happy to be corrected, but I need to know which of those three you read differently, because I didn't supply any of them."* **Forcing specification converts "you're misinterpreting" from a conversation-ender into a conversation-opener.**
+**10.4 THE BLOODY/NON-BLOODY REBUTTALS, CONSOLIDATED.** *(Deploy the moment DQ-5 returns "bloody vs non-bloody.")*
+ 
+1. **CIRCULARITY.** The distinction **is the claim under dispute**; invoking it as the rebuttal **assumes what must be established**. *"That distinction is the thing I'm asking you to establish; it can't be assumed as the rebuttal."*
+2. **THE TEXTS' OWN EXAMPLES ARE NON-BLOODY.** Col 2:16-17 applies "shadow of things to come" to **food, drink, festivals, new moons, and sabbaths** — **none a blood rite**. Heb 9:2-4's fulfilled furniture includes **the incense altar, the lampstand, and the table of the bread of the Presence** — **bloodless all**. So the line is **not merely unproven; the EXTENSION OF THE CATEGORY IN THE TEXTS CONTRADICTS IT.**
+3. **THE MINCHAH.** A **bloodless altar offering nobody claims survives**. Third witness. (See §4.8.)
+4. **THE PRIESTHOOD.** **Heb 7:12** changes the law that alone licensed incense; **Lev 16:12-13** places the weightiest OT incense act **inside the Day of Atonement complex Hebrews 9 declares fulfilled**.
+---  
+ 
 ## Changelog
-
+ 
+- **260715-1 (2026-07-15):** **Major expansion from the 260715 patch queue** (Discord intake 7/9-7/15/26 + the conversational-outline build). **New §2.6, the dual-warrant tension** — the sharpest structural lever in the file: the continuity warrant makes incense OLD (and inherits the strange-fire pincer) while the Malachi warrant makes it NEW (and inherits the institution problem); he cannot need both, and the same fork recurs in historical dress (§8) and calendar dress (§9). **New §4.7**, strange-fire pincer jaws 3 and 4 — the compound (Exod 30:34-38, flagged as inference not Stated, deployed as a question only) and method symmetry (grounded in DQ-3/DQ-4, so the warrant demand is his own method), with the Leviticus 10 / Nadab and Abihu symmetry marked save-for-late and soften-to-question. **New §4.8, the minchah fork**, both prongs plus the Malachi 1 context lock and a short conversational form. **New §4.9, the prophetic cult-vocabulary consistency lock** — seven parallels (Mal 3:3-4 as the strongest, with the pre-Christ escape pre-closed via the Gospels' application of Mal 3:1 to John, plus an explicit honest-ranking caveat not to present it as beyond reply; Zech 14 with the eternal-state escape pre-closed and the RJ-specific edge that he cannot take the escape himself; Ezek 40-48 and Jer 33:17-18 both FLAGGED for stress-testing; Isa 19; Isa 56 with the intertestamental/pre-70 reading pre-closed on four grounds; Isa 66 with Rom 15:16 as apostolic commentary), two canonical keys (Hos 14:2 with Heb 13:15; Ps 141:2), one optional widener (Joel 2 via Acts 2), and a drafting caution against the eschatological deflection. **New §4.10, what the incense symbolized and the four-question chain** — the two-layer OT symbolism (daily incense as prayer ascending *through the appointed mediator*; Day of Atonement incense as protective screen for the mediator, plus Num 16's intercessory censer), the type stated precisely with both halves' named antitypes (Rev 5:8 / 8:3-4 for the prayers; Hebrews for the mediator), the chain itself, the analysis that question 4's second half is the sharper edge in an Anglo-Catholic setting because censing by a vested priest at an altar reads as priestly mediation, expected answers with replies, and the reserve asset answering "show me where the NT revokes incense." **New §4.11, the overlap period (AD 30-70) promoted to a named concept** — pre-answers RJ's own Acts 3:1 / synagogue datum (DQ-3), with the Jerusalem council's refusal to route the incoming nations through the sacrificial system as the decisive datum, and a note that it fits JD's partial preterist framework. **New §8, the Anglican-history flank** (supporting, never lead; a tu quoque against the retrieval narrative, pairing with BP-59): the three-century disuse, Elphinstone v. Purchas (1870), the 1899 Lambeth Opinion with the Archbishops themselves drawing the element/circumstance line, the Church of Ireland's outright ban, the three-phase aftermath answering the "1899 was invalidated" objection (defiance, the 1974 repeal of the enforcement regime rather than a vindication, and the fact that nothing was ever positively instituted — legalization by attrition), two edges (repealed vs. decided, with the GV-37 hook that for anyone naming the 1662 BCP as the standard the 1899 Opinion remains the most authoritative unanswered reading of it; and the observation that the "invalidated" objection appeals to institutional drift, which is a strange foundation for a practice defended as commanded), the Andrewes pre-empt, and four hard cautions (no Cranmer quotation is in hand and none may be claimed; do not overclaim "always illegal"; the jurisdiction limit, since this is C of E law that never bound American Anglicanism and must be presented as evidence of shared-formulary meaning rather than authority over St. Francis; and the standing framing rule). **New §9, the Hanukkah pre-empt** with its three limits, chiefly that his own Malachi warrant claim closes the Hanukkah door for incense. **New §10, standing recalibrations and rebuttal handlers:** 10.1 **the hybrid-principle recalibration**, which **supersedes any earlier framing in this file treating RJ as simply normative-principle in practice** (he is a hybrid, and the argument works on either half); 10.2 the Lent calibration rationale, with the reply if someone else raises the parallel; 10.3 the three-step defense of Col 2 / Gal 4 against "you're misinterpreting," built on the minimal reading and returning the burden with his own Christ-in-the-OT teaching; and 10.4 the consolidated bloody/non-bloody rebuttals, staged for immediate deployment the moment DQ-5 returns that answer. Companion patches: `St_Francis_EMC_Distinctives.md` 260715-1 (DQ ledger) and question list v12 (items 1b/1c/1d, 20/21). `On_Incense_and_the_Altar.md` deliberately untouched; the backstage/relay-clean separation holds, and none of the leverage above enters that document.
 - **260621-1 (2026-06-21):** Catch-up reconcile pass — propagated the accumulated incense-relevant findings from `St_Francis_EMC_Distinctives.md` (260621-1), which this file had predated since 260618-1. **§1:** the heaven-earth/altar/incense warrant is now first-person sourced from the 2025 Revelation class (Rev-9/10/11), and the "Malachi demoted" framing was corrected to register-dependent foregrounding (RC3-10 + BP-39). **§2:** new consolidated **§2.5 asymmetry levers** — the burden-of-proof asymmetry (RC3-9 vs. RC5-6, cross-ref `QC-f`, highest-value, Malachi-independent) and the instruments-vs-incense asymmetry (GV-28); §2.2 enriched with the "don't improve the blueprints" instinct (GV-35); §2.3 enriched with the Article 34 abolition-clause + corrected Ritualist mechanism (EXT-1), with a §3 cross-pointer. **§4:** §4.1 now anticipates his concede-then-reclaim counter (RC3-8 / BP-38); §4.5 adds the Rev-class fulfillment restatement that survives the participation escape hatch; **§4.6 upgraded from reserve to a lead self-inconsistency lever** — the "pure offering" parallel-clause inconsistency named (BP-53), with RC3-11 non-propitiatory framing, the BP-43 "in what sense an offering" gap, GV-1 confirming he rejects the Roman conclusion, and the GV-20 anti-metaphorical-realism consistency hook. **§5:** §5.1 adds his verbatim participation warrant (Rev-11) and the participate-in-realities-not-furniture limit (WCF 21.1 / Sanctus test case); new **§5.5** master framing caveat (BP-41/42) — his wedge targets a strict-imperative-RPW caricature the project does not hold. **§6:** GV-30 first-person practice sourcing (incense + ad orientem + 1928→ACNA-2019 edition caveat) logged. Source line updated. Per JD: §6 legacy `Q-Inc-NEW*` labels left as-is this pass (new cross-refs use live labels); em/en-dash policing skipped.
 - **260618-1 (2026-06-18):** Stable-title + date-stamp convention adopted; title de-escaped. Added the INTERNAL STRATEGY / DO-NOT-SHARE banner (this file is backstage; shareable material is in `On_Incense_and_the_Altar.md`). No analytical content changed. Note: the three-bucket element/circumstance/adornment fix that was mis-parked in the distinctives queue belonged to the CR-case prose, not here; it has been applied in the compendium.

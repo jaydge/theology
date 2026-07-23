@@ -1,13 +1,13 @@
 # Questions for Rev. James (RJ) — Final Focused List
-
+ 
 *Canonical working list (internal). Stable title, no version suffix; the working version lives in the line below and the permanent CHANGELOG at the end.*
-
-**Last updated: 260621-1 (v11)** (date-stamped, format yymmdd-iteration)
-
+ 
+**Last updated: 260715-1 (v12)** (date-stamped, format yymmdd-iteration)
+ 
 *Built from St Francis EMC Distinctives, the Lent paper, the FV/NPP/RC-justification paper, and the seed question lists, reconciled against the **first in-person session** (findings IP-2–IP-10), the dedicated incense thread (cross-ref `RJ_Incense_Analysis.md`), and the incense/RPW compendium (`On_Incense_and_the_Altar.md`).*
-
+ 
 *260621-1 (v11) changes (RECONCILE pass against the GV batch — General Videos, Videos 1-13 — intake):*
-
+ 
 - ***Bucket-A eucharist lever (Q4) re-armed content-anchored*** (← GV-15/16/21/36/43/46): a content-anchored re-arm now sits above the lean-based lead phrasing, anchoring on Article 29's *body* ("in no wise … partakers of Christ … the sign or Sacrament") rather than its title, to defeat RJ's now-sourced title-vs-content deflection (GV-43). Four pre-empts attached; the fourth ("benefit not presence") flagged as the one place he retains room.
 - ***QC-a resolved at 0b*** (← GV-43): he makes the title-vs-content argument about **Article 29** by name, so the long-standing hedge's unnamed Article is very likely Article 29 (strong inference, not his explicit equation). 0b updated; still ask it as an on-ramp.
 - ***New gating question 0e, interpretive-priority / lens-priority*** (← GV-44: the communion service is "the lens by which we … interpret the articles, not the other way around"), placed in the Bucket-A scaffolding to deploy BEFORE the single-Article eucharistic/ceremonial levers (Q3/Q4/Q4a/Q7/Q8a); companion to 0b.
@@ -18,16 +18,14 @@
 - ***Malachi reserve updated*** (← GV-1/GV-20): anti-Roman-justification premise confirmed (he'd reject the Tridentine conclusion) and his essence-realist hermeneutic flagged as the same literalizing rule turned against the figurative reading of the "pure offering" / Rev 5:8.
 - ***Do-not-deploy register and deferred formulary-fidelity-check items appended*** (GV-38/27/55/31/48 do-not-deploy; GV-5/6/29/40/28 Bucket-B; 5 fidelity-check items).
 - ***Patch queue cleared.***
-
 *260620-1 (v10) changes (RECONCILE pass against the unified 2026-06-20 patch queue, three source threads):*
-
+ 
 - ***Malachi pure-offering reserve note revised and status-upgraded*** (← BP-53): new lead phrasing presses RJ's own "an image needs a literal referent to work" rule against the "pure offering" half of the very verse (Malachi 1:11) he uses it to defend, closing off the typology-as-such dodge by keeping the question pinned to single-verse, single-rule consistency. Flagged as now substantially stronger than the v9 wording and recommended toward finalist-track; older phrasing retained as backup.
 - ***New open-tracking section, 0d, Spiritual Authority*** added to Bucket A as companion to 0c. Four topics logged (authority limits, grounds for leaving a church, clergy-discipline process, congregant appeals); the fourth carries a first-pass drafted question built on RC7-5, designed to credit the "trust the structure" answer while pressing past it to the captured-structure case. Future intake targets flagged (EMC canons, BCP Ordinal, Article 36 — checked 260620, not directly on point).
 - ***New Q8a retort-handler #4*** added (← EXT-1, new external-research source tag): pontifical vesture (mitre, cope, crozier) specifically, distinct from the chasuble already handled by retort-handler #3. Leads with the mitre's total lack of antiquity, then the Article-34 abolition/19th-c.-Ritualist-reintroduction history, corrected to reflect a divided rather than unified episcopate.
 - ***Patch queue cleared.***
-
 *260619-2 (v9) changes (RECONCILE pass against the BP, "Barely Protestant" YouTube channel, intake):*
-
+ 
 - ***New standalone Bucket A question, 0c, the bishop-authority / conscience-binding mechanism*** added (← BP-49), placed immediately after 0b and before the Q1 incense material. Companion to Q14: Q14 presses the Lenten fast's content; 0c presses the submission mechanism that converts any Scripturally-indifferent practice into a binding obligation once ecclesial authority adopts it. Flagged as practically important independent of its rhetorical value, given the church-membership context.
 - ***Q1 sharpened*** with a current-era, verbatim restatement of the signification problem (← BP-38: "incense is an imagery… An image doesn't work if it's not being used") folded into sub-move (a), and a new framing note (← BP-41) recommended at the head of the question, pre-empting his strict-imperative-RPW counter-case (Lord's Day shift, synagogue worship, Hanukkah) by naming the actual three-part RPW test (command/apostolic example/good-and-necessary inference for elements; prudence for circumstances) before he raises it, and granting exclusive psalmody as common ground rather than defending against it.
 - ***Malachi pure-offering reserve note sharpened*** (← BP-43) with a current-era restatement pressing the gap between his explicit non-propitiatory framing of ceremony and his "pure offering" grounding of incense in Malachi 1:11, plus the Lutheran-adiaphora contrast.
@@ -37,9 +35,8 @@
 - ***D10 (assurance) sourced*** (← BP-29): fills a previously empty "Rev. James" slot with a sourced quote grounding assurance in objective baptism, plus an analysis note on the tension with his apostasy view.
 - ***Five items reviewed and NOT added as new questions*** (BP-19/BP-26 evangelical-identity opener strengthening; BP-27 seven-sacraments strengthening; BP-16 already folded into Q10a above rather than left as a dedup note; BP-29 already folded into D10 above; BP-20 "which dogmatic reasons kept you from Eastern Orthodoxy," a low-priority [Clarify] candidate held back as partially covered by §8 closed-communion material, available later if useful in conversation).
 - ***Patch queue cleared.***
-
 *260619-1 (v8) changes (RECONCILE pass against the RC, Roman Catholicism set, intake):*
-
+ 
 - ***New highest-value question, QC-f, the burden-of-proof asymmetry*** added to Bucket A, folded in beside Q1 as the lead-in framing move. Uses RJ's own anti-papal burden-of-proof method (positive warrant required of the innovator) against his pro-incense burden (retention presumed), pre-empting his likely "doctrine vs. ceremony" rebuttal via the Malachi-bucket pairing.
 - ***New early-priority gating question, QC-a*** added to Bucket A/C, asking which Article's title contradicts its own content (RC1-7's concrete deacon-era anchor for the formulary-self-contradiction hedge). Flagged as the question to ask early, since the answer calibrates every other internal lever.
 - ***Q3 un-gated.*** Elevation and reservation are now independently sourced (RC3-18/23, RC3-27), not merely inferred from the Recon-Euch material. QC-d (adoration of the reserved sacrament specifically, as distinct from reservation for the sick) folded in as Q3's one remaining open prong, not listed as a free-standing duplicate.
@@ -55,17 +52,15 @@
 - ***New Bucket C/D questions, QC-c*** (esse vs. bene-esse development question) and ***QC-e*** (Article 6 / deuterocanon question, low priority) added.
 - ***Papacy confirmed NOT a Bucket A lever in its own right*** (his papacy position is itself "by your own standard" reasoning he deploys against Rome, not a tension within his own view); used only as the QC-f burden-asymmetry engine and as D1/D5/Q5 enrichment, not as a standalone internal-consistency question.
 - ***Patch queue cleared.***
-
 *260618-1 changes (RECONCILE pass — applied and cleared the patch queue):*
-
+ 
 - ***Inc-0 (Malachi 1:11 / RPW funnel) reconciled into Bucket A*** as the logically-prior lead incense question, placed ahead of Q1. Refined from candidate; the two earlier Lutheran candidate questions are superseded by it and dropped per the standing dedup flag. The structural "three-bucket funnel" framing note is retained as a for-me block.
 - ***Q1 boundary sub-move (b) revised*** per the queued REVISE: the weak "sea of glass" example is replaced with the golden lampstand (Rev 1:12; 4:5) and the ark of the covenant (Rev 11:19), with harps kept as the instruments-bridge. The ark is now the single cleanest item (no candle-style partial practice, maximal centrality).
 - ***New Bucket A question — Q-Vest (vestments: black gown vs. white vesture, the "signs preach" principle)*** folded in from the queue, with both retort-handlers and the two honest soft spots (the surplice borderline; "received meaning" vs. textual prohibition).
 - ***Stone-vs-wood-altars*** logged as a pending candidate question (JD handwritten note) for a future pass.
 - ***Patch queue cleared*** (header and footer preserved per the doc's own instruction); durable notes folded into the CHANGELOG.
-
 *Earlier v7 changes (RECONCILE pass — applied the questions-doc patch queue against live state; queue now cleared):*
-
+ 
 - ***Q1 (incense) retargeted.*** The original core question — "your Hebrews fulfillment hermeneutic forbids reviving fulfilled OT ceremonial, so why literal incense?" — was **pre-empted in person (IP-3):** Rev. James drew the fulfillment line around *bloody sacrifice only*, retaining incense/altar/vestments as non-sacrificial. That question is **killed (kept for trail)** and **retargeted** at his actual distinction (← Q-Inc-NEW1): Col 2 / Heb 10 draw the line at *shadow vs. substance*, not blood; Heb 9:4 puts the golden altar of incense itself among the fulfilled "patterns"; Rev 5:8 names the symbol's own meaning. Added Yom Kippur (Lev 16:12–13) and priesthood (Heb 7:12) follow-ups.  
 - ***Incense near-duplicates merged.*** Queue `Inc-7`≈`NEW1` (the fulfilled/retained seam) folded into the retargeted Q1 core. `Inc-9`≈`NEW3` (heaven's-furniture stopping-point) merged into sub-move (b), enhanced with Revelation's self-interpretation of its own white robes (19:8) and incense (5:8) — "things to *reproduce* vs. things to *mean*." `Inc-8`≈`NEW2` (Article 34 status) merged into a new Q1 sub-block — the cleaner fork, now sharpened by IP-4 ("expected of God and required every Sunday"). `NEW4` (Malachi pure-offering) added as a Q1 reserve, cross-ref'd to new Q4a.  
 - ***New Bucket A question — Q4a, Eucharistic sacrifice vs. Article 31*** (← Q-Euch-1, IP-7): Article 31 wasn't covered anywhere; IP-7 has him defending "the sacrifice of the Mass" (union, not re-sacrifice) and calling Rome "more proximate" post-V2. Q-Euch-2 (real presence "after an heavenly and spiritual manner / received by faith," Art. 28) added as its follow-up.  
@@ -74,698 +69,837 @@
 - ***Q5 sharpened*** with Q-SS-5 (IP-9): Article 6 ("not read… nor may be proved thereby, is not to be required") as the positive-warrant teeth under the operative-authority pivot — the SS↔incense engine.  
 - ***Down-weights:*** Gospel/saving-faith cluster formally demoted as a lever (IP-8 confirms robust sola fide; already folded as a lens in Q6/Q9/Q11). Apostolic-succession-as-internal-lever down-weighted in D5 (IP-10: Rev. James holds episcopacy *bene esse*, not *esse*) — D5 retained for its true-church/validity diagnostic value, which is the part I actually care about.  
 - ***Machine-tags added.*** Affected/new questions now carry a compact `[cluster · status · ← findings]` tag, beginning the dual-ID system the Legend already defines, without forcing a full migration this pass.
-
 *Working draft v6 (internal) — built from St Francis EMC Distinctives, the Lent paper, the FV/NPP/RC-justification paper, and the seed question lists.*
-
+ 
 *v6 changes (internal): sourced the list against the uploaded class transcripts — every attribution to Rev. James now carries a verbatim quote with its class or has been redacted to an open question (change 6). Added Cranmer’s Homily Against the Peril of Idolatry material to Q2 (change 1); enumerated the three Article-25 tests of a sacrament in Q7 (change 5); reworked Q14 — removed the unsourceable “required of the clergy” line (change 7) and added an asceticism note (change 8); used 39-Articles citations where an Article is on point (change 2); rephrased “outrun,” “cut against,” “seam/live seam” (changes 3,4,9). Redacted as unsourceable: 1 John 2:19 usage (Q6), fencing on real-presence belief (Q11), “required of the clergy” (Q14).*
-
+ 
 *v5 changes (internal): applied the "Rev. James" naming convention throughout; merged the sixteen **My position (CR)** summaries (= requirement 2a, "my position + its basis") into Q1/Q4/Q5/Q6/Q7/Q9/Q12/Q14 and D1–D6/D9/D10; added **Q10a** on the title "Father." Requirement 2b (Rev. James’s position + verbatim basis) and requirement 1 (a verbatim phrase + class for every RJ reference) are completed for Lent/Ash Wednesday (see Q14 as the worked template) but need the remaining class transcripts re-uploaded to finish — see the Pending note at the end.*
-
+ 
 *v4 changes: promoted **seven sacraments** to Bucket A (Q7) as an Article 25 "by your own standard" lever (retiring it from Bucket D); elevated **Lent/Ash Wednesday** (Q14) from reserve to an active cross-tradition question with the conscience-binding edge, the Matthew 6 / Joel 2 / imitate-the-40-day critique, and the Irenaeus dating point; added the **evangelical-identity opener** at the head of Bucket D; renumbered accordingly.*
-
+ 
 *v3 changes: added **Bucket D — gap-filling diagnostics** (probes into regions the video corpus never covers), including the flagship "Old Catholic" / where-justification-falls question. v2 changes: bronze-serpent datum + sources folded into Q1; Frankfurt-794 and the operative-authority pivot + gentle private-judgment landing into Q5; the communion-of-saints question mapped to invocation; a gated "if he defends veneration" reserve block; a warm Hebrews close; a Sources & precedents note.*
-
+ 
 **Lever tags:** `[by your own standard]` (Bucket A — internal tension with RJ's own formularies or hermeneutic) · `[cross-tradition]` (Bucket B — genuine Reformed/Anglican difference) · `[clarify]` (Buckets C and D — open questions).
-
+ 
 ---
-
+ 
+## Table of contents — the question list at a glance
+ 
+*Auto-built 260715-1. Listed in document order; note the intentional 1 → 1b → 1c → 1d → 1a ordering in Bucket A (the 1x incense cluster runs before 1a, which is a pre-gate for Q2). Retired and awaiting-reply items are marked inline.*
+ 
+ 
+**Bucket A — By your own standard (the priority)**
+ 
+- 0. Malachi 1:11 and the regulative principle — the funnel
+- 0a. The burden-of-proof asymmetry, by your own reasoning HIGHEST-VALUE NEW ITEM
+- 0b. Which Article's title contradicts its content? early-priority gating question
+- 0c. The bishop-authority / conscience-binding mechanism
+- 0d. Spiritual Authority — open-tracking section (companion to 0c)
+- 0e. The interpretive-priority question — does the Prayer Book norm the Articles, or the Articles the liturgy? companion to 0b
+- 1. The incense funnel — keeping incense and the altar while abrogating the sacrificial system the core question
+- 1b. The warrant fork — which warrant is actually doing the work?
+- 1c. The regulation follow-up — where is the manner prescribed?
+- 1d. The method-symmetry question — in his own idiom
+- 1a. Which Homilies do you take exception to?
+- 2. Carved apostle statues vs. the Homily Against the Peril of Idolatry
+- 3. Article 28 vs. reservation, elevation, and reverencing the altar
+- 4. Article 29 vs. your Lutheran lean on the presence
+- 4a. Eucharistic sacrifice and Article 31
+- 5. Conciliar selectivity — who decides which canons bind?
+- 6. Baptismal objectivity vs. your own use of 1 John 2:19 (and Article 17)
+- 7. Seven sacraments vs. Article 25 — [RETIRED]
+- 8. The Perkins question
+- 8a. Vestments: black gown vs. white vesture, and the "signs preach" principle
+**Bucket B — Genuine cross-tradition differences**
+ 
+- 9. Baptismal regeneration
+- 10. Absolution restricted to the ordained
+- 10a. Being styled "Father"
+- 11. Real-presence belief as a condition for receiving
+- 12. Atonement — ordering Christus Victor and penal substitution
+- 13. The element/circumstance line and the regulative principle
+- 14. The church calendar and mandatory fasts (Lent and Ash Wednesday)
+**Bucket C — Clarifications (quick, friendly, do these first)**
+ 
+- 15. Invocation of saints
+- 16. Marian doctrines
+- 17. Would you *defend* icon veneration, or only decline to impose it?
+- 18. Observed practice — icons and the carved statues
+- 19. The deuterocanon and Article 6's "not to establish doctrine" clause (lower priority)
+- 20. The Article 25 grace sub-question
+- 21. The Exodus 30 compound question
+**Bucket D — Gap-filling diagnostics**
+ 
+- Opener — evangelical, or something else now?
+- Justification and the gospel's material principle (highest payoff)
+- Election and atonement
+- Church, ministry, and succession
+- Sacraments, necessity, and rites
+- Assurance and eschatology
+---
 ## Framing note (for me, before the conversation)
-
+ 
 Credit what is sound first — it sets up everything in Bucket A. RJ is genuinely strong where it matters most: sola fide and imputation, *simul iustus et peccator*, covenant theology and one-people-of-God, anti-dispensationalism, high classical-theist Christology, word-and-sacrament union, exegesis-not-isogesis, the *norma normata* doctrine of the fathers, refusing to dogmatize beyond scriptural warrant, rejecting transubstantiation and any re-sacrifice, declining private Masses, and standing against withholding the cup. That is a serious Protestant rule of faith.
-
+ 
 The tension in Bucket A is therefore **not** "you're a crypto-Romanist on authority." It's the narrower, friendlier observation that **his ceremonial practice reaches further than the hermeneutic he applies everywhere else.** He won't bind the four-living-creatures-as-the-four-Gospels reading because Scripture doesn't warrant it — admirable restraint — yet he derives physical worship practice from a symbolic apocalyptic vision. Frame the "by your own standard" questions in that register: admiring of his consistency on doctrine, locating the tension precisely in practice.
-
+ 
 *Historical note worth holding in mind:* "your ceremonial reaches past your hermeneutic" is not a Reformed import. It's an old *intra-Anglican* fault line — the Laudian "altar wars" of the 1630s — and the Reformed side of it was argued by conforming members of his own communion appealing to the English formularies (see Sources & precedents, end).
-
+ 
 **His own named standards (← GV batch) — frame the levers as appeals to HIS standards.** On record he names the **1662 BCP** as the benchmark "all prayer books are supposed to conform theologically to" (GV-37), cites the **Thirty-Nine Articles** as his own standard when it suits him (e.g. grounding baptismal efficacy in them, GV-23), and self-identifies as a **Reformed-Anglican / Caroline-divine / "reformed catholic"** who locates catholicity *in* the Reformation (GV-10/11). So pose every Bucket A lever as "your 1662, your Articles, your Reformed-catholic heritage," not "a standard we now jointly adopt." Calibration (RC1-7) still holds: the Articles bind him by affirmation-with-latitude, not juridical subscription — phrase it as "what you affirm," not "what you're required to subscribe." **Citation order:** lead with **1662 + the Articles** (edition-stable); he switched his liturgical book to the ACNA 2019 around 2022 (GV-54), so "your 1928 book" is weaker leverage now.
-
+ 
 **His own authority locus (← GV-52/53) — keeps the Article-34 question internal.** His positive account of authority is **provincial / conciliar**, not monarchical or papal: royal supremacy is civil/protective ("a David character … cannot establish doctrine," GV-52); the particular/national church governs itself, "first among equals," not under a universal jurisdiction (GV-53). Use this to pose the ceremonial-authority question entirely on his terms: by whose particular-church authority do his incense, ad orientem, and pontifical vesture stand — the EMC's, or the Oxford Movement's? (See 0e and Q8a.)
-
+ 
 ---
-
+ 
+## Posted / awaiting reply — live Discord thread status (as of 260715)
+ 
+*New in v12. This section tracks questions that are **already in front of RJ** and not yet answered. One-question-per-turn discipline holds; nothing below gets a companion question until it lands.*
+ 
+**★ CRUX — the OT filter question** `[posted 260715 · awaiting reply]` `(← DQ-5; the hinge of the whole funnel)`
+ 
+> *Posted text (in substance):* agreement that the wholesale "no OT examples" position is incorrect, since Reformed theologians do use the OT as a basis for worship practices observed today (the Lord's Day partly from creation and the fourth commandment). **"So the issue is probably not whether OT examples count, but which ones transfer to today. Presumably not everything does: I assume you don't hold that worship today requires an Aaronic priesthood or the Passover lamb. How do you decide what carries over and what doesn't?"**
+ 
+**[For me]** *This is the hardest question RJ has faced in the sequence. The earlier ones let him enumerate history, quote a Homily, or refute an extreme position; **this one asks him to produce a criterion**, and he has never stated one in any logged source. Note the deliberate design: the Aaronic priesthood and the Passover lamb are **neutral** examples, so the question cannot be read as a trap with incense behind it. **Incense does not enter until his filter is on the record in his own words.***
+ 
+*Routing on his four likely answers:*
+- ***"Bloody vs non-bloody"*** *→ his distinction finally on the record in his own words. Deploy the prepared rebuttals: Col 2:16-17's own worked examples are bloodless; Heb 9:2-4's fulfilled furniture is bloodless; the minchah is a bloodless altar offering nobody claims survives. See `RJ_Incense_Analysis.md`, consolidated bloody/non-bloody rebuttals.*
+- ***"What the church retained"*** *→ **tradition named as the filter, in his own words.** That is the tradition diagnosis, conceded rather than charged.*
+- ***Examples instead of a rule*** *(his established pattern — the RPW answer was five examples and no principle) → narrow once, gently: "Those are cases; what's the rule behind them?"*
+- ***No crisp rule*** *→ offer the shadow/substance line (Col 2:16-17; Heb 10:1) and ask what's wrong with it. Offering the rule is friendlier than demanding one, and it puts a Reformed criterion in front of him for critique rather than for defense.*
+**[Bump discipline — important]** *His pattern is slow-batch replies, often only after a tag. **Wait longer than prior bumps on this one.** Pressing a question this committal can read as cornering. Softest bump form re-anchors in agreement: "No rush on this one; I realize it's the crux question, since we agree on the principle and this is where the applications divide." That doubles as a quiet reconfirmation of the DQ-4 warrant affirmation.*
+ 
+**The self-contradictions closure question** `[posted 260715 · awaiting reply]` `(← DQ-1; locks the enumeration)`
+ 
+> *Posted text:* **"Thanks, the Article 29 history with Bishop Guest was genuinely interesting, and I'd take you up on those Tobit examples whenever you have your copy handy. One clarifying question: are those two (29, and VI on the Apocrypha) the main tensions you see across the formularies, or are there others you'd flag?"**
+ 
+**[For me]** *Purpose is to **lock the enumeration**. If he answers "those are the main ones," any later appeal to unenumerated self-contradictions on Articles 20 or 34 is foreclosed by his own on-record answer — which is what keeps the Bucket A worship levers ungated (DQ-1 gate result). The warm opener is load-bearing: the question is a lock disguised as a courtesy, and the Tobit follow-up is a genuine offer that costs nothing and keeps the thread friendly.*
+ 
+---  
+ 
 ## Bucket A — By your own standard (the priority)
-
+ 
 ### 0. Malachi 1:11 and the regulative principle — the funnel `[by your own standard]`
-
+ 
 `[Q-Inc-0 · finalist-track · ← this thread; supersedes the two Lutheran candidate questions; see On_Incense_and_the_Altar.md and RJ_Incense_Analysis.md]`
-
+ 
 *Logically prior to Q1: it establishes where incense sits in the element/circumstance/adornment scheme before Q1 contests the fulfillment line. Friendly relay form of this question lives in `On_Incense_and_the_Altar.md` as Q0.*
-
+ 
 **The question:** "You hold to the regulative principle of worship [SOURCING: cite the class/session if verbatim; otherwise hedge to 'You've indicated you hold to the regulative principle']. I'm trying to understand where incense sits within it, and Malachi 1:11 seems the natural place to look, since you've pointed to it. First, so I don't misread you: do you understand the censing as itself an act of worship offered to God, or as a non-worship aid to the setting? Malachi's 'pure offering' and the Revelation mirroring both seem to place it in the former. Then the main question: do you read Malachi 1:11 as a command to burn material incense in new-covenant worship? If you do, would you regard incense as therefore a mandatory part of the church's worship rather than optional, and how do you take 'in every place… a pure offering' given that Revelation 5:8 identifies the incense of the heavenly worship as 'the prayers of the saints'? If you don't read it as a command, what is the warrant that brings incense within the regulative principle — since under the RPW an act of worship needs positive warrant?"
-
+ 
 **[For me — structural framing note, not for relay]** *This is the funnel. RJ has three jointly-exhaustive positions: (1) circumstance — fails, incense is not a modal condition of a commanded act nor common to human gatherings; (2) adiaphora / free ceremony — closed to him by his own rationale, since he defends incense by sacred signification (prayers of the saints, mirroring heaven) and offering-language, not by fittingness; (3) element / commanded — the only bucket that keeps both the signification rationale and the right to do it, which forces reliance on Malachi 1:11 as the command. So the case rests structurally on this one verse. The non-worship escape hatch is foreclosed by RJ's own grounds: Malachi 1:11 is cultic vocabulary (minchah "pure offering," "offered to my name"), and "mirroring heavenly worship" is itself a worship claim — the texts that license it are the texts that classify it. Tell to listen for: a purely functional defense (odor, focus, ambiance) is the honest non-worship version, and no one cites Mal 1:11 or Rev 5:8 for air freshener. Malachi fault lines for round two (do not deploy all at once): genre is prophecy not imperative; "pure offering"/incense is prophetic idiom for prayer/praise ascending, decoded by Rev 5:8 (antitype names itself); "in every place" does anti-Levitical work (worship no longer temple-bound), cutting against importing temple ceremonial. Patristic caveat: some fathers read Mal 1:11 eucharistically (offering = Eucharist), which routes to Eucharistic-sacrifice / Article 31 territory (Q4a), not to a command to burn incense.*
-
+ 
 ---
-
+ 
 ### 0a. The burden-of-proof asymmetry, by your own reasoning `[by your own standard]` ★★ HIGHEST-VALUE NEW ITEM
-
+ 
 `[QC-f · finalist-track · ← RC5-6, RC3-9, RC5-7; new in v8 from the RC intake]`
-
+ 
 *Pairs with Q0 as a second, independent funnel into the same place: it doesn't depend on Malachi at all, so it survives even if he reframes or softens the Malachi warrant. Lead with this or Q0, then move into Q1.*
-
+ 
 **The question:** "When you weigh the papal claims, you ask Rome to show them positively from Scripture and from church history, and you decline to presuppose the practice and put the burden on the objector to disprove it. When you weigh incense, the burden seems to run the other way: it's in the Old Testament and in the worship of heaven and never negated, so you'd want a strong argument to exclude it. Help me see why a contested ceremonial practice gets the benefit of retention in the one case but has to clear positive warrant in the other. And if the distinction is that the papacy is doctrine while incense is adiaphora, I'd want to ask whether incense really is adiaphora for you, given that you ground it in Malachi and in heavenly worship and treat it as expected every Sunday, which sounds less like a thing indifferent and more like a thing positively warranted."
-
+ 
 **[For me]** *The strongest new lever for the incense priority, because it uses RJ's OWN anti-papal burden-of-proof method against his pro-incense burden, and pre-empts his likely "doctrine vs. ceremony" rebuttal with the Malachi-bucket pairing. Grounded in his own words on the papacy ("they need to show that as biblical and as historical … we don't get to presuppose that … and then I have to prove it wrong," RC5-6) set against the incense burden-inversion ("never negated," RC3-9); reinforced by his rejection of "it could still be true technically" reasoning on the papacy (RC5-7), which is part of his own incense "it isn't negated" defense. Distinct angle from Q0 (the Malachi/RPW funnel), Q1 (incense/altar), and Q5/Q13 (element vs. circumstance); cross-reference Q0's Malachi-bucket analysis, which supplies the rebuttal-closer if he reaches for "incense is adiaphora, not doctrine."*
-
+ 
 **Rev. James (sourced, RC set):** *On the papacy, the burden-on-the-innovator framing is his own stated method (RC5-6), not a CR import. On incense, the burden-inversion is equally his own (RC3-9: "I need a strong argument" to exclude something present in the OT, never negated, and present in heaven's worship). Both quotes are his; the juxtaposition is the only thing supplied.*
-
+ 
 ---
-
+ 
 ### 0b. Which Article's title contradicts its content? `[clarify → gates all of Bucket A]` ★ early-priority gating question
-
+ 
 `[QC-a · finalist-track · ← RC1-7; new in v8 from the RC intake]`
-
+ 
 *Structurally important: this operationalizes the single most important Bucket A gating variable into one askable item. Ask this early, ideally before leaning hard on any single-Article lever (Q3, Q4, Q4a, Q7), because the answer calibrates how much weight any one Article can bear for him.*
-
+ 
 **The question:** "You've mentioned more than once that the formularies aren't perfectly self-consistent, and at one point you noted that one of the Articles has a title that doesn't quite match its own content. Which Article did you have in mind? Understanding where you see the Articles in tension would help me know how much weight any single one can bear."
-
+ 
 **[For me]** *He states the title-vs-content contradiction on camera (RC1-7) but does not name the Article. This is not a duplicate of the existing "formulary-authority" open question already on record from the in-person session (see the distinctives doc, §Formularies OQ block); that one asks broadly which contradictions he holds and how binding he takes the Articles to be, while this one is the narrow, concrete, easy-to-answer version aimed at the specific title/content example he's already given twice. Ask this first as an easy on-ramp; the broader formulary-authority question can follow if his answer here opens the door. **RESOLVED (← GV-43):** he now makes the title-vs-content argument about **Article 29** *by name* — its title "would suggest a calvinistic receptionist view," but "the content … does not demand such an interpretation as suggested by its title." So the likely answer is **Article 29**. Still worth asking as an easy on-ramp (and to confirm he means Art. 29, not another), but be ready: when he names it, the move is to anchor the eucharist lever on Art. 29's *content* (Q4), which carries the receptionism regardless of the title. (Identification of this with the RC1-7 self-contradiction hedge is a strong inference, not his explicit equation — flagged.)*
-
+ 
 ---
-
+ 
 ### 0c. The bishop-authority / conscience-binding mechanism `[by your own standard]`
-
+ 
 `[← BP-49; new in this pass from the BP intake; standalone Bucket A entry per JD's placement decision]`
-
+ 
 *Companion to Q14, not a duplicate: Q14 presses the Lenten fast's CONTENT; this presses the SUBMISSION MECHANISM that converts any Scripturally-indifferent practice into a binding obligation once ecclesial authority adopts it. Practically important to JD independent of its rhetorical value, given the church-membership context.*
-
+ 
 **The question:** "You've said observing Lent or Ash Wednesday isn't required by Scripture, and no one is condemned for skipping them — but you've also said that once your bishop has decided the parish will observe them, declining becomes a sin, located not in the non-observance itself but in rejecting the authority you've placed yourself under. I'd like to understand the warrant for that second step. Scripture leaves the keeping of days to conscience (Romans 14:5-6; Col 2:16) without an exception clause for 'unless your bishop has decided otherwise.' So where does the authority come from to convert a Scripturally-indifferent practice into a binding obligation, on pain of sin, simply because a bishop or synod has corporately adopted it? And how do you avoid the concern the Westminster Confession raises at this exact point (20.2) — that requiring 'an implicit faith and absolute… obedience' in matters Scripture leaves free is itself destructive of liberty of conscience — not because bishops lack real authority, but because this particular kind of authority-claim seems to prove too much: on its own logic, almost any practice, however unwarranted in itself, becomes binding the moment a bishop or synod adopts it corporately. What's the principled stopping point?"**
-
+ 
 **[For me]** *Distinct from Q14(a) (the conscience-binding edge of Lent's specific content). This question is prior to and broader than Q14 — it targets the bishop's-decision-as-such mechanism, independent of what the practice is, and would apply to any Scripturally-indifferent practice a bishop or synod adopted. It also tests whether Article 34 (the Church's power to "ordain, change, and abolish" ceremonies) is being asked to do double duty: first to justify a ceremony's existence, second to convert ecclesial adoption into a personal-conscience-binding obligation under pain of sin — which Article 34 does not obviously license on its face (it authorizes the Church to set ceremonies; it does not plainly say individual non-compliance with an adopted-but-Scripturally-indifferent ceremony is itself sin). Sourced verbatim, current-era (BP-RPW).*
-
+ 
 **Rev. James (sourced, BP-RPW):** *"We do not hold to the position that you must observe Lent… or you are going to hell… Now, it might be a question of… mitigating factors. So like I have decided to place myself under a bishop and the expectation from the bishop is that we are going to follow the prayer book. And I just say, you know what? I don't care… And I'm just sort of like rejecting the authority of my bishop who says, hey, since you're under my authority, this is what we do. Now, that is something that could put my soul in danger, not because… you're not observing or celebrating these particular feast days, but because now you are actually rejecting the proper authority that you are under." Generalized to a synod of bishops setting tradition-wide practice; explicit that the observance itself is "nothing… damnable" and "not required by Scripture."*
-
+ 
 ---
-
+ 
 ### 0d. Spiritual Authority — open-tracking section (companion to 0c)
-
+ 
 `[new open-tracking scaffolding · 260620 · no BP/RC findings drafted yet except Topic 4]`
-
+ 
 *Relationship to 0c: 0c already covers whether a bishop's adoption of a Scripturally-indifferent practice can convert non-compliance into sin (WCF 20.2). This section covers the broader, previously unaddressed terrain: general limits of a rector/bishop's authority, grounds for a member leaving a church, how clergy sin is addressed, and what appeal mechanisms (if any) exist above the local rector/bishop within EMC polity.*
-
+ 
 **Topics tracked (raw, pre-question-drafting except Topic 4):**
-
+ 
 1. **Limits of spiritual authority** — what a rector/bishop's authority over a congregant does and does not extend to.
 2. **Grounds for leaving a church** — when is it permissible (not sinful, not "rejecting authority" in the 0c sense) for a member to leave a congregation/jurisdiction they formally joined.
 3. **Discipline of clergy sin** — how misconduct by a pastor/priest/bishop is addressed within EMC polity; who initiates, who adjudicates, what the process is.
 4. **Higher appeals by congregants** — what recourse a congregant has if a rector/bishop has acted wrongly, erred doctrinally, or abused authority. **DRAFTED — see below.**
-
 **Topic 4 — first-pass drafted question**
-
+ 
 *Working title: Congregant appeal/recourse against a captured or complicit authority structure (companion to 0c)*
-
+ 
 **Lead-in:** "You've said (RC7-5) that the keys and binding-and-loosing in Matthew 16 and 18 belong to the apostolic college as a whole, not to one bishop alone, and that you read this as an appellate, disciplinary structure — a reading you specifically align with the Reformed account over the Roman one. I want to ask about the congregant-facing side of that structure, not the inter-episcopal side."
-
+ 
 **The question:** "If a congregant comes to believe their own rector or bishop has acted wrongly — doctrinal error, abuse of office, or worse — what recourse does that congregant actually have, on their own initiative, without depending on someone above that bishop choosing to act? Is there a synod, a court, a higher bishop they can appeal to directly? And I want to press past the healthy-structure case: I'd expect the answer 'the structure is built to self-correct, his superiors will deal with it' — and I'd credit that as a real answer, not a dodge, when the structure is working as intended. But the case I actually care about is the structure not working as intended: where the people who'd need to self-correct are the ones protecting the wrong, or where the congregant who raises it faces retaliation instead of a hearing. In that case, does the congregant themselves have any right of appeal or recourse that doesn't depend on a superior's discretion — or is the honest answer that there isn't one, only trust in the structure?"
-
+ 
 **[For me — not for relay]** *Deliberately built to pre-empt and then move past the most likely answer rather than be surprised by it. The self-correction answer is genuinely responsive to the healthy-structure case and should be credited as such in the moment — don't treat it as a non-answer if that's as far as it goes on a first pass. But it doesn't answer the captured-structure case; the question needs a visible second beat (the "I want to press past..." sentence) to surface that, or the conversation ends at the comfortable answer. If RJ's honest answer is "no individual congregant-initiated appeal right exists, only trust in the structure," log that as a finding in its own right — a real and useful data point, not a failed question.*
-
+ 
 **[For me] Relationship to RC7-5:** *RC7-5 gives RJ's own stated in-principle view of how binding-and-loosing/discipline should work — appellate, collegial, not unilateral. This question tests whether that in-principle structure cashes out as an actual congregant-facing mechanism within EMC polity specifically, or only describes how higher clergy check each other, with no entry point for the person in the pew. If EMC canons can be located before this is asked, sharpen further to name the actual (or actually-absent) mechanism rather than asking RJ to describe it from scratch.*
-
+ 
 **[For me] Relationship to 0c:** *0c asks whether episcopal adoption of an adiaphoron can convert non-compliance into sin. This question is the mirror case: not "can authority bind a free practice," but "what happens when authority is exercised wrongly, and does the congregant have any standing of their own." Keep as a distinct companion question rather than merging — they test different failure modes of the same authority structure.*
-
+ 
 **Anticipated deflection to pre-empt:** *RJ (or any defender of episcopal polity) may answer that congregants don't need an appeal right because the structure of authority is trusted to self-correct. This is a real answer, not a dodge, and should be credited as such if given — but it only answers the case where the structure is functioning as intended. The live concern is the structure when it is not functioning as intended, including documented patterns of retaliation against complainants in churches and other organizations generally. The self-correction answer is non-responsive to this case by hypothesis.*
-
+ 
 **Working notes / sources to check (future intake, not this pass):**
 - EMC canons or constitution, if locatable.
 - BCP Ordinal (1928/1662) — vows taken by priests and bishops.
 - Article 36 (Of Consecration of Bishops and Ministers) and adjacent Articles on ministerial authority. [Checked 260620: Article 36 itself does not directly address discipline/appeal mechanisms; Article 34's corporate-authority language remains the more relevant existing formulary anchor.]
 - RJ's own statements on church discipline or leaving a church, if any surface in future transcript review.
 - Reformed comparison points: WCF 31 (synods/councils), WCF 30 (church censures), Presbyterian court-of-appeal structure (session → presbytery → synod/GA) as the connectional contrast to Continuing Anglican episcopal polity.
-
 ---
-
+ 
 ### 0e. The interpretive-priority question — does the Prayer Book norm the Articles, or the Articles the liturgy? `[clarify → gates the eucharistic/ceremonial Article levers]` ★ companion to 0b
-
+ 
 `[QC-lens · finalist-track · ← GV-44; new in v11 from the GV intake]`
-
+ 
 *Gating, like 0b: deploy BEFORE the single-Article eucharistic/ceremonial levers (Q3, Q4, Q4a, Q7, Q8a). 0b asks WHICH Article he holds in tension; this asks, when an Article and the Prayer Book pull apart, WHICH norms which. If the liturgy is allowed to norm the Articles, the Article-29 content lever (Q4) can be deflected through the communion-service lens before it lands — so settle the direction of normativity first.*
-
+ 
 **The question:** "When the Thirty-Nine Articles and the Prayer Book communion service seem to pull in different directions, which one norms the other? You've said the communion service is 'the lens by which we should interpret the articles, not the other way around.' I'd like to understand the warrant for that ordering. In the subscription tradition the Articles are the church's confessional standard and the liturgy is read in their light — the confession norms the prayer, not the reverse. On what authority does the liturgy norm the Articles here, rather than the Articles norming the liturgy?"
-
+ 
 **[For me]** *This is GV-44, his own master interpretive move, and it is the premise behind every narrow / title-vs-content reading of the anti-Roman Articles — including the Article-29 deflection (0b/Q4) and the narrow Article-31 reading (Q4a/GV-45). If he reads the Articles through the more ceremonially generous communion service, the content levers soften. The counter is the subscription tradition: clergy subscribe the Articles as the doctrinal standard; the liturgy is normed by them, not vice versa. Don't try to win it outright in the moment — the point is to surface the ordering so that, when Q4 lands on Article 29's content, he can't simply re-route it through the liturgy without first defending why the liturgy gets to norm the confession. Credit the genuine Anglican point that lex orandi informs lex credendi; locate the limit at letting the liturgy overturn the subscribed Article's plain content.*
-
+ 
 **Rev. James (sourced, GV):** *"the lens by which we should interpret the articles … not the other way around" (GV-44, a202 L2/V10). His Article-29 title-vs-content move (GV-43) and his narrow Article-31 reading (GV-45) are the two clearest products of this lens.*
-
+ 
 ---
-
+ 
+### 1. The incense funnel — keeping incense and the altar while abrogating the sacrificial system `[by your own standard]` ★ the core question
+ 
 `[Q-Inc-1 · finalist · ← IP-2, IP-3, OQ8/§13; absorbs queue Inc-7, NEW1; see RJ_Incense_Analysis.md]`
-
+ 
 *This is the one to invest in. Everything else in Bucket A is secondary to it.*
-
+ 
 **Framing note, pre-empt early if Q1/Q0 opens into a general RPW discussion (← BP-41):** *He has a developed counter-case against strict-imperative RPW (no explicit command for the Lord's Day shift from Saturday to Sunday, synagogue worship, OT liturgical-calendar additions like Hanukkah) that he'll likely reach for. None of these are live counterexamples to the position actually being argued here: the Lord's Day rests on approved apostolic example (one of WCF 21.1's three warrants for an element), and the synagogue/meeting-place is a circumstance, not an element. It may help to name this explicitly and early: "I want to flag that I'm not defending a bare 'nothing without an explicit command' RPW — that's not actually my position, and I think it's vulnerable to exactly the counterexamples you'd raise. My test has three parts: command, apostolic example, or good-and-necessary inference, for elements; prudence for circumstances. Where does incense land on that test?" This pre-empts a real chunk of his strongest material and keeps the conversation on the actual disagreement rather than a stronger position he's arguing against that isn't held here. Also worth naming up front: his lead example against strict RPW is usually exclusive psalmody (Puritans resisting the Magnificat) — that's not held here either, so it can simply be granted rather than defended against, which keeps the conversation moving toward the real disagreement faster.*
-
+ 
 **v7 post-session retarget.** In the first in-person session **Rev. James pre-empted the original core question** (IP-3): he draws the fulfillment line around the *bloody sacrificial* system only, and keeps incense, altar, and vestments as *non-sacrificial* ceremony that survives fulfillment. So the lever is no longer "Hebrews forbids reviving fulfilled ceremonial" (he'll say incense was never the kind of thing that got fulfilled) — it is now: **is the bloody/non-bloody line the line Scripture actually draws?** The original core is retained below struck-through for the trail; the live core targets his real distinction.
-
+ 
 **Opening (credit, then locate the tension):** "You won't dogmatize the four-living-creatures-as-the-four-Gospels reading, because Scripture doesn't warrant binding it — and in the Christ-in-the-OT class you argue that Hebrews forbids reviving fulfilled OT ceremonial, because to re-adopt a fulfilled shadow is to say *liturgically* that Christ has not yet come. Yet incense and the altar are, on your own stated rationale (Exodus 30, Malachi 1:11, and the heavenly liturgy of Revelation 8), 'a standard part of our worship.' So my question is internal, not a Reformed broadside:"
-
+ 
 **The core question (retargeted — IP-3):** **"You keep incense, altar, and vestments by abrogating the *bloody* sacrificial system while retaining the non-sacrificial ceremony. But Colossians 2 and Hebrews 10 don't draw the line at blood — they draw it at *shadow and substance*: 'a shadow of the things to come, but the body is of Christ.' And Hebrews 9:4 lists the golden altar of incense itself among the furniture of the first tabernacle — the very 'patterns of things in the heavens' (9:23) fulfilled when Christ entered the true sanctuary. So the question isn't whether incense was bloody; it's whether incense is a *type whose substance has come*. Revelation 5:8 even tells you what the incense *is* — 'the prayers of the saints.' If the text names its own symbol's meaning, why reproduce the symbol instead of offering the thing it signifies?"**
-
+ 
 *~~Original core (pre-empted IP-3, kept for trail):~~ ~~"How is burning literal incense — an OT tabernacle rite you yourself read as a fulfilled type of 'the prayers of the saints' and of Christ's intercession — not the very move your Hebrews argument forbids?"~~*
-
+ 
 **Two follow-ups that tighten the bloody/non-sacrificial seam (have ready):**
-
+ 
 - ***Yom Kippur.*** *"The weightiest incense in Torah is the high priest's censer carried inside the veil on the Day of Atonement (Lev 16:12–13) — incense set* within *the atonement ritual Hebrews 9 says Christ fulfilled. On what grounds is* that *incense 'non-sacrificial'?" Pins the cleanest case where incense is not separable from the sacrificial system he concedes is fulfilled.*  
 - ***Priesthood.*** *"Incense was priest-only on pain of death — Nadab and Abihu, Korah, Uzziah. Hebrews 7:12: 'the priesthood being changed, there is made… a change also of the law.' If the priesthood that licensed incense is changed, on what footing does the incense survive the priesthood?"*
-
 **Two counters he has already given in the RC set (anticipate, don't just react) (← RC3-8, RC3-9, new in v8):**
-
+ 
 - ***The symbol-needs-presence move (RC3-8).*** He concedes incense symbolizes prayer, then argues "a symbol doesn't work well if it's not there," using the symbolism itself to justify the physical object. Pre-empt it directly: "I'd grant a symbol can helpfully embody what it signifies. But the question isn't whether a physical symbol* can *help; it's whether* this *one is commanded, and whether the thing it signifies, the prayers of the saints, is itself the fulfilled reality Hebrews says we now have directly, without the shadow. A symbol 'working well' isn't the same as a symbol being warranted."*  
 - ***The burden-inversion move (RC3-9).*** He argues incense is in the OT, "never negated," present in heaven's worship, and prophesied in Malachi, so a "strong argument" is needed to exclude it, answering the silence-in-Acts objection by analogy to women receiving communion. This is the move QC-f targets directly (the papacy/incense burden-asymmetry); if he reaches for it here, pivot to QC-f rather than re-litigating it in place.
-
 **Then grant his strongest answer — heavenly-pattern participation — and locate the limit, don't deny it:**
-
+ 
 "I want to take the strongest form of your reply: you're not reviving Exodus 30; you're *joining* the heavenly worship John saw, which is present and ongoing — the Sursum Corda, 'our worship is reflecting their worship.' I grant that fully. The Reformed affirm real participation in the heavenly worship too — Hebrews 12:22–24, Calvin's *sursum corda*. So the question isn't *whether* we participate. It's whether a vision of heaven's *symbolic furniture* is a prescription to reproduce that furniture *physically* in the assembly. Three things make me doubt it does — and each is drawn from your own readings:"
-
+ 
 - ***(a) The signification problem.*** *You read the heavenly bowls and smoke as a symbol — Revelation itself interprets them as "the prayers of the saints," and you say incense is "symbolic of prayer" (Ps 141:2). So the vision hands you the thing signified (prayer ascending; Christ's intercession) and the interpretation of the symbol — not a command to burn the physical signifier. And the censer is in the angel's (or, on your reading, Christ's) hand, not a thurifer's.*
-
   ***Current-era restatement, sharpest available form (← BP-38):*** *A freshly dated, verbatim concession in his own polemical voice (not a teaching context) grants exactly this premise: "incense is an imagery… We're not saying that the incense is the actual prayers, right?" His rejoinder, also verbatim: "An image doesn't work if it's not being used. It has to be used for it to work." Meet it directly: "I'd grant images can embody what they signify. But on your own Hebrews/fulfillment hermeneutic — that reviving fulfilled OT ceremonial implies Christ hasn't come — the question isn't whether the image 'works' experientially. It's whether a fulfilled shadow needs to still be physically enacted at all once the antitype has arrived. You yourself name the antitype: the prayers of the saints, Revelation 5:8. Why does the shadow need running once you have the substance?"*  
 - ***(b) The selectivity / genre problem — the stopping-point question.*** *You read the 24 elders, the living creatures, the slain Lamb, and the bowls as symbols — you won't seat 24 literal elders. Why is incense the one item of heavenly furniture reproduced as a literal physical object on earth? Sharpen it to the single best form (← merges queue Inc-9, NEW3; boundary-example REVISE applied 260618 — sea of glass dropped as too weak, it reads as setting/landscape not cultic furniture, so it let him deflect on a scenery-vs-furnishing category difference; replaced with unmistakable temple furniture): "The same vision shows a golden lampstand and the ark of the covenant in the heavenly temple (Revelation 1:12; 11:19), both literal pieces of tabernacle furniture, plus harps and trumpets. You don't build an ark or set up a lampstand. What's the principle that brings the incense and the altar down into the room as physical objects, but leaves the ark and the lampstand in the vision? And when the same book interprets its own white robes as 'the righteousness of saints' (19:8) and its own incense as 'the prayers of saints' (5:8) — why read those two as things to* reproduce *rather than things to* mean*?" This is the one most likely to make him reach for an unstated principle. **[For me]** Caveat to carry: the lampstand is the one item where RJ has a partial answer (churches light candles, and Rev 1:20 interprets the lampstands as the seven churches) — but that self-interpretation actually helps the CR point (the vision interprets its own furniture symbolically), so be ready for "we do have light." The ark and harps have no such escape; the ark is the single cleanest item — maximal centrality, impossible to call scenery, no candle-style partial practice. Rev 1:20 is a third instance of the consistent thread "the vision interprets its own furniture," alongside the robes (19:8) and the incense (5:8).*  
 - ***(c) The fulfillment problem (the strongest).*** *On your own reading, Revelation 8 confirms the fulfilled reality — Christ's heavenly intercession plus the saints' prayers — which is exactly what Hebrews says replaces the shadow. So the vision points* away *from re-materializing the altar and incense, toward the fulfilled reality. The Sanctus is the test case we both accept: we sing "holy, holy, holy" with the angels — real participation — without installing a sea of glass.*
-
 **Closing note (regulative authority):** *Even granting heavenly participation, the regulative authority for new-covenant elements is Christ's institution and apostolic practice — the nearest Anglican formularies being Article 20 (the Church may not ordain anything “contrary to God's Word written”) and Article 34 (on ceremonies), though both are more permissive than the Reformed rule at WCF 21.1; the NT descriptions of gathered worship (Acts 2:42; 1 Cor 11–14; Col 3:16; Eph 5:19; 1 Tim 2) prescribe Word, prayer, sacrament, psalmody — and contain no instituted incense, altar-sacrifice, or thurifer for the assembly. A vision of heaven is not a church order. (His "Jesus at the synagogue / Hanukkah" examples are descriptive, not prescriptive — and the synagogue is itself a* circumstance*.)*
-
+ 
 **The Article 34 fork (← IP-4, IP-5; merges queue Inc-8, NEW2 — the cleanest single internal lever on status):** *In person he calls his view the regulative principle "rightly understood" and the normative principle "loosey-goosey," yet he also calls incense **expected of God and required every Sunday**. Force the status: "Article 34 gives the Church authority only over ceremonies 'ordained only by man's authority' — changeable, to edifying. So which is incense? If it's an Article 34 ceremony, it's of man's authority and changeable — not 'expected of God.' If it's 'expected of God,' it falls outside Article 34, and then it needs positive Scripture institution for the New-Testament church — which a vision and a prophecy don't supply. Where does it sit — required, permitted, or expected — and which Article grounds that?" Quote "ordained only by man's authority" verbatim; that phrase is the pivot. And note the deeper bind: the rule he actually states — keep what the Church has received unless Scripture positively excludes it — is the* normative *principle, which is what Article 34 assumes; so his "consistent RPW" self-description cuts against him (Hookerian worship-theology is normative, not regulative).*
-
+ 
 **Malachi pure-offering (← NEW4, BP-53; status upgraded 260620 — recommend finalist-track):** *Status upgrade: this question is now substantially stronger than the prior wording reflected, on the strength of BP-53 (his own "image needs a literal referent to work" rule, applied to the very verse he uses it to defend). No longer depends on an external Reformed premise (typology-as-such) and instead uses RJ's own stated interpretive rule against his own conclusion. Bucket placement held at JD's call; flagged here so the upgrade isn't lost.*
-
+ 
 **The question (new lead phrasing):** *"You've said that an image doesn't work, doesn't do its job, unless it's actually being used — that's part of why you take Malachi 1:11's incense as warranting physical incense rather than reading it as a spiritual image. But that same verse pairs incense with 'a pure offering' in the same clause, same grammar, same prophetic idiom. If the rule is that an image needs a literal referent to function, doesn't that same rule require a literal sacrificial offering on an altar, not merely incense? And if you'd say no, the 'offering' clause is fine read spiritually, what distinguishes the two halves of one verse such that the rule applies to one and not the other? I'm not seeing the principle that tells us which clause gets the literal reading and which gets the spiritual one, other than which one matches a practice you already hold."*
-
+ 
 **[For me — not for relay]** *Sharpened form of the existing reserve question, built on BP-53's diagnosis rather than the older general "you can't literalize one and spiritualize the other" framing. Advantage: doesn't ask RJ to defend typology-as-a-category (he'd happily affirm it, since he already grants incense "is an imagery" per BP-38) — asks him to apply his own stated rule evenly within a single verse. He's already on record (BP-43) treating the "pure offering" as non-propitiatory/non-meritorious, i.e. already reading that half of the verse non-literally. The question asks him to notice and account for that. Closes off the most likely dodge (reasserting incense as "imagery that predicts/mirrors heaven" generally) by keeping the question pinned to the single-verse, single-rule inconsistency rather than the broader imagery debate, where Q1/Q0 already operate. Sequencing note: deploy AFTER Q1/Q0 have established he treats Malachi 1:11 as carrying real warrant-weight (BP-39 confirms this in current-era register), so the "you're already treating this verse as load-bearing" premise is uncontested when this question lands.*
-
+ 
 **Retained, still valid, backup phrasing:** *"You abrogate the bloody sacrifice but keep Malachi 1:11's continuing 'pure offering.' What* is *that offering? If it's a sacrifice, that's the verse Trent cites for the Mass as a propitiatory sacrifice — further than the Articles go. If it's spiritual — prayer, thanksgiving — then the incense beside it in the same clause is spiritual too." Hold this in reserve; it hands straight off to Q4a (Article 31).*
-
+ 
 **Current-era sharpening (← BP-43), retained as-is:** *A current-era restatement sharpens this directly: he explicitly disclaims propitiatory/meritorious force for ceremony generally ("not trying to earn God's favor") while simultaneously grounding incense in Malachi's "pure sacrifice… pure offering" language. Worth pressing the gap directly: "If incense is the 'pure offering' of Malachi 1:11 but explicitly non-propitiatory, in what sense is it an offering at all — and how does that differ from the bare adiaphora a confessional Lutheran would grant, given that you've also said most Lutherans who decline incense do so only because they find it 'too papist,' not on principled adiaphora grounds?"*
-
+ 
 **GV-batch confirmation (← GV-1, GV-20):** *The premise this reserve question relies on is now sourced: RJ "reject[s] the Roman understanding of justification, definitely" (GV-1), so he* would *reject the Tridentine-adjacent conclusion the "pure offering" half generates — which is exactly what makes the single-verse inconsistency bite (he can't comfortably take the offering-clause literally). And GV-20 (his essence-realist, anti-metaphorical "this is my body" hermeneutic) is the same literalizing rule the question turns against him: if he resists metaphor for "this is my body," the figurative reading of Malachi's "pure offering" and of Revelation 5:8 needs a principled basis he hasn't supplied.*
-
+ 
 **Cross-reference:** *See St_Francis_EMC_Distinctives.md §13, BP-53 for the full fallacy diagnosis (concede-then-reclaim structure on the "spiritualizing" move) underlying this question's design.*
-
+ 
 **Corroborating OT datum (have it ready):** *The people burned incense — Hebrew* qiṭṭēr*, the technical verb for incense-offering — to the bronze serpent, an object God himself commanded Moses to make (2 Kings 18:4). Scripture's verdict is Hezekiah's hammer, not a catechesis on right intentions, and 18:5 immediately crowns him above all the kings of Judah. So Scripture locates the abuse in the incense-act around a sacred object — there is no layer at which it was "fine if the honor passed through to God." Precision so I don't overclaim: the exact parallel bites hardest if anything in the sanctuary is actually* censed *(see C18) — incense* to *the serpent vs. RJ's incense* to God*. As a general point its force is narrower but real: it shows the incense-act itself can be the thing condemned.*
-
+ 
 **Sources to draw on (see full note at end):** *John Owen on Hebrews 8–10 is the keystone — he argues the new-covenant priest, sacrifice, tabernacle, and altar are all* heavenly *(Christ's), and that the heavenly realities could not be introduced without the* removal *of the earthly types: the exact answer to "heaven has an altar, so we have one." The closest historical precedent is the Laudian altar-wars (Durham, 1628), where the avant-garde literally reproduced heaven's throne-room in the chancel and conforming Reformed Anglicans objected. And RJ's reading has a recognizable modern provenance: Scott Hahn,* The Lamb's Supper *(1999) — worth naming as the steel-man and as a* Roman *line, not an Anglican-formulary one.*
-
+ 
 **My position (CR), in brief:**
-
+ 
 - We affirm the participation, not merely permit it: by the Spirit the church is truly lifted into the heavenly worship (Calvin's *sursum corda*; Heb 12:22–24). Not a denial of heavenly worship — a granting of it.  
 - We distinguish the heavenly *realities* (praise, ascending prayers, Christ's intercession — shared by faith and the Spirit) from the heavenly *furniture* (which we are not thereby required to reproduce as physical objects).  
 - We take the authority for the elements of gathered worship to be Christ's institution and apostolic practice (WCF 21.1); the NT prescribes Word, prayer, sacrament, and sung praise without instituting incense or an altar-sacrifice — so a vision of heaven functions as revelation, not as a church order.  
 - We read Hebrews as running fulfillment *away* from the physical shadow toward the heavenly reality; Revelation interprets its own incense *as* "the prayers of the saints," giving the thing signified, not a command to burn the sign.  
 - The Sanctus is the shared test case: we sing "holy, holy, holy" with the angels (real participation) without installing a sea of glass or an altar.
-
 **Rev. James (sourced):** *Incense as standard worship — “we have both as part of our worship, as the standard part of our worship” (Revelation class); his regulative-principle argument for physical incense — “if someone is holding to a regulative principal position he would have to use incense,” and “a symbol doesn’t work well if it’s not there” (Worship series). Heavenly participation — “this isn’t reflecting our worship. Our worship is reflecting their worship” (Revelation class). Four creatures as the Gospels, held undogmatically — “look at them as the four gospels” and “we never want to dogmatize something that we don’t have the warrant to dogmatize from scripture” (Revelation class). The fulfillment logic in his own words — “if we go back to these rituals what we are saying is that this has not yet come,” and “our liturgies today focus upon that fulfillment … established in word and Sacrament” (Christ in the OT). The synagogue/Hanukkah examples are his too (Worship series).*
-
+ 
 **Rev. James (in-person session — IP-2, IP-3, IP-4):** *The new on-record moves the retarget rests on: he draws the fulfillment line around the* bloody *sacrificial system only, retaining incense/altar/vestments as non-sacrificial (IP-3); he frames his position as the regulative principle "rightly understood" against a "loosey-goosey" normative principle, and literalizes selectively from the Revelation vision (IP-2); and he calls incense* expected of God *and* required every Sunday *(IP-4) — which is what sets up the Article 34 fork above. Verbatim anchors live in the distinctives doc and `RJ_Incense_Analysis.md`.*
-
+ 
 ---
-
+ 
+### 1b. The warrant fork — which warrant is actually doing the work? `[by your own standard]` ★★ `[staged — deploy after the DQ-5 filter answer]`
+ 
+`[Q-Inc-2 · finalist-track · ← DQ-4, BP-39/43/45, IP-3; see RJ_Incense_Analysis.md, "The dual-warrant tension"]`
+ 
+*Gate: requires his continuity claim **and** his Malachi claim both on the record. **Both are** — the bloody/non-bloody continuity distinction (IP-3) and the Malachi warrant (his declarative: incense is "a standard part of the worship of the people of God in the New Testament church, according to Malachi 1:11"). Nothing further needs sourcing before this deploys.*
+ 
+**The question:** **"If incense never stopped, why does it need Malachi to command it? If Malachi institutes it fresh, why insist it was never rescinded?"**
+ 
+**[For me]** *Short, non-hostile, and **every answer routes to a prepared horn**. The two warrants pull against each other: the continuity claim says the fulfillment line **spared** incense; the Malachi claim says incense needed a prophetic **re-issue** for the gospel age. He cannot need both, and each undermines the other. If continuity works, Malachi is superfluous. If Malachi institutes something new, "never rescinded" does no work and the continuity claim is forfeit.*
+ 
+*Routing:*
+- ***Continuity horn*** *→ the strange-fire pincer. What survives unrescinded is the OT incense **entire**: its place (sanctuary, Exod 30:1-9), its priesthood (Aaronic, Num 16; 2 Chron 26:16-21), and its compound (Exod 30:34-38, imitation forbidden on pain of being cut off). He keeps none of the three.*
+- ***Malachi horn*** *→ the institution problems: OT sacrificial vocabulary, no NT confirmation, no specified content, and the strange-fire literalism problem.*
+**[Attribution guard]** *The "violation" datum (BP-39) is a **rhetorical question inside his reductio**, not a declarative. Do not quote it back as though he flatly asserted that non-incense churches sin. His declarative is the "standard part of the worship" line above.*
+ 
+---  
+ 
+### 1c. The regulation follow-up — where is the manner prescribed? `[by your own standard]` `[deploy when he names Malachi rather than Exodus 30]`
+ 
+`[Q-Inc-3 · finalist-track · ← DQ-3, DQ-4; companion to 1b's Malachi horn]`
+ 
+*Anticipated: he will **not** concede Exodus 30 as the command; he will name **Malachi 1:11**. This question is built for that answer, and **the regulation demand survives it untouched**.*
+ 
+**The question (soft form, in his own idiom):** **"You call Leviticus 10 the hallmark passage for regulated worship, and its lesson is that the *manner* of incense matters to God. Where is the manner of yours prescribed?"**
+ 
+**[For me]** *Every commanded element in Scripture arrives **regulated** — either within the command itself (Exodus 30 at length; the Supper's words, elements, and recipients) or by its institution. **Malachi regulates nothing.** So the manner has to come from somewhere: borrow the OT regulation and the Exodus 30 pincer engages; decline it and the manner comes from **post-apostolic tradition**, which is the tradition diagnosis arrived at by his own route.*
+ 
+*The rhetorical symmetry is strong but **save it for late and soften it to question form**: on his own account Leviticus 10 is the hallmark passage of regulated worship, and its lesson is that God cares about the manner of incense, not merely the fact of it. Nadab and Abihu offered real incense, Godward, sincerely, and died for the unauthorized manner. A position that leads with that passage and then burns an unprescribed compound, by unprescribed hands, in an unprescribed place, on the strength of a verse that prescribes nothing, has conceded the principle that convicts the practice. **Do not say this as a charge. Ask it.***
+ 
+---  
+ 
+### 1d. The method-symmetry question — in his own idiom `[by your own standard]` `[deploy after the DQ-5 filter answer]`
+ 
+`[Q-Inc-4 · finalist-track · ← DQ-3 (method finding), DQ-4]`
+ 
+**The question:** **"You defended images by pointing to where God commanded them — the serpent and the cherubim. Same question for incense as a new covenant offering: where is it commanded, and what did the command regulate?"**
+ 
+**[For me]** *This is the batch's cleanest lever because **the method is his, not mine**. Four of his five RPW rebuttals (DQ-3) argue from positive warrant: hymns by dominical example (Matt 26:30), instruments by command (Ps 150), images by command (bronze serpent, cherubim, temple), creeds by necessary-inference-style reasoning. He then affirmed the rule explicitly (DQ-4, "Correct"). So the warrant demand cannot be dismissed as an imported Puritan standard; it is the standard he just used and then endorsed.*
+ 
+*Note the feature his OT warrants share: **none was priesthood-restricted or given an explicit NT antitype.** Incense differs in kind on all four axes — priesthood-restricted on pain of death, sanctuary-located, compound-specified, and explicitly interpreted by Rev 5:8 as "the prayers of saints." The filter question (DQ-5) exposes that difference; an abstract argument about whether OT examples count would hide it.*
+ 
+---  
+ 
 ### 1a. Which Homilies do you take exception to? `[clarify → gates Q2]`
-
+ 
 `[QC-b · finalist-track · ← RC1-10; new in v8 from the RC intake]`
-
+ 
 *Ask this before deploying Q2. RC1-10 surfaces a real complication: he has said, on camera, that he disagrees with "certain Homilies" and regards some elements as "bad" (unspecified). The anti-image Homily is the natural candidate; if he rejects it, Q2's "by your own standard" lever weakens considerably, since the lever depends on the Homily binding him. This sits in tension with the later in-person note that he "affirmed the Homilies but hedged self-contradiction" generally, which could mean either a real shift over time or a stable general-affirmation-with-unspecified-exceptions. Don't assume either way; ask.*
-
+ 
 **The question:** "You've said there are certain Homilies you disagree with. Is the Homily Against the Peril of Idolatry one of them? I ask because I'd like to know which formularies you treat as binding before I lean on any of them in a conversation."
-
+ 
 **[For me]** *If he says yes (he takes exception to the anti-image Homily), Q2 should be reframed or retired rather than pressed as written; the conversation should pivot to why he takes exception to it, which is itself interesting but is a different question. If he says no (or that he hadn't thought of it that way), Q2 proceeds as written, strengthened by having confirmed the premise rather than assumed it.*
-
+ 
 ---
-
+ 
 ### 2. Carved apostle statues vs. the Homily Against the Peril of Idolatry `[by your own standard]`
-
+ 
 **"Anglo-Catholic churches often have free-standing carved statues of the apostles; if yours does, The Homily Against the Peril of Idolatry — a Second-Book homily your Article 35 commends as 'godly and wholesome doctrine' — argues at length that images should not be in churches at all. I'm not against religious art or stained glass as such, so this is a use-and-warrant question, not a flat 'no images': do you class the statues as didactic or aesthetic adornment (a circumstance), as devotional aids, or as legitimate objects of veneration you simply don't impose — and how do you square their presence with a Homily that is itself one of your formularies?"** *Internal-Anglican lever, not only a Reformed one. Keep it on the element-vs-circumstance and use-vs-presence axis, which is where I actually stand.*
-
+ 
 **Cranmer, in the Homily Against the Peril of Idolatry (commended by Article 35) — the strongest material here:** *The Homily argues not merely against* worshipping *images but against* having *them in churches at all:* “Which place enforceth both that we should not worship Images, and that we should not have Images in the Temple, for fear and occasion of worshipping them, though they be of themselves things indifferent … as appeareth in the Acts of the Apostles by S. Peter forbidding it to Cornelius (Acts 10), and by St. Paul and Barnabas forbidding the same to the Citizens in Lystra (Acts 14): Yet we like mad men fall down before the dead idols or images of Peter and Paul, and give that honour to stocks and stones, which they thought abominable to be given to themselves being alive.” *He approvingly relays Epiphanius tearing down a church image —* “when I did see the image of a man hanging in the Church of Christ, contrary to the authority of the Scriptures, I did tear it” *— and summarizes,* “He regarded not whether it were the image of Christ, or of any other Saint, but being an image, would not suffer it in the Church.” *He cites Tertullian against those who place “images and idols in Churches and Temples … even over the Lord’s table,” and Augustine —* “Images be of more force to crooken an unhappy soul, then to teach and instruct it,” *and that images set “in honourable sublimity” and worshipped breed “the most vile affection of error.” The cumulative claim is that images naturally draw worship, inevitably become objects of devotion once in a church, and should be removed — whether of Christ, a saint, or a revered pastor. So the question is sharper than “use vs. presence”: the Homily appears to allow no statues of persons in the sanctuary at all, which is hard to square with the practice. (Homily text per the reformedanglican.us transcription.)*
-
+ 
 ---
-
+ 
 ### 3. Article 28 vs. reservation, elevation, and reverencing the altar `[by your own standard]`
-
+ 
 **Status (v8): UN-GATED.** Both elevation and reservation, previously framed cautiously around his own "Worship series" descriptions, are now independently confirmed from his 2025 Mass-teaching (RC3-18/23 for elevation, RC3-27 for reservation). Deploy this question as fact, not as something resting on an inference from his framing.
-
+ 
 **"Article 28's closing sentence says the Sacrament was not by Christ's ordinance 'reserved, carried about, lifted up, or worshipped.' You elevate the elements with bells, reserve in a tabernacle, and reverence the altar. You frame the reverence as respect for sacred space — the Ark analogy — not adoration of the host, and reservation as primarily for the sick, and I take both qualifications seriously. But the Article names those four acts specifically. Do the practices claim more than the stated theology warrants?"** *Press it as "do the practices claim more than the stated theology warrants," not as a charge that he adores the host — his space-not-object framing is real padding, so this is a question, not a knockout.*
-
+ 
 **Remaining open prong (← QC-d, RC3-13, RC3-27; new in v8):** *His own framing nails reservation down to "primarily for the sick," but that leaves one narrower sub-question genuinely open: does he also reverence or adore the reserved sacrament itself, as distinct from simply keeping it for the sick? Fold this in as a natural follow-up once the main Q3 question lands:* **"You reserve the consecrated sacrament in the tabernacle, mainly, you've said, for communion of the sick. Do you also reverence the reserved sacrament itself, by genuflecting toward the tabernacle or exposing it for adoration, or is the tabernacle functioning more as a practical aumbry?"** *Grounded in RC3-27 (reservation, "for the sick") and RC3-13 (entering-genuflection "reverencing the reality of Christ being present," suggestive but not conclusive of reserved-sacrament adoration specifically). This is the one prong RC-3 left open after sourcing the rest.*
-
+ 
 **Rev. James (sourced — Worship series):** *Elevation with the sanctus bells — “when I say until this coming again the bells ring … then I will lift it up”; reservation — “elements will have already been consecrated from the previous night and reserved so people can still receive Holy Communion”; reverence as sacred-space-not-host — “we should reverence that space … just like with the ark we are doing that with the altar … we’re not bowing down and prostrating ourselves.”*
-
+ 
 **Rev. James (sourced, RC-3, 2025, independent confirmation):** *Elevation: at the words of institution he genuflects or solemn-bows to and elevates both the consecrated host and chalice, with bells, while the congregation crosses themselves, with a further elevation at the canon's closing doxology (RC3-18, RC3-23). Reservation: leftover consecrated elements are "reverently consumed or … put [in] the tabernacle … primarily for the sick" (RC3-27).*
-
+ 
 ---
-
+ 
 ### 4. Article 29 vs. your Lutheran lean on the presence `[by your own standard]`
-
+ 
 **"You lean firmly toward the Lutheran view that the wicked receive the body of Christ to their condemnation. But Article 29 — 'Of the Wicked which eat not the Body of Christ in the use of the Lord's Supper' — says the wicked 'in no wise are partakers of Christ.' That Article sides with Calvin against the very view you prefer. How do you hold Article 29 together with your Lutheran lean?"** *The cleanest single-Article internal lever in the corpus; Article 29 is explicitly anti-Lutheran on exactly this point.*
-
+ 
 **Content-anchored re-arm (← GV-15/16/21/36/43/46 · now the preferred lead form; deploy 0e first):** *Supersedes the lean-based phrasing above — anchors on Article 29's content, not its title, to defeat his sourced title-vs-content deflection (GV-43).*
-
+ 
 **The question:** "You define your view as a 'real presence sacramental union' where the body and blood are 'physically united to the bread and the wine,' close to Luther's, and you defend Christ's body being corporeally present in many places at once. You've also said Luther's position is 'allowed' in Anglicanism. But Article 28 (as in your 1662 standard) says the Body is eaten 'only after an heavenly and spiritual manner,' the mean being 'Faith'; and Article 29 says the wicked, who 'press with their teeth … the Sacrament of the Body and Blood of Christ,' are 'in no wise … partakers of Christ … but rather, to their condemnation, do eat and drink the sign or Sacrament.' Read on its own words, Article 29's *content* — not just its title — says the wicked receive the outward sacrament but not Christ's body. How does a corporeal presence received by all who eat the elements survive that?"
-
+ 
 **Pre-empts (have ready):**
 - *"The title overstates; the content doesn't demand receptionism" (his own move, GV-43):* the receptionism is in the **body** of Article 29 ("in no wise … partakers of Christ"; they eat "the sign or Sacrament"), not the title — so naming the title/content gap doesn't dissolve it.
 - *"'Physically' was loose talk":* GV-16 (corporeal multiplication, rejecting the *extra-Calvinisticum*) and GV-21 (sustained 2020-2021 literal-eating exegesis of John 6, calling the symbolic reading "blasphemous") show he means it corporeally.
 - *"The Articles don't bind me":* GV-10/11 self-ID (Reformed-Anglican / "reformed catholic") + GV-23/37 (he cites the Articles and names 1662 as his standard). Frame as "what you affirm," not "required subscription" (RC1-7 calibration).
 - *"Article 29 is about benefit, not bodily presence":* its words are "partakers of **Christ**" and "the **sign or Sacrament**," not "benefit" — it denies the wicked the *res* (Christ's body), giving them only the *signum*. **This is the one place he retains room** — he can read "partakers of Christ" as "savingly / to benefit." Press there; it's a live exegetical dispute, not a checkmate.
-
-
 **Rev. James (sourced):** *“both positions are acceptable within the Anglican tradition … I would say that I lean much more towards the Luther understanding” — the wicked “are still receiving the body and blood of Christ … receiving it to their cond[em]nation” (Worship series); transubstantiation rejected — “I don’t hold” it (Anglican 101).*
-
+ 
 **My position (CR):** *with Calvin, the wicked receive the outward sign but not the thing signified — Christ is truly given and received, but only through faith — so the unbeliever receives the elements to judgment without receiving Christ himself (the basis of Article 29's "in no wise partakers"). WCF 29.7–8; 1 Cor 11:27–29.*
-
+ 
 ---
-
+ 
 ### 4a. Eucharistic sacrifice and Article 31 `[by your own standard]`
-
+ 
 `[Q-Euch-1 · finalist-track · ← IP-7, RC3-22; re-pointed and softened in v8]`
-
+ 
 **Status (v8): re-pointed and softened per RC3-22.** In 2025 Mass-teaching he describes the eucharistic oblation in his own words as "the sacrifice of praise and thanksgiving" and "ourselves, our souls and bodies" (naming Romans 12:1), explicitly "NOT to pay for our sins." That is non-propitiatory by his own account, essentially the Reformed content of the eucharistic sacrifice. The strong charge (that he offers Christ propitiatorily on the altar) is now off the table and should not be pressed as if it were still live. The question below has been adjusted to rest on what remains: the retained sacrificial vocabulary and the altar itself, not the offering's content.
-
+ 
 *"Article 31 calls 'the sacrifices of Masses… blasphemous fables and dangerous deceits.' In person, and again in your own Mass-teaching, you've described the eucharistic offering as the sacrifice of praise and thanksgiving and of ourselves, explicitly not a payment for sin, and as union with Christ's one finished sacrifice rather than a re-sacrifice. I take that at face value; it sounds like the Reformed eucharistic sacrifice. So my question is narrower than 'what are you offering': if the content of the offering is praise and self-offering, why is it offered specifically on an* altar*, in the vocabulary of sacrifice, rather than simply as the church's response of thanksgiving at the* table*? Article 31 condemns the sacrifices of the Mass as a category, including the vocabulary and the altar-construct, not only a propitiatory content. Granting your content is sound, what work is the retained altar and sacrificial language still doing?"* *This pairs with the Malachi reserve under Q1, both ask "what is offered, and on what?" Keep the credit foremost, his stated content is essentially the Reformed one; locate the tension in the retained vocabulary and furniture, not in a propitiatory charge that no longer fits what he's actually said.*
-
+ 
 **Follow-up — where the real presence lands (← Q-Euch-2, IP-7):** **"Article 28 says the body is given, taken, and eaten 'only after an heavenly and spiritual manner,' and that 'the mean whereby the Body of Christ is received and eaten… is Faith.' Is your 'receiving the body and blood' qualified by that heavenly-and-spiritual / received-by-faith manner — or stronger? And does the elevation and altar language sit comfortably with the same Article's denial that the Sacrament was instituted to be 'lifted up, or worshipped'?"** *This is the Q3/Q4 real-presence question pinned to Article 28's own qualifier; deploy it only if Q3/Q4 don't already settle where he lands.*
-
+ 
 **My position (CR):** *the Supper is a commemorative and eucharistic sacrifice of praise and thanksgiving — we offer ourselves, our praise, and our alms (Rom 12:1; Heb 13:15) — but* not *a propitiatory offering of Christ, whose one oblation was "a full, perfect, and sufficient sacrifice… once offered" (Art. 31; Heb 10:10–14). The body is received "after an heavenly and spiritual manner," the instrument being faith (Art. 28; WCF 29.7).*
-
+ 
 **Rev. James (sourced — in-person, IP-7):** *He defends "the sacrifice of the Mass" as union with Christ's one sacrifice rather than a re-sacrifice, and observes that post-Vatican-II Roman teaching has grown "more proximate" to the Anglican position. Verbatim anchors in the distinctives doc. (No dedicated Eucharist class among the video uploads, so this rests on the in-person session plus the Worship series.)*
-
+ 
 **Rev. James (sourced, RC-3, 2025, ★★ the reweighting finding):** *His own account of the oblation: it offers "the sacrifice of praise and thanksgiving" and "ourselves, our souls and bodies" (Romans 12:1), and explicitly "NOT to pay for our sins"; the bread and wine "represent" Christ's sacrifice and are "the occasion of its continuing benefits" (RC3-22). This is the finding that re-points the question above.*
-
+ 
 **GV-batch enrichment (← GV-41, GV-45, GV-47, GV-17) — the offering-language is more robust than RC3-22 alone suggested.** Three additions sharpen the residual-vocabulary lever: (1) GV-41 — he rejects the claim that Anglicans "deny any sort of sacrifice in the eucharist" as "abundantly not the case," reading himself into the Dix/Mascall/Stevenson/Williams stream; (2) GV-45 — he reads Article 31 narrowly: "the context is the title itself … one oblation … finished upon the cross," condemning only "multiple sacrifices … the sacrifices of masses"; (3) GV-47 — defending Anglican orders he affirms the priest's "power of offering the sacrifice of the body and blood of christ" (Saepius Officio). GV-17 supplies the structural premise (anamnesis as "a mystical union with the actual night," a re-presentation).
-
+ 
 **Counter to his narrow Article-31 reading (GV-45):** Article 31's *first clause* does the work his narrow reading skips — "the offering of Christ once made is that perfect redemption … and there is none other satisfaction for sin, but that alone" — which excludes *any* present propitiatory offering, not merely multiplied masses.
-
+ 
 **Tension to name gently:** GV-47's "power of offering the sacrifice" sits against his own RC3-22 non-propitiatory framing. Ask which governs: "is the priest's offering of 'the sacrifice of the body and blood of Christ' a genuine *present* offering, and if so, how does it survive 'none other satisfaction … but that alone' rather than only the multiplied-masses abuse?" Keep RC3-22's credit foremost — this is a which-of-your-two-statements-governs question, not a propitiation charge.
-
+ 
 ---
-
+ 
 ### 5. Conciliar selectivity — who decides which canons bind? `[by your own standard]`
-
+ 
 **Lead-in (the operative-authority pivot):** **"We agree tradition transmits and illumines Scripture but adds no *doctrine* — you won't even bind the four-creatures reading without warrant. So where does the *ceremonial* get its warrant? If not from a doctrine-adding tradition, then from what?"**
-
+ 
 **Article 6 teeth (← Q-SS-5, IP-9 — the SS↔incense engine):** *Your operative default is "retain what the Church has received unless Scripture positively excludes it." **Article 6 runs the other way:** what "is not read therein, nor may be proved thereby, is not to be required of any man… as an article of the Faith, or be thought requisite or necessary to salvation." So: does "consensus of the Church" function for you as an* independent positive warrant *that can* require *a practice (incense, every Sunday), or only as an interpretive aid? If the former, how is that compatible with Article 6 — and isn't requiring incense exactly "requiring what is not read in Scripture nor proved thereby"? This is the authority-level form of the Q1 incense question; the two are one engine.*
-
+ 
 **The main question:** **"You don't bind Nicaea II's icon-veneration requirement — rightly, I'd say — because you judge it could press someone toward what they'd experience as idolatry. But that means you sit in private judgment over which conciliar canons bind, applying the Seventh Council selectively, the way you say Rome and the East actually do. So in what sense is it 'ecumenical' for you if its anathemas against non-venerators don't hold — and who decides which canons bind? And was the Council of Frankfurt heretical for rejecting Nicaea II in 794?"** *You named this yourself when you asked your guest what to say to someone who finds a sincere Father's teaching pointing the other way from his own reading of Scripture. The Frankfurt point is sharp because it's a* Western *council rejecting Nicaea II — directly relevant to an Anglican who keeps the Seven "largely."*
-
+ 
 **Gentle landing (use to keep it a shared problem, not a trap):** *"We're both exercising private judgment somewhere, aren't we? Yours just lands on which conciliar canons bind." That keeps the lever where it belongs — your rule of faith is finally Protestant, said admiringly. (Note: do **not** rest the keys-given-to-all-the-apostles point on "Lateran I, canon 1" — that citation is unverified and may be imprecise.)*
-
+ 
 **Credit to lead with, if the papacy comes up (← RC7-1, RC7-13; new in v8, not a separate lever):** *He already runs exactly this kind of conciliar-selectivity reasoning against Rome, and runs it well: he holds the seven councils as authoritative but under Scripture, denies the Vatican I dogmas while still granting Peter and Rome a real primacy ("first among equals"), and makes a careful conciliar-historical case (popes judged by councils, councils not called by Rome, canons limiting Roman jurisdiction by name). That's a genuinely Article-21-compatible conciliarism, and it's worth crediting before pivoting to Nicaea II: "You already do this with the papacy, you don't presuppose Vatican I and put the burden on Rome to prove it. I'm asking you to extend the same method to the Seventh Council's veneration requirement." This makes the ask feel like consistency, not an external imposition. Don't turn the papacy material into its own question here; it belongs to QC-f (the burden-asymmetry lever) and to D1/D5, not to a separate papacy-as-internal-tension question, since his papacy position is not in tension with anything he holds, it's an example of the very reasoning being asked of him.*
-
+ 
 **Rev. James (sourced — Ante-Nicene/Nicene Fathers class):** *On Nicaea II / icon-veneration — “you’re not required to … kiss icons … we would say that’s not a requirement,” because someone “might feel like they’re doing idolatry with it.” (The Council of Frankfurt point is mine, not his — “Frankfurt” does not appear in the transcripts.)*
-
+ 
 **My position (CR):** *Scripture alone is the final, norming authority; councils and Fathers are real but ministerial and fallible — "councils may err, and many have erred" (WCF 31.3) — so we receive them insofar as they accord with Scripture.*
-
+ 
 ---
-
+ 
 ### 6. Baptismal objectivity vs. your own use of 1 John 2:19 (and Article 17) `[by your own standard]`
-
+ 
 **"You say baptism 'objectively' grafts onto Christ and that an apostate 'walks away from that regeneration' — As a Reformed reader I'd press how this squares with 1 John 2:19, 'they went out from us because they were not of us': that text reads to me as saying the apostate was never truly 'of us,' whereas objective-grafting language seems to say he really *was* grafted and regenerate. Where do you locate the instrument that unites a person to Christ for justification — in the Spirit-wrought faith that rests on Christ, or in the objective grafting of baptism? And how does a losable-regeneration account relate to the visible/invisible-church distinction and to Article 17 on election?"** *This is where the FV/NPP paper sharpens most. Its categories — decretal vs. "covenant" election; baptismal objectivity (WCF 28.5: the sign is not so tied to the grace that all who are baptized are regenerated); works as the necessary fruit and evidence of justification, never its ground — give the precise Reformed vocabulary. Keep the pressure on regeneration/objectivity, **not** on mode or infant baptism (I'm open to the credo-baptist view of subjects). The tension is internal: his sacramentology vs. his own 1 John 2:19 exegesis.*
-
+ 
 **Article 16 sharpening (← Q-Bap-5, IP-5 — the objective-grafting + forfeiture seam):** *In person he went further than the videos: baptism forgives all sins **past and future** and regenerates all who receive it — and he called Rome's "only past sins" view* too weak*. Pin the seam to his own formulary: *"Article 16 contemplates that 'after we have received the Holy Ghost, we may depart from grace given, and fall into sin, and… by the grace of God… arise again.' If baptism has already forgiven future sins, what work is repentance and absolution still doing — and what exactly is forfeited in apostasy? Is the grafting reversible; and if a real regeneration can be received and then lost, how is that not, in substance, the Federal Vision position you'd otherwise want to distance yourself from?"* This is the cleanest internal anchor for the whole baptism/apostasy cluster.*
-
+ 
 **My position (CR):** *we distinguish the visible church (all the baptized) from the invisible (the elect), locate the instrument of justification in Spirit-wrought faith resting on Christ (with baptism its sign and seal, WCF 28), and hold that the truly regenerate persevere (WCF 17); the apostate of 1 John 2:19 was "not of us" — in the visible body, never possessing the saving reality. The categories are decretal election and the visible/invisible distinction.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“baptism actually objectively unites us to the death of Christ so that we can be raised with him”; “you can actually walk away from your baptism which is called apostasy.” His use of* 1 John 2:19 *for those who only seemed to belong is* not *in the transcripts, so it is no longer attributed to him above.*
-
+ 
 **Rev. James (in-person — IP-5):** *Baptism forgives sins* past and future *and regenerates all who receive it; he judged Rome's "only past sins" account* too weak*. This is the statement that anchors the Article 16 lever and the FV-proximity read.* `[Q6/Q9 cluster · ← IP-5, IP-6, IP-8]`
-
+ 
 ---
-
-### 7. Seven sacraments vs. Article 25 `[by your own standard]`
-
+ 
+### 7. Seven sacraments vs. Article 25 `[by your own standard]` — ⚠️ **RETIRED 260715 (v12): answered, formulary-faithful. DO NOT DEPLOY.**
+ 
+**⚠️ STATUS: RETIRED TO THE DO-NOT-DEPLOY REGISTER (← DQ-2).** *Asked directly in the Discord thread, RJ gave a formulary-faithful answer: the two are Dominical/Gospel sacraments, "as their Signs are given/commanded directly by our Lord, and pertain to the Forgiveness of sins," and the Five are "Ecclesial Sacraments as developing from the Life of the Church, rooted in Apostolic Tradition," which "are not of the same level and kind as the Two" and "can be called 'Sacraments', so long as they are not seen as Sacraments of the Gospel." He grounded it at length in the Second Book of Homilies ("Common Prayer and Sacraments Ought to Be Ministered in a Tongue That is Understanded of the Hearers"), which itself says that on the exact signification "there be but two," and that in "a general acception" the name may attach to anything signifying a holy thing — a class the Homily extends to oil and foot-washing. **This is Article 25's own distinction, and pressing it further would be pressing him for agreeing with his formularies.** The lever is dead; the material below is retained for trail and for the narrower Bucket C follow-up (item 20) that it generated. See the do-not-deploy register at the end of this document.*
+ 
+ 
+ 
 **"Article 25 says there are two Sacraments of the Gospel — Baptism and the Supper — and that the five 'commonly called Sacraments' (confirmation, penance, orders, matrimony, unction) 'have not the like nature' of a sacrament, lacking 'any visible sign or ceremony ordained of God,' and that some 'have grown of the corrupt following of the Apostles.' If you hold seven grace-conferring sacraments, how do you square that with your own Article — which doesn't merely rank the five lower but denies they are sacraments of the gospel at all?"** *The Anglo-Catholic move is "two greater, five lesser — fully consistent with the Article." Press the follow-up: the Article says more than "lesser" — it says the five lack the* nature *of a sacrament and that some arose "of the corrupt following of the Apostles." So the live question is whether the five **confer grace** (the Roman / Old-Catholic position) or are sacramentals/ordinances (which the Article permits). **Cross-tradition B-side:** as Reformed I hold two; the warrant for the other five as instituted, grace-conferring signs is what I'd want to see. **Ties to D1:** seven-sacrament counting is another tell of a catholic-not-Protestant center of gravity (Old Catholics "admit seven sacraments") — so this and D1 point the same direction.*
-
+ 
 Do you hold all seven to be grace-conferring, or do you see the other five as just sacramentals/ordinances?
-
+ 
 **Subscription sharpening (← Q-Sac-1, IP-4 — folded here rather than spun into a new `Sac` cluster):** *In person he read Article 25 as describing "a different* type *of sacrament, but still sacraments." So press the text directly: "Article 25 says the five are 'not to be counted for Sacraments of the Gospel' and 'have not like nature of Sacraments with Baptism and the Lord's Supper.' What in that wording supports 'still sacraments,' as opposed to 'not sacraments in the proper sense'? When you subscribe the Articles, are you confessing Article 25 here or qualifying it?" Keep it as a subscription question — it's the same catholic-vs-Protestant center-of-gravity test as D1.*
-
+ 
 **My position (CR):** *Article 25 supplies three marks of a Gospel sacrament, and I’d want the five tested against all three: (1)* instituted by Christ *(“ordained of Christ our Lord in the Gospel”); (2) a* visible sign or ceremony ordained by him *(the five “have not any visible sign or ceremony ordained of God”); and (3) an* effectual sign and means of grace *(“effectual signs of grace … by the which he doth work invisibly in us”). On that test only Baptism and the Supper qualify; the other five, whatever their value, are not sacraments of the Gospel in that strict sense.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *He distinguishes “the dominical sacraments … as opposed to the other five which are called ecclesial or ecclesiastical” — the two dominical ones “established by Christ and have the promise of forgiveness of sins tied to them” — so he does hold all seven, on a two-plus-five frame.*
-
+ 
 **GV-batch sharpening (← GV-24, GV-39):** Two fresh, current-era anchors tighten this. He calls confirmation "important … essential … one of the sacraments" (GV-24) and lists the means of grace as operating "normatively … through baptism, through the eucharist, through absolution etc." (GV-39) — so confirmation and absolution function as grace-bearing sacraments in his working set, the two Article 25 names first among the five "not to be counted for Sacraments of the Gospel." Pre-empt the broad/lesser-sense retort by pinning to Article 25's "have not like nature": "When you call confirmation 'one of the sacraments' and treat absolution as a means of grace, are you affirming Article 25's 'have not like nature of Sacraments with Baptism and the Lord's Supper' — or qualifying it?"
-
+ 
 ---
-
+ 
 ### 8. The Perkins question `[by your own standard]`
-
+ 
 **"You take your 'Reformed Catholic' identity from Perkins's *A Reformed Catholike* (1597). But Perkins's catholicity was doctrinal — *we* hold the catholic faith, Rome corrupts it — not a brief for vestments, incense, reservation, or elevation. Would Perkins recognize the ceremonial as following from his argument, or be surprised by it?"** *Light, friendly closer for the bucket. Frame as "Perkins would be surprised by the ceremonial," not "you've misread Perkins."*
-
+ 
 **Rev. James (sourced — Worship series):** *He takes the “Reformed Catholic” identity from Perkins by name — “William Perkins … he would call himself a reformed Catholic and that’s actually the name of [the book]”; “we see ourselves as both reformed and as Catholics so we would say we are reformed Catholic.”*
-
+ 
 ---
-
+ 
 ### 8a. Vestments: black gown vs. white vesture, and the "signs preach" principle `[by your own standard]`
-
+ 
 `[Q-Vest · finalist-track · ← this thread; reconciled from patch queue 260618]`
-
+ 
 *Prompted by a challenge JD is fielding: that CR is inconsistent for allowing the black Geneva gown while objecting to white vestments — taken as proof the RPW is held by taste, not principle. The honest concession that keeps the position consistent: under the RPW, clerical attire **as such** is a circumstance, not an element, so a bare "white vestments violate the RPW" overreaches, and the challenger is right to press it. The CR objection to the surplice/chasuble is **not** a bare RPW argument; it runs on **signification**, and saying so is what keeps CR consistent.*
-
+ 
 **The distinction:** attire signifying *office* vs. vesture signifying a *denied doctrine*. The Geneva gown is the academic/scholar's gown; it signifies the teaching office ("here to expound the Word"), points to the Word, and claims nothing the office of presbyter doesn't already carry. The surplice/alb/chasuble descend from the eucharistic vestments of the Mass; their historic signification is *sacerdotal* (a sacrificing priest set apart for the altar), the chasuble being the Mass-vestment proper. The line is not black-good/white-bad; it is office (circumstance, permitted) vs. a doctrine we reject (no longer a neutral circumstance, because it *preaches*).
-
+ 
 **The unifying through-line for the whole worship-furniture cluster — SIGNS PREACH:** incense + altar + sacrificial vestments + "priest" + elevation + reservation form one coherent visual sermon (a priest offering a sacrifice) that contradicts the one finished sacrifice (Article 31), regardless of verbal qualification. The black gown is permitted because it preaches nothing false ("teacher of the Word" — true). The objection was never to robes, beauty, or ceremony as such; it is to vesture/furniture that *catechizes the eye into sacerdotalism.*
-
+ 
 **The question (collaborative, "you seem to be saying"):** "I want to be consistent here, so let me put my own view on the table. I don't object to robing as such — I wear a gown that marks the teaching office. What I can't yet reconcile is vesture whose historic meaning is the sacrificing priest at the altar, in a church that confesses one finished sacrifice. From what I'm hearing, you'd say the white vesture means something else to you. Help me understand what you take it to signify, and how a worshiper in the pew is meant to read it."
-
+ 
 **[For me] Two honest soft spots (hold, don't paper over):** *(a) The **surplice** is the borderline case, not the chasuble — historically the choir/office garment, not the Mass-sacrifice vestment, and Cranmer's 1552/1559 settlement retained the surplice while abolishing the Mass vestments, so rejecting it outright is arguably stricter than Cranmer. Cleaner line: object to the **eucharistic** vestments (alb/chasuble/stole as sacrificial garb), treat the surplice as contested-but-not-damning. If challenged on the surplice, concede borderline; if on the chasuble, CR is solid. (b) "Symbolism is in the eye of the beholder" — RJ can say white = righteousness of Christ (Rev 7:14; 19:8), not priestly sacrifice. CR reply: meaning isn't purely private; these garments carry a settled historical signification the wearer's intent doesn't overwrite, and beside an altar + incense the sacerdotal reading is natural, not strained. But admit this is a judgment about **received meaning** (softer than a textual prohibition).*
-
+ 
 **[For me] Retort-handler #1 — "I deny any sacerdotal role; 'priest' just means 'presbyter'":** *Grant his sincerity explicitly and separate intent from signification: "I take you at your word on your theology of the office; my concern is what the assembled signs **teach the eye**, independent of classroom qualifications." The real claim is catechesis-by-sight: the person in the pew, the child, the visitor receives the gestalt (a man called "Father"/"priest," in white sacrificial vesture, at an "altar," elevating elements, before a reserved sacrament with a candle) — no verbal disclaimer works in that moment. The "as close to Rome as the formularies allow" suspicion is a **structural** point, never a bad-faith charge: "a practice that requires constant qualification to keep it from teaching error is, by that fact, a poorly-functioning sign." English "priest" = contraction of presbyteros is true and convenient, but words carry received freight, not just etymology; ordinary hearers still read "priest" as mediatory.*
-
+ 
 **[For me] Retort-handler #2 — "The altar/reservation/elevation are only symbolic, not really sacrificial":** *"Only symbolic" does not escape the objection — it restates it, since the whole CR position is about signs. A symbol of a denied reality still teaches the denied reality. Symbolic of **what**? An altar symbolizes sacrifice (that's what altars are for; tables don't carry it — why the Reformers changed the furniture); elevation = showing the sacrifice for adoration; reservation = prolonging presence for adoration outside the meal. Sharpest formulary point — Article 28 is unusually specific: the sacrament was not by Christ's ordinance "reserved, carried about, lifted up, or worshipped." That enumerates reservation, procession, elevation, adoration and excludes them — operating in the symbolic register, as signs, because of what they signify. So "only symbolic" is not a way out of Article 28; it is the thing Article 28 addresses. **Status (v8): RESOLVED.** Elevation and reservation are now independently confirmed at St. Francis (RC3-18/23, RC3-27), not merely inferred from the Worship-series framing; deploy this as fact (cross-ref the same status update in Q3).*
-
+ 
 **[For me] Retort-handler #3 — "The chasuble is just a warm garment, no theological issue" (← RC3-6, new in v8):** *He has already given this rebuttal in his own 2025 Mass-teaching, pre-empting the objection by name and calling the chasuble "no theological issue," while assigning each vestment a non-sacrificial meaning (alb/surplice = Christ's righteousness, Rev 7:14; stole = servant leadership; maniple = servant's cloth). He also has a ready additional rebuttal: the vestments are "also in the East," i.e. pan-catholic, not exclusively Roman (RC1-12). Two responses, in order of strength: (a) **The practice cuts against the rebuttal.** He reserves the chasuble specifically for "the liturgy of the sacrament" and ritualizes the donning of it; a garment with no theological weight wouldn't need a dedicated, ritualized moment of putting-on reserved for the most sacrificially-loaded part of the service. The practice encodes the eucharistic-vestment logic his words deny; ask him directly: "If the chasuble carries no particular theological weight, why is it put on with its own ritual specifically for the liturgy of the sacrament, rather than worn throughout, or not ritualized at all?" (b) **The "also in the East" point is true but doesn't settle the Reformed question.** Pan-catholic doesn't mean Reformed-compatible; the Reformers' objection wasn't "this is uniquely Roman," it was "this signifies a sacrificing priesthood we deny," and that signification claim is shared by Rome and the East alike. Don't contest the historical breadth of the practice; contest what it signifies.*
-
+ 
 **[For me] Retort-handler #4 — Pontifical vesture specifically (mitre, cope, crozier), as distinct from the everyday chasuble (← EXT-1, external historical research, new 260620):** *Retort-handler #3 already answers the chasuble-as-warm-garment claim. This handler targets a narrower and historically sharper case: full pontifical vesture (mitre, cope, crozier), not the priest's everyday eucharistic vestments. Two moves, in order of strength.*
-
+ 
 *(a) The mitre has no claim to antiquity at all. Unlike the chasuble (descended from ordinary Roman civilian dress, 4th-9th c.) or even the cope (processional cape, liturgical use from roughly 10th-12th c.), the mitre is unattested before the 10th c. and doesn't become standard episcopal headgear until the 11th-12th c., a medieval development contemporaneous with the centralizing juridical papacy, with no patristic or scriptural warrant whatsoever. This makes the "also in the East, pan-catholic" rebuttal (already logged as his ready answer, RC1-12) weaker here than for the chasuble, since the mitre isn't ancient in the West either.*
-
+ 
 *(b) Full pontifical vesture was abolished by the English Church's own Article 34 authority, then reintroduced three centuries later by a self-consciously Romanizing party. The 1552 BCP rubric reduced clergy to the surplice alone; a direct, deliberate exercise of the corporate national-Church authority Article 34 grants to abolish ceremonies. Reintroduction is a 19th-c. Ritualist phenomenon (1850s-1870s), not a continuous practice. The actual historical mechanism (corrected from an earlier looser draft): individual parish clergy asserted a contested legal reading of the Ornaments Rubric; the episcopate was genuinely divided rather than unified for or against; enforcement was attempted civilly via the Public Worship Regulation Act 1874 and largely failed; some bishops used discretionary veto power to shield Ritualist clergy from prosecution even when personally unsympathetic.*
-
+ 
 **The question, sharpened:** *"Setting the chasuble aside, the full bishop's vesture, the mitre especially, has no patristic warrant and wasn't part of the English Church's worship for roughly three centuries after the Reformation; it was abolished by the same Article 34 authority you affirm, then reintroduced by a 19th-century party explicitly reacting against that Reformation settlement. By what principle is the original abolition not binding, but the later reintroduction is a recovery rather than a reversal?"*
-
+ 
 **Caution:** *this is a structural/Article-34 point about corporate ceremonial authority, not a claim that any particular bishop personally opposed the revival; don't overstate the episcopal-opposition framing, since the actual 19th-c. episcopate was divided, not unified, and the controversy's real lever is jurisdictional (who has the authority to undo a corporate abolition), not a head-count of bishops.*
-
+ 
 **Authority-locus sharpening (← GV-53, GV-33, GV-30): QA-Art34 — by *whose* particular-church authority?** *GV-53 supplies his own positive authority locus — provincial/conciliar, "first among equals," not under a universal jurisdiction — which lets the Article-34 question be posed entirely on his terms. Article 34's third clause locates ceremonial authority in the particular/national church's power to "ordain, change, and abolish, ceremonies … ordained only by man's authority." So:* "You locate authority provincially — the particular church governs itself. By which particular-church authority do your incense, ad orientem, and pontifical vesture stand: the Episcopal Missionary Church's, or the Oxford Movement's? And if it's the latter — a 19th-century party reacting against your province's own Reformation settlement — how does that square with the received formularies of the church you say you're submitted to?" *Relevance strengthened by GV-33: at a Forward in Faith conference he seconds "a renewal of the oxford movement" (redirected to a literary movement — register caveat), so he affirmatively owns the very Ritualist tradition this lever critiques; the handler lands on a self-claimed identity, not a caricature. First-person practice now sourced directly (GV-30: "Book of Common Prayer in 1928 with incense ad orientem").*
-
+ 
 **[Pending candidate — stone altars vs. wooden tables (JD handwritten note, carry to a future pass):** *Consider a question on Cranmer's shift from stone altars to wooden tables in the 1552 prayer book, and why one would revert to altars if that was the deliberate Reformation direction. Pairs naturally with the "signs preach" through-line and with Q3. Not yet drafted as a finalist.]*
-
+ 
 ---
-
+ 
 ## Bucket B — Genuine cross-tradition differences
-
+ 
 *Here he is faithful to confessional Anglicanism and I simply differ as a Reformed Presbyterian. Name them as cross-tradition out loud — it keeps the tone collaborative and signals I'm not claiming an internal "gotcha."*
-
+ 
 ### 9. Baptismal regeneration `[cross-tradition]`
-
+ 
 **"We'll differ here as Reformed and Anglican, and I want to own that it's a real cross-tradition difference, not a 'gotcha': you hold baptismal regeneration, which is genuinely your formularies' own language (Article 27; the BCP rite). My disagreement isn't mode or infant baptism — it's whether baptism confers the saving reality to *all* who receive it. WCF 28.5 says it doesn't. Can baptismal regeneration be held without the sacrament functioning, in effect, *ex opere operato* — and without making the sacrament, rather than Spirit-wrought faith, the instrument of union with Christ?"** *Pairs with A6. The saving-faith framework — locating the instrument of justification in* fiducia *resting on Christ, not in the sign — is the sharp end of this one.*
-
+ 
 **Coherence test (← Q-Bap-6, IP-5/IP-6/IP-8 — tests his sola fide against his regeneration-of-all):** *He holds sola fide robustly (IP-8: "faith alone, not a faith that is alone") **and** regeneration of all who are baptized (IP-5/6). For the non-elect baptized infant who never comes to faith: **"Was he regenerated at baptism and then lost it, or never truly regenerated? How does 'regeneration of all who receive' cohere with justification by faith alone, and with election (Article 17)?"** Not a Bucket-B difference so much as an internal coherence probe — it's where his most Reformed commitment (sola fide) and his most catholic one (baptismal regeneration of all) are hardest to hold together.*
-
+ 
 **My position (CR):** *WCF 28.5–6 — grace and salvation are not so tied to baptism that none can be saved without it or that all the baptized are regenerated; the sacrament's efficacy is real but conferred by the Spirit, to the elect, in God's timing, with faith as the instrument. The question is where the saving reality and its instrument are located, not whether baptism does anything.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“baptismal regeneration is universal … regeneration is tied to baptism”; “there’s not a single person who denies that baptism actually regenerates,” though “you can be regenerated outside of baptism.” This is genuinely Article 27’s own language (“a sign of Regeneration or new Birth”).*
-
+ 
 ---
-
+ 
 ### 10. Absolution restricted to the ordained `[cross-tradition]`
-
+ 
 **"We agree the absolution is declarative and ministerial, not the priest's own power — the BCP absolution is itself declarative. The difference is whether John 20:23 commissions an ordained order to *pronounce* it, or the church exercising the keys through Word and discipline. Your prayer book says 'priest' — *presbyteros*, the word the English Reformers leaned on, not *sacerdos*. Does that Reformation choice of word tell against locating absolution in a sacrificing priesthood?"** *Shared ground on declarative absolution; the presbyter/sacerdos point is the internal sub-lever inside an otherwise cross-tradition difference.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“the keys … for binding and loosing … it is for church discipline,” and “given to all the Apostles and to their successors … not simply given to Peter”; absolution is “the actual sacramental part.” (The* presbyteros*/*sacerdos *etymological point is my own observation, not his.)*
-
+ 
 ---
-
+ 
 ### 10a. Being styled "Father" `[cross-tradition, with an internal-Anglican edge]`
-
+ 
 **"In Anglo-Catholic practice, parish clergy are commonly styled 'Father.' If that's your practice, two questions about the title itself. First, how do you square it with our Lord's words in Matthew 23:9 — 'call no man you father upon the earth, for one is your Father, which is in heaven'? Second, the internal-Anglican angle:The title "Father" for parish clergy was not the normal or characteristic practice of post-Reformation Anglicanism. The customary forms were "Mr." or the cleric's office (rector, vicar, parson). The widespread Anglican use of "Father" was revived and popularized by the 19th-century Anglo-Catholic/Tractarian movement, drawing on pre-Reformation and broader catholic precedents. So is the title a considered claim about a presbyter's spiritual fatherhood, or an inherited custom?"** *My position (CR): Matt 23:9 forbids honorific religious titles that arrogate to men what belongs to God; Paul's "I became your father in Christ Jesus through the gospel" (1 Cor 4:15) is descriptive of spiritual begetting, not a standing honorific. A minor difference — one I mostly register by simply saying "Rev. James" — but it connects to Q10 (presbyteros vs. sacerdos) and the Pusey-wing churchmanship, so worth a gentle ask.*
-
+ 
 **Rev. James (sourced, BP-Sac, ← BP-16):** *He self-styles "Father" on his own channel: "I am Father James and this is the Barely Protestant YouTube channel." This sources what was previously an open, unattributed ask: he does use the title for himself, in his own voice and outside any formal liturgical-introduction context. (Corpus data point: the channel's own self-deprecating name, "Barely Protestant," is a thin additional datum on how far toward catholic self-positioning he leans rhetorically — cf. §1 "Reformed Catholic" / RC7-11 "Anglican non-papal Catholic.")*
-
+ 
 ---
-
+ 
 ### 11. Real-presence belief as a condition for receiving `[cross-tradition]`
-
+ 
 **"How do you fence the Lord's Table — what do you ask of someone before they receive, and in particular is belief in *some* form of real presence a condition? I ask because, from a Reformed angle, making assent to a sacramental doctrine — *assensus* — the bar would sit awkwardly where the gospel asks for trust resting on Christ — *fiducia*; I'd want credible faith and repentance to be the test rather than a position on the *mode* of presence."** *Directly applies the notitia/assensus/fiducia framework. A genuine difference, gently put.*
-
+ 
 **Rev. James:** *Whether he fences the Table on belief in the real presence is* not *established in the available transcripts; the question is therefore asked openly rather than attributed.*
-
+ 
 **Supporting datum (← RC5-2, new in v8, not a direct answer to the fencing question but relevant background):** *He rejects the "symbolic only" / memorialist view as a misreading of the fathers, specifically naming MacArthur's Master's Seminary for quote-mining Augustine, Origen, Tertullian, Cyprian, and Cyril to construct a memorialist patristic case. This sources his own patristic real-presence reading and distances him from low-church Reformed/Baptist memorialism; useful context if the conversation drifts toward whether memorialism is itself a live option for him (it isn't), even though it doesn't settle the narrower fencing question above.*
-
+ 
 ---
-
+ 
 ### 12. Atonement — ordering Christus Victor and penal substitution `[cross-tradition]`
-
+ 
 **"You rank Christus Victor as possibly the most important facet of the atonement, 'competitive with' penal substitution. I'd make penal substitution the organizing center, with Christ's victory as its glorious result. So: is Christ's victory the *ground* of, or the *result* of, the satisfaction of divine justice?"** *An ordering question, not a charge of error — he affirms penal substitution as "undeniable." His postmillennial Christus-Victor optimism is part of the same theme; worth hearing as one unified emphasis.*
-
+ 
 **Rev. James (sourced — Christ in the OT):** *“the atonement is multifaceted there are multiple things that are happening,” and “I actually think the most important is actually Christus Victor … the undoing of sin and death.” He names penal substitution among the atonement’s facets. (Note: I have not found the word “undeniable” in the transcripts; treat the strength of his penal-substitution affirmation as my characterization.)*
-
+ 
 **My position (CR):** *the satisfaction of divine justice is the ground, and Christ's victory its fruit — even the triumph of Col 2:15 is accomplished* through *the cancelling of the legal debt at the cross (2:14). Christus Victor affirmed heartily; the question is only which is root and which flower.*
-
+ 
 ---
-
+ 
 ### 13. The element/circumstance line and the regulative principle `[cross-tradition]`
-
+ 
 **"Underneath several of these is one difference. You argue Anglicans hold a *more consistent* regulative principle, and you defend ceremonial as whole-person, five-senses worship. I hold the confessional RPW, which distinguishes *elements* (which need warrant — command, approved example, or good-and-necessary consequence) from *circumstances* (time, place, posture — ordered by prudence). Several of your examples — incense, vestments-as-warrant, instruments — seem to me to treat as elements what I'd treat as circumstances, or to skip new-covenant fulfillment (Heb 7–10; Col 2:16–17). Where do you draw the element/circumstance line?"** *This is the principle underneath A1 and A2; once the internal incense lever is spent, this is the honest cross-tradition core. He has only ever refuted the* populist *RPW, not the confessional one.*
-
+ 
 **Rev. James (sourced — Worship series):** *The regulative-principle claim — “if someone is holding to a regulative principal position he would have to use incense”; the whole-person rationale — “God created us not as brains on sticks,” “this is why we have all five senses being involved in our worship … taste the Eucharist, touch … crossing yourself, sight … smell the incense.”*
-
+ 
 ---
-
+ 
 ### 14. The church calendar and mandatory fasts (Lent and Ash Wednesday) `[cross-tradition]`
-
+ 
 *Elevated from reserve in v4: the Ash Wednesday video gives two RJ-specific hooks — the mandatory framing and his Matthew 6 / Joel 2 reasoning — so this is no longer the generic calendar objection. The generic "I dislike the calendar" piece stays secondary; what's on the table is his stated reasoning. **Credit his Matt 6 core reading** (the sin is ostentation, not visibility — that's fair); the leverage is the **category leaps**, not "you misread Matthew 6."*
-
+ 
 **(a) The conscience-binding edge (internal-Anglican):** **"You present the Lenten fast as expected — the historic rules, with exceptions for the sick, the elderly, and the young. Where does the authority come from to bind the conscience to an annual dietary fast beyond what Scripture commands (WCF 21; Col 2:16–23, 'let no one pass judgment on you… in questions of food… or a festival'; Gal 4:9–11)? The 1662/1928 Table of Fasts *commends* fast days — does your formulary actually *bind* conscience to them, or commend a discipline one may keep or not?"**
-
+ 
 **(b) The Matthew 6 / Joel 2 / imitate-the-40-day reasoning:** **"Matthew 6 commands *concealment* — 'wash your face, that you appear not unto men to fast.' You resolve this by classing Lent as a *public* fast on Joel 2. But Joel 2 is an extraordinary *national-emergency* convocation — a locust plague, a day-of-the-Lord repentance — and Scripture's public fasts (Joel 2, Jonah, 2 Chron 20) are always *ad hoc* for a specific crisis, never annually scheduled. The wilderness fast you take as Lent's *model* was itself solitary and concealed, and a unique messianic event — Christ recapitulating Israel's forty years — not a yearly template. And you encourage *keeping the ashes on* as a public witness, which is displaying the fast to men. So what converts a once-for-all messianic fast and ad-hoc emergency convocations into an annually-imposed visible season — and how does maintaining the ashes square with the plain command to conceal?"**
-
+ 
 **(c) The dating (have it ready):** *"You said preparation goes back to the 2nd century — fair for a* short *fast. Irenaeus (c. 190, in Eusebius 5.24) describes a pre-Easter fast of 'one day, two days, or forty* hours,' *varying region to region. But the* 40-day *season is 4th-century — Athanasius's Festal Letters enjoin it in 331. And the kicker: Irenaeus cites that 2nd-century* variety *precisely to argue Pope Victor shouldn't break communion over it — so the earliest evidence is an argument* against *binding conscience to a uniform fast, not for it. (The 'forty days' reading of Irenaeus is Rufinus's late-4th-c. mistranslation, which modern scholarship rejects — he wrote forty* hours.)"*
-
+ 
 *Don't open with this; the generic calendar difference is still secondary. But these are RJ-specific, so if Lent/Ash Wednesday comes up, you have real, primary-source-grounded purchase. Tell in pocket: even Doug Wilson — about as ceremonially maximalist as Reformed gets — doesn't observe Lenten seasons.*
-
+ 
 **My position (CR):** *the church may appoint occasional days of fasting and thanksgiving as particular providences require (WCF 21.5), but Christian liberty leaves the conscience free from binding observances not commanded in Scripture (WCF 20.2; Col 2:16). The unease is less with fasting than with a fixed, conscience-binding season. And a related concern about the* length*: a forty-day meat-and-dairy fast — with two days of total abstention and reduced meals throughout — is more severe and prolonged than anything Scripture commands or the earliest church kept (the earliest evidence is a fast of days, not weeks; see (c)), so the worry is asceticism scaled well beyond any biblical or primitive warrant.*
-
+ 
 **Rev. James's position, as I understand it — basis: the "Lent and Ash Wednesday" video (worked template for requirements 1 & 2b):** *Lent is a public, expected fast (with pastoral exceptions) by which the church "walks with" Christ through the year; he grounds it in Christ's 40-day fast and the public fasts of Scripture, and reads Matthew 6 as condemning ostentation, not visibility. Verbatim, from that video: "Lent is a public fasting"; "we are walking along with him every year through the lit[u]rgical calendar"; "Our Lord is not rejecting the idea that … people know that you're fasting"; the fasting rules — “refrain from meat and dairy for these 40 days,” with Ash Wednesday and Good Friday “refrain from any food at all … as we are able … with the counsel and wisdom of your priest or pastor”; and on origins, “some form of preparation prior to the celebration of Easter goes back … at least since the second century.” **On “required of the clergy”:** that phrase is* not *in the transcripts. For Lent he says the meatless tradition is “not required but yes that’s the tradition” (Anglican 101); the only clergy-specific fasting language attaches to* Ember *days, not Lent — “[Ember days] are meant to be for people who are looking into ordination or for people who are already ordained. We … especially will fast and pray” (Worship series). So I have removed the “required of the clergy” attribution from (a) above.*
-
+ 
 ---
-
+ 
 ## Bucket C — Clarifications (quick, friendly, do these first)
-
+ 
 *Cheap to ask and they scope the rest: each answer tells me whether the matching A/B question is even live.*
-
+ 
 ### 15. Invocation of saints `[clarify]`
-
+ 
 **"Does the parish invoke saints in any form — and how do you distinguish prayer *to* saints from calendar/feast-day honor, and from an 'ora pro nobis' form?"** *Still only an inferred "no"; confirm it and get the distinctions in his own words.*
-
+ 
 **Rev. James:** *No invocation of saints appears in the available transcripts — consistent with an inferred “no”; asked to confirm.*
-
+ 
 **Ready follow-up *if* he affirms any invocation:** *"When I ask a living friend for prayer, he hears me by ordinary means, and I'd never kneel to him, light a candle to him, or address him through a litany. Prayer to a departed saint asks a creature to hear silent petitions from across the whole world at once, offered kneeling, often through an image. At what point did fellowship become cult — and who authorized the change? Scripture's only explicit word on the living directing speech toward the dead is prohibition (Isaiah 8:19), and there's no biblical example of petition addressed to a departed saint."*
-
+ 
 ### 16. Marian doctrines `[clarify]`
-
+ 
 **Status (v8): Theotokos now independently sourced; IC prooftext now doubted by RJ himself.** RC6-1 confirms Theotokos as his own stated position ("in giving birth to Jesus she gave birth to God because Jesus is God," grounded in Ephesus/Chalcedon), so that premise no longer needs to be assumed when opening this question. RC4-5 adds a sharper edge to the Immaculate Conception half: he himself doubts its usual prooftext, noting Luke 1:28's "full of grace" "could also be translated as highly favored one," so it doesn't, in his own assessment, prove the IC.
-
+ 
 **"Theotokos I assume you affirm with Ephesus — and I understand you've said as much directly. What about the Assumption and the Immaculate Conception? On the IC specifically, I've heard you note that Luke 1:28's 'full of grace' could equally be read as 'highly favored one,' which doesn't settle the doctrine either way: does that leave you rejecting the IC, or holding it as a permissible pious opinion despite the weaker prooftext? And perpetual virginity?"**
-
+ 
 **Rev. James (sourced, RC-6, RC-4):** *Theotokos affirmed on christological grounds, explicitly fenced against improper Marian elevation (RC6-1, RC6-2). Doubts the IC's usual exegetical basis via Luke 1:28 (RC4-5). Silent on the Assumption, perpetual virginity, and invocation in both the class corpus and the RC set, so those remain genuinely open.*
-
+ 
 ### 17. Would you *defend* icon veneration, or only decline to impose it? `[clarify]`
-
+ 
 **Status (v8): icon use now directly sourced (RC3-12); veneration specifically remains open.** He has now stated, in his own 2025 teaching, a positive embodied/incarnational rationale for using icons at all ("there's a reason we have icons … we are not brains on sticks"), which sharpens what's being asked here: the question is no longer whether icons are present and used (confirmed) but specifically whether veneration of them would be defended, not merely tolerated.
-
+ 
 **Status update, BP intake (← BP-3, BP-5, BP-6): partially resolved, axis sharpened.** An earlier (2020) video shows him delivering a full affirmative defense of icon USE and of depicting Christ specifically (incarnation/Col 1:15 argument), repeatedly drawing the line at WORSHIP rather than use: "we are never to worship those images, ever. That has never been something allowed within the Christian tradition." His lead OT warrant is the Ark's cherubim — "if images are allowed there, I don't see why images would not be allowed in worship as long as we are not worshipping those images" — the exact rejoinder this project's own reserve block already anticipates (Exod 25 cherubim: God-commanded, concealed in the Holy of Holies, never venerated). Frames Nicaea II affirmatively, building his case on its reasoning ("the seventh ecumenical council decided that icons were allowed"), a shift in emphasis from the more cautious 2024-25 class register ("not required," could be idolatry) — read as the same kind of development the corpus already shows elsewhere (episcopacy, incense warrant, Eucharistic lean), not a contradiction. So the "defend vs. merely decline to impose" axis now reads DEFEND for icon use/presence. What remains genuinely open is narrower and sharper: he moves directly from "use" to "worship" without ever naming the veneration BOW (proskynesis/dulia) that Nicaea II actually requires — so the reserve block's gate is only partially tripped.
-
+ 
 **Revised question wording (recommended, supersedes the prior wording):** **"You've made the case for using icons and for depicting Christ, and you're clear that we must never worship them. I want to ask about the step in between: Nicaea II, which you've cited approvingly elsewhere, doesn't just permit icons, it actually requires a bow of veneration, proskynesis, toward them. Is that bow itself something you'd defend as legitimate honor, something you'd decline to require, or something you think crosses into the worship you say is never permitted?"** *This is the open question left after the Nicaea II breakthrough — it decides whether the icon debate is even on the table with him, and it gates the reserve block below.*
-
+ 
 **Rev. James (sourced, RC-3):** *"There's a reason we have icons … we are not brains on sticks" (RC3-12), an embodied/incarnational rationale for icon use. This answers the use question but not the veneration-bow question above, which stays open.*
-
+ 
 **Rev. James (sourced, BP-Icons, 2020):** *"We are never to worship those images, ever. That has never been something allowed within the Christian tradition" (BP-3); "if images are allowed there, I don't see why images would not be allowed in worship as long as we are not worshipping those images" (BP-4, the Ark's cherubim); "because of the incarnation, we are allowed to have images of Christ," never sinful "to paint a picture of Jesus" (BP-5, Col 1:15); "the seventh ecumenical council decided that icons were allowed" (BP-6). The didactic rationale ("books for the illiterate," multi-sensory teaching) is his primary stated grounds for images generally, including the carved apostle statues, consistent with the no-veneration field report (BP-7).*
-
+ 
 ### 18. Observed practice — icons and the carved statues `[clarify]`
-
+ 
 **"In practice, are the icons or the apostle statues ever venerated — bowed to, kissed, censed, given candles or flowers, honored on feast days — or are they purely decorative and didactic?"** *Friends report no veneration; confirm against observation. Presence-as-adornment is defensible on my own terms; veneration directed at the image is not. (If anything is* censed*, the bronze-serpent datum in Q1 applies directly.)*
-
+ 
 ### 19. The deuterocanon and Article 6's "not to establish doctrine" clause `[clarify]` (lower priority)
-
+ 
 `[QC-e · candidate · ← RC4-4, RC4-6, RC4-7; new in v8 from the RC intake]`
-
+ 
 *A real, sourced internal wrinkle, but lower priority than the incense and Eucharist levers, since his functional rule (no doctrine from the deuterocanon alone) is close to the Reformed one. Sequence this after the higher-value Bucket A/C items; useful if the canon comes up naturally, not worth steering toward.*
-
+ 
 **The question:** "Article 6 lists the deuterocanonical books under 'the other books,' which the church reads 'for example of life' but 'not to establish any doctrine,' set apart from the canonical books 'of whose authority was never any doubt.' You seem to read this as leaving their canonicity open rather than excluding them, and you point to the Homily of Almsdeeds treating Tobit as taught by the Holy Ghost. How do you fit an open or affirmed canonicity together with the Article's own 'not to establish doctrine' clause?"
-
+ 
 **[For me]** *Grounded in his reading of Article 6 as not denying the deuterocanon's canonicity (RC4-4), his positive use of the Almsdeeds Homily's "Holy Ghost teaches" language about Tobit (RC4-6), and his settled "Via Media" canon position generally (RC4-7). No existing canon question on the list; this is new, not a duplicate of anything in Buckets A through C. Flag explicitly as low priority for sequencing.*
-
+ 
 ---
-
+ 
+### 20. The Article 25 grace sub-question `[clarify]` `[drafted, unposted — optional; JD's call]`
+ 
+`[QC-grace · candidate · ← DQ-2; the narrow residue of the now-retired Q7 lever]`
+ 
+*This is **not** the retired Article 25 lever. It is the one half of the original question he did not answer.*
+ 
+**The question (drafted):** *"Thanks for the clear answer; the Homily citation was especially helpful. One small follow-up to make sure I understand the 'Ecclesial Sacraments' category: the Homily's language for the five is fairly minimal ('in a general acception the name of a Sacrament may be attributed to any thing whereby an holy thing is signified,' a class it extends even to oil and foot-washing). Is your 'Ecclesial Sacrament' that general-acception sense, or something more — i.e. do the five confer grace?"*
+ 
+**[For me]** *Value is twofold. **(i)** It answers the half of the original question he skipped, and **that is where the Roman difference actually lives**: Trent holds seven, all conferring grace* ex opere operato*, all instituted by Christ. His answer so far is fully compatible with "the Five confer grace, just not the forgiveness tied to a Dominical sign." **(ii)** It is a **free preview of the incense funnel's endgame**: "rooted in Apostolic Tradition" as a warrant category for the Five is the same warrant structure the incense argument expects to surface, so how he handles the gap between the Homily's minimal "general acception" and his own positive dogmatic category tells us in advance how he will handle tradition-as-warrant when incense arrives.*
+ 
+**Cost:** *may divide attention from the RPW thread, which is the priority channel. **JD's call.** If deployed, it goes in the sacraments thread, not the RPW thread, so the one-question-per-turn discipline in the funnel is preserved.*
+ 
+---  
+ 
+### 21. The Exodus 30 compound question `[clarify]` `[unposted — converts an inference into a Stated datum]`
+ 
+`[QC-compound · finalist-track · ← feeds the third jaw of the strange-fire pincer; see RJ_Incense_Analysis.md]`
+ 
+**The question:** **"Is the incense you burn compounded to Exodus 30's formula?"**
+ 
+**[For me]** *The project currently holds only the **inference** that it is not. Exodus 30:34-38 gives a prescribed compound (stacte, onycha, galbanum, frankincense, salted, "pure and holy") and forbids imitation for any other use on pain of being cut off; no supplier sells that formula, and commercial ecclesiastical incense is frankincense-based trade blends. **Almost certainly no — but get him to say it.** Until he does, the compound point stays at "very likely" and is deployed **as a question, never as an assertion**.*
+ 
+*Why it matters: it is the **third jaw** of the strange-fire pincer. If the warrant is that OT incense was never rescinded, then what survives is the OT incense — its place, its priesthood, **and its recipe**. He keeps none of the three, and the compound is the jaw he is least likely to have thought about. It is also completely non-hostile as a question: it sounds like sourcing curiosity, which is exactly what it is.*
+ 
+---  
+ 
 ## Bucket D — Gap-filling diagnostics `[clarify]`
-
+ 
 *These map regions his video corpus never covers — places where I have a definite position, the videos don't settle his, and real difference is plausible. They're diagnostics, not levers, so they're tagged `[clarify]`; but several **escalate** into Bucket A "by your own standard" levers depending on his answer (flagged below). Ordered by payoff. Don't run these as an agenda — drop them in where the conversation opens onto them.*
-
+ 
 ### Opener — evangelical, or something else now? `[clarify]`
-
+ 
 **"You mentioned you 'grew up' evangelical — fundamentalist-leaning. Do you still consider yourself evangelical, or do you locate yourself now as something else: 'Reformed Catholic,' Anglican, 'old catholic'? Where you place yourself on the Protestant-to-catholic spectrum frames a lot of the rest for me."** *The past tense is a real tell — many converts to this churchmanship quietly stop self-identifying as evangelical. Disarming, personal, and his answer tees up D1 without your having to force it.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“I grew up fundamentalist Baptist” (and, in the Ash Wednesday video, “I … grew up an evangelical, a … more fundamentalist sort of evangelical”).*
-
+ 
 ### Justification and the gospel's material principle (highest payoff)
-
+ 
 **D1. "Old Catholic," and where the Reformation line falls. `[clarify → potentially the strongest A-lever]`** **"When you said you'd be comfortable as 'Old Catholic' — which sense? The Union of Utrecht keeps episcopacy, seven sacraments, and apostolic succession, and appeals to the undivided church of the first seven councils, but it rejects the papacy and the Marian dogmas — and it never adopted justification by faith alone or the imputation of an alien righteousness. So it's catholic-minus-the-pope, not Protestant. If that frame is home for you, where does sola fide sit? Is justification by faith alone — Article 11's 'most wholesome Doctrine' — part of 'the fullness' you say Baptists and Presbyterians lack, or something you can hold while being at home in a frame that doesn't treat it as essential? Put plainly: do you regard justification as *the* material issue of the Reformation — the article on which the church stands or falls — or as second-order?"** *Factual anchor so I don't misstate it: "Old Catholic" is **not** "Trent minus the pope" — the mainstream German/Swiss branch rejected Trent's authority; it's undivided-church catholicity minus the pope, in communion with Anglicans via the Bonn Agreement (1931). The escalation: if he treats justification as non-dividing, this becomes the sharpest Bucket A lever in the set, via Article 11 + the Homily of Salvation (which Art. 11 endorses by name). And "fullness" cuts both ways — a Protestant locates the fullness in the gospel rightly grasped, not in catholic order, so by Reformation lights catholic order without the material principle is itself a deficiency. (Pairs with Q7 on the seven sacraments — both test the same catholic-vs-Protestant center of gravity.)*
-
+ 
 **My position (CR):** *justification is God's once-for-all declarative act, received through faith alone, resting on the imputed righteousness of Christ (an alien righteousness, not our own), with works as fruit and evidence but never ground — the article on which the church stands or falls. By my lights the "fullness" of the faith is located first in the gospel rightly grasped, not in catholic order (WCF 11).*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“if I were not Anglican I’d be either what’s called Old Catholic or probably Lutheran”; the “fullness” language — “[Baptists] don’t have the fullness of the faith they just have what brings you into the church”; and he affirms sola fide — “I … believe in justification by faith alone.” So the live question is exactly where that affirmation sits relative to the “fullness.”*
-
+ 
 **Enrichment (← RC7-11, RC7-1; new in v8):** *He has a third self-label beyond "Reformed Catholic" and the Old-Catholic comfort above: in the papacy debate he calls himself "an Anglican non-papal Catholic" (RC7-11), and his stated papacy position is "first among equals … the position I hold to, as well as … the Eastern Orthodox," explicitly excluding papal supremacy, universal jurisdiction, and infallibility while still granting Peter and Rome a real primacy (RC7-1). This doesn't resolve D1's central question (where sola fide sits relative to "the fullness"), but it sharpens the self-identification landscape going in: he has at least three overlapping but distinct labels for himself ("Reformed Catholic," "Old Catholic"-comfortable, "Anglican non-papal Catholic"), and it's worth having him sort them in his own words before pressing the justification question, since which label is doing the most work for him may itself be revealing.*
-
+ 
 **D2. Imputation of active obedience. `[clarify]`** **"Do you affirm the imputation of Christ's active obedience — his perfect law-keeping credited to me as my righteousness — or only the forgiveness of sins through his death?"** *The precise Westminster distinctive and the exact thing FV/NPP soften. With Q6/Q9 this triangulates how close his FV-proximity actually runs to the confessional line.*
-
+ 
 **My position (CR):** *both Christ's active obedience (his law-keeping) and his passive obedience (his death) are imputed, so his righteousness is credited to us as our own positive standing, not only the cancelling of guilt (WCF 11.1, 3).*
-
+ 
 **Rev. James:** *He affirms imputation in general — “we are righteous before God because of the imputation of Christ” (Anglican 101) — but the* active-obedience *specificity is* not *in the transcripts, so this stays a genuine open question.*
-
+ 
 **D3. Final justification and works. `[clarify]`** **"At the last judgment, are a believer's works in any sense the ground or instrument of justification — or only its necessary evidence and fruit?"** *Tests FV-adjacency directly; pairs with D2.*
-
+ 
 **My position (CR):** *justification is a completed declarative act received by faith, so we deny any "final justification" grounded or instrumented by works; good works are fruit and evidence, and at the judgment testify to a living faith rather than constituting any part of its ground (WCF 11; 16).*
-
+ 
 ### Election and atonement
-
+ 
 **D4. Unconditional election, effectual grace, extent of the atonement. `[clarify]`** **"Is election grounded in God's free choice rather than foreseen faith, and is the grace that brings the elect to faith effectual? And for whom did Christ die — did the cross actually secure the salvation of the elect, or make salvation possible for all?"** *He leans conditional and rejects reprobation (§5); the atonement class covers facets (Christus Victor vs. penal) not* extent*. Three Reformed distinctives likely in play at once.*
-
+ 
 **My position (CR):** *election is unconditional — grounded in God's free purpose, not foreseen faith (WCF 3); the grace that brings the elect to faith is effectual (WCF 10); and Christ's death actually secured the salvation of those given to him (definite atonement). The "doctrines of grace," held together.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“I … lean towards the conditional election”; and he rejects reprobation — “it is not due to an unconditional election to damnation … because they have chosen to reject Christ.” (Extent of the atonement isn’t settled in the transcripts.)*
-
+ 
 ### Church, ministry, and succession
-
+ 
 **D5. Episcopacy, apostolic succession, and the validity of my orders. `[clarify → ecclesial core]`** **"Is the threefold ministry of the essence of a true church, or its best historic order? When you say 'apostolic succession,' do you mean continuity of apostolic *doctrine*, or an unbroken tactile laying-on-of-hands pipeline — and which one validates a ministry? Concretely: are my Presbyterian church's ordinations and our celebration of the Supper valid, deficient, or invalid — and what do you mean by 'proper holy and episcopal orders'?"** *Your "this cuts both ways" point: he says Baptists/Presbyterians "lack the fullness" — so ask what constitutes the fullness (catholic order, or the gospel rightly grasped). The succession-conflated-with-polity observation is the sharp end: the Reformed hold apostolic succession of* doctrine*, not a pipeline. This is the question that most directly defines whether he regards my church as a true church with valid sacraments.*
-
+ 
 **My position (CR):** *parity of presbyters (bishop and presbyter one order in the NT); apostolic succession as continuity of apostolic* doctrine *rather than an unbroken laying-on-of-hands; the marks of a true church are the Word rightly preached, the sacraments rightly administered, and discipline rightly exercised — not episcopal lineage (WCF 25).*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“proper holy or Episcopal orders,” valid “Apostolic succession”; and the “fullness” framing — non-episcopal churches “don’t have that full Catholic range.” What he means concretely for the validity of non-episcopal orders isn’t spelled out, so that part stays open.*
-
+ 
 **Down-weight note (← IP-10):** *In person he located episcopacy as* bene esse *(the well-being of the church), not* esse *(its essence) — so* don't *run apostolic succession as an internal-contradiction lever; it isn't a productive "by your own standard" seam. Keep D5 only for its diagnostic/relational value — whether he regards my orders and Table as valid, deficient, or invalid — which is the part that actually matters to me. The "fullness cuts both ways" point still stands as a* difference*, not a gotcha.*
-
+ 
 **Status update (v8): the down-weight is complicated, not reversed (← RC1-3).** In a 2020-2021 video he calls episcopacy/apostolic succession part of the church's "essence … fullness" (the transcript is garbled at the key word but reads esse-leaning), which sits in tension with the 2026 bene-esse-not-esse statement above. Read this as a possible development across a six-year span from deacon to rector, not a live contradiction to press as such; see QC-c below, which turns this into an askable, non-confrontational question before any decision is made about whether to re-weight D5 as a sharper lever.
-
+ 
 **Second angle, orders-validity for the Eucharist (← BP-15):** *A second, complementary angle on this same tension, independent of the esse/fullness language RC1-3 surfaces: in a separate video laying out his own four-fold sacramental-validity framework (proper minister, matter, form, intent), RJ is maximally permissive about who may validly baptize (any human being) but conspicuously withholds the proper minister/intent for a valid EUCHARIST, tying it instead to "the debate between Anglicans and Roman Catholics on whether or not Anglicans have valid holy orders." The asymmetry implies he holds that a valid Eucharist requires valid holy orders, which is precisely the premise D5's "are my Presbyterian church's ordinations and Supper valid, deficient, or invalid" needs answered, and which sits unreconciled against the bene-esse framing ("you don't need bishops to be part of the church"). Worth asking alongside QC-c, since both the esse-language question and this orders-validity question converge on the same underlying issue: how much, in practice, rides on episcopal orders for him.*
-
+ 
 **Enrichment, papacy/conciliarism (← RC7-13; new in v8, context not a new lever):** *His handling of episcopacy sits inside a broader, fairly principled conciliarism: he holds the seven councils as authoritative under Scripture, treats the Seventh as held loosely on principle (§3 in the distinctives doc), and runs the same kind of "by your own standard" reasoning against the papacy that this project runs against him on incense and images (Article-21-compatible, per RC7-13). Worth naming if D5 and the papacy both come up in the same conversation: his ecclesiology has real internal coherence (he isn't ad hoc about which catholic claims he accepts), and that coherence is itself worth crediting before pressing on where exactly the Presbyterian ordinations land.*
-
+ 
 **QC-c. Episcopacy: development, or a settled bene-esse view all along? `[clarify]`**
-
+ 
 `[QC-c · candidate · ← RC1-3, IP-10; new in v8 from the RC intake]`
-
+ 
 *A development question, not a gotcha, given the six-year gap between a deacon-era video and a current statement. Frame it that way explicitly.*
-
+ 
 **The question:** "In an earlier talk you described episcopacy and apostolic succession as part of the 'essence' or 'fullness' of the church, and more recently you've framed it as bene esse rather than esse. Has your thinking there developed over time, or is there a distinction between the two that I'm not seeing? And separately: in your own four-part test for a valid sacrament — proper minister, matter, form, and intent — does a valid Eucharist require a validly ordained (episcopally-ordained) minister? If so, where does that leave a Presbyterian celebration of the Lord's Supper — valid but irregular, or invalid for want of orders?"
-
+ 
 **[For me]** *This resolves a real esse-versus-bene-esse tension across time that bears on how much weight the apostolic-succession point can carry in D5 (and on whether IP-10's down-weighting still holds at full strength, or needs softening). If he confirms development, D5 stays down-weighted as a lever and the esse-era statement is simply superseded. If he says there's no real distinction, or that he's always held something closer to bene esse and the earlier wording was loose, that's also useful, it tells you the down-weight was correct from the start. Either answer is informative; there's no wrong answer that damages the relationship, which is why this is safe to ask directly and early if episcopacy comes up.*
-
+ 
 ### Sacraments, necessity, and rites
-
+ 
 **D6. Baptismal necessity — the thief on the cross. `[clarify]`** **"Is baptism necessary for salvation — absolutely, or by precept but not absolutely? What of the thief on the cross, or a deathbed convert? If baptism objectively regenerates, what saved the unbaptized thief?"** *Distinct from Q6/Q9 (which target objectivity and the all-recipients question); this targets necessity-of-means. Classic Anglican and Reformed both distinguish necessity of precept from necessity of means — where does he land? From your intro-video notes.*
-
+ 
 **My position (CR):** *baptism is necessary by precept (commanded) but not absolutely — "grace and salvation are not so inseparably annexed unto it" that none can be saved without it (WCF 28.5) — which is how we read the thief on the cross.*
-
+ 
 **Rev. James:** *Not settled in the available transcripts — asked openly.*
-
+ 
 **D7. Private confession. `[clarify]`** **"Is private confession to a priest required, encouraged, or merely available — and is it ever a precondition for receiving communion?"** *Sharpens Q10. The classic Anglican answer is "all may, none must, some should"; a Roman answer makes it a precondition.*
-
+ 
 **D8. 1928 BCP over 1662. `[clarify]`** **"Why the 1928, not the classic 1662? Does the choice reflect a substantive preference — a fuller prayer of oblation, reservation, prayers for the departed — or jurisdictional and aesthetic custom?"** *The 1662 is the Reformed-leaning standard; the (American) 1928 reintroduced more catholic eucharistic and intercessory elements. Connects to Q3 (oblation/reservation) and D9. (He confirms the 1928 tradition in the Ash Wednesday video.)*
-
+ 
 **Rev. James (sourced — Anglican 101):** *“the standard book of common prayer is the 1662[;] we use the 1928 us book of common prayer.”*
-
+ 
 **D9. Purgatory and prayers for the dead. `[clarify]`** **"Do you reject purgatory per Article 22? And do you pray for the dead in any form — if so, on what basis, given the Article?"** *Anglo-Catholic-adjacent; the videos are silent. (Old Catholics reject a* dogmatic *purgatory but allow "a purification by Christ" — a possible landing spot for him.)*
-
+ 
 **My position (CR):** *at death the souls of the righteous are made perfect in holiness and received immediately into glory (WCF 32) — so no purgatory and no warrant for prayers for the dead, whose state is fixed.*
-
+ 
 **Rev. James (sourced — Anglican 101):** *He treats purgatory as a Roman corruption the Reformation rightly rejected (with indulgences). Whether he prays for the dead in any form isn’t addressed, so that part stays open.*
-
+ 
 ### Assurance and eschatology
-
+ 
 **D10. Assurance of salvation. `[clarify]`** **"Can a believer have settled assurance of final salvation in this life — and is it grounded in the sacraments, in perseverance, in the Spirit's witness, or in the bare promise?"** *WCF 18 holds settled assurance attainable; a sacramental frame plus a losable-regeneration view may tell against it.*
-
+ 
 **My position (CR):** *a true believer may attain settled assurance of salvation in this life — grounded in the divine promises, the inward evidence of grace, and the witness of the Spirit (WCF 18) — without that assurance being of the essence of faith.*
-
+ 
 **Rev. James (sourced, BP-Angl, ← BP-29):** *Fills what was previously an open gap. Grounds assurance in objective baptism, against a recounted adolescent crisis under sinner's-prayer-plus-OSAS theology (re-praying, "afraid I didn't mean it enough"): "the sacraments provide… an objective external assurance." Looks to his own (Baptist) baptism, not a decision, as the ground: "I am a Christian because I've been… baptized rather than because I prayed a prayer… it's God's decision." Honors his Baptist baptism as fully valid (not rebaptized upon becoming Anglican). [Analysis] A tension worth holding rather than pressing as a gotcha: if the baptized can still deliberately apostatize (§7, the "throw away the ring" view), the bare fact of baptism is a structurally odd sole ground for assurance — contrast WCF 18, which grounds assurance in the promises, the inward evidences of grace, and the Spirit's witness, not the sacramental fact alone. Worth asking how the two fit together for him, rather than assuming the tension is unresolved on his end.*
-
+ 
 **D11. Postmillennialism — program or optimism? `[clarify]`** **"Does your postmillennialism come with theonomy or a program for Christianizing the civil order — establishment, Christian nationalism — or is it eschatological optimism without a political program?"** *Given the "we're winning" postmil + "Marxist infiltration" narrative in a CREC-adjacent milieu; a PCA/OPC reader is often more two-kingdoms. Lower stakes than D1–D6 but a likely real difference.*
-
+ 
 **Rev. James (sourced):** *Postmillennial — defined and held in the Revelation class; and the “Marxist … infiltration … in our seminaries” narrative (Anglican 101; Worship series). Whether his postmillennialism carries a civil-order program (theonomy, establishment) isn’t stated, so that’s the open part.*
-
+ 
 ---
-
+ 
 ## Reserve block — only if C17 = he *defends* veneration
-
+ 
 *If he says "I don't defend it, I just won't impose it," pocket all of this. If he defends veneration as legitimate, this is the arsenal. Original wording kept; these are scriptural and historical, hardest to evade.*
-
+ 
 - **R1 (second commandment).** **"'You shall not bow down to them.' Where in that text, or anywhere in Scripture, is the distinction between a bow of veneration and a bow of worship?"** *Preface for RJ: "You've granted someone could rightly see veneration as idolatry — so help me see where the bow-distinction comes from in the text itself." Forces the admission that latria/dulia is post-biblical; the command prohibits the act as such and grounds it in God's jealousy.*  
 - **R2 (Daniel 3).** **"The three men could have bowed outwardly while inwardly withholding worship — exactly the intention-based defense veneration depends on. Why wasn't that option available to them? And if the cultic context made any bow worship regardless of intention, doesn't a context of incense, candles, and prayer do the same to a bow before an icon?"** *The trap: his best reply — the explicit command defined the act — concedes that context, not private intention, determines what a bow is. He can't have context decisive in Babylon and irrelevant in the nave.*  
 - **R3 (1 Thess 1:9 / douleuein).** **"Paul says they 'turned from idols to serve' — *douleuein* — 'the living God.' If *dulia* is a safe category of honor distinct from worship, why is its opposite turning *away* from idols?"** *The very word the distinction depends on is the word Scripture uses for idol-service (cf. Ps 106:36 LXX).*  
 - **R4 (Revelation 22).** **"When the angel refused John's prostration, he didn't say 'you may bow in honor but not worship.' He said 'Don't. Worship God.' Why didn't the angel know the distinction your tradition relies on?"** *Apostles (Acts 10:25–26; 14:14–15) and angels refuse creature-directed prostration outright rather than recategorizing it.*  
 - **R5 (patristic record).** **"Can you name one church father from Nicaea I to Chalcedon (325–451) who explicitly approves the cultic veneration of icons?"** *Even Nicaea II's Catholic translator concedes the council's compilers couldn't find one. If he cites Basil's "honor passes to the prototype," that was about the Son as the natural image of the Father — Trinitarian, not a warrant for painted icons.*
-
 **Already relocated (don't repeat):** the bronze-serpent / Hezekiah question lives in **Q1**; Nicaea II's false historical claim and the 700-years-plus-Frankfurt-794 point live in **Q5**; the communion-of-saints question is the follow-up under **C15**.
-
+ 
 **Counters to have ready (his likely rejoinders):**
-
+ 
 - *Daniel 2:46 (Nebuchadnezzar's homage to Daniel with offering and incense):* narrative description, not prescription; the text immediately redirects all credit to God (2:47), and no one in church history cites it to warrant incensing living prophets.  
 - *2 Kings 5:18–19 (Naaman in the house of Rimmon):* Naaman asks pardon *in advance* for the bow — an act needing forgiveness is no model for mandated devotion; a convert's accommodation in a pagan court is a long way from a council anathematizing Christians who decline to bow in church.  
 - *The cherubim (Exodus 25):* God-commanded, concealed in the Holy of Holies, never venerated — no Israelite kissed one, prayed through one, or burned incense to one. They illustrate the command's logic: divine prescription for typological architecture, not human-initiated mediatorial objects.
-
 ---
-
+ 
 ## The warm close (survives every concession)
-
+ 
 **"Christ tore the veil, and Hebrews invites us to approach the throne of grace directly, with confidence, in his name. God says his very name is Jealous. Even if praying through saints and images, or surrounding worship with the old ceremonial apparatus, were technically permissible — why route daily devotion through created intermediaries when God paid his Son's life to remove the need for any?"** *Pastoral, not polemical, and it runs on the same Hebrews-fulfillment engine as the incense question — so it ties the whole conversation together and ends somewhere warm and honest.*
-
+ 
 ---
-
+ 
 ## Priority & sequencing
-
+ 
 1. **Open with Bucket C (Q15–18).** They're friendly, fast, and diagnostic — his answers tell you which Bucket A/B questions are live and whether the reserve block is even needed. If he confirms no invocation, no Marian dogmas, no defended veneration, and no observed image-veneration, you can drop a lot and spend your time where it counts.  
 2. **Then Bucket A, leading with incense (Q1).** This is the centerpiece — the strongest, most-developed, and most distinctively *yours*. Give it room. When he reaches for the heavenly-pattern-participation answer (he will), don't deny it — affirm it, then walk the three sub-moves (signification → selectivity → fulfillment), with the bronze-serpent datum in reserve.  
 3. **Q5 (conciliar selectivity) is the natural follow-up** to any "we take this from the councils / from tradition / from Revelation" answer he gives on incense, statues, or ceremonial — it pivots the practice questions into the authority question without changing the subject.  
 4. **Then Bucket B as openly-acknowledged differences.** Naming them as cross-tradition ("here we'll just differ") is what keeps the whole conversation a friendly exchange rather than a cross-examination.  
 5. **Lent (Q14) is now an active question, not reserve** — but still don't *open* with it, and don't attack his Matthew 6 core reading. The generic calendar difference stays secondary; the live purchase is the conscience-binding edge and the category leaps in (b), with the Irenaeus dating in (c) as backup.  
 6. **End on the warm close** — it survives every concession and reframes the conversation as a shared love of the gospel rather than a list of objections.
-
 **On Bucket D (gap-filling diagnostics):** these aren't part of the live agenda — they map what his videos never covered, so deploy them opportunistically where the conversation opens onto them (the evangelical opener and D1 if "Old Catholic" or "fullness" surfaces; D2–D3 alongside Q6/Q9 on baptism; D5 if episcopacy arises and Q7 if the sacraments arise; D6 if baptismal regeneration/necessity comes up). **D1 is the one to watch:** if he treats justification as non-dividing, it escalates into the strongest "by your own standard" lever in the whole set, via Article 11 + the Homily of Salvation.
-
+ 
 **Throughout:** credit the doctrine, locate the tension in the practice. The recurring, charitable frame for everything in Bucket A is: *"your ceremonial reaches past the hermeneutic you apply everywhere else."*
-
+ 
 ---
-
+ 
 ## Sources & precedents (to pull from and, if useful, cite)
-
+ 
 - **John Owen, *An Exposition of the Epistle to the Hebrews*** (on chs. 8–10) — the keystone. Owen argues the new-covenant priest, sacrifice, tabernacle, and altar are all *heavenly* (Christ's), that all worship must resolve into divine institution, and — decisively — that the heavenly realities could not be introduced without the *removal* of the earthly types. That is the exact answer to "heaven has an altar, so we have one." Free online (StudyLight, Monergism).  
 - **John Calvin, *Institutes* 4.17.31–36** (the *sursum corda* — by the Spirit we are raised to heaven to feed on the ascended Christ) with **Hebrews 12:22–24** — the participation the Reformed *grant*. Pair with **Calvin on Colossians 2:16–17** (ceremonies fulfilled; shadow → substance) and the codification in **WCF 21.1** and the **Westminster Directory for Public Worship (1645)**.  
 - **The Laudian "altar wars," 1630s** — the closest historical analog, and *intra-Anglican*. The avant-garde (Andrewes, Cosin, Laud) reintroduced east-end railed altars, reverence, vestments, and a "beauty of holiness / gateway to heaven" rationale; at Durham, Cosin literally reproduced heaven's throne-room in the chancel (gilded star-painted ceiling, ranks of carved angels). The Reformed-conformist prebendary **Peter Smart** preached against it (Durham, 7 July 1628) and was deprived and imprisoned; **Prynne** and **Burton** attacked Cosin's *Collection of Private Devotions* (1627). Authoritative modern history: **Kenneth Fincham & Nicholas Tyacke, *Altars Restored* (OUP, 2007)**; see also Peter Lake, "The Laudian Style," and Tyacke, *Anti-Calvinists*.  
 - **Scott Hahn, *The Lamb's Supper: The Mass as Heaven on Earth* (Doubleday, 1999)** — the likely modern provenance of RJ's Revelation-as-heavenly-liturgy reading (echoing John Paul II's "mysterious participation in the heavenly liturgy"). Worth reading to engage the steel-man, and worth naming to RJ as a *Roman* line rather than an Anglican-formulary one.  
 - **On Lent's dating:** Eusebius, *Church History* 5.24 (Irenaeus to Victor — the 2nd-century fast of "one day, two days, or forty *hours*," cited to defend *liberty* over uniformity); Athanasius, *Festal Letters* (the 40-day fast enjoined, 331). The "forty days" misreading traces to Rufinus's late-4th-c. Latin mistranslation.
-
 ---
-
+ 
 ## Retrieval note (what I pulled from the project's past threads)
-
+ 
 - **Sola scriptura / magisterium 10-question list** and the **icons list**: recovered in full. Several sola items were built for a *Roman* priest (Catechism §91; the ex-cathedra capital-punishment reversal; the Trent deuterocanon question; the Assumption; Newman) and don't land on an Anglican who already rejects the papal magisterium — held for the actual Catholic-priest conversation, not used here. The icon items survive inside Q1, Q5, C15, the reserve block, and the warm close.  
 - **Gospel & saving-faith (notitia/assensus/fiducia)**: recovered; used as the diagnostic lens on Q6, Q9, and Q11 rather than as a standalone (RJ affirms sola fide and imputation, so it's largely common ground). **v7: formally demoted as a lever (← IP-8** — robust sola fide confirmed in person, "faith alone, not a faith that is alone"). Residual force now lives inside the Q9 coherence test (Q-Bap-6), where his sola fide is *pressed against* his regeneration-of-all, not used as an independent question.  
 - **"Clarifying Anglo-Catholic theology with Rev. James"**: recovered unified Q1–Q3 verbatim and the closing tone guidance; Q4/Q5 substance folded into Q5 and C17.
-
 ---
-
+ 
 ## Sourcing status (v6)
-
+ 
 This pass sourced the list against the uploaded transcripts: Anglican 101 (a101-1), the Anglican Worship series incl. the Ash Wednesday/Lent video (a101-2), the Ante-Nicene/Nicene Fathers class (a103), the Revelation class (a104/a104-2), Christ in the OT (a105), and Misc/Trinity (a106). Every attribution to Rev. James now carries a verbatim quote with its class, or has been redacted to an open question (change 6). **Redacted as unsourceable:** his use of 1 John 2:19 for nominal members (Q6); fencing the Table on belief in the real presence (Q11); Lent being “required of the clergy” (Q14) — the transcripts say the meatless rule is “not required but … the tradition,” with the only clergy-fast language attaching to Ember days; and the “throw away the ring” / “undeniable” / pastoral-softening phrasings (D10, Q12, Q11). **Genuinely open, no transcript anchor:** active obedience (D2), baptismal necessity (D6), private confession (D7), the validity question (D5), the political shape of the postmillennial hope (D11), Marian doctrines (Q16), invocation (Q15). No quotes were invented. There is **no dedicated Eucharist/sacraments class** among the uploads, so a few eucharistic specifics rest on the Worship series and Anglican 101.
-
+ 
 ---  
 ## Do-not-deploy register & deferred fidelity-check items (GV batch)
-
+ 
 **Do NOT deploy as Bucket A (attribution discipline):**
+- **⚠️ NEW 260715 — Article 25 / seven sacraments (DQ-2):** RJ is **formulary-faithful**. Asked directly, he separated the two Dominical/Gospel sacraments from "the Five Ecclesial Sacraments," said the Five "are not of the same level and kind as the Two," and grounded the distinction in the Second Book of Homilies at length. **That is Article 25's own distinction.** Q7 is retired; pressing it would be pressing him for agreeing with the standard he names. The **narrow grace sub-question (Bucket C item 20)** is a separate, much smaller item and is **not** the retired lever.
 - **Baptismal regeneration (GV-38):** RJ is formulary-faithful — Article 27 + the 1662 liturgy support him; the real Bucket-A eucharistic leverage is Article 28/29, not baptism. Keep the live disagreement Bucket-B (regeneration/objectivity), not mode.
 - **Covenantal paedobaptism (GV-27):** common ground, Article 27 consonant — credit it.
 - **Lent / Apocrypha-in-worship (GV-55):** BCP / Article-6-consonant; not a lever (Lent stays a Bucket-B difference, but it's BCP-prescribed for him).
 - **Sensitive formation material (GV-31):** not for deployment, full stop.
 - **Mormon-baptism point (GV-48):** opponent-characterized, RJ's own affirmation not isolated — UNVERIFIED; do not use.
-
 **Bucket B (cross-tradition, lower priority) from the GV set:** objective-promise assurance (GV-5; vs WCF 18), apostasy/perseverance (GV-6; Article 16 compatible), worship-aim common ground (GV-29), women's ordination (GV-40; Articles silent), instruments-as-adiaphora (GV-28; vs strict RPW — useful only to isolate incense's extra freight).
-
+ 
 **Deferred formulary-fidelity-check items (dedicated pass, not live-agenda):**
 1. Article 29 — presence + exact wording in the 1801/1928 text (dropped 1563, restored 1571).
 2. Article 37 — American revision text (NOT identical to 1571/1662; GV-52).
 3. 1571 / 1928 BCP catechism — infant-baptism grounding (GV-9, GV-32).
 4. EMC (Diocese of Mid-America) authorization of incense / ad orientem / pontifical vesture (GV-30, GV-33, GV-53, GV-34).
 5. Citation strategy going forward: lead with 1662 + Articles (edition-stable), not the 1928 (the edition RJ left ~2022; GV-54).
-
 ---  
 # PATCH QUEUE — unprocessed  
 # Append patch blocks below. On consolidation I apply these, clear this  
-
+ 
 *(queue empty — cleared on 260621-1 (v11) consolidation; durable notes folded into CHANGELOG below)*
-
+ 
 === END PATCH QUEUE APPEND (preserve this patch queue end line even when emptying the queue contents) ===
-
+ 
 ---  
 # CHANGELOG (permanent — never deleted)  
+260715-1 (v12): Reconciled the 260715 patch queue (Discord intake 7/9-7/15/26 + the incense conversational-outline build) against live state. **New section "Posted / awaiting reply"** added ahead of Bucket A, tracking the two questions already in front of RJ: the **★ CRUX OT filter question** (← DQ-5, posted 260715) with its four anticipated answers and routing, the design note that the Aaronic priesthood and Passover lamb are deliberately **neutral** examples so the question cannot read as a trap with incense behind it, the discipline that **incense does not enter until his filter is on the record in his own words**, and an explicit bump-discipline note (wait longer than prior bumps; the softest bump re-anchors in agreement and doubles as a quiet reconfirmation of DQ-4); and the **self-contradictions closure question** (← DQ-1, posted 260715), whose purpose is to lock the enumeration so that any later appeal to unenumerated self-contradictions on Articles 20 or 34 is foreclosed by his own on-record answer. **Three new Bucket A items added** immediately after the Q1 incense block, all resting on the DQ-4 warrant affirmation and therefore intramural rather than cross-tradition: **1b, the warrant fork** (★★, ← DQ-4/BP-39/43/45/IP-3 — "If incense never stopped, why does it need Malachi to command it? If Malachi institutes it fresh, why insist it was never rescinded?", gate confirmed satisfied since both claims are already on the record, with continuity-horn and Malachi-horn routing and an attribution guard that BP-39's "violation" datum is a rhetorical question inside his reductio and must not be quoted back as a declarative); **1c, the regulation follow-up** (← DQ-3/DQ-4 — built for the anticipated answer that he names Malachi rather than Exodus 30, on the ground that every commanded element in Scripture arrives regulated while Malachi regulates nothing, so the manner must come either from OT regulation, engaging the Exodus 30 pincer, or from post-apostolic tradition; the Leviticus 10 / Nadab and Abihu symmetry retained but explicitly marked save-for-late and soften-to-question-form); and **1d, the method-symmetry question** (← DQ-3's method finding + DQ-4 — "You defended images by pointing to where God commanded them; where is incense commanded, and what did the command regulate?", the batch's cleanest lever because the method is his own, four of his five RPW rebuttals arguing from positive warrant, plus the note that none of his OT warrants to date was priesthood-restricted or given an explicit NT antitype, which is exactly where incense differs on all four axes). *Placement note: 1b-1d sit before 1a because they continue the Q1 incense cluster, while 1a is a pre-gate for Q2 and stays adjacent to it; the resulting 1 → 1b → 1c → 1d → 1a → 2 order is intentional, not drift.* **Two new Bucket C items added:** **20, the Article 25 grace sub-question** (← DQ-2, drafted but unposted, JD's call — answers the half of the original question he skipped, which is where the Roman difference actually lives, and doubles as a free preview of how he handles tradition-as-warrant before incense arrives; flagged to run in the sacraments thread rather than the RPW thread so the one-question-per-turn funnel discipline holds); and **21, the Exodus 30 compound question** (unposted — converts the project's standing inference into a Stated datum, feeds the third jaw of the strange-fire pincer, and is deployed **as a question, never as an assertion**, since no logged RJ statement on his compound exists). **Q7 (Seven sacraments vs. Article 25) RETIRED** (← DQ-2): his answer is formulary-faithful, grounded at length in the Second Book of Homilies, and is Article 25's own distinction; a retirement banner was added at the head of Q7, the body retained for trail, and the lever moved to the **do-not-deploy register** alongside Lent and baptismal regeneration, with an explicit note that the narrow Bucket C grace sub-question is **not** the retired lever. Companion distinctives-doc patch (260715-1) applied the DQ ledger (DQ-1 … DQ-6, new source tag DQ) and status-updated the two gating OQ blocks. No other questions killed or contradicted; the DQ-1 gate result (his enumerated self-contradictions are confined to sacramentology and canon, touching no worship regulation) **preserves every Bucket A worship lever ungated**. Patch queue remains clear.
 260621-1 (v11): Reconciled the GV batch (General Videos, Videos 1-13; findings GV-1..GV-55, from a201.txt/a202.txt) against live state. **Re-armed the Bucket-A eucharist lever (Q4) content-anchored** (← GV-15/16/21/36/43/46): added a content-anchored re-arm above the lean-based lead phrasing, anchoring on Article 29's body ("in no wise … partakers of Christ … the sign or Sacrament") rather than its title, to defeat RJ's now-sourced title-vs-content deflection (GV-43), with four pre-empts (title-overstates, 'physically'-was-loose, Articles-don't-bind, benefit-not-presence) — the last flagged as the one place he retains room (reading "partakers of Christ" as savingly/to-benefit). The original lean-based phrasing is retained beneath the re-arm as backup. **Resolved QC-a at 0b:** GV-43 sources him making the title-vs-content argument about Article 29 by name, so the long-standing hedge's unnamed Article is very likely Article 29 (strong inference, not his explicit equation); 0b updated, still asked as an on-ramp. **Added 0e, the interpretive-priority / lens-priority gating question** (← GV-44: the communion service is "the lens by which we … interpret the articles, not the other way around"), placed in the Bucket-A scaffolding to be deployed BEFORE the single-Article eucharistic/ceremonial levers (Q3/Q4/Q4a/Q7/Q8a); companion to 0b, countered on the subscription tradition (Articles norm the liturgy). **Enriched Q4a (Article 31)** (← GV-41/45/47/17): his affirmation of eucharistic sacrifice (Dix/Mascall/Stevenson/Williams), his narrow title/context reading of Article 31, and his Saepius-Officio defense of the priest's "power of offering the sacrifice of the body and blood of christ"; countered on Article 31's first clause ("none other satisfaction … but that alone") and framed as a which-of-your-two-statements-governs question against his own RC3-22 non-propitiatory framing, not a propitiation charge. **Enriched Q7 (Article 25)** (← GV-24/39): confirmation "essential … one of the sacraments" and absolution among the means of grace, pinned to Article 25's "have not like nature." **Sharpened Q8a with QA-Art34** (← GV-53/33/30): the authority-locus question (by whose particular-church authority — EMC or Oxford Movement — do incense/ad orientem/pontifical vesture stand), gated by his provincial/conciliar authority locus; relevance strengthened by GV-33 (he seconds an "oxford movement renewal" at a Forward in Faith venue, owning the Ritualist tradition the lever critiques); first-person incense/ad-orientem/1928 practice sourced directly (GV-30). **Updated the Framing note** with RJ's own named binding standards (1662 + Articles; Reformed-catholic self-ID, GV-10/11/23/37) and his authority locus (provincial/conciliar; royal supremacy civil-not-doctrinal, GV-52/53), plus the citation-order note to lead with 1662 + Articles, not the 1928 (he switched to ACNA 2019 ~2022, GV-54). **Updated the Malachi reserve** with GV-1 (anti-Roman-justification premise confirmed, so he'd reject the Tridentine conclusion) and GV-20 (essence-realist hermeneutic as the same literalizing rule turned against the figurative reading of the 'pure offering' / Rev 5:8). **Appended a do-not-deploy register and deferred formulary-fidelity-check items** (GV-38/27/55/31/48 do-not-deploy; GV-5/6/29/40/28 Bucket-B; 5 fidelity-check items). Companion distinctives-doc patch (260621-1) applied the full GV ledger and its placement decisions (Article-25 fold-in to §6; new Formulary-Edition section; QC-a resolution note). No questions killed or contradicted. Patch queue cleared.
 260620-1 (v10): Reconciled the unified patch queue (2026-06-20, six parts, three source threads: control-thread RPW-video intake, the Spiritual Authority thread, and the Pontifical Vesture/Ritualist Controversy thread) against live state. **Malachi pure-offering reserve note revised and status-upgraded** (← BP-53): replaced the prior general "can't literalize one and spiritualize the other" framing with a sharper lead question built on RJ's own stated rule ("an image doesn't work if it's not being used") applied evenly to the "pure offering" half of Malachi 1:11, the same verse and clause he uses to warrant incense; flagged as substantially stronger than the v9 wording and recommended toward finalist-track, since it no longer depends on an external Reformed premise (typology-as-such), only on RJ applying his own stated interpretive method consistently within one verse; bucket placement held for JD's call. Older phrasing retained as backup. **New open-tracking section added to Bucket A: 0d, Spiritual Authority** (companion to 0c, not a duplicate — 0c covers whether episcopal adoption of an adiaphoron can bind conscience; 0d covers the broader terrain of authority limits, grounds for leaving a church, clergy-discipline process, and congregant appeal mechanisms). Four topics logged (limits of spiritual authority, grounds for leaving, discipline of clergy sin, higher appeals by congregants); the fourth topic carries a first-pass drafted question (built on RC7-5's appellate/collegial binding-and-loosing reading) designed to credit the healthy-structure "trust the self-correction" answer while pressing past it to the captured-structure case; working notes flag EMC canons, the BCP Ordinal, and Article 36 as future intake targets (Article 36 itself checked 260620 and found not to directly address discipline/appeal mechanisms; Article 34 remains the more relevant existing formulary anchor). **New retort-handler #4 added to Q8a** (← EXT-1, external historical research, new source-tag): pontifical vesture (mitre, cope, crozier) specifically, as distinct from the everyday chasuble already answered by retort-handler #3; two moves, in order of strength — the mitre's total lack of antiquity (unattested before the 10th c., no patristic or scriptural warrant, weakening the "also in the East" rebuttal for pontificals specifically), and full pontifical vesture's abolition under the English Church's own Article 34 authority (1552 BCP) followed by 19th-c. Ritualist reintroduction, with the historical mechanism corrected (episcopate divided, not unified in opposition; Public Worship Regulation Act 1874 enforcement largely failed; some bishops used discretionary veto to shield Ritualist clergy) so the lever rests on jurisdictional authority over corporate abolition, not a head-count of bishops. Companion distinctives-doc patch applies the corresponding §13 (BP-50–60), §10 (three EXT-1 findings), and Standing Methodological Note changes. No questions killed or contradicted. Patch queue cleared.
 260619-2 (v9): Reconciled the BP ("Barely Protestant" YouTube channel, 5 videos) append-mode patch against live state. **Added one new standalone question to Bucket A:** 0c, the bishop-authority/conscience-binding mechanism (← BP-49), placed immediately after 0b and before the Q1 incense material; companion to Q14, distinct in that it targets the submission-mechanism-as-such rather than the Lenten fast's content. **Enrichments (not new questions), folded into existing items:** Q1's signification-problem sub-move (a) sharpened with a current-era verbatim restatement (← BP-38, "incense is an imagery… An image doesn't work if it's not being used"); a new framing note added at the head of Q1 (← BP-41) pre-empting the strict-imperative-RPW counter-case (Lord's Day, synagogue, Hanukkah) by naming the actual three-part test before he raises it, and granting exclusive psalmody as common ground; the Malachi pure-offering reserve note sharpened with a current-era non-propitiatory-vs-"pure offering" gap and Lutheran-adiaphora contrast (← BP-43); D5/QC-c enriched with a second, independently-sourced orders-validity angle on the esse/bene-esse tension (← BP-15, his own four-fold validity framework withholds the proper-minister prong for the Eucharist specifically), folded into both the D5 prose and the QC-c question text itself, not spun into a new QC-g; Q17 sharpened (← BP-3/BP-5/BP-6), the "defend vs. decline to impose" axis resolved toward DEFEND for icon use/presence on the strength of a 2020 affirmative apologetic, with the question wording revised to target the un-engaged veneration bow (proskynesis/dulia) specifically; Q10a sourced (← BP-16, "I am Father James" on his own channel), converting the closing line from unsourced-open to a sourced citation; D10 sourced (← BP-29), filling a previously empty slot with a quote grounding assurance in objective baptism plus an analysis note on the tension with his apostasy view. **Five items reviewed and confirmed NOT added as new questions:** BP-19/BP-26 (evangelical-identity opener, strengthens existing sourced answer only), BP-27 (seven sacraments, strengthens existing Q7 affirmation only), and BP-20 (which dogmatic reasons kept him from Eastern Orthodoxy, a low-priority [Clarify] candidate held back as partially covered by existing closed-communion material, available later if useful in conversation). No questions killed or contradicted. Patch queue cleared.  
@@ -773,7 +907,7 @@ This pass sourced the list against the uploaded transcripts: Anglican 101 (a101-
 260618-1 — Switched to stable-title + date-stamp convention (filename no longer carries a version suffix; working version lives in the header and here). De-escaped the Google-Docs corruption introduced by copy-paste round-trips. **Reconciled the patch queue and cleared it:** Inc-0 (Malachi 1:11 / RPW funnel) placed as the lead Bucket A incense question ahead of Q1, refined from candidate, superseding and dropping the two earlier Lutheran candidate questions per the dedup flag; Q1 boundary sub-move (b) revised (sea of glass → golden lampstand + ark of the covenant, harps kept as instruments-bridge); new Q8a (Q-Vest, vestments / "signs preach" principle) folded in with both retort-handlers and the two soft spots; stone-vs-wood-altars logged as a pending candidate (JD handwritten note). Friendly relay forms of the incense questions now live canonically in `On_Incense_and_the_Altar.md`; this list keeps the analytical forms with cross-pointers.  
 v1.0 — Adopted patch-queue process; added status + traceability structure.  
 v7 — First RECONCILE pass against the in-person session (IP-2–IP-10) + incense thread. **Killed:** original Q1 fulfillment-core (pre-empted IP-3; kept struck-through for trail). **Retargeted:** Q1 core at the bloody-vs-non-sacrificial distinction (← Inc-7, NEW1) + Yom Kippur/priesthood follow-ups. **Merged:** Inc-9+NEW3 → Q1 sub-move (b) stopping-point; Inc-8+NEW2 → Q1 Article-34 fork; NEW4 → Q1 Malachi reserve. **Added:** Q4a Eucharistic sacrifice vs Art. 31 (← Euch-1, new cluster) + Art. 28 real-presence follow-up (← Euch-2); Q6 Article-16 reversible-grafting lever (← Bap-5); Q9 sola-fide-vs-regeneration-of-all coherence test (← Bap-6); Q7 Art. 25 subscription sharpening (← Sac-1, folded not spun out); Q5 Article-6 teeth (← SS-5). **Demoted:** Gospel/saving-faith cluster as a lever (← IP-8). **Down-weighted:** D5 apostolic-succession-as-lever (← IP-10, bene esse not esse). Patch queue cleared.
-
+ 
 # LEGEND (permanent — never deleted)  
 # Question IDs: Q-<cluster>-<n>   e.g. Q-Inc-2  
 # Status: [candidate] [refined] [finalist-track] [finalist] [killed]  
@@ -781,3 +915,4 @@ v7 — First RECONCILE pass against the in-person session (IP-2–IP-10) + incen
 # Clusters: Inc=incense, Bap=baptism/apostasy, SS=sola scriptura/magisterium,  
 #   Icon=icons/images, Gos=gospel/saving faith, Euch=Eucharist (real presence /  
 #   sacrifice of the Mass; Art. 28/31)  [Sac folded into Q7; extend as needed]  
+ 
