@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- 260724-1: **Re-export.** Extends the capture through **2026-07-23** (adds JD's 12:07 PM post, the DQ-7 grounding question in genre-discrimination form). Also **resolves the three relative timestamps** the 260722 export rendered as "Yesterday" into absolute dates (7/21/26, 12:04 AM · 10:55 AM · 11:42 AM), which is what confirmed the DQ-7 date correction from 07-22 to 07-21. No other changes; still raw verbatim, no analysis, no source tags, no cleanup.
 - 260722-1: Initial build. Raw verbatim capture of Discord thread "Regulative Principle" from DiscordChatExporter export. No analysis, no source tags, no cleanup.
 
 ---
@@ -157,7 +158,7 @@ If you can explain it in a way that I could apply that rubric to any worship pra
 
 ---
 
-### Yesterday at 12:04 AM — Athanasius325 / Fr James
+### 7/21/26, 12:04 AM — Athanasius325 / Fr James
 
 1) I do not see how Revelation 5:8 and 8:3-4 prove that petitioning the Saints in Heaven directly is appropriate. There seems to be a leap there from, "The prayers of the Saints are received in Heaven as a part of the worship" to, "therefore we can pray to particular Saints, namely those in Heaven already, in some supernatural way and that it is good to do so." 
 
@@ -165,7 +166,7 @@ If you can explain it in a way that I could apply that rubric to any worship pra
 
 ---
 
-### Yesterday at 10:55 AM — JD Smith (OP)
+### 7/21/26, 10:55 AM — JD Smith (OP)
 
 @Athanasius325 / Fr James thanks for this. #2 makes total sense to me. 
 
@@ -177,7 +178,7 @@ Or is it that even things the vision does show wouldn't transfer to us as practi
 
 ---
 
-### Yesterday at 11:42 AM — Athanasius325 / Fr James
+### 7/21/26, 11:42 AM — Athanasius325 / Fr James
 
 It is the first. If there was an example of prayers to the Saints in Heaven in the Scriptures, an example that was lauded or not treated as sinful, then we would of necessity have to find it appropriate. 
 
@@ -188,3 +189,19 @@ The phrase in Revelation 5:8 translated as, "prayers of the saints" is, "προ�
 2) Their prayers are heard and offered in the Heavenly worship. 
 
 The closest we can get to prayers to the Saints is this: The Saints in Heaven pray, and those prayers are offered in Heaven. While I wholeheartedly agree that the Saints in Heaven are praying for us, I do not see how that necessarily leads to the claim that we can therefore directly petition the Saints for prayer. This is why my position on petitioning the Saints for prayer is the following: We should, in directing our prayers to God, ask Him that He have the Saints in Heaven pray for us. I do not think there is anything objectionable to that, and even the Roman Catholic apologist Trent Horn has offered that as an appropriate approach (he apparently got that from me! haha).
+
+---
+
+### 7/23/26, 12:07 PM - JD Smith
+
+@Athanasius325 / Fr James That's interesting! I never heard of it before but would think asking God to have the saints pray for us is within bounds.
+
+Since this is the kind of test I'd want to apply to other cases, I want to make sure I understand what supports it and not just the rule itself. 
+
+You said "If there was an example of prayers to the Saints in Heaven in the Scriptures, an example that was lauded or not treated as sinful, then we would of necessity have to find it appropriate."
+
+Does that work the same way regardless of whether the example is something shown in a heavenly vision, something described in prophecy, or something recorded as an actual practice of the New Testament church? 
+
+The last of those would generally justify it for me, since that's an approved example in the ordinary sense, though even there I'd want to know whether a given instance was meant for the whole church or belonged to its own occasion.
+
+For the first two (described in a vision or a prophecy with no NT example), I'm less clear on what takes it from acceptable in that setting to something we would have to find appropriate for us.

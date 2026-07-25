@@ -12,6 +12,11 @@
 <!-- METADATA BLOCK - STRIP FROM HANDOUT COPIES. Everything between this comment and the matching END comment, plus the CHANGELOG section at the foot of the document, is maintenance bookkeeping and is not part of the argument. -->
  
 **Last updated: 260723-1** (date-stamped, format yymmdd-iteration)
+
+> ### ⚠️ POINTER — VOLATILE STATE IS NOT AUTHORITATIVE IN THIS FILE
+> **`PROJECT_STATE.md` is the single source of truth** for whose turn it is, what has been asked, what has been answered, which gates are open, and what version each document is at. Status language in this file is **commentary**, retained for its reasoning. **Where the two disagree, `PROJECT_STATE.md` wins and this file is stale.** Run `validate_project.py` after any edit.
+
+
  
 **⚠️ Standing attribution note (maintenance only — not part of the argument, strip with this block).** The "in violation of the verse" framing at the two-minute core, §1, and the warrant statement is a characterization of the **pro-incense case as generally made in Anglo-Catholic contexts**, and that is the only form in which it may stand. It **must not be attributed to any individual minister**, and specifically not to the minister this project is in dialogue with. His on-record declarative is that incense is "a standard part of the worship of the people of God in the New Testament church, according to Malachi 1.11"; his one use of "violating" language is a **rhetorical question inside his own reductio**, posed conditionally about a single named interlocutor — **source-verified 260722-1** (byte offsets 34471–34692 of the Everhard-response transcript). If this outline is ever adapted into anything addressed to him or relayed through a third party, **the generic framing must be preserved and the personal attribution must not be introduced.** No change to the argument text this pass; the document's restraint stands.
  

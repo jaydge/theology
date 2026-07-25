@@ -69,6 +69,6 @@ I would submit that both are true: that they are generally accepted as appropria
 
 ---
 
-### Yesterday at 10:16 AM — JD Smith (OP)
+### 7/21/26, 10:16 AM — JD Smith (OP)
 
 OK that's helpful clarification. Thanks!

@@ -149,7 +149,7 @@ I think I follow, but could you give one or two examples of the kind of belief y
 
 ---
 
-### Yesterday at 12:00 AM — Athanasius325 / Fr James
+### 7/21/26, 12:00 AM — Athanasius325 / Fr James
 
 One easy one would be the required usage of the Book of Common Prayer's liturgy, specifically the 1928 (US) version for us. That might fall more into practice, though. 
 
@@ -165,7 +165,7 @@ This is not quite what you are asking for, as I would say that I can prove (to m
 
 ---
 
-### Yesterday at 10:15 AM — JD Smith (OP)
+### 7/21/26, 10:15 AM — JD Smith (OP)
 
 @Athanasius325 / Fr James Thanks - it sounds like the required distinctives all fit into the "I take these to be proved from Scripture, even if not to everyone's satisfaction" zone rather than a genuinely extra-biblical one, and I appreciated you affirming that Scripture alone is materially sufficient for the essential doctrines of the Faith. 
 
