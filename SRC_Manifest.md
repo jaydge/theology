@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-*Generated 2026-07-22; extended 2026-07-24 (260724-1), capture-method and dating rule corrected 260724-3.*
+**Last updated: 260725-1** (date-stamped, format yymmdd-iteration)
+
+*Generated 2026-07-22; extended 2026-07-24 (260724-1), capture-method and dating rule corrected 260724-3; archive paths recorded and IP-4/IP-12 references corrected 260725-1.*
 
 * Covers the ASR transcript files uploaded for verbatim verification (Files 1-3) and the four archived Discord thread captures (added 260724-1). Append-mode intake; no canonical documents touched by this file.*
 
@@ -30,7 +32,7 @@ If this assumption is wrong for a future upload (i.e., a file really does bundle
 | Lines | 874 |
 | Video count detected | 1 |
 | Byte range | 0–49,562 (entire file) |
-| Content | First in-person Anglican 101 class + Q&A. Contains the Malachi 1:11 incense passage (source of IP-4). |
+| Content | First in-person Anglican 101 class + Q&A. Contains the Malachi 1:11 incense passage (source of **IP-12**, promoted from IP-4 on 260725-1). |
 
 ## File 2
 
@@ -46,11 +48,11 @@ If this assumption is wrong for a future upload (i.e., a file really does bundle
 
 ## On merging Files 1 and 2
 
-**Recommend keeping them as separate files, unmerged.** Byte offsets already logged in the canonical docs (e.g. `IP-4` at 12441–13335) were computed against these exact files; merging into one new file would shift every offset after the merge point and invalidate the existing citations without adding anything — the two are already cleanly identifiable as one evening's session in two parts. If clearer labeling is wanted without touching the files themselves (renaming an uploaded file isn't possible from this end, and re-uploading under a new name would just create a third artifact with the same content), the cleanest fix is a **canonical alias**, tracked here rather than on disk:
+**Recommend keeping them as separate files, unmerged.** Byte offsets already logged in the canonical docs (e.g. `IP-12`, formerly `IP-4`, at 12441–13335) were computed against these exact files; merging into one new file would shift every offset after the merge point and invalidate the existing citations without adding anything — the two are already cleanly identifiable as one evening's session in two parts. If clearer labeling is wanted without touching the files themselves (renaming an uploaded file isn't possible from this end, and re-uploading under a new name would just create a third artifact with the same content), the cleanest fix is a **canonical alias**, tracked here rather than on disk:
 
 | Canonical alias | Actual filename | Role |
 |---|---|---|
-| IP-Session-2026-06-14 · Part 1 | `Audio_06_14_2026_19_21_22_mp3.txt` | First in-person Anglican 101 class + Q&A (contains IP-4/Malachi passage) |
+| IP-Session-2026-06-14 · Part 1 | `Audio_06_14_2026_19_21_22_mp3.txt` | First in-person Anglican 101 class + Q&A (contains IP-12/Malachi passage; IP-12 was IP-4 before 260725-1) |
 | IP-Session-2026-06-14 · Part 2 | `Audio_06_14_2026_20_26_39_mp3.txt` | Continuation Q&A, same evening |
 
 Any future reference to "the first in-person session" can cite "Part 1 / Part 2" and this table resolves it to the real filename and hash — offsets stay exactly as already logged, nothing to recompute.
