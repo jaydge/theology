@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260726-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260726-2** (created 260724-3). Read this file first, before any other project document.
 
+> **260726-2 pass note.** Small, contained secondary pass. Resolved the two 260726-1-flagged registry-cell ambiguities on `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` — confirmed the 260724-3 date-resolution edit actually happened (git history + independent `SRC_Manifest.md` Export History confirmation), added the changelog line each file's own changelog should have carried, and left both registry cells at **260724-3** (no value changed, ambiguity note replaced with a resolution note). **Touched only §4 and this note.** No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.
+>
 > **260726-1 pass note.** RV-review outcomes recorded, session registry corrected, and a **capture-policy inversion** applied. Changes here are confined to **§3** (two queued questions; three new standing rules and permissions; next scheduled work), **§4** (six version bumps, `validate_project.py` registered, two archive cells flagged unresolvable and deliberately not guessed), **§7** (the new mixed-vintage failure mode) and **§8** (two close-the-pass items). ⚠️ **Rev. James has not replied to DQ-15. No question was drafted, altered or posted TO him; items 22 and 23 are drafted and QUEUED BEHIND DQ-15.** ⛔ **The outline's act-level-warrant step was deliberately NOT written** and is the next scheduled work. **No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
 >
 > **260725-4 pass note.** Applied patch batches **260725-3** (sessions-ingested registry, capture codes, dual-capture procedure → `SRC_Manifest.md`) and **260725-2 REISSUE** (Revelation class corpus, findings **RV-1 … RV-23** → `St_Francis_EMC_Distinctives.md`). Changes in this file are confined to **§1** (one monitored-source row), **§3** (three common-ground entries added to the do-not-deploy register), **§4** (four version bumps) and **§5** (next-free numbers, new prefix rule). **No gate moved, no channel state changed, no question was answered or retired by this pass.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
@@ -180,13 +182,13 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260726-1 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260726-2 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260726-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v18 (260726-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260726-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260726-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260726-1 | Source registry | JD + Claude |
+| `SRC_Manifest.md` | 260726-2 | Source registry | JD + Claude |
 | `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
@@ -226,7 +228,7 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 **⚠️ `validate_project.py` WAS UNREGISTERED UNTIL 260726-1, AND THAT IS THE SAME DEFECT CLASS AS THE README.** It appears in the repo-layout block below but was absent from this table, so **the tool that enforces the registry was itself outside the registry.** It is now a row. It carries no version stamp; C3 reports that as a WARN rather than skipping it silently, which is the point of registering it.
 
-**⚠️⚠️ TWO REGISTRY CELLS ARE UNRESOLVED AND WERE DELIBERATELY NOT GUESSED (260726-1).** `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` are registered at **260724-3**, but the only version token either file carries is **260722-1**, and **neither file was attached to the 260726-1 pass**, so their true vintage cannot be established from the attachments. The plausible explanation is a date-resolution edit at 260724-3 that never got a changelog line, which is consistent with the class column ("never edited except date resolution") and with C1 passing. **That is a hypothesis, not a finding.** Per the pass rule, **no version number was guessed into the registry and both cells were left as they stand.** ⚠️ **JD to resolve:** attach both archives on a future pass, or confirm the 260724-3 edit and add the changelog line the edit should have carried.
+**✅ THE TWO REGISTRY CELLS FLAGGED AT 260726-1 ARE NOW RESOLVED (260726-2).** `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` were registered at **260724-3** while carrying no version token past **260722-1** in their own changelogs. Both archives have now been read in full and their git history checked directly: commit `efba6db` (2026-07-24) rewrites the relative "Yesterday" timestamps in both files to absolute **7/21/26**, and `SRC_Manifest.md`'s own Export History rows for these two files (independent of both the git log and the files' own changelogs — see §Capture Method) already recorded this exact resolution, with hashes that match the current file content exactly. **The 260724-3 edit is a confirmed finding, not a hypothesis.** The gap was narrower than first suspected: the edit happened, only the changelog line documenting it inside each raw archive was never written. That line has been added retroactively to both files (dated 260724-3, marked as added on 260726-2), and the registry cells at §4 are correspondingly confirmed as **260724-3** with no change in value.
 
 ⚠️ **Backstage/relay-clean content separation still governs**, per §0. Nothing from `RJ_Incense_Analysis.md` enters a relay-clean-class document, including changelogs, even while the class is suspended.
 

@@ -1,8 +1,10 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260726-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260726-2** (date-stamped, format yymmdd-iteration)
 
 *Generated 2026-07-22; extended 2026-07-24 (260724-1), capture-method and dating rule corrected 260724-3; archive paths recorded and IP-4/IP-12 references corrected 260725-1. **260725-4: File 4 (Revelation class corpus) registered from batch 260725-2; the sessions-ingested registry, capture codes and dual-capture reconciliation procedure added from batch 260725-3; boundary-detection method amended to record that two intake formats are now in play; **placeholder rows added for the unregistered Anglican 101 sessions JD confirmed he has attended since 06-14, dates pending.***
+
+**260726-2: registry-cell resolution for the two 39Articles/SevenSacraments archives.** Confirmed (git history + this file's own pre-existing Export History rows) that the 260724-3 date-resolution edit actually happened to both files; the changelog line that edit should have carried was added retroactively to each archive's own changelog, which changes their hashes — hash/size/line-count fields below updated to match. No other content in this file touched.
 
 **260726-1: SESSION REGISTRY CORRECTED AND THE CAPTURE POLICY INVERTED.** The 2026 Anglican 101 run is **four sessions, not three**: the TBD placeholders are retired and replaced by dated rows for **06-28** (general intro), **07-19** (**Articles 1-7, priority ingest**) and **07-26** (held today, not yet captured). Note 2 is rewritten from a confirmed gap to a **closed** one. ⚠️ **New Note 2a: for Anglican 101, `[R]` is PRIMARY permanently by policy and `[S]` does not promote** — JD's room capture contains post-session informal Q&A that the official upload does not, and that material is `[R]`-only by design. Procedure **Step 4 amended (not deleted) into two branches**: Branch A runs a **comparison pass yielding a divergence report**, supersedes nothing, and is the standing case for Anglican 101; Branch B retains the original promotion path for any series where `[R]` is not the richer capture. Step 5 scoped to Branch B. ⚠️ **The audio-verification requirement is unchanged and applies to both captures.**
 
@@ -167,23 +169,23 @@ The `>>` diarization markers are **sparse and unreliable**: 4 in Session IX, 22 
 | Field | Value |
 |---|---|
 | Filename | `SRC_Discord_39ArticlesFormularies.md` |
-| SHA-256 | `c28363cd4e9c33e49d06aab47cea2adbfd0f5e56ca72798afba987f2d41ffc9b` |
-| Size | 12,717 bytes |
-| Lines | 172 |
+| SHA-256 | `ec3e7eeba9eaeac99297546fd5c879e47a42cb1f9603348c8b88f891d03a8aab` |
+| Size | 13,424 bytes |
+| Lines | 173 |
 | Thread | "39 articles, Anglican formularies, and exceptions to them" (opened by JD, 2026-06-16) |
 | Coverage | 2026-06-16 → 2026-07-21 |
-| Export history | 260722-1 initial; **260724-3 relative timestamps resolved to 07-21** |
+| Export history | 260722-1 initial; 260724-3 relative timestamps resolved to 07-21; **260726-2: the 260724-3 changelog line, never written at the time, added retroactively to the file itself — hash/size/line-count updated accordingly, no content beyond the changelog line changed** |
 | Findings sourced | **DQ-1, DQ-6, DQ-12.** Also contains the third-party (M1B3AU) material and JD's uncorrected-by-design reply |
 
 | Field | Value |
 |---|---|
 | Filename | `SRC_Discord_SevenSacraments.md` |
-| SHA-256 | `45251fbdfa286da08e13e8389eda43212a36f5654abf646881a2d3d3f769171f` |
-| Size | 7,279 bytes |
-| Lines | 74 |
+| SHA-256 | `971ac8002f4762c5b887707f0f87f60c2c34d1690dc0ef02d7bf4a2ae3c29e5a` |
+| Size | 7,945 bytes |
+| Lines | 75 |
 | Thread | "Seven sacraments vs. Article 25" (opened by JD, 2026-06-17) |
 | Coverage | 2026-06-17 → 2026-07-21 |
-| Export history | 260722-1 initial; **260724-3 relative timestamps resolved to 07-21** |
+| Export history | 260722-1 initial; 260724-3 relative timestamps resolved to 07-21; **260726-2: the 260724-3 changelog line, never written at the time, added retroactively to the file itself — hash/size/line-count updated accordingly, no content beyond the changelog line changed** |
 | Findings sourced | **DQ-2, DQ-11.** Closes question-list item 20 |
 
 | Field | Value |

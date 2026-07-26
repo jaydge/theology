@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- 260724-3: **Date resolution.** Resolves the two relative "Yesterday" timestamps (Athanasius325/Fr James's 12:00 AM reply and JD's 10:15 AM follow-up) to absolute **7/21/26**, per the standing Discord-archive dating rule (`SRC_Manifest.md` §Capture Method and Dating Rule). No other changes; still raw verbatim, no analysis, no source tags, no cleanup. *(⚠️ Line retroactively added 2026-07-26. The edit itself landed in commit `efba6db`, 2026-07-24, and was independently confirmed via `SRC_Manifest.md`'s Export History row for this file, which already recorded the resolution and carries the matching post-edit hash; this file's own changelog simply never got the corresponding line at the time.)*
 - 260722-1: Initial build. Raw verbatim capture of Discord thread "39 articles, Anglican formularies, and exceptions to them" from DiscordChatExporter export. No analysis, no source tags, no cleanup.
 
 ---
