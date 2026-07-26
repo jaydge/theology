@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260726-2** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260726-3** (created 260724-3). Read this file first, before any other project document.
 
+> **260726-3 pass note.** RECONCILE pass, tightly scoped. **Discharged the §3 ⛔ NEXT SCHEDULED WORK item:** the outline's act-level-warrant step is now written. Applied `PATCH_260726-3_ActLevelWarrant_Step.md` (JD-reviewed, confirmed ready) into `Incense_Conversational_Outline.md` as a new **Step 2b** between Steps 2 and 3, answering DQ-9 (the standing obstacle) with the four-point argument from `RJ_Incense_Analysis.md` §11 and the RV-20 foothold. **Step 2b uses Option A — generic shared-premise framing, no direct RJ attribution — to preserve the outline's relay-clean (suspended, recoverable) class;** the RJ-attributed forms of point 2 (DQ-10) and the foothold (RV-20) stay backstage in `RJ_Incense_Analysis.md` for live use and were not imported. The patch file was deleted once applied. **Changes here are confined to this note, §3 (the NEXT SCHEDULED WORK item marked DISCHARGED), and §4 (two version bumps: the outline to 260726-3 and this file to 260726-3).** ⚠️ **Nothing was posted to Rev. James. DQ-15 remains outstanding and DQ-9 remains the standing obstacle** (writing the step does not answer the question — it equips the outline to make the case). **No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.**
+>
 > **260726-2 pass note.** Small, contained secondary pass. Resolved the two 260726-1-flagged registry-cell ambiguities on `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` — confirmed the 260724-3 date-resolution edit actually happened (git history + independent `SRC_Manifest.md` Export History confirmation), added the changelog line each file's own changelog should have carried, and left both registry cells at **260724-3** (no value changed, ambiguity note replaced with a resolution note). **Touched only §4 and this note.** No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.
 >
 > **260726-1 pass note.** RV-review outcomes recorded, session registry corrected, and a **capture-policy inversion** applied. Changes here are confined to **§3** (two queued questions; three new standing rules and permissions; next scheduled work), **§4** (six version bumps, `validate_project.py` registered, two archive cells flagged unresolvable and deliberately not guessed), **§7** (the new mixed-vintage failure mode) and **§8** (two close-the-pass items). ⚠️ **Rev. James has not replied to DQ-15. No question was drafted, altered or posted TO him; items 22 and 23 are drafted and QUEUED BEHIND DQ-15.** ⛔ **The outline's act-level-warrant step was deliberately NOT written** and is the next scheduled work. **No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
@@ -146,13 +148,13 @@ JD authorises document updates **where Rev. James's position is clear on the rec
 **⚠️ POSTURE CHANGE — TIPPING HIS HAND IS NOW ACCEPTABLE (recorded 260726-1).**
 JD is willing to tip his hand on **argument direction** where it moves the discussion faster. **This is deliberate, not a lapse.** It relaxes concealment of direction only: **lock-before-port still governs the order of operations** (the governing principle goes on the record before the specific case is named), and **hybrid pre-emption still never enters posted text.** See `RJ_Incense_Analysis.md` §12.5.
 
-### ⛔ NEXT SCHEDULED WORK — its own scoped pass, do not fold into another
+### ✅ NEXT SCHEDULED WORK — DISCHARGED 260726-3
 
-**Write the outline's act-level-warrant step.** `Incense_Conversational_Outline.md` presupposes act-level warrant at Steps 3, 5, 5b and 6 and nowhere argues for it; DQ-9 is the standing obstacle underneath the whole project.
+**✅ Write the outline's act-level-warrant step — DONE (260726-3).** The step is written. `PATCH_260726-3_ActLevelWarrant_Step.md` (JD-reviewed, confirmed ready) was applied into `Incense_Conversational_Outline.md` as a new **Step 2b, "The principle-level warrant objection,"** between Steps 2 and 3, and the patch file was deleted. It answers DQ-9 with the five-point seed from `RJ_Incense_Analysis.md` §11 (the load-bearing pair (c) and (d) led with, (a)/(b) as support, (e) held in reserve) and the RV-20 foothold, with the object-carries-the-worship reading kept live in its own sentence.
 
-- **Input:** the five-point seed at `RJ_Incense_Analysis.md` §11 — the overreach, the scriptural pattern running the other way, ⭐ **the category objection**, ⚠️ **his own principle-to-act reasoning at DQ-10**, and the reductio. **(c) and (d) are the load-bearing pair.**
-- **Foothold:** **RV-20**, his own act-level account of what placing incense on an altar constituted, which requires no Reformed premise. ⚠️ The object-carries-the-worship reading stays live alongside it.
-- ⛔ **It was deliberately NOT written at 260726-1 and must not be drafted opportunistically inside another pass.**
+- **⚠️ It uses Option A** — generic shared-premise framing, no direct RJ attribution — to preserve the outline's relay-clean (suspended, recoverable) class. The RJ-attributed forms of point 2 (DQ-10) and the foothold (RV-20) stay backstage in `RJ_Incense_Analysis.md` §§11(d), 12.1 for live use and were NOT imported into the outline.
+- **⚠️ This does not resolve DQ-9.** Writing the argument equips the outline; it does not put an answer on the record from Rev. James. DQ-9 remains the standing obstacle in §2, DQ-15 remains outstanding, and nothing was posted.
+- **Original scoping note (retained for the record):** the step was deliberately NOT written at 260726-1 and was reserved for its own scoped pass; 260726-3 was that pass. Input was `RJ_Incense_Analysis.md` §11's five-point seed; foothold was RV-20.
 
 ### ⛔ DO-NOT-DEPLOY REGISTER
 *Retired levers and common ground. Do not reopen without a recorded reason.*
@@ -182,12 +184,12 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260726-2 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260726-3 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260726-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v18 (260726-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260726-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `Incense_Conversational_Outline.md` | 260726-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
+| `Incense_Conversational_Outline.md` | 260726-3 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `SRC_Manifest.md` | 260726-2 | Source registry | JD + Claude |
 | `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
