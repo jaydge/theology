@@ -55,6 +55,7 @@ CHECK_NAMES = {
     'C9': 'do-not-deploy consistency',
     'C10': 'section 15 staleness',
     'C11': 'outline-vs-findings drift',
+    'C12': 'session-registry integrity / dual capture',
 }
 # Checks that are allowed to see zero files without failing the run, and why.
 COVERAGE_EXEMPT = {}
@@ -212,7 +213,7 @@ for regpath, abspath in ARCHIVES:
 # are legal and must attach to an EXISTING parent number.
 if DIST:
     seen('C2', DIST_KEY)
-    for prefix in ['DQ', 'IP']:
+    for prefix in ['DQ', 'IP', 'RV']:
         tags = re.findall(rf'^\*\*{prefix}-(\d+)([a-z]?)\.\*\*', DIST, re.M)
         if not tags:
             warn(f"[C2] {prefix}: no ledger-format entries found in "
@@ -476,7 +477,7 @@ if DIST:
         CREDIT = re.compile(r'(credit it|common ground|formulary-faithful|'
                             r'no lever here|Credit \(§15\)|see §15)', re.I)
         owed = []
-        for m in re.finditer(r'^\*\*((?:DQ|IP)-\d+[a-z]?)\.\*\*', DIST, re.M):
+        for m in re.finditer(r'^\*\*((?:DQ|IP|RV)-\d+[a-z]?)\.\*\*', DIST, re.M):
             tag = m.group(1)
             # Bound the entry at the next ledger tag OR the next '## ' section
             # header, whichever comes first. Without the header bound the LAST
@@ -484,7 +485,7 @@ if DIST:
             # their vocabulary — that bug made IP-11 look flagged when it wasn't.
             rest = DIST[m.end():]
             bounds = [x.start() for x in
-                      [re.search(r'^\*\*(?:DQ|IP)-\d+[a-z]?\.\*\*', rest, re.M),
+                      [re.search(r'^\*\*(?:DQ|IP|RV)-\d+[a-z]?\.\*\*', rest, re.M),
                        re.search(r'^##\s', rest, re.M)] if x]
             entry = DIST[m.start(): m.end() + (min(bounds) if bounds else 3000)]
             if CREDIT.search(entry) and tag not in body15:
@@ -497,52 +498,244 @@ if DIST:
             ok("[C10] every finding flagged as common ground is credited in §15")
 
         def maxnum(text, prefix):
+            """Highest tag MENTIONED. Used for what §15 credits."""
             ns = [int(n) for n in re.findall(rf'\b{prefix}-(\d+)\b', text)]
             return max(ns) if ns else 0
-        lag = maxnum(DIST, 'DQ') - maxnum(body15, 'DQ')
-        if maxnum(body15, 'DQ') == 0:
-            warn("[C10] ⚠️ §15 cites NO DQ findings at all, while the DQ ledger "
-                 f"runs to DQ-{maxnum(DIST, 'DQ')}. The tensions sections have "
-                 f"grown weekly and §15 has not moved. A source-of-truth document "
-                 f"that only accumulates tensions is biased by construction.")
-        elif lag > 4:
-            warn(f"[C10] §15's newest DQ citation is {lag} findings behind the "
-                 f"ledger. Sweep the interval for creditable material.")
-        else:
-            ok(f"[C10] §15 is within {lag} finding(s) of the DQ ledger head")
+
+        def ledger_head(text, prefix):
+            """Highest tag that is an ACTUAL LEDGER ENTRY ('**RV-N.**').
+
+            Not the same as maxnum: a ledger preamble saying 'next free is
+            RV-24' is a mention, not a finding, and counting it made §15 look
+            one behind a finding that does not exist (caught 260725-4).
+            """
+            ns = [int(n) for n in
+                  re.findall(rf'^\*\*{prefix}-(\d+)[a-z]?\.\*\*', text, re.M)]
+            return max(ns) if ns else 0
+        # Lag is checked PER FINDING-SERIES. Checking DQ alone let the RV batch
+        # land 23 findings with §15 untouched and still report clean (260725-4).
+        for pfx in ['DQ', 'IP', 'RV']:
+            head, credited = ledger_head(DIST, pfx), maxnum(body15, pfx)
+            if head == 0:
+                continue                      # series not in the corpus yet
+            if credited == 0:
+                warn(f"[C10] ⚠️ §15 cites NO {pfx} findings at all, while the "
+                     f"{pfx} ledger runs to {pfx}-{head}. A source-of-truth "
+                     f"document that only accumulates tensions is biased by "
+                     f"construction.")
+            elif head - credited > 4:
+                warn(f"[C10] §15's newest {pfx} citation is {head - credited} "
+                     f"findings behind the ledger ({pfx}-{credited} vs "
+                     f"{pfx}-{head}). Sweep the interval for creditable material.")
+            else:
+                ok(f"[C10] §15 is within {head - credited} finding(s) of the "
+                   f"{pfx} ledger head ({pfx}-{head})")
 
 # ================================================================ CHECK 11
-# Outline-vs-findings drift. The outline carries a derivation pointer naming
-# its sources and the finding it was last checked against. If the ledger has
-# moved past that point, the outline is unverified — REPORT, never rewrite.
+# Outline-vs-findings drift. The outline carries a derivation pointer naming its
+# sources and, PER FINDING SERIES, the newest finding its logical flow has
+# actually been reviewed against. If a ledger has moved past that point -- or if
+# a series is unreviewed, or not named at all -- the outline is unverified.
+# REPORT, never rewrite.
+#
+# ⚠️ WIDENED 260725-4, APPROVED AS A DELIBERATE SCOPE EXTENSION. This check used
+# to read ONE tag and compare it to the DQ ledger only. That let the RV batch
+# land 23 findings -- four of them bearing directly on the outline's act-level
+# steps -- while C11 reported "current", because the pointer happened to say DQ.
+# Same defect class as the original C1/C6 silent skip: not a wrong answer, an
+# unasked question. A series the pointer does not name is a blind spot, and a
+# blind spot that reports clean is worse than a gap that reports loudly.
 if OUT_KEY and DIST:
     out = get(OUT_KEY) or ''
     seen('C11', OUT_KEY)
     seen('C11', DIST_KEY)
-    dpat = re.search(r'DERIVATION[^\n]*?CHECKED-AGAINST:\s*((?:DQ|IP)-\d+[a-z]?)'
-                     r'\s*@\s*(\d{6}-\d)', out)
-    if not dpat:
+
+    dblock = re.search(r'DERIVATION[^\n]*?CHECKED-AGAINST:(.*?)(?:-->|$)',
+                       out, re.S)
+    if not dblock:
         err("[C11] Incense_Conversational_Outline.md has no parseable derivation "
             "pointer. Expected a line containing: DERIVATION: … CHECKED-AGAINST: "
-            "<finding> @ <yymmdd-n>. Without it, drift against the findings "
-            "cannot be detected and the outline silently ages.")
+            "<series state>. Without it, drift against the findings cannot be "
+            "detected and the outline silently ages.")
     else:
-        checked_tag, checked_stamp = dpat.group(1), dpat.group(2)
-        cnum = int(re.search(r'\d+', checked_tag).group(0))
-        dq_max = max([int(n) for n in re.findall(r'\bDQ-(\d+)\b', DIST)] or [0])
-        if checked_tag.startswith('DQ') and dq_max > cnum:
-            warn(f"[C11] outline last checked against {checked_tag} "
-                 f"({checked_stamp}); the DQ ledger now runs to DQ-{dq_max}. "
-                 f"{dq_max - cnum} finding(s) unreviewed against the outline's "
-                 f"logical flow. REPORT drift; do not rewrite JD's reasoning "
-                 f"without asking.")
-        else:
-            ok(f"[C11] outline derivation pointer current "
-               f"({checked_tag} @ {checked_stamp})")
+        ptr = dblock.group(1)
+        SERIES = ['DQ', 'IP', 'RV']
+
+        def ledger_head_c11(prefix):
+            return max([int(n) for n in
+                        re.findall(rf'^\*\*{prefix}-(\d+)[a-z]?\.\*\*',
+                                   DIST, re.M)] or [0])
+
+        # A series is "declared unreviewed" when the pointer names it but
+        # records no finding, e.g. 'RV: no review recorded'. That is an HONEST
+        # state and must still warn -- an acknowledged gap is still a gap -- but
+        # it is distinguished from a series nobody thought about at all.
+        UNREVIEWED = re.compile(r'no review recorded|not (yet )?reviewed|'
+                                r'unreviewed|pending review', re.I)
+        parsed_any = False
+
+        for pfx in SERIES:
+            head = ledger_head_c11(pfx)
+            if not head:
+                continue                       # series not in the corpus yet
+            m = re.search(rf'\b{pfx}-(\d+)[a-z]?\s*@\s*(\d{{6}}-\d)', ptr)
+            if m:
+                parsed_any = True
+                cnum, stamp = int(m.group(1)), m.group(2)
+                if head > cnum:
+                    warn(f"[C11] outline last checked against {pfx}-{cnum} "
+                         f"({stamp}); the {pfx} ledger now runs to {pfx}-{head}. "
+                         f"{head - cnum} finding(s) unreviewed against the "
+                         f"outline's logical flow. REPORT drift; do not rewrite "
+                         f"JD's reasoning without asking.")
+                else:
+                    ok(f"[C11] {pfx} current in the outline pointer "
+                       f"({pfx}-{cnum} @ {stamp}, ledger at {pfx}-{head})")
+                continue
+
+            # Named, but with no finding recorded?
+            named = re.search(rf'\b{pfx}\b\s*:([^·\n]*)', ptr)
+            if named and UNREVIEWED.search(named.group(1)):
+                parsed_any = True
+                warn(f"[C11] outline pointer NAMES {pfx} but records no review: "
+                     f"the {pfx} ledger runs to {pfx}-{head} and none of it has "
+                     f"been checked against the outline's logical flow. Honest, "
+                     f"and still a gap. REPORT; do not rewrite JD's reasoning "
+                     f"without asking.")
+            else:
+                warn(f"[C11] outline pointer does NOT NAME the {pfx} series at "
+                     f"all, and the {pfx} ledger runs to {pfx}-{head}. This is a "
+                     f"blind spot, not a clean pass — add {pfx} to "
+                     f"CHECKED-AGAINST with its real review state.")
+
+        if not parsed_any:
+            err("[C11] the derivation pointer records review state for NO series "
+                "that exists in the ledger. A pointer that names nothing "
+                "checkable is the C1/C6 failure shape: it reports and verifies "
+                "nothing. Fix the pointer.")
+
         for src in ['RJ_Incense_Analysis.md', 'St_Francis_EMC_Distinctives.md']:
             if src not in out:
                 warn(f"[C11] outline derivation pointer does not name {src} as a "
                      f"source. Name every document it derives from.")
+
+# ================================================================ CHECK 12
+# Session-registry integrity and dual capture.
+#
+# WHY THIS EXISTS: SRC_Manifest's file tables answer "has this FILE been
+# ingested?" via SHA-256. They cannot answer "has this EVENT been ingested?",
+# and the same Anglican 101 class reaches this project through two doors --
+# JD's room recorder and RJ's stream. Two files, two hashes, ONE session.
+# A hash check passes both and duplicates every finding.
+#
+# ⚠️ COVERAGE DISCIPLINE: this check parses ROWS, not just files. C1 and C6 ran
+# zero times while reporting clean because they saw no files. A check that sees
+# the file but parses zero ROWS is the same failure wearing a hat, so parsing
+# zero session rows is an ERROR here, not a silent pass.
+if MAN_KEY:
+    manifest = get(MAN_KEY) or ''
+    seen('C12', MAN_KEY)
+    sec = re.search(r'^#\s*Sessions Ingested(.*?)(?=^#\s|\Z)', manifest, re.M | re.S)
+    if not sec:
+        err("[C12] No '# Sessions Ingested' section in SRC_Manifest.md. Without a "
+            "session registry the ingestion test falls back to the hash, which "
+            "cannot see a second capture of the same event. Add the registry.")
+    else:
+        body = sec.group(1)
+        rows, session, parsed = [], None, 0
+        for line in body.splitlines():
+            line = line.strip()
+            if not line.startswith('|') or set(line) <= set('|-: '):
+                continue
+            cells = [c.strip() for c in line.strip('|').split('|')]
+            if len(cells) < 3 or cells[0].lower().startswith('session id'):
+                continue
+            cap = next((re.search(r'\[([RS?])\]', c).group(1)
+                        for c in cells if re.search(r'\[([RS?])\]', c)), None)
+            if cap is None:
+                continue                      # gap markers, notes, code tables
+            name = re.sub(r'[`*]', '', cells[0]).strip()
+            if name and name not in ('\u2033', '"', '\u2019\u2019'):
+                session = name
+            parsed += 1
+            rows.append((session or '(unnamed)', cap, line))
+
+        if parsed == 0:
+            err("[C12] The '# Sessions Ingested' section exists but ZERO capture "
+                "rows parsed. This is the C1/C6 failure shape: a check that "
+                "cannot see the rows it is checking reports clean and makes "
+                "every commit since look verified. Fix the table or this check.")
+        else:
+            ok(f"[C12] session registry parsed: {parsed} capture row(s) across "
+               f"{len({r[0] for r in rows})} session(s)")
+
+        # (1) A registered-but-unreconciled second capture must not sit quietly.
+        pending = [r for r in rows if re.search(r'SWEEP PENDING', r[2], re.I)]
+        for sess, cap, line in pending:
+            if not re.search(r'(CONFIRMED|AMENDED|NOT FOUND|OUT OF SCOPE|'
+                             r'sweep (complete|recorded|done))', line, re.I):
+                err(f"[C12] session '{sess}' capture [{cap}] is marked SECONDARY "
+                    f"-- SWEEP PENDING with no sweep outcome recorded. That is "
+                    f"two copies of one fact with no reconciliation, which is "
+                    f"exactly what PROJECT_STATE.md exists to prevent. Run the "
+                    f"dual-capture procedure or record the outcome.")
+        if not pending:
+            ok("[C12] no capture is stuck in SECONDARY -- SWEEP PENDING")
+
+        # (2) Two INGESTED captures of one session with no sweep = forked trail.
+        ingested = {}
+        for sess, cap, line in rows:
+            if re.search(r'NOT YET INGESTED', line, re.I):
+                continue
+            ingested.setdefault(sess, set()).add(cap)
+        forked = [s for s, c in ingested.items() if len(c) > 1]
+        for sess in forked:
+            if not re.search(rf'{re.escape(sess)}[\s\S]{{0,4000}}?'
+                             r'(CONFIRMED|AMENDED|sweep (complete|recorded))',
+                             body, re.I):
+                err(f"[C12] session '{sess}' has {len(ingested[sess])} ingested "
+                    f"captures and no recorded sweep. Byte offsets citing it are "
+                    f"ambiguous RIGHT NOW and the ambiguity is silent -- the "
+                    f"numbers still look like valid coordinates.")
+        if not forked:
+            ok("[C12] no session carries two ingested captures awaiting a sweep")
+
+        # (3) The retrofit rule must be present, or pre-cutover bare offsets
+        #     have no defined referent and the whole back catalogue is unmoored.
+        if not re.search(r'RETROFIT RULE', body, re.I):
+            err("[C12] the RETROFIT RULE is missing from the session registry. "
+                "Without it, every bare pre-260725 offset in the corpus has no "
+                "defined capture, and there are hundreds of them.")
+        else:
+            ok("[C12] retrofit rule present: bare pre-260725 offsets resolve to "
+               "their session's PRIMARY capture")
+
+        # (3b) Surface INCOMPLETE session rows on every run. A placeholder that
+        #      nobody is reminded of decays into a permanent placeholder, which
+        #      is just an invisible gap with extra steps.
+        tbd = sorted({r[0] for r in rows if re.search(r'DATE TBD', r[2], re.I)})
+        if tbd:
+            warn(f"[C12] {len(tbd)} session row(s) INCOMPLETE, awaiting dates "
+                 f"from JD: {tbd}. The gap is visible, which is the point \u2014 but "
+                 f"until a date lands, NO finding may be logged from these "
+                 f"sessions. A finding cannot be dated from a session whose date "
+                 f"is unknown, and dating from the intake session instead is the "
+                 f"exact mechanism that cost two weeks in July 2026.")
+        else:
+            ok("[C12] no session row is awaiting completion")
+
+        # (4) Surface the do-not-quote-yet list on EVERY run. A freeze nobody
+        #     is reminded of is a freeze that gets forgotten mid-conversation.
+        if DIST:
+            seen('C12', DIST_KEY)
+        frozen = sorted(set(re.findall(r'Currently flagged:\*\*\s*`([^`]+)`', manifest)))
+        if frozen:
+            warn(f"[C12] WORDING-CRITICAL freeze active on {frozen}. These are "
+                 f"room-capture findings whose force depends on his exact "
+                 f"phrasing. The finding is usable; QUOTING IT AT HIM IS NOT, "
+                 f"until it is confirmed against his own audio.")
+        else:
+            ok("[C12] no finding is under the wording-critical quoting freeze")
 
 # ================================================================ COVERAGE
 # THE ASSERTION. A check that examined zero files is a failure, full stop.

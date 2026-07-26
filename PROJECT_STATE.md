@@ -1,6 +1,10 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260725-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260725-4** (created 260724-3). Read this file first, before any other project document.
+
+> **260725-4 pass note.** Applied patch batches **260725-3** (sessions-ingested registry, capture codes, dual-capture procedure → `SRC_Manifest.md`) and **260725-2 REISSUE** (Revelation class corpus, findings **RV-1 … RV-23** → `St_Francis_EMC_Distinctives.md`). Changes in this file are confined to **§1** (one monitored-source row), **§3** (three common-ground entries added to the do-not-deploy register), **§4** (four version bumps) and **§5** (next-free numbers, new prefix rule). **No gate moved, no channel state changed, no question was answered or retired by this pass.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
+>
+> **⚠️ TWO ITEMS AWAIT JD AND ARE SURFACED BY THE VALIDATOR ON EVERY RUN.** (1) **Two Anglican 101 sessions are registered but undated** (`A101-2026-TBD-01`, `A101-2026-TBD-02` in `SRC_Manifest.md`). **Until a date lands, no `IP` finding may be logged from them** — a finding cannot be dated from a session whose date is unknown. (2) **`IP-12` is under a wording-critical quoting freeze**: the finding is usable, quoting it at him is not, until `"regular principle"` is checked against his own audio.
 
 <!-- PURPOSE HEADER -->
 
@@ -56,6 +60,14 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **Discord — Seven sacraments vs. Art. 25** | ✅ Closed by JD | 2026-07-21, 10:16 AM | JD | None | n/a |
 | **Discord — Baptism & Confirmation** | ✅ Closed | 2026-07-04, 12:36 PM | LilleyPartyofFive | None. **JD is not a participant** | n/a |
 | **Anglican 101 — in person** | 🔄 Active, ongoing | (per session) | — | Attend; generates IP findings; **costs no Discord turn** | n/a |
+
+### Monitored sources — no turn state, no action owed
+
+*⚠️ **These are not channels.** They produce findings; they do not have a turn, cannot be bumped, and cost nothing to leave alone. Listed so an active recurring source is not invisible to the registry. (Added 260725-4 per batch 260725-2 §0.5; reverse if a source row is unwanted here.)*
+
+| Source | State | Latest ingested | Findings | Note |
+|---|---|---|---|---|
+| **Revelation class — stream only** | 🔄 Active, ongoing | Session XI (uploaded 2026-06-30) | `RV` series | JD does **not** attend. Sessions I-VIII not ingested. Session rows in `SRC_Manifest.md` |
 
 **⚠️ Standing constraint:** *one committal question per turn, per channel.* Rebuttals are held until the prior answer is on record.
 
@@ -128,6 +140,11 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 - **"The Romans would agree with us"** aside (DQ-11) — factually doubtful, **JD's knowledge only, never deployed**
 - **DQ-6 Laud quotation** — provenance UNVERIFIED; never attribute to RJ
 - **DQ-14** third-party comment — never attribute to RJ
+- **Councils recognize truth, they do not constitute it (RV-15)** — formulary-faithful and inconsistent with a magisterial view; the receptionist account is the Anglican and the Reformed one both. **Common ground, not a lever.** *(Useful as a datum for the Article VI two-tier thread — authority to recognize is not authority to require — but that is a supporting premise, not a charge.)*
+- **Word and sacrament in Article 28 compatible language (RV-9)** — "receive both word and sacrament … the body and blood of Christ" is language the Articles themselves use. **Common ground, not a lever.** Says nothing about sacrifice; the Mass-as-sacrifice gap is untouched by it
+- **"2 + 2 = 4 regardless of who says it" — he rejects reactive theology by name (RV-14).** ⚠️ **Never deploy as a gotcha.** It is a methodological commitment JD shares and **it is HIS OWN STATED STANDARD**, which makes it available later as a *shared premise* and worthless as a charge
+
+*⚠️ **The three RV entries above deliberately carry NO `[→ item N]` pointer.** They map to no question-list item because no lever was ever built on them; per the note above, an entry without a pointer is not checked by C9, and that is correct here rather than an omission. (Added 260725-4, currency-audit item 6.)*
 
 ---
 
@@ -137,13 +154,13 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260725-1 | Backstage | JD + Claude |
-| `St_Francis_EMC_Distinctives.md` | 260725-1 | Backstage — findings corpus | JD only |
+| `PROJECT_STATE.md` | 260725-4 | Backstage | JD + Claude |
+| `St_Francis_EMC_Distinctives.md` | 260725-4 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v17 (260725-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260725-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `Incense_Conversational_Outline.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260725-1 | Source registry | JD + Claude |
+| `Incense_Conversational_Outline.md` | 260725-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
+| `SRC_Manifest.md` | 260725-4 | Source registry | JD + Claude |
 | `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
@@ -186,7 +203,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 ## 5. NUMBERING REGISTRY
 
-**Next free number by prefix:** `DQ-16` · `IP-13` · `QA` is a question-list label series, not a finding series (see rule 5) · (GV, BP, RC, EXT closed batches)
+**Next free number by prefix:** `DQ-16` · `IP-13` · **`RV-24`** · **`LS-1` (RESERVED, unused)** · `QA` is a question-list label series, not a finding series (see rule 5) · (GV, BP, RC, EXT, Rev closed batches)
 
 **Rules:**
 1. Numbering is **cumulative and unbroken** within each prefix. Never reuse, never renumber a live tag.
@@ -195,6 +212,17 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 4. `DQ` now spans **four threads**; the thread is identified in the finding body and in `SRC_Manifest.md`, not by the prefix.
 5. ⚠️ **`QA-*` tags are question-list labels, not source tags.** They name a sharpening *within* a question item (`QA-Euc` → item 4, `QA-Art31` → item 4a, `QA-Art25` → item 7, `QA-Art34` → item 8a). They are cited from the distinctives, so **a `QA-` tag must exist in `RJ_Final_Question_List.md` before it is cited anywhere else.** Three of the four were cited into a void from v11 to v16; check **C8** now guards this.
 6. ⚠️ **One tag, one finding.** A tag serving two findings forks its own citation trail and every downstream cross-reference becomes ambiguous. If a finding needs its own identity, it takes **the next free number**, not a letter suffix — suffixes are reserved for amendments to a parent (rule 2). *(Added 260725-1 on resolving the IP-4 collision, which sat unresolved for three months because re-tagging touches three documents.)*
+7. ⚠️ **PREFIX SCOPE — what sorts is WHAT THE RECORDING IS, not how it was delivered.** *(Added 260725-4 with batch 260725-2, before the 200-plus video archive arrives and a bad scheme becomes expensive.)*
+
+   | Prefix | Scope |
+   |---|---|
+   | `IP` | Anglican 101 sessions JD attends in person, 2026 onward. **Delivery-independent:** if one of these later arrives as a YouTube-derived transcript, it is still `IP` |
+   | `RV` | The Revelation class series (2026 run, sessions IX onward). *The 2025 run is the closed `Rev` batch; do not extend it* |
+   | `LS` | Everything else on the channel: standalone videos, topical streams, interviews, response videos. **This is the 200-plus bucket** |
+
+   Two supporting conventions. **A new prefix is minted only for a sustained, self-numbering teaching series**; one-off videos go to `LS` regardless of topic. And **`BP`, the Everhard response video, is a closed batch that would today be `LS` — leave it alone; do not retro-renumber a closed series.**
+
+   ⚠️ **THE DUPLICATION HAZARD THIS CREATES, AND THE HASH CHECK IS BLIND TO IT.** Because the Anglican 101 classes are also streamed, **the same session can enter the corpus twice**: once as JD's room recording, once as a YouTube-derived transcript in a future batch. Those are two files with two hashes, and a hash check passes both. **The ingestion test is the sessions-ingested registry in `SRC_Manifest.md`, keyed on session — not the hash.** Without it, one batch out of the 200 can silently re-log IP-1 through IP-12 under fresh tags, which is the IP-4 collision arriving by a different door.
 
 ---
 
@@ -247,6 +275,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 - [ ] Question IDs cited in the distinctives all resolve in the question list (C8).
 - [ ] No do-not-deploy item is still marked deployable in the question list (C9).
 - [ ] Source tags: numbering unbroken, no duplicates, no tag doing double duty (C2). **A tag serving two findings is a citation trail that silently forks.**
+- [ ] **Sessions, not hashes** (C12, added 260725-4). Every session row in `SRC_Manifest.md` marked `SECONDARY — SWEEP PENDING` has a recorded sweep; every byte offset cited after 260725 carries a capture code. **A registered-but-unreconciled second capture is the two-copies-of-one-fact condition this file exists to prevent, and it must not sit quietly across commits.**
 
 ### 4. ⚠️ THE BALANCE CHECK — is §15 keeping pace?
 - [ ] Count DQ/IP findings added since the last pass. Count §15 additions since the last pass. **If tensions grew and §15 did not, the source-of-truth document is drifting adversarial** (C10 flags this mechanically; the judgment is yours).
