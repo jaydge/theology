@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260725-4** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260726-1** (created 260724-3). Read this file first, before any other project document.
 
+> **260726-1 pass note.** RV-review outcomes recorded, session registry corrected, and a **capture-policy inversion** applied. Changes here are confined to **§3** (two queued questions; three new standing rules and permissions; next scheduled work), **§4** (six version bumps, `validate_project.py` registered, two archive cells flagged unresolvable and deliberately not guessed), **§7** (the new mixed-vintage failure mode) and **§8** (two close-the-pass items). ⚠️ **Rev. James has not replied to DQ-15. No question was drafted, altered or posted TO him; items 22 and 23 are drafted and QUEUED BEHIND DQ-15.** ⛔ **The outline's act-level-warrant step was deliberately NOT written** and is the next scheduled work. **No gate moved, no channel state changed, no question was answered or retired, and nothing entered or left the do-not-deploy register.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
+>
 > **260725-4 pass note.** Applied patch batches **260725-3** (sessions-ingested registry, capture codes, dual-capture procedure → `SRC_Manifest.md`) and **260725-2 REISSUE** (Revelation class corpus, findings **RV-1 … RV-23** → `St_Francis_EMC_Distinctives.md`). Changes in this file are confined to **§1** (one monitored-source row), **§3** (three common-ground entries added to the do-not-deploy register), **§4** (four version bumps) and **§5** (next-free numbers, new prefix rule). **No gate moved, no channel state changed, no question was answered or retired by this pass.** DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
 >
 > **⚠️ TWO ITEMS AWAIT JD AND ARE SURFACED BY THE VALIDATOR ON EVERY RUN.** (1) **Two Anglican 101 sessions are registered but undated** (`A101-2026-TBD-01`, `A101-2026-TBD-02` in `SRC_Manifest.md`). **Until a date lands, no `IP` finding may be logged from them** — a finding cannot be dated from a session whose date is unknown. (2) **`IP-12` is under a wording-critical quoting freeze**: the finding is usable, quoting it at him is not, until `"regular principle"` is checked against his own audio.
@@ -117,6 +119,10 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **DQ-10 follow-up** | "Is there anything the imagery principle rules out on its own?" | ⏸ **QUEUED behind DQ-15.** Not competing. |
 | **Q-Inc-5 / item 1e** | Priesthood-mediation question | Filed, not posted |
 | **Q-Inc-0, QC-f, QC-a, …** | Bucket A incense set | Gate satisfied; sequencing not yet set |
+| **⭐ Item 22** `QC-fork` | What the imagery-and-symbolism principle is a principle *of* (← RV-2 / RV-11 vs DQ-9) | ⏸ **QUEUED behind DQ-15. HIGH PRIORITY** — governs more than the incense cluster |
+| **Item 23** `QC-intelligibility` | Does the audience-intelligibility constraint reach the worship imagery? (← RV-22 vs outline Step 7) | ⏸ **QUEUED behind DQ-15** |
+
+⚠️ **Items 22 and 23 were DRAFTED, NOT POSTED (260726-1).** Rev. James has not replied to DQ-15; nothing was posted to him and no `DQ` number was minted. Next free `DQ` remains **DQ-16**. Full drafts and design notes: `RJ_Final_Question_List.md` items 22-23.
 
 ### Answered / retired this cycle
 | ID | Result |
@@ -125,6 +131,26 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **Item 20** — Art. 25 grace | ✅ Answered 2026-07-20 → **RETIRED** |
 | **DQ-7** verification flags (×2) | ✅ Discharged 260724-1 |
 | **QC-a** — which Article's title vs. content | ✅ Resolved → Article 29 (GV-43) |
+
+### ⭐ STANDING RULES AND PERMISSIONS
+
+**⭐ STANDING RULE — HIS OWN EXAMPLE OUTRANKS THE PROJECT'S VERSION OF IT (recorded 260726-1).**
+Whenever new source material shows Rev. James has **already used an argument in his own words**, the project's version of that argument is **recast as his, in every document where it appears.** His own example is always worth more than the same argument in the project's voice: it cannot be dismissed as an outside framework, and it converts a challenge to his position into a question about it. *(First applied 260726-1 to the Passover analogy at `Incense_Conversational_Outline.md` Step 6, which is his own worked example at DQ-8.)*
+⚠️ **Recasting does not license overclaiming.** State exactly what is his and exactly what is the project's read of it; the three attribution layers are not flattened by a recast.
+
+**⭐ STANDING PERMISSION — UPDATE WITHOUT ASKING WHERE THE RECORD IS CLEAR (recorded 260726-1).**
+JD authorises document updates **where Rev. James's position is clear on the record**, without asking first. ⚠️ **Ambiguous readings still come back as questions**, and a fork that the record does not settle is never collapsed to make an edit possible. This permission covers documentation; **it does not extend to posting anything to him.**
+
+**⚠️ POSTURE CHANGE — TIPPING HIS HAND IS NOW ACCEPTABLE (recorded 260726-1).**
+JD is willing to tip his hand on **argument direction** where it moves the discussion faster. **This is deliberate, not a lapse.** It relaxes concealment of direction only: **lock-before-port still governs the order of operations** (the governing principle goes on the record before the specific case is named), and **hybrid pre-emption still never enters posted text.** See `RJ_Incense_Analysis.md` §12.5.
+
+### ⛔ NEXT SCHEDULED WORK — its own scoped pass, do not fold into another
+
+**Write the outline's act-level-warrant step.** `Incense_Conversational_Outline.md` presupposes act-level warrant at Steps 3, 5, 5b and 6 and nowhere argues for it; DQ-9 is the standing obstacle underneath the whole project.
+
+- **Input:** the five-point seed at `RJ_Incense_Analysis.md` §11 — the overreach, the scriptural pattern running the other way, ⭐ **the category objection**, ⚠️ **his own principle-to-act reasoning at DQ-10**, and the reductio. **(c) and (d) are the load-bearing pair.**
+- **Foothold:** **RV-20**, his own act-level account of what placing incense on an altar constituted, which requires no Reformed premise. ⚠️ The object-carries-the-worship reading stays live alongside it.
+- ⛔ **It was deliberately NOT written at 260726-1 and must not be drafted opportunistically inside another pass.**
 
 ### ⛔ DO-NOT-DEPLOY REGISTER
 *Retired levers and common ground. Do not reopen without a recorded reason.*
@@ -154,19 +180,20 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260725-4 | Backstage | JD + Claude |
-| `St_Francis_EMC_Distinctives.md` | 260725-4 | Backstage — findings corpus | JD only |
-| `RJ_Final_Question_List.md` | v17 (260725-1) | Backstage — question bank | JD only |
-| `RJ_Incense_Analysis.md` | 260725-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
+| `PROJECT_STATE.md` | 260726-1 | Backstage | JD + Claude |
+| `St_Francis_EMC_Distinctives.md` | 260726-1 | Backstage — findings corpus | JD only |
+| `RJ_Final_Question_List.md` | v18 (260726-1) | Backstage — question bank | JD only |
+| `RJ_Incense_Analysis.md` | 260726-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `Incense_Conversational_Outline.md` | 260725-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260725-4 | Source registry | JD + Claude |
+| `Incense_Conversational_Outline.md` | 260726-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
+| `SRC_Manifest.md` | 260726-1 | Source registry | JD + Claude |
 | `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |
 | `README.md` | ⚠️ **STALE — see below** | Repo front page | JD + Claude |
 | `Project_Bootstrap_Prompt.md` | (unstamped) | Conventions | JD + Claude |
+| `validate_project.py` | (unstamped) | ⚠️ **Tooling — REGISTERED 260726-1** | JD + Claude |
 
 ### Repo layout — record it, do not assume it
 
@@ -196,6 +223,10 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 ⚠️ **Two paths above are unconfirmed** (`SRC_Manifest.md` and `README.md` at repo root). They are the natural reading of "archives live under `/src/`, not flat," but JD stated the layout only for the archives. The validator's recursive fallback resolves either way and warns when a registered path had to be found elsewhere. **Correct the table if the fallback fires.**
 
 **⚠️ `README.md` IS STALE AND IS NOW REGISTERED SO IT STOPS BEING INVISIBLE.** It carries "Current baselines: Distinctives at `260621-1`, Question List at `260621-1 (v11)`, both incense documents at `260621-1`" — thirteen versions and a month out of date — and it still advertises `On_Incense_and_the_Altar.md` as "Relay-clean (shareable)," which the 260725-1 policy change contradicts. It was never in the registry, so no check ever looked at it. **This is the same defect class as the C1/C6 silent skip: a file outside the registry is a file outside every guarantee.** Fixing the README content is deferred; registering it is not.
+
+**⚠️ `validate_project.py` WAS UNREGISTERED UNTIL 260726-1, AND THAT IS THE SAME DEFECT CLASS AS THE README.** It appears in the repo-layout block below but was absent from this table, so **the tool that enforces the registry was itself outside the registry.** It is now a row. It carries no version stamp; C3 reports that as a WARN rather than skipping it silently, which is the point of registering it.
+
+**⚠️⚠️ TWO REGISTRY CELLS ARE UNRESOLVED AND WERE DELIBERATELY NOT GUESSED (260726-1).** `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` are registered at **260724-3**, but the only version token either file carries is **260722-1**, and **neither file was attached to the 260726-1 pass**, so their true vintage cannot be established from the attachments. The plausible explanation is a date-resolution edit at 260724-3 that never got a changelog line, which is consistent with the class column ("never edited except date resolution") and with C1 passing. **That is a hypothesis, not a finding.** Per the pass rule, **no version number was guessed into the registry and both cells were left as they stand.** ⚠️ **JD to resolve:** attach both archives on a future pass, or confirm the 260724-3 edit and add the changelog line the edit should have carried.
 
 ⚠️ **Backstage/relay-clean content separation still governs**, per §0. Nothing from `RJ_Incense_Analysis.md` enters a relay-clean-class document, including changelogs, even while the class is suspended.
 
@@ -248,6 +279,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **`README.md` never registered, baselines stale at 260621-1 / v11** | ⚠️ **PARTIALLY RESOLVED 260725-1.** Now registered (§4) so checks can see it. **Content still stale — deferred** |
 | **TM-8.6** — Pope Benedict XVI quotation | UNVERIFIED; broader apologetics workstream |
 | **DQ-6** — Laud quotation | Provenance UNVERIFIED |
+| **⚠️ MIXED-VINTAGE WORKING TREE — a NEW failure mode, recorded 260726-1** | ⚠️ **DIAGNOSED, MITIGATION ADOPTED, ROOT CAUSE NOT ELIMINATED.** The 260725-4 pass hit a **tool-use limit mid-close-out** and emitted its files in **two batches**; JD downloaded across that boundary. Result: a `PROJECT_STATE.md` from **before** the §4 registry was updated, sitting beside documents from **after** their stamps were bumped. The pre-commit hook fired `[C3] VERSION DRIFT` on `St_Francis_EMC_Distinctives.md` and `Incense_Conversational_Outline.md` — *registry says 260725-1, document says 260725-4.* ⚠️ **THIS WAS AN ARTIFACT-TRANSFER FAILURE, NOT A CORPUS DEFECT.** The corpus was internally consistent throughout; audited whole at 260726-1 it validated at **0 errors**, and every 260725-4 stamp had a matching 260725-4 changelog entry, so no file was bumped-without-close-out. ⚠️ **NO SINGLE CHECK CAN DIAGNOSE THIS.** C3 sees the drift and reports it correctly, but its message points at the documents, which are innocent; the stale file is the one doing the checking. Diagnosis needs the **whole registered set audited together** against both the registry cell and each document's newest changelog entry. **MITIGATION — WHOLESALE REPLACEMENT (now standing policy):** after any interrupted pass, **all registered files are re-emitted and replaced together, never cherry-picked.** A partial emission is what caused this. Added to the §8 close-the-pass checklist |
 | **`St_Francis_EMC_Distinctives.md` is ~372 KB of prose** | Retrieval is slow and grep-dependent. ⚠️ **The JSONL re-encode proposal is RETIRED (260725-1) — JD is satisfied with the prose format.** The size is accepted as a working condition, not a defect awaiting a fix. Mitigation is anchor discipline and the validator, not conversion |
 
 ---
@@ -300,5 +332,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 - [ ] Changelogs prepended, never altered.
 - [ ] Version stamps bumped in both the document and the §4 registry.
 - [ ] Re-run the validator. **Read the coverage summary again.**
+- [ ] ⚠️ **WAS THIS PASS INTERRUPTED (tool-use limit, timeout, anything that split the emission)?** If so, **re-emit the ENTIRE registered set and replace the working tree wholesale.** Do not cherry-pick the files that changed. *(Added 260726-1.)* **Why:** a pass interrupted mid-close-out leaves **stamps bumped and the registry stale**, and a partial download across the interruption produces a working tree that **no single check can diagnose** — C3 reports drift but names the innocent files, because the stale file is the one doing the checking. **A partial emission is the defect; wholesale replacement is the only reliable fix.**
+- [ ] ⚠️ **If a pass cannot emit the full set, say so explicitly and name every file still owed**, so the set is never silently incomplete.
 
 **⚠️ Do not run a currency audit in the same session as a live intake.** Intake creates the state this checklist audits; auditing it in the same breath audits your own unfinished work.

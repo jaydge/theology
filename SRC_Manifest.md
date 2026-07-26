@@ -1,8 +1,10 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260725-4** (date-stamped, format yymmdd-iteration)
+**Last updated: 260726-1** (date-stamped, format yymmdd-iteration)
 
 *Generated 2026-07-22; extended 2026-07-24 (260724-1), capture-method and dating rule corrected 260724-3; archive paths recorded and IP-4/IP-12 references corrected 260725-1. **260725-4: File 4 (Revelation class corpus) registered from batch 260725-2; the sessions-ingested registry, capture codes and dual-capture reconciliation procedure added from batch 260725-3; boundary-detection method amended to record that two intake formats are now in play; **placeholder rows added for the unregistered Anglican 101 sessions JD confirmed he has attended since 06-14, dates pending.***
+
+**260726-1: SESSION REGISTRY CORRECTED AND THE CAPTURE POLICY INVERTED.** The 2026 Anglican 101 run is **four sessions, not three**: the TBD placeholders are retired and replaced by dated rows for **06-28** (general intro), **07-19** (**Articles 1-7, priority ingest**) and **07-26** (held today, not yet captured). Note 2 is rewritten from a confirmed gap to a **closed** one. ⚠️ **New Note 2a: for Anglican 101, `[R]` is PRIMARY permanently by policy and `[S]` does not promote** — JD's room capture contains post-session informal Q&A that the official upload does not, and that material is `[R]`-only by design. Procedure **Step 4 amended (not deleted) into two branches**: Branch A runs a **comparison pass yielding a divergence report**, supersedes nothing, and is the standing case for Anglican 101; Branch B retains the original promotion path for any series where `[R]` is not the richer capture. Step 5 scoped to Branch B. ⚠️ **The audio-verification requirement is unchanged and applies to both captures.**
 
 * Covers the ASR transcript files uploaded for verbatim verification (Files 1-3), the Revelation class corpus (File 4), and the four archived Discord thread captures (added 260724-1). Append-mode intake; no canonical documents touched by this file.*
 
@@ -240,31 +242,41 @@ This table exists because the hash check cannot do this job. The file tables abo
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(on channel, not yet pulled)* | — | — | — | — |
 | `A101-2026-06-14-P2` | 2026-06-14 | Continuation Q&A: sacraments, reading list, church-shopping | ✅ **YES** | `[R]` | **PRIMARY** | `Audio_06_14_2026_20_26_39_mp3.txt` | `0b5a50b3` | 41,452 | *(two incense mentions, not BP-39 material)* | — |
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(on channel, not yet pulled)* | — | — | — | — |
-| `A101-2026-TBD-01` | ⚠️ **DATE TBD** | ⚠️ unknown — JD to supply | ✅ **YES** | `[?]` | ⬜ **NO AUDIO INGESTED** | *(none)* | — | — | *(none yet)* | — |
+| `A101-2026-06-28` | 2026-06-28 | General introductory material | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⬜ *not yet ingested* | — | — | *(none yet)* | — |
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
-| `A101-2026-TBD-02` | ⚠️ **DATE TBD** — *may not exist; JD reports "1-2" further sessions* | ⚠️ unknown — JD to supply | ✅ **YES** *(if held)* | `[?]` | ⬜ **NO AUDIO INGESTED** | *(none)* | — | — | *(none yet)* | — |
+| `A101-2026-07-19` | 2026-07-19 | **Articles 1-7** | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⭐ ⬜ **NOT YET INGESTED — PRIORITY INGEST** | — | — | *(none yet)* | — |
+| ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
+| `A101-2026-07-26` | 2026-07-26 | ⚠️ content TBD — **held today**, not yet captured | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⬜ **NOT YET CAPTURED** | — | — | *(none yet)* | — |
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
 
 **Note 1 — `A101-2026-06-14-P1` is the single highest-priority recapture in the corpus.** It carries `IP-12`, whose logged ASR quirk is `"regular principle"` for *regulative principle*. That is a distant-mic artifact with high confidence; his capture will very likely read "regulative principle." `IP-12` is the §13 incense finding and it sits inside the funnel. **Pull the stream capture for this session first.**
 
-**⚠️ Note 2 — GAP CONFIRMED AND NOW VISIBLE. ⚠️ AWAITING JD FOR THE DATES (raised and confirmed 260725-4; rows added, NOT completed).**
+**⚠️ Note 2 — GAP CLOSED (raised 260725-4, CLOSED 260726-1).**
 
-Raised at 260725-4 as a suspected gap and **confirmed by JD in the same pass: he attended the 06-14 session (rows above) plus a further ONE OR TWO Anglican 101 sessions since, dates not yet supplied.** Placeholder rows `A101-2026-TBD-01` and `A101-2026-TBD-02` are now in the table.
+Raised at 260725-4 as a suspected gap, confirmed in the same pass, and **closed at 260726-1 when JD supplied the session list.** The 2026 Anglican 101 run comprises **four sessions, not three**: 06-14 (captured, two parts), 06-28, 07-19 and 07-26. All four are now registered above with real dates and real coverage. The `A101-2026-TBD-01` / `-TBD-02` placeholders are retired; **they are not deleted from the historical record**, they are simply superseded by the dated rows, and this note records what they were for.
 
-**This is the whole point of the row, so it is worth being blunt about what the placeholders do and do not do:**
+**What remains outstanding is capture, not identity.** Every session is now a named row with a date, which is what the placeholders existed to force. Three of the four have no `[R]` capture ingested yet:
 
-- They make the gap **visible**. Before this pass the corpus contained no evidence that these sessions existed at all. **An empty row is a visible gap; an absent row is an invisible one**, and an invisible gap is the defect class this project keeps paying for.
-- They **do not** claim the sessions were captured. Capture is `[?]` and the role is **NO AUDIO INGESTED**. A session that happened is a session that exists, **even if nothing was recorded**.
-- `A101-2026-TBD-02` is marked **may not exist**, because "1-2" is what is known. **Do not silently delete it if it turns out there was only one session** — mark it *did not occur* and leave it, so the question is never re-asked.
+- **`A101-2026-07-19` is the priority ingest.** It covers **Articles 1-7**, which is live material for the Article VI thread and for the formulary-subscription questions.
+- `A101-2026-06-28` is general introductory material and is lower value, but it is a real session and gets a real row.
+- `A101-2026-07-26` was held today and has not been captured yet.
 
-**⚠️ WHAT JD NEEDS TO SUPPLY BEFORE THESE ROWS CAN BE COMPLETED:**
+⚠️ **Until a session's capture is ingested, no `IP` finding may be logged from it.** Next free is `IP-13` (`PROJECT_STATE.md` §5). Having a date is necessary but not sufficient: a finding still needs a verified byte offset in an actual capture, and **dating a finding from the intake session rather than the source is the exact mechanism that cost this project two weeks in July 2026.**
 
-1. **The date of each session** (this is the blocker; the Session ID is derived from it and cannot be minted without it).
-2. **What each session covered.** The Anglican 101 series was working through the Thirty-Nine Articles, so approximately which Articles.
-3. **Whether room audio exists** for either. If it does, it is an `[R]` capture and the ingestion pipeline applies as normal.
-4. **Whether the stream twin is on the channel.** Every in-person session is expected to have one, and per note 1 the `[S]` capture is authoritative for wording.
+### ⭐⭐ Note 2a — CAPTURE POLICY FOR ANGLICAN 101: `[R]` IS PRIMARY PERMANENTLY, BY POLICY (set 260726-1)
 
-⚠️ **Until the dates land, no `IP` finding may be logged from these sessions.** Next free is `IP-13` (`PROJECT_STATE.md` §5); a finding cannot be dated from a session whose date is unknown, and **dating a finding from the intake session rather than the source is the exact mechanism that cost this project two weeks in July 2026.**
+**⚠️ THIS CORRECTS THE PROCEDURE BELOW. IT IS NOT AN APPLICATION OF IT.**
+
+For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently, by policy.** It is not provisionally primary pending a sweep, and **`[S]` does not promote.** Two reasons, both recorded because the second is the load-bearing one:
+
+1. **Responsiveness.** JD responds to class content without waiting on Rev. James's upload schedule. A capture available the same evening beats a better capture available whenever.
+2. ⚠️ **`[R]` CONTAINS MATERIAL THAT `[S]` DOES NOT.** JD's recording captures the **post-session informal Q&A**, which the official upload does not contain. That material exists in `[R]` alone. Under an `[S]`-promotes model it would be lost, or worse, silently reclassified as out of scope by a procedure that could not see it.
+
+**Post-session informal discussion is `[R]`-only by design.** It is recorded here as a property of the series, so that a future sweep never reads its absence from `[S]` as a scope gap in `[S]`. It is not a gap. It is material the stream never had.
+
+⚠️ **THE AUDIO-VERIFICATION REQUIREMENT IS UNCHANGED AND APPLIES TO BOTH CAPTURES.** Nothing here relaxes it. Anything quoted at Rev. James is audio-checked before deployment, whatever capture it came from. Primacy governs which coordinates the corpus resolves against; it has never governed whether a quote gets verified.
+
+**What `[S]` is for, then:** when a stream capture arrives for an Anglican 101 session, it is run as a **COMPARISON pass, not a promotion pass.** See the amended Step 4 below.
 
 ### REVELATION CLASS — series JD does not attend
 
@@ -310,9 +322,19 @@ Raised at 260725-4 as a suspected gap and **confirmed by JD in the same pass: he
 
 **Step 3. Log amendments as amendments, not as new findings.** Per §5 numbering rule 2, a correction to `IP-12` is **`IP-12a`**, taking the parent's number with a letter suffix. It is not the next free number. An amendment that silently became a sibling is exactly the mis-numbering that produced the `DQ-11a` correction on 260724-3.
 
-**Step 4. Promote, and keep the old capture.** Only after the sweep completes: `[S]` becomes PRIMARY, `[R]` becomes `SUPERSEDED`. **Do not delete the room capture and do not unregister it.** Changelog entries cite it, changelogs are never altered, and a superseded capture that has been unregistered turns every historical citation into a dead pointer.
+**Step 4. ⚠️ AMENDED 260726-1 — PROMOTION IS NO LONGER THE DEFAULT DESTINATION.**
 
-**Step 5. Move the ASR quirks.** Quirks are properties of a **capture**, not of a session. When `[S]` becomes PRIMARY, the quirk register for that session is rebuilt against the new capture and the old list is retained under the `[R]` row rather than deleted. `"regular principle"` is a fact about JD's microphone, not about what Rev. James said.
+*This step is amended, not deleted. Read the branch that applies to the series in hand.*
+
+**Branch A — series where `[R]` is the richer capture. Anglican 101 is the standing case (see Note 2a).** The sweep is a **COMPARISON pass, not a promotion pass.** `[R]` stays PRIMARY, permanently and by policy. `[S]` is registered as a **PERMANENT SECONDARY — COMPARISON CAPTURE** and never promotes. The same four outcomes in Step 2 apply unchanged, but the deliverable is different: the output is a **DIVERGENCE REPORT delivered as a patch queue**, and **nothing is superseded.** The report says what `[S]` reads differently, what it confirms, and what it does not contain; the corpus's coordinates continue to resolve against `[R]`.
+
+⚠️ **`⬜ OUT OF SCOPE` means something different in Branch A and must not be read as a defect in `[S]`.** For Anglican 101, post-session informal Q&A is `[R]`-only by design. Its absence from the stream is a property of the stream, not a gap in the sweep.
+
+**Branch B — series where `[R]` is NOT the richer capture. The original promotion path, retained in full.** Only after the sweep completes: `[S]` becomes PRIMARY, `[R]` becomes `SUPERSEDED`. **Do not delete the room capture and do not unregister it.** Changelog entries cite it, changelogs are never altered, and a superseded capture that has been unregistered turns every historical citation into a dead pointer.
+
+⚠️ **Which branch a series is in is a policy decision recorded in the sessions registry, not something a sweep infers at run time.** Anglican 101 is Branch A per Note 2a. Any future series defaults to Branch B until a reason to invert is recorded.
+
+**Step 5. Move the ASR quirks — Branch B only.** Quirks are properties of a **capture**, not of a session. When `[S]` becomes PRIMARY, the quirk register for that session is rebuilt against the new capture and the old list is retained under the `[R]` row rather than deleted. ⚠️ **In Branch A nothing moves:** `[R]`'s quirk register stays the register of record, and `[S]`'s quirks are logged under the `[S]` row alongside it, since both captures remain live. `"regular principle"` is a fact about JD's microphone, not about what Rev. James said.
 
 **Step 6. Clear the wording-critical flag.** Any finding marked WORDING-CRITICAL that came back CONFIRMED or AMENDED is now quotable. Findings still NOT FOUND stay frozen for quoting.
 
@@ -321,5 +343,7 @@ Raised at 260725-4 as a suspected gap and **confirmed by JD in the same pass: he
 Most findings survive a transcription error fine, because the substance does not turn on the exact phrase. A few do not: `DQ-4`'s **"Correct"** closed the definitional gate on one word.
 
 **A finding whose force depends on Rev. James's exact phrasing, sourced from a room `[R]` capture, must not be deployed as a verbatim quote until it is confirmed against his audio.** This is not a freeze on the finding; it is a freeze on quoting it at him. Given the quote-precision rule and the friendship stakes, being wrong about a word attributed to him in writing is the one error in this project that is expensive socially as well as evidentially.
+
+⚠️ **THIS RULE IS UNAFFECTED BY THE 260726-1 CAPTURE-POLICY INVERSION.** `[R]` being PRIMARY by policy settles which capture the corpus's *coordinates* resolve against. It settles nothing about verification. **Anything quoted at Rev. James is audio-checked before deployment regardless of which capture it came from**, and a `[R]`-sourced wording-critical finding is cleared only against his own audio.
 
 **Currently flagged:** `IP-12` (`A101-2026-06-14-P1`). ⚠️ **The `RV` batch is `[S]`-sourced and is therefore not subject to this rule** — File 4 is already his channel audio.

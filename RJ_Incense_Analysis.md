@@ -11,7 +11,7 @@
  
 > **INTERNAL STRATEGY — DO NOT SHARE.** This file contains the leverage analysis and conversational sequencing for the incense cluster (which move to lead with, where the "fork with no comfortable exit" sits, how to make RJ reach for an unstated principle). It is written backstage. The friendship-preserving posture of the project depends on this never being relayed to Rev. James or forwarded through the Discord intermediary. The shareable material lives in `On_Incense_and_the_Altar.md`.
  
-**Last updated: 260725-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260726-1** (date-stamped, format yymmdd-iteration)
 
 > ### ⚠️ POINTER — VOLATILE STATE IS NOT AUTHORITATIVE IN THIS FILE
 > **`PROJECT_STATE.md` is the single source of truth** for whose turn it is, what has been asked, what has been answered, which gates are open, and what version each document is at. Status language in this file is **commentary**, retained for its reasoning. **Where the two disagree, `PROJECT_STATE.md` wins and this file is stale.** Run `validate_project.py` after any edit.
@@ -486,9 +486,106 @@ Sequenced so each move sets up the next. The aim is friendly, precise pressure t
 4. **THE MINCHAH.** A **bloodless altar offering nobody claims survives**. Third witness. (See §4.8.)
 ---  
  
+## 11. THE DQ-9 SEED — answering "the RPW is about principles, not individual acts" — new 260726-1
+
+> **⚠️ ATTRIBUTION, AND IT DOES NOT BEND.** ***Everything in this section is `[Analysis]`.*** It is the project's own argument. **None of it is Rev. James's position, none of it is an inference labelled as his, and no part of it may be quoted, paraphrased or summarised back to him as though it were something he said.** Where a datum of his is used, the datum is tagged `[Stated]` with its finding number and the argument built on it stays `[Analysis]`. The three layers are not flattened here and are not flattened downstream.
+
+> **⛔ NOT AN OUTLINE STEP, AND NOT YET DEPLOYABLE.** This is the seed argument only. The corresponding act-level-warrant step in `Incense_Conversational_Outline.md` is **deliberately not written** and is scheduled as its own pass (`PROJECT_STATE.md` §3). Nothing here is in posted-question form and nothing here goes to Discord. **DQ-15 is outstanding; the thread is closed until he replies.**
+
+**The gap this answers.** DQ-9 is the standing obstacle: Rev. James claims **principle-level** scriptural warrant rather than act-level warrant, and the outline's every step presupposes act-level warrant without anywhere arguing for it. The RV review confirmed the gap. Five arguments follow, in the order they were seeded.
+
+### (a) The overreach
+
+Principle-level warrant, taken as stated, licenses **any act whose imagery can be tied to some biblical imagery.** That is the structural problem, and it is the same shape as the DQ-10 result: a test a very wide range of practices passes and almost none fails. A warrant rule that admits by resemblance is not a warrant rule; it is a resemblance rule.
+
+### (b) The scriptural pattern runs the other way
+
+Where the people of God **introduce a novel act of worship and offer a justification for it**, Scripture rejects it — **including when the act is directed at the true God.** The golden calf is the strongest case precisely because it is defensible on imagery grounds: it was proclaimed a feast *to the LORD* (Ex 32:5), and an imagery-level defence was available and was not accepted. If imagery-level correspondence were sufficient warrant, the episode reads differently than it does.
+
+⚠️ **Deployment care.** This argument carries a live risk of sounding like an accusation. It is a claim about **the structure of a warrant rule**, not about incense being idolatry and not about Rev. James. If it is ever put to him, it goes in structural form, and the golden calf is named as a test case for the rule, never as an analogy for his practice.
+
+### (c) ⭐ THE CATEGORY OBJECTION — load-bearing, and the strongest of the five
+
+**"The RPW is about principles and not individual acts" is incoherent on its own terms.**
+
+The regulative principle **is a principle that governs individual acts.** That is its entire function. So it is necessarily *about* individual acts, in the only sense of "about" that matters: they are what it ranges over. Prayer is an individual act. Communion is an individual act. Preaching, singing, baptising — every constituent of worship is an individual act, because **worship consists of acts and of nothing else.** A principle whose whole office is to regulate worship cannot coherently be said not to be about the things worship is made of.
+
+The distinction the objection is reaching for is presumably between *a rule stated generally* and *a rule applied case by case* — but that distinction does not do the work required of it. Every general rule is stated generally and applied case by case; that is what a rule is. Generality of statement has never implied silence on instances.
+
+⭐ **Why this one is load-bearing: it requires no source material whatever.** It does not depend on any finding, any transcript, any byte offset, or any contested Reformed premise. It is available immediately, it survives any correction to the corpus, and it cannot be answered by disputing what he said. It stands or falls on the concept alone.
+
+### (d) ⚠️ HE ALREADY REASONS THE OTHER WAY — load-bearing, and it is his own record
+
+`[Stated, DQ-10]` Asked what his imagery-and-symbolism principle excludes, Rev. James excluded **petitionary prayer to the saints**, on the ground that *"prayer is always seen as an act of worship and as directed to God alone."*
+
+`[Analysis]` **That is principle-level reasoning applied at act level, performed by him, unprompted, in his own words.** He took a principle about the proper object of worship and used it to rule out **one specific act.** Whatever else is true, the move from principle to act is one he makes himself and treats as valid.
+
+⭐ **Why this one is load-bearing: it needs no Reformed premise and it is entirely intramural.** It runs on his own answer to a friendly question he was asked and chose to answer. It does not require him to accept the RPW as JD holds it, or Col 2:17, or Heb 7:12, or anything about fulfilled types.
+
+⚠️ **Two guards on (d), and both matter.**
+1. **This is not a contradiction and must never be run as one.** He has not said principles cannot reach acts; DQ-9's formulation is that the RPW operates at principle level. The point is that his own practice at DQ-10 shows the principle/act distinction is not doing the work the DQ-9 answer needs it to do. **Question form, not charge form.**
+2. **Do not overstate what DQ-10 concedes.** He excluded an act by a rule about the *object* of worship. He did not say the RPW ranges over acts. The observation is that he reasons from principle to act; that is genuinely all of it, and it is enough.
+
+**⚠️ (c) AND (d) ARE THE LOAD-BEARING PAIR.** (c) needs no source material at all; (d) needs no Reformed premise and is his own record. Between them they cover both failure modes: if the corpus is wrong about something, (c) survives; if he rejects a Reformed premise, (d) survives. **Arguments (a), (b) and (e) are support and are not to be led with.**
+
+### (e) The reductio
+
+If any contrivable imagery connection supplies warrant, then **modern worship practices Rev. James would certainly condemn become licensed.** The test is not whether the connection is *good*; on a principle-level rule it is only whether a connection can be drawn, and one nearly always can. The reductio's force is that he would reject the outputs while the rule admits them, which locates the defect in the rule rather than in the taste of whoever applies it.
+
+⚠️ **Weakest of the five and lowest priority.** It invites a reply that is genuinely available to him — that the imagery must *reflect the biblical witness* rather than merely resemble something in it — and that reply is not obviously wrong. **Hold it in reserve; do not open with it.**
+
+---  
+ 
+## 12. RV REVIEW OUTCOMES — footholds, deferred levers, and posture — new 260726-1
+
+*The RV-vs-outline review is COMPLETE, current through **RV-23**. What follows records its outcomes. Nothing here is a question and nothing here is deployable while DQ-15 is outstanding.*
+
+### 12.1 ⭐ RV-20 ADOPTED as the foothold for the act-level argument
+
+`[Stated, RV-20]` Three times in Session XI, Rev. James describes **incense placed on an altar as the act by which the pagan cult was performed and by which compliance was certified** — the required thing was the placing, belief was explicitly not required (*"We don't care if you believe in them or not"*), and a certificate attested **the act**.
+
+`[Analysis]` **This is the foothold, and its value is what it does not need.** It is his own account, given in a context with no polemical stake, of what putting incense on an altar *constitutes*. It gives incense-on-an-altar **act-level significance from his own teaching**, and it requires **no Reformed premise** to state.
+
+⚠️ **The guard from the ledger stands and is not relaxed by adoption.** Reading (b) — that the *object* carried the worship, so the pagan altar and the false god did the work and the act-level reading proves nothing about incense as such — **remains strong and is very likely what he would say.** RV-20 is a foothold, not a proof. It establishes that act-level description of incense is natural to him; it does not establish that he holds a general act-level warrant rule. ⚠️ **He says nothing whatever about Christian liturgical incense in that session** and must never be represented as having done so.
+
+### 12.2 ⚠️ DEFERRED LEVER — does he hold the RPW in any standard sense?
+
+**Status: DEFERRED. NOT a lever. NOT deployable now. Recorded so it is not lost and not so it is used.**
+
+`[Analysis]` JD's observation: it is not clear that Rev. James holds the regulative principle in any standard sense, since **burning incense is not consistent with the Presbyterian understanding of it.** He affirmed positive warrant at DQ-4 and describes his position as the RPW "rightly understood."
+
+⚠️ **Why this is deferred and not promoted.** He has used the term and affirmed the substance of the definitional gate. Treating his usage as non-standard *on the strength of the practice it permits* is arguing backwards from the conclusion, and it would read as a charge that he does not mean what he says. That is exactly the register this project does not use.
+
+**⚠️ EXPLICIT TRIGGER — revisit ONLY if this fires:** his usage of the term is later shown, **on the record and in his own words**, to be non-standard. Until then it stays here, unpromoted and undeployed. **Absence of a trigger is not a reason to soften the deferral.**
+
+*(Related and unchanged: outline **Step 8** stays **do-not-deploy** at him. It answers an interlocutor who rejects the RPW, which he does not — he affirmed it at DQ-4. It remains available for third parties.)*
+
+### 12.3 RV-2 / RV-11 FORK — unresolved BY DESIGN, both readings stay live
+
+`[Analysis]` The record does not settle whether the imagery-and-symbolism language is **(a)** one theological commitment about how symbol works, applied to text and to liturgy alike, or **(b)** a hermeneutical maxim for reading apocalyptic that has been carried into a warrant argument it was not built for.
+
+⚠️ **KEEP BOTH READINGS LIVE. DO NOT COLLAPSE THE FORK.** The distinction is the finding, and it governs more than the incense cluster: under (a), DQ-9 is load-bearing theology to be met on its own ground; under (b), the reply is to ask what the principle is a principle *of*. **A question resolving the fork is drafted and queued** (`RJ_Final_Question_List.md`; `PROJECT_STATE.md` §3). It ranks high because other parts of the project wait on it.
+
+### 12.4 RV-3 / RV-17 — ⛔ DO NOT PRE-EMPT THE JOIN
+
+`[Stated, RV-3]` The whole of Revelation is seen from inside heavenly worship. `[Stated, RV-17]` Heaven and earth are linked, not separate.
+
+⚠️ **He does not join these two, and the project does not join them for him.** They are one session and roughly ninety minutes apart, and he draws no liturgical inference from either. Together they are the general premise a heavenly-worship-as-template argument would rest on, **which is precisely why constructing that argument on his behalf and then answering it would be dishonest.**
+
+**Standing instruction:** track everything he says bearing on the join, and **draft direct questions where his position is unclear** rather than filling the gap with inference. If the join is ever raised, raise it honestly and **without overclaiming what he has stated.**
+
+### 12.5 ⚠️ POSTURE CHANGE, RECORDED — JD is now willing to tip his hand
+
+**This is a deliberate change, not a lapse.** JD now accepts tipping his hand on argument direction where doing so moves the discussion faster.
+
+⚠️ **What this changes and what it does not.** It relaxes the concealment of *direction*. It does **not** repeal lock-before-port: a governing principle is still put on the record before the specific case is named, because that discipline protects the *quality* of the answer, not merely the surprise. Nor does it license naming and dismantling an anticipated escape inside posted text; hybrid pre-emption stays out of anything Rev. James reads. **Faster, more open, same order of operations.**
+
+---  
+ 
 ## Changelog
 
 
+- **260726-1 (2026-07-26): RECONCILE PASS — THE DQ-9 SEED ARGUMENT AND THE RV REVIEW OUTCOMES. TWO NEW SECTIONS; NO EXISTING ARGUMENT TEXT CHANGED.** ⚠️ **Rev. James has not replied to DQ-15. Nothing here is in posted-question form and nothing was sent.** **NEW §11 — the DQ-9 seed**, the answer to *"the RPW is about principles and not individual acts,"* which is the standing obstacle underneath the whole project. ⚠️ **The entire section is `[Analysis]`, the project's own argument**, with a header rule barring any part of it from being quoted, paraphrased or summarised back to him as his; where a datum of his is used it is tagged `[Stated]` with its finding number and the argument built on it stays `[Analysis]`. Five arguments: **(a)** the overreach, that principle-level warrant licenses any act whose imagery can be tied to some biblical imagery; **(b)** the scriptural pattern running the other way, novel acts of worship with justifications offered being rejected **including when directed at the true God**, the golden calf being the strongest case precisely because an imagery defence was available and was not accepted — logged with a deployment guard that it is a claim about the **structure of a warrant rule**, never an analogy for his practice; **(c) ⭐ THE CATEGORY OBJECTION**, that the RPW is a principle whose function is to **govern individual acts** and is therefore necessarily about them, since worship consists of acts and of nothing else, and generality of statement has never implied silence on instances; **(d) ⚠️ HIS OWN PRINCIPLE-TO-ACT REASONING AT DQ-10**, where he excluded one specific act, petitionary prayer to the saints, on a principle about the proper object of worship — principle-level reasoning applied at act level, by him, unprompted; and **(e)** the reductio, flagged **weakest and lowest priority** because a good reply is available to him. **⚠️ (c) AND (d) ARE MARKED THE LOAD-BEARING PAIR**, and the reason is recorded: **(c) needs no source material at all** and survives any correction to the corpus, **(d) needs no Reformed premise** and runs on his own answer to a friendly question. Two guards on (d): **it is not a contradiction and must never be run as one**, and **what DQ-10 concedes is not overstated** — he reasons from principle to act; he did not say the RPW ranges over acts. **NEW §12 — RV review outcomes.** **§12.1 ⭐ RV-20 ADOPTED as the foothold** for the act-level argument: his own account, three times, of incense on an altar as the act by which the pagan cult was performed and certified, requiring **no Reformed premise**. ⚠️ **The ledger guard is not relaxed by adoption** — the object-carries-the-worship reading remains strong and is very likely what he would say, and he says nothing whatever about Christian liturgical incense there. **§12.2 ⚠️ DEFERRED LEVER, not promoted:** whether he holds the RPW in any standard sense, given that burning incense is not consistent with the Presbyterian understanding of it. **Recorded with an explicit trigger** — revisit only if his usage is later shown non-standard **on the record and in his own words** — and marked **not deployable now**, because arguing from the practice back to the meaning of his term is arguing backwards from the conclusion. Outline **Step 8 stays do-not-deploy at him** (he affirmed the RPW at DQ-4) and remains available for third parties. **§12.3 the RV-2 / RV-11 fork is UNRESOLVED BY DESIGN and both readings stay live**, with the fork-resolving question drafted and queued and ranked high because it governs more than this cluster. **§12.4 ⛔ RV-3 / RV-17: DO NOT PRE-EMPT THE JOIN** — he does not join them, they are ninety minutes and one session apart, and constructing the argument on his behalf and then answering it would be dishonest; track what bears on it and **ask directly where his position is unclear**. **§12.5 POSTURE CHANGE RECORDED:** JD is now willing to tip his hand on argument direction where it moves the discussion faster. ⚠️ **This is deliberate, not a lapse, and it is bounded** — lock-before-port still governs the order of operations, and hybrid pre-emption still never enters posted text. ⛔ **THE OUTLINE'S ACT-LEVEL-WARRANT STEP WAS DELIBERATELY NOT WRITTEN**; it is scheduled as its own scoped pass with §11 as input and RV-20 as its foothold. **Handling class unchanged: this remains the most sensitive file in the corpus and is never forwarded to Rev. James or through the Discord intermediary.**
 - **260725-1 (2026-07-25): CURRENCY AUDIT PASS.** No new intake; Discord archives not attached, no finding added from source. Pass scope: policy reclass to internal-only, validator silent-skip repair, §15 refresh, dangling question-tag resolution, IP-4/IP-12 collision resolution, and an outline drift review. **In this document:** §2.2 and §2.3 re-tagged from **IP-4 to IP-12** on resolution of the tag collision flagged 260722-1. Same finding, same source file, same SHA-256, **same byte offsets 12441–13335** — only the number changed, and nothing was re-extracted or recomputed. IP-4 is retained for the five-ecclesiastical-sacraments finding. The 260722-1 changelog entry below still says IP-4 where it means this finding; **that is correct and stays**, per the never-alter rule. ⚠️ **Handling class unchanged: this remains the most sensitive file in the corpus and is never forwarded to RJ or through the Discord intermediary**, notwithstanding that all documents are now internal-only. **No argument text was changed in this pass.**
 260724-2: **Same-day supplementary pass** against the re-exported `SRC_Discord_RPW.md` (coverage through 2026-07-23; relative "Yesterday" timestamps resolved to absolute 07-21, independently confirming the 260724-1 date correction). Companion to `St_Francis_EMC_Distinctives.md` v1.9 and question list v16. **New live-turn block prepended: DQ-15, the grounding question, POSTED 2026-07-23 12:07 PM and awaiting reply.** What went out is a **stronger form than planned** — not "why does depiction generate necessity?" but whether the DQ-7 rule works the same across **heavenly vision, prophecy, and recorded practice of the New Testament church**, granting the third as an approved example in the ordinary sense and pressing on what takes the first two from *acceptable in that setting* to *binding on us*. **⚠️ Logged as the most important thing in this file at present: the trichotomy maps exactly onto RJ's own two incense warrants and neither is in the third category** — Rev 5:8 / 8:3-4 is vision, Malachi 1:11 is prophecy, and **the recorded-NT-practice category is empty**, since no logged source produces a New Testament narrative of the apostolic church burning incense in worship. A table records the mapping. **Routing logged on all four answers**, each useful to this file: both non-(c) genres failing to transfer would **drop both incense warrants by his own rule before incense was named**, reducing §4 and §10 to application rather than argument; all three transferring alike leaves him owing the ground and inheriting the invocation problem through the same category-(a) text; distinguishing vision from prophecy **makes that distinction the filter**, immediately testable against incense, which needs both; declining the taxonomy draws a gentle follow-up on what does the transfer work if not genre. **⚠️ Standing instruction: add nothing before he answers** — one committal question per turn, **DQ-10 queued rather than competing**, with the note that the posted form partly does DQ-10's work since a genre discriminator would be the first real content in his transfer test; bump discipline slow-batch, no bump before roughly 07-30. **The 260724-1 note that the turn was JD's is struck in place and superseded**; it was accurate against the 07-22 export and stale against the 07-23 message. Backstage/relay-clean separation holds; nothing entered `On_Incense_and_the_Altar.md`, whose carry-forward remains TRIGGERED and recommended to HOLD. Per JD: em/en-dash policing skipped this pass.
 
