@@ -1,5 +1,7 @@
 # Project Bootstrap Prompt
 
+**Last updated: 260727-1**
+
 **Purpose:** Reusable instructions for starting or continuing a structured,
 long-term research/dialogue project with canonical document tracking. Paste
 this at the start of a new project, or reference it when a session needs a
@@ -114,3 +116,7 @@ reminder of the conventions already in force.
 *This file is itself a canonical document: update it via delete-and-replace
 in Project knowledge, and via normal commit in the GitHub repo, when new
 recurring conventions emerge that should apply project-wide.*
+
+## Changelog
+
+- **260727-1 (2026-07-27):** Added this file's first `**Last updated:**` stamp (it carried no version marker before this pass). Registered in `PROJECT_STATE.md` §4 at the same value.

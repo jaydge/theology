@@ -304,7 +304,13 @@ for name in ['St_Francis_EMC_Distinctives.md', 'RJ_Final_Question_List.md',
     bad = 0
     for qid in set(ANSWERED):
         for m in re.finditer(re.escape(qid), s):
-            window = s[max(0, m.start() - 400): m.end() + 400]
+            # Bound the scan at the enclosing entry (blank line or '## '
+            # header) rather than a fixed character count, so a legitimately
+            # marked passage outside a narrow window doesn't false-positive.
+            lo = max(s.rfind('\n\n', 0, m.start()), s.rfind('\n## ', 0, m.start()), 0)
+            hi_cands = [x for x in (s.find('\n\n', m.end()), s.find('\n## ', m.end())) if x != -1]
+            hi = min(hi_cands) if hi_cands else len(s)
+            window = s[lo:hi]
             if STALE_PAT.search(window) and not SUPERSEDE_PAT.search(window):
                 bad += 1
     if bad:
