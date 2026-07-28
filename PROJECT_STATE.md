@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260727-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260728-1** (created 260724-3). Read this file first, before any other project document.
 
+> **260728-1 pass note.** RECONCILE pass, applying patch batch **`260727-2` (LS Batch 1, "worship theology," rev. 5)** — the first `LS` intake. Three standalone livestreams from Rev. James's personal channel (@barelyprotestant5365), **2021-02-06, 2022-03-15, 2022-09-02, all pre-St. Francis**; findings **`LS-1` … `LS-22`** logged to a new **LS ledger** in `St_Francis_EMC_Distinctives.md`. All `[S]` captures; **no session rows owed** (standalone recordings get none). Also created the **`VP-` (Vintage Pair) cross-reference series**, `VP-1` … `VP-6`, and the convention governing it (§5 below). **Touched `St_Francis_EMC_Distinctives.md`, `SRC_Manifest.md`, `validate_project.py` and this file** (four version bumps; `validate_project.py`'s *first* stamp, which clears the standing C3 WARN). ⚠️ **Four findings are the guests, not Rev. James** — `LS-15`, `LS-16`, `LS-17`, `LS-19` are **Mark Butterfield**, and `LS-12` is **Fr. Bart Gingerich**; all are logged `[Analysis]` with the speaker named, carry no source tag doing attribution work for him, and are **never citable at him.** `LS-15`/`LS-16` were misattributed to him at patch rev. 2 and corrected at rev. 3; **the correction and its cause are carried into the corpus, not quietly applied.** ⚠️ **Nothing in this batch is current** — a 2021/2022 finding is evidence of what he held then, and `VP-` exists precisely to stop it being merged with a 2026 finding. **⛔ Three anchor discrepancies were found and are recorded at the LS ledger preamble:** the patch's §-anchors do not match this repo's section numbering; findings were placed by the anchor's *description*, not its number, per the disk-wins precedence rule. **No gate moved, no channel state changed, no question was answered, retired, drafted or posted, nothing entered or left the do-not-deploy register, and nothing was posted to Rev. James. DQ-15 remains outstanding (do not bump before 2026-07-30) and DQ-9 remains the standing obstacle — this batch gives it nothing, and that is a confirmed absence, not an unsearched gap ("principle" occurs once in 189,534 bytes and is a book title). Outline Step 2b is untouched, neither strengthened nor weakened.**
+>
 > **260727-1 pass note.** RECONCILE pass, carried patch queue (`PATCH_QUEUE_carried_260725-1.md`) cleared before livestream intake begins. Each item was checked against current repo state before anything was applied, per the queue's own instruction not to trust its account of what prior passes had already fixed. **PQ-1 (README.md stale content) — still open, applied now:** removed the duplicated/stale baselines line (now points at this file's §4), corrected `On_Incense_and_the_Altar.md`'s share status to internal/relay-clean-suspended, added the missing `Incense_Conversational_Outline.md` files-table row with the same correction, added the `QA-*` label-series note, and added a repo-layout block. **PQ-2 (validator C4 window too narrow) — still open, applied now:** `validate_project.py`'s C4 check changed from a fixed ±400-character scan window to entry-bounded (blank line or `## ` header), the same shape as the existing C10 fix. This cut false positives from 14/11/7 to 4/0/2 across the three files C4 scans; the remaining 6 were hand-reviewed and are genuine false positives — the `DQ-7`-adjacent hits describe **DQ-15's** status (genuinely outstanding), not DQ-7's, and the `DQ-5` hits are historical ledger narrative in `St_Francis_EMC_Distinctives.md` predating DQ-5's 2026-07-10 answer, correctly preserved unaltered under the never-alter changelog rule. **PQ-3 (`Project_Bootstrap_Prompt.md` unstamped) — still open, applied now:** added its first `**Last updated:**` line (`260727-1`) and a matching changelog entry. **PQ-4 (IP-1 not in ledger format) — still open, applied now (cheap):** promoted IP-1 to a minimal `**IP-1.**` ledger entry in `St_Francis_EMC_Distinctives.md`, pointing at its anchor (the earlier Malachi 1:11 prooftext, now one prong inside IP-3) rather than restating IP-3. No number reused, no finding content changed. **PQ-5 — not owed, skipped, per the queue's own instruction.** **PQ-6 (§15/C10 standing discipline) — confirmed clean:** this run's C10 output shows no staleness warning; §15 is within 0/1/0 findings of the DQ/IP/RV ledger heads. **Touched `README.md`, `Project_Bootstrap_Prompt.md`, `validate_project.py`, `St_Francis_EMC_Distinctives.md`, and this file** (five version bumps total, three of them a file's *first* stamp). `validate_project.py` remains otherwise unstamped (not in scope of this queue) and still WARNs at C3 for that reason. **No gate moved, no channel state changed, no question was answered or retired, nothing entered or left the do-not-deploy register, and nothing was posted to Rev. James. DQ-15 remains outstanding and DQ-9 remains the standing obstacle.**
 >
 > **260726-4 pass note.** RECONCILE pass, backstage cross-reference pointers only — trivial scope, no findings, no argument change. Touched **two corpus files plus this one**. **(1)** Added a backstage-only **HTML comment inside `Incense_Conversational_Outline.md` Step 2b** recording that its Option A generic framing draws on `RJ_Incense_Analysis.md` §§11-12 (point 2 = DQ-10, foothold = RV-20), so the step's reasoning is not later mistaken for unsourced. It is a comment in the strippable class, outside C7's scanned relay-clean body, so **no backstage vocabulary enters the argument text and C7 still passes**; the relay-clean (suspended, recoverable) class is unchanged. **(2)** Added the **reverse pointer in `RJ_Incense_Analysis.md` §11**, noting the attributed forms were generalized into outline Step 2b via Option A. ⚠️ **The reverse pointer also flags that §11's adjacent "the outline step is deliberately not written" line is stale** — it predates 260726-3, when Step 2b was written. The stale line is **left unaltered** (never-alter rule) and corrected only by the new note beside it. **Changes here are confined to this note and §4 (three version bumps: the outline and the analysis to 260726-4, and this file to 260726-4).** No gate moved, no channel state changed, no question was answered or retired, nothing entered or left the do-not-deploy register, and **nothing was posted to Rev. James. DQ-15 remains outstanding and DQ-9 remains the standing obstacle.**
@@ -188,20 +190,20 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260727-1 | Backstage | JD + Claude |
-| `St_Francis_EMC_Distinctives.md` | 260727-1 | Backstage — findings corpus | JD only |
+| `PROJECT_STATE.md` | 260728-1 | Backstage | JD + Claude |
+| `St_Francis_EMC_Distinctives.md` | 260728-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v18 (260726-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260726-4 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260726-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260726-2 | Source registry | JD + Claude |
+| `SRC_Manifest.md` | 260728-1 | Source registry | JD + Claude |
 | `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |
 | `README.md` | 260727-1 | Repo front page | JD + Claude |
 | `Project_Bootstrap_Prompt.md` | 260727-1 | Conventions | JD + Claude |
-| `validate_project.py` | (unstamped) | ⚠️ **Tooling — REGISTERED 260726-1** | JD + Claude |
+| `validate_project.py` | 260728-1 | ⚠️ **Tooling — REGISTERED 260726-1, STAMPED 260728-1** | JD + Claude |
 
 ### Repo layout — record it, do not assume it
 
@@ -234,7 +236,13 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 **✅ `Project_Bootstrap_Prompt.md` UNSTAMPED DEFECT RESOLVED (260727-1).** It now carries a `**Last updated: 260727-1**` line and a matching changelog entry.
 
-**⚠️ `validate_project.py` WAS UNREGISTERED UNTIL 260726-1, AND THAT WAS THE SAME DEFECT CLASS AS THE README.** It appears in the repo-layout block below but was absent from this table, so **the tool that enforces the registry was itself outside the registry.** It is now a row. It still carries no version stamp (out of scope for the 260727-1 patch queue); C3 reports that as a WARN rather than skipping it silently, which is the point of registering it.
+**✅ `validate_project.py` UNSTAMPED DEFECT RESOLVED (260728-1).** It was unregistered until 260726-1 — the same defect class as the README, and worse, because **the tool that enforces the registry was itself outside the registry.** Registering it made C3 **WARN** on the missing stamp rather than skip it silently, which was the point of registering it. **That standing WARN is now cleared:** the file carries its first `**Last updated: 260728-1**` line, added in the same pass that extended C8 to guard `VP-`. **Scope note (260728-1):** the pass was authorised to extend C8 and add the stamp, **and nothing else**. ⚠️ **THREE COVERAGE GAPS WERE THEREFORE LEFT OPEN DELIBERATELY AND ARE RECORDED HERE RATHER THAN FIXED QUIETLY.**
+
+1. **C2's prefix list (`DQ`, `IP`, `RV`) does not include `LS`.** The LS ledger's numbering was confirmed **by hand** this pass — **LS-1 … LS-22, 22 entries, no gaps, no duplicates** — and it is clean. **It is not machine-guarded.** ⚠️ **A 22-finding series outside C2 is the C1/C6 silent-skip shape and should not be left standing long.**
+2. **C10's prefix list does not include `LS` either**, so neither the common-ground sweep nor the §15 lag check sees the LS batch. The §15 balance was run **by hand** this pass (§15 grew by five: `LS-4`, `LS-5`, `LS-3`, `LS-7`, `LS-21`) and the negative results were recorded too.
+3. ⚠️ **C12 MISCOUNTS STANDALONE RECORDINGS AS SESSIONS, AND THIS PASS MADE IT MORE VISIBLE.** C12 parses every row under `# Sessions Ingested` carrying an `[R]`/`[S]`/`[?]` code — and **`### STANDALONE RECORDINGS` is a subsection of that header**, so its rows are counted. The reported figure moved from **14 captures / 9 sessions** to **17 / 12** purely because three standalone rows were added. ⛔ **That contradicts the manifest's own rule that a standalone recording gets no session row.** **The behaviour predates this pass** (the Everhard row was already being counted); this pass widened it by three. ⚠️ **No substantive C12 assertion is affected** — none of the new rows carries a role, a `SECONDARY — SWEEP PENDING` marker, or an awaiting-completion state, so the dual-capture checks are unaffected and still meaningful. **It is the headline count that is wrong, and a wrong count in a check whose whole purpose is "sessions, not hashes" is worth fixing.**
+
+**All three belong to one small tooling pass.** ⚠️ **They were not fixed here because the 260728-1 reconcile prompt authorised C8 and the stamp and explicitly nothing else, and scope discipline in this project is itself a rule.** ⛔ **Do not let that reasoning become a habit of deferral: these are recorded as owed work, not as accepted conditions.**
 
 **✅ THE TWO REGISTRY CELLS FLAGGED AT 260726-1 ARE NOW RESOLVED (260726-2).** `src/SRC_Discord_39ArticlesFormularies.md` and `src/SRC_Discord_SevenSacraments.md` were registered at **260724-3** while carrying no version token past **260722-1** in their own changelogs. Both archives have now been read in full and their git history checked directly: commit `efba6db` (2026-07-24) rewrites the relative "Yesterday" timestamps in both files to absolute **7/21/26**, and `SRC_Manifest.md`'s own Export History rows for these two files (independent of both the git log and the files' own changelogs — see §Capture Method) already recorded this exact resolution, with hashes that match the current file content exactly. **The 260724-3 edit is a confirmed finding, not a hypothesis.** The gap was narrower than first suspected: the edit happened, only the changelog line documenting it inside each raw archive was never written. That line has been added retroactively to both files (dated 260724-3, marked as added on 260726-2), and the registry cells at §4 are correspondingly confirmed as **260724-3** with no change in value.
 
@@ -244,7 +252,7 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 ## 5. NUMBERING REGISTRY
 
-**Next free number by prefix:** `DQ-16` · `IP-13` · **`RV-24`** · **`LS-1` (RESERVED, unused)** · `QA` is a question-list label series, not a finding series (see rule 5) · (GV, BP, RC, EXT, Rev closed batches)
+**Next free number by prefix:** `DQ-16` · `IP-13` · **`RV-24`** · **`LS-23`** · **`VP-7`** · `QA` and `VP` are cross-reference label series, not finding series (see rule 5) · (GV, BP, RC, EXT, Rev closed batches)
 
 **Rules:**
 1. Numbering is **cumulative and unbroken** within each prefix. Never reuse, never renumber a live tag.
@@ -252,6 +260,16 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 3. Only genuine **sources** get tags. External reviewers, critiques and commentary are logged `[Analysis]` with no tag.
 4. `DQ` now spans **four threads**; the thread is identified in the finding body and in `SRC_Manifest.md`, not by the prefix.
 5. ⚠️ **`QA-*` tags are question-list labels, not source tags.** They name a sharpening *within* a question item (`QA-Euc` → item 4, `QA-Art31` → item 4a, `QA-Art25` → item 7, `QA-Art34` → item 8a). They are cited from the distinctives, so **a `QA-` tag must exist in `RJ_Final_Question_List.md` before it is cited anywhere else.** Three of the four were cited into a void from v11 to v16; check **C8** now guards this.
+
+   ⚠️ **`VP-*` LABELS ARE THE SAME CLASS OF THING AND ARE GUARDED THE SAME WAY — BUT THEY RESOLVE AGAINST A DIFFERENT FILE (added 260728-1).** A `VP-` label is a **cross-reference label, not a source tag**: it names a vintage pair, not a finding, and it is never the citation for a position. **A `VP-` label must exist in `St_Francis_EMC_Distinctives.md` before it is cited anywhere else.**
+
+   | Series | Source of truth | Definition marker |
+   |---|---|---|
+   | `QA-` | **`RJ_Final_Question_List.md`** | the tag appears in the question list |
+   | `VP-` | **`St_Francis_EMC_Distinctives.md`** | a `⏳ **VINTAGE PAIR VP-N — …**` block header |
+
+   ⚠️ **THE PLACEMENT DIFFERENCE IS THE POINT AND MUST NOT BE MISREAD.** `QA-` runs *distinctives → question list*; `VP-` is defined and resolved **inside the distinctives itself**, so mere presence of the string cannot establish that a `VP-` label is real. **C8 therefore checks `VP-` against a definition marker, not against membership** — it is a second target, not the same check with a prefix appended. **Creating a label series without a guard is what put three `QA-` tags into a void for five versions; `VP-` was guarded on the day it was created.**
+
 6. ⚠️ **One tag, one finding.** A tag serving two findings forks its own citation trail and every downstream cross-reference becomes ambiguous. If a finding needs its own identity, it takes **the next free number**, not a letter suffix — suffixes are reserved for amendments to a parent (rule 2). *(Added 260725-1 on resolving the IP-4 collision, which sat unresolved for three months because re-tagging touches three documents.)*
 7. ⚠️ **PREFIX SCOPE — what sorts is WHAT THE RECORDING IS, not how it was delivered.** *(Added 260725-4 with batch 260725-2, before the 200-plus video archive arrives and a bad scheme becomes expensive.)*
 
@@ -264,6 +282,27 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
    Two supporting conventions. **A new prefix is minted only for a sustained, self-numbering teaching series**; one-off videos go to `LS` regardless of topic. And **`BP`, the Everhard response video, is a closed batch that would today be `LS` — leave it alone; do not retro-renumber a closed series.**
 
    ⚠️ **THE DUPLICATION HAZARD THIS CREATES, AND THE HASH CHECK IS BLIND TO IT.** Because the Anglican 101 classes are also streamed, **the same session can enter the corpus twice**: once as JD's room recording, once as a YouTube-derived transcript in a future batch. Those are two files with two hashes, and a hash check passes both. **The ingestion test is the sessions-ingested registry in `SRC_Manifest.md`, keyed on session — not the hash.** Without it, one batch out of the 200 can silently re-log IP-1 through IP-12 under fresh tags, which is the IP-4 collision arriving by a different door.
+
+8. ⭐ **THE VINTAGE PAIR CONVENTION (`VP-`), adopted 260728-1 from patch `260727-2` §0.4.** *State only; the rationale lives in the patch and in `St_Francis_EMC_Distinctives.md`.*
+
+   **What it is for:** the corpus now holds material from materially different periods. **A 2022 position is not a current position, and it is not superseded by silence either.** Without a convention the two get merged, and merging them is the DQ-5 defect — one fact held in two places, drifting.
+
+   **Format:**
+   ```
+   ⏳ VINTAGE PAIR VP-N — <the question, stated once>
+      THEN (<year>)  <position> · <TAG> · <file> @<offset>
+                     FIND: "<verbatim grep string>"
+      NOW  (<year>)  <position> · <TAG> · <source>
+                     FIND: "<verbatim grep string>"
+      DELTA          CHANGED | UNCHANGED | UNKNOWN — <one line, no more>
+   ```
+
+   **Three rules, and they are the whole convention:**
+   1. ⚠️ **A VINTAGE PAIR LIVES IN EXACTLY ONE PLACE** — in `St_Francis_EMC_Distinctives.md`, **beside the newer finding.** Other documents point at it and never restate it. **This is the DQ-5 rule applied to vintage.**
+   2. ⚠️ **`FIND:` IS MANDATORY ON BOTH SIDES AND MUST BE A STRING THAT ACTUALLY GREPS.** Byte offsets rot when a capture is replaced; a verbatim string survives re-transcription and re-capture. Four to ten words, distinctive, **ASR quirks preserved exactly as transcribed.** ⛔ **Never supply a `FIND:` from memory — run the grep.**
+   3. ⚠️ **`DELTA: UNKNOWN` IS LEGITIMATE AND COMMON AND MUST NOT BE GUESSED INTO CHANGED OR UNCHANGED. An unasked question is not an unchanged position.** ⛔ **A `DELTA: CHANGED` may never be put to him as a change until both sides are verified** — *"you used to say X"* is the most relationship-costly sentence available in this project and must never rest on an inference.
+
+   ⚠️ **A `NOW` cell is FILLED or GENUINELY ABSENT. An empty cell is neither and is not acceptable output.** *"Not filled"* and *"not on record"* are different facts and the corpus must distinguish them. **An absence is written up `[Analysis]` with NO tag** (rule 3: a corpus gap is not a source), and **it does not consume a finding number.**
 
 ---
 

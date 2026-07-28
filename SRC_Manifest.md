@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260726-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260728-1** (date-stamped, format yymmdd-iteration)
+
+**260728-1: FILES 5, 6 AND 7 REGISTERED — the first `LS` sources (batch `260727-2`).** Three standalone livestreams from the @barelyprotestant5365 channel, **2021-02-06, 2022-03-15 and 2022-09-02, all pre-St. Francis**. Three amendments, all under STANDALONE RECORDINGS below: **(1) three rows added, each carrying its recording date** — a new `Recorded` column, since vintage is managed through it — plus a full File 5/6/7 table with **SHA-256 hashes recomputed from the source files and verified, not copied from the patch block**; **(2) a speaker-attribution warning for Files 6 and 7**, parallel to the existing File 4 warning, carrying the **three-voice hazard** in File 7 (unmarked Jordan Cooper playback), the rule that **no verbatim quote from a multi-speaker `LS` file is deployable at Rev. James until the speaker is confirmed against video**, the **speaker-identification keys**, and the **marker-strength ordering**; **(3) five ASR quirks registered**, with byte offsets recomputed here rather than taken from the patch. ⚠️ **No session rows are owed and none were added** — standalone recordings get none, per the STANDALONE RECORDINGS rule; each one-off video is its own session and the hash check is sufficient. **No existing row, hash or procedure was altered.**
 
 *Generated 2026-07-22; extended 2026-07-24 (260724-1), capture-method and dating rule corrected 260724-3; archive paths recorded and IP-4/IP-12 references corrected 260725-1. **260725-4: File 4 (Revelation class corpus) registered from batch 260725-2; the sessions-ingested registry, capture codes and dual-capture reconciliation procedure added from batch 260725-3; boundary-detection method amended to record that two intake formats are now in play; **placeholder rows added for the unregistered Anglican 101 sessions JD confirmed he has attended since 06-14, dates pending.***
 
@@ -297,11 +299,66 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 
 *Findings prefix `LS` going forward. These stay in the file tables above and get no session rows, because a one-off video is its own session and the hash check is sufficient for it.*
 
-| Recording | Capture | File | SHA-256 (first 8) | Findings |
-|---|---|---|---|---|
-| Response to Matthew Everhard on the regulative principle | `[S]` | `Responding_to_Matthew_Everhard_on_the_Regulative_Principle_mp3.txt` | `d3fc2406` | **BP-39** and the BP batch |
+⚠️ **THE `Recorded` COLUMN WAS ADDED 260728-1 AND IS NOT OPTIONAL.** The LS bucket spans years, and **vintage is managed through this column.** A standalone row without a recording date cannot support a `VP-` vintage pair, and a finding cannot be dated from a recording whose date is unknown.
+
+| Recording | Recorded | Capture | File | SHA-256 (first 8) | Findings |
+|---|---|---|---|---|---|
+| Response to Matthew Everhard on the regulative principle | ⚠️ not established | `[S]` | `Responding_to_Matthew_Everhard_on_the_Regulative_Principle_mp3.txt` | `d3fc2406` | **BP-39** and the BP batch |
+| Becoming Sacramental and Liturgical (guest: **Mark Butterfield**) | **2021-02-06** | `[S]` | `Becoming_Sacramental_and_Liturgical.md` | `f9ad6de5` | `LS-14` … `LS-17`, `LS-19` |
+| Response to Jordan Cooper's "Why I'm not Anglican" (guest: **Fr. Bart Gingerich**) | **2022-03-15** | `[S]` | `Response_to_Jordan_Cooper.md` | `ec87693e` | `LS-9` … `LS-13`, `LS-20` … `LS-22` |
+| What I Love About Lutheranism (and Why I'm not Lutheran) — **solo** | **2022-09-02** | `[S]` | `What_I_Love_About_Lutheranism.md` | `4981fae1` | `LS-1` … `LS-8` |
 
 ⚠️ **`BP` is a closed batch that would today be `LS`. Leave it. Do not retro-renumber a closed series.**
+
+### ⭐ Files 5, 6 and 7 — the LS batch 1 sources (registered 260728-1, batch 260727-2)
+
+*The three rows above are the first `LS` rows. They continue the File numbering from File 4 and are referred to by File number in the speaker-attribution warning below.*
+
+| File | Filename (as delivered) | SHA-256 (full) | Bytes | Lines | Recorded | Speakers |
+|---|---|---|---|---|---|---|
+| **File 5** | `What_I_Love_About_Lutheranism.md` | `4981fae11037e2e6b7d95ac9e677a0fcf384267cb09b38b4b75f0636685120e8` | 20,814 | 2 | **2022-09-02** (Friday) | **Rev. James, solo.** Viewer comments are read aloud by him and are marked in-text by his reading of them |
+| **File 6** | `Becoming_Sacramental_and_Liturgical.md` | `f9ad6de53f9f274c455cd3dc3a83049e89762bd6490a26f68e7818156d1c14e6` | 70,708 | 3 | **2021-02-06** (Saturday) | ⚠️ **TWO, UNLABELED.** Rev. James (host) and **Mark Butterfield** (guest) — a registered nurse, former PCA Presbyterian, now Anglican |
+| **File 7** | `Response_to_Jordan_Cooper.md` | `ec87693ef613bbfc56c884927c9be37ad3dcf360ef6ac7124b58d5082ede15bf` | 98,012 | 3 | **2022-03-15** (Tuesday) | ⚠️⚠️ **THREE, UNLABELED.** Rev. James (host); **Fr. Bart Gingerich** (guest, REC, rector of St. Jude's Anglican, Richmond); and **Dr. Jordan Cooper**, present only as **unmarked playback** of his video "Why I'm not Anglican" |
+
+✅ **ALL THREE HASHES WERE RECOMPUTED FROM THE SOURCE FILES ON 260728-1 AND MATCH.** Byte counts and line counts verified in the same run. **A hash copied from a patch block rather than computed from the file is an unchecked claim**, and these were computed. **No collision with any previously registered hash; none had been ingested before.**
+
+⚠️ **Raw-ASR format (per the boundary-detection rule above): each file is one continuous recording, byte range 0 to EOF, no internal boundaries.** All three are `[S]` captures — his own channel audio — so **the room-capture wording-critical rule does not apply.** ⚠️ **A stricter rule applies instead; see the speaker-attribution warning below.**
+
+⚠️ **Recording dates were supplied by JD and each corroborates against internal cues rather than merely being consistent with them.** File 6: he signs off needing to prepare mass for the next day, a papal-infallibility debate is announced for "March 6th," the guest's eldest born 2012 is "eight going on nine," COVID current. File 7: responds to a Cooper video dated "March 8th," described as "about a week ago" — exactly one week. File 5: closes *"have a good day and weekend and don't forget to go to church on Sunday."* **No date is taken on trust alone.**
+
+⚠️ **CHRONOLOGY IS ITSELF A FINDING AND IT IS NOT THE DELIVERY ORDER.** The order is **File 6 (Feb 2021) → File 7 (Mar 2022) → File 5 (Sep 2022)**, a nineteen-month arc. In Feb 2021 he is a priest with a cure; by Sep 2022 he states he has no steady position, is applying to parishes, and starts a part-time job the next day (File 5 @20,320). **All three are pre-St. Francis and the batch straddles a break in his ministry.** ⛔ **Nothing in these files is a current position** — see the `VP-` vintage-pair convention (`PROJECT_STATE` §5 rule 8).
+
+### ⚠️ Speaker-attribution warning — Files 6 and 7 (the interview class)
+
+**These are unlabeled multi-speaker ASR. Nothing in the text marks who is speaking.** Turn boundaries are recoverable only by inference from content. **File 7 additionally contains unmarked playback of a third party's video** (Dr. Jordan Cooper), so **first-person theological statements in it may belong to the subject under critique rather than to either commentator.** ⚠️ **A passage at bytes 15,040 to 17,000 reads as a first-person Anglican-versus-Lutheran testimony and is in fact Dr. Cooper** — any process that treats first-person statements in this file as Rev. James's **will attribute a Lutheran's case against Anglicanism to an Anglican priest.**
+
+⛔ **NO VERBATIM QUOTE FROM A MULTI-SPEAKER `LS` FILE MAY BE DEPLOYED AT REV. JAMES UNTIL THE SPEAKER IS CONFIRMED AGAINST VIDEO OR AN ATTRIBUTED TRANSCRIPT.** This is the wording-critical rule extended from a **transcription** risk to an **attribution** risk, and **it is the stricter of the two: a mistranscribed word misstates him; a misattributed sentence puts another man's theology in his mouth.** ⚠️ **There is no ANCHORED-but-not-quotable middle state that gets written up with confidence. A finding is either verified or it is not attributed to him at all.** ⚠️ **This is a standing rule for any future draw from these files, not a status of what is tagged now** — everything in them not already tagged as a finding remains unquotable at him without a check.
+
+**Speaker-identification keys (established 260727-2, LS batch 1). These are durable and will pay for themselves across the 200-plus video bucket.**
+
+| Speaker | Keys |
+|---|---|
+| **Rev. James** | **Trinity School for Ministry (TSM)** (File 7 @13,055); **controls playback** ("let's go ahead and continue on"); **names the channel**; addresses the guest by first name; ⭐ **"it's a bit more complicated" is a CONFIRMED IDIOM** — video-verified inside JD's checked span at @62,018, and it recurs at @59,359 |
+| **Fr. Bart Gingerich** | **Reformed Episcopal Seminary (RES)** (File 7 @13,626, *"I was in seminary too at RES"*) and **Patrick Henry College** (@60,600 region). REC presbyter, rector of St. Jude's, Richmond, since 2020 |
+| **Mark Butterfield** | **registered nurse**; speaks from *"a medical background"* (File 6, the columbarium turn) |
+
+⭐ **AN IDIOM KEY IS WORTH MORE THAN A BIOGRAPHICAL KEY ACROSS A 200-VIDEO ARCHIVE**, because biography is stated once per video at best while idiom recurs throughout. **The idiom key held on its first test (`LS-20`). Collect more of these as batches land.**
+
+⚠️⚠️ **MARKER STRENGTH IS ORDERED, AND THE ORDER DECIDES.** Occupational and biographical markers (*"medical background," "at TSM,"* naming the channel, controlling playback) **outrank** role-sounding language (*"my old parish," "in my church"*), which two speakers in a clergy-and-laity conversation may both plausibly use. **Where the two conflict, the strong marker wins.** Recorded because the reverse assumption produced the near-miss misattribution this batch had to catch (`LS-19`).
+
+⚠️⚠️ **AND THE RULE THE CORRECTIONS COST: AN ANCHOR ANCHORS ITS OWN TURN AND NOTHING ELSE.** Three assignments were overturned by checking and **all three ran the same way — the guest's words credited to Rev. James.** `LS-16` stretched an anchor backwards across a turn boundary; `LS-15` stretched it further to a "turn-cluster," which is not a real unit. **In undiarized ASR, adjacency is not evidence:** two speakers agreeing warmly produce exactly the run of first-person theological statements that reads as one voice, and the papacy block in File 6 is precisely that — **Rev. James and his guest alternating agreement about Rome for some 1,800 bytes.** ⛔ **No `LS` finding may be marked ANCHORED on a marker outside its own turn. Findings in an unchecked neighbouring turn are INFERRED at best.**
+
+### ASR quirks — Files 5, 6 and 7, preserved as transcribed (added 260728-1)
+
+*Recorded so later greps do not fail silently and so nobody "corrects" a quote in place. Precedent: `"regular principle"` at IP-12. ⚠️ **Quirks are properties of a CAPTURE, not of a session.*** **Byte offsets below were recomputed from the source files on 260728-1, not copied from the patch block.**
+
+- **"abstract succession"** for ***apostolic succession*** — File 5 @18,264 (`LS-2`)
+- **"presenters"** for ***presbyters*** — File 5 @9,251 (`LS-3`)
+- **"plenty essay"** for ***plene esse*** — File 7 @5,377 (`LS-10`). ⚠️ **This one is load-bearing:** it is the `FIND:` string on `VP-4`'s THEN side, and **the corrected spelling will not grep**
+- **"Fairly Protestant"** for ***Barely Protestant*** (the channel name) — File 6 @69,090
+- **"crematorium"** for ***columbarium*** — File 6, the `LS-19` turn
+
+⚠️ **OFFSET CALIBRATION NOTE.** The patch block's offsets for the two verified idiom occurrences (@59,366, @62,025) sit a consistent **7 bytes** past the values measured here with `grep -ob` (@59,359, @62,018). **Both spans resolve and nothing depends on the difference**, but a future sweep comparing patch offsets against recomputed ones should expect the shift rather than read it as a mismatch. **Recomputed values are the ones recorded above.**
 
 ---
 

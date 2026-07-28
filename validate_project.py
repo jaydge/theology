@@ -25,6 +25,29 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
+**Last updated: 260728-1** (date-stamped, format yymmdd-iteration)
+
+⚠️ FIRST STAMP, ADDED 260728-1. This file was registered in PROJECT_STATE §4 on
+260726-1 but carried no version stamp, so C3 WARNed on it on every run since.
+That WARN is now cleared. The tool that enforces the registry is now itself
+checkable by the registry.
+
+CHANGELOG
+---------
+260728-1  C8 extended to guard the new VP- (Vintage Pair) cross-reference
+          series, and this stamp added. NOTE THE SOURCE-OF-TRUTH DIFFERENCE:
+          QA- resolves against RJ_Final_Question_List.md, VP- resolves against
+          St_Francis_EMC_Distinctives.md. That makes it a SECOND TARGET, not
+          the same check with a prefix appended -- and because VP- is defined
+          in the same file that cites it, mere presence of the string proves
+          nothing, so the VP- arm checks against a DEFINITION MARKER.
+          ⚠️ SCOPE: this pass was authorised to extend C8 and add the stamp
+          and NOTHING ELSE. C2's prefix list and C10's do NOT include 'LS'.
+          The LS ledger's numbering and its §15 balance were confirmed BY HAND
+          on 260728-1 and both were clean, but they are NOT machine-guarded.
+          A 22-finding series outside C2 is the C1/C6 silent-skip shape.
+          Extending both lists is the obvious next tooling pass.
+
 Usage:  python3 validate_project.py [ROOT]
         ROOT defaults to the directory containing this script.
 Exit:   0 = clean, 1 = errors found (including zero-coverage)
@@ -429,6 +452,74 @@ if DIST and QL:
         warn(f"[C8] QA tag(s) defined in the question list but never cited from "
              f"the distinctives: {orphans}. Harmless, but check the tag is doing "
              f"work.")
+
+# ---------------------------------------------------------------- C8, VP- arm
+# VP- (Vintage Pair) labels, added 260728-1 with batch 260727-2.
+#
+# ⚠️ THIS IS A SECOND TARGET, NOT THE SAME CHECK WITH A PREFIX APPENDED.
+# QA- runs distinctives -> question list, so membership is a real test.
+# VP- is DEFINED AND CITED IN THE SAME FILE (the distinctives), so "the string
+# appears in DIST" is trivially true and proves nothing. The VP- arm therefore
+# resolves against a DEFINITION MARKER: the '⏳ **VINTAGE PAIR VP-N — ...**'
+# block header that opens a pair. PROJECT_STATE §5 rules 5 and 8.
+#
+# Why it exists at all: three QA- labels were cited into a void from v11 to v16
+# precisely because no check guarded them. Creating VP- without a guard would
+# have rebuilt that defect from scratch, so VP- was guarded on the day it was
+# created rather than after the first void citation.
+if DIST:
+    seen('C8', DIST_KEY)
+    VP_DEF = re.compile(r'VINTAGE PAIR\s+\**\s*(VP-\d+)\b')
+    NEXT_FREE_MARK = re.compile(r'next free', re.I)
+    vp_defined = set(VP_DEF.findall(DIST))
+
+    # Cite scan runs over every resolved markdown document, not just the
+    # distinctives — a dangling VP- in the question list or in PROJECT_STATE is
+    # the same defect and is the one likelier to go unnoticed.
+    vp_cited = {}
+    for regpath in sorted(RESOLVED):
+        if not regpath.endswith('.md'):
+            continue
+        body = get(regpath)
+        if not body:
+            continue
+        seen('C8', regpath)
+        for m in re.finditer(r'\bVP-\d+\b', body):
+            line_start = body.rfind('\n', 0, m.start()) + 1
+            line_end = body.find('\n', m.end())
+            line = body[line_start: line_end if line_end != -1 else len(body)]
+            if CHANGELOG_MARK.match(line):
+                continue              # historical changelog: never altered
+            if VP_DEF.search(line):
+                continue              # the definition itself is not a citation
+            if NEXT_FREE_MARK.search(line):
+                continue              # 'next free is VP-7' is a MENTION, not a
+                                      # citation. Same distinction C10's
+                                      # ledger_head draws for 'next free RV-24':
+                                      # counting it demands a definition for a
+                                      # pair that does not exist yet, which is
+                                      # exactly backwards.
+            vp_cited.setdefault(m.group(0), set()).add(os.path.basename(regpath))
+
+    vp_dangling = sorted(t for t in vp_cited if t not in vp_defined)
+    if vp_dangling:
+        where = {t: sorted(vp_cited[t]) for t in vp_dangling}
+        err(f"[C8] DANGLING VP- LABELS cited but never DEFINED in "
+            f"{os.path.basename(DIST_KEY)}: {where}. A VP- label must exist as a "
+            f"'⏳ **VINTAGE PAIR VP-N — ...**' block in the distinctives before it "
+            f"is cited anywhere (PROJECT_STATE §5 rules 5 and 8). A vintage pair "
+            f"that resolves to nothing reads as a checked comparison and is not one.")
+    elif vp_defined:
+        ok(f"[C8] all {len(vp_defined)} VP- label(s) defined in the distinctives; "
+           f"{len(vp_cited)} cited, none dangling")
+    else:
+        ok("[C8] no VP- labels defined or cited yet")
+
+    vp_orphans = sorted(vp_defined - set(vp_cited))
+    if vp_orphans:
+        warn(f"[C8] VP- pair(s) defined but never cited from any finding: "
+             f"{vp_orphans}. Harmless, but a vintage pair nothing points at will "
+             f"not be found by the pass that needs it.")
 
 # ================================================================ CHECK 9
 # Do-not-deploy consistency: anything on the PROJECT_STATE register that
