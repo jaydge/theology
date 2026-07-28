@@ -25,7 +25,18 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260728-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260728-2** (date-stamped, format yymmdd-iteration)
+
+⚠️ 260728-2 (CLEANUP PASS, CL-3 + CL-4 + C10/LS). All three coverage defects
+recorded as owed work at 260728-1 §4 are now closed:
+  * C2  guards the LS prefix (22 findings that were hand-checked only);
+  * C12 no longer counts STANDALONE rows as sessions (17/12 -> 13/8);
+  * C10 sees LS in BOTH arms -- the common-ground sweep and the per-series
+    §15 lag check -- added on JD's approval after the queue was drafted.
+Each was verified not to introduce a cry-wolf warning before shipping. The
+closed batches (GV, BP, RC, EXT, Rev) are deliberately declined at C2 and C10
+alike: they use no '**PREFIX-N.**' ledger format, so guarding them would emit
+"no entries found" noise on every run.
 
 ⚠️ FIRST STAMP, ADDED 260728-1. This file was registered in PROJECT_STATE §4 on
 260726-1 but carried no version stamp, so C3 WARNed on it on every run since.
@@ -234,9 +245,17 @@ for regpath, abspath in ARCHIVES:
 # ================================================================ CHECK 2
 # Source-tag numbering: unbroken, no duplicates. Suffixed amendments (DQ-7a)
 # are legal and must attach to an EXISTING parent number.
+# ⚠️ PREFIX LIST SCOPE (260728-2, CL-3). 'LS' added: a 22-finding series was
+# being hand-checked, and a hand-check does not persist. The closed batches
+# (GV, BP, RC, EXT, Rev) were CONSIDERED and DELIBERATELY DECLINED: none of
+# them uses the '**PREFIX-N.**' ledger format at all, so adding them would fire
+# five "no ledger-format entries found" warnings on every run and teach people
+# to skim the validator -- the same cry-wolf reasoning that removed the tag
+# collision detector below. If a closed batch is ever converted to ledger
+# format, add it here in the same pass.
 if DIST:
     seen('C2', DIST_KEY)
-    for prefix in ['DQ', 'IP', 'RV']:
+    for prefix in ['DQ', 'IP', 'RV', 'LS']:
         tags = re.findall(rf'^\*\*{prefix}-(\d+)([a-z]?)\.\*\*', DIST, re.M)
         if not tags:
             warn(f"[C2] {prefix}: no ledger-format entries found in "
@@ -574,7 +593,13 @@ if DIST:
         CREDIT = re.compile(r'(credit it|common ground|formulary-faithful|'
                             r'no lever here|Credit \(§15\)|see §15)', re.I)
         owed = []
-        for m in re.finditer(r'^\*\*((?:DQ|IP|RV)-\d+[a-z]?)\.\*\*', DIST, re.M):
+        # ⚠️ LS ADDED 260728-2 (approved by JD). C10 could not see the LS batch
+        # at all, so the §15 balance sweep was blind to 22 findings -- the same
+        # blind-spot family as C2's missing LS arm. Verified before shipping:
+        # arm (a) gains no owed tags and arm (b)'s LS lag is 1, so no cry-wolf
+        # warning is introduced. The closed batches are declined here for the
+        # same reason as at C2: they use no '**PREFIX-N.**' ledger format.
+        for m in re.finditer(r'^\*\*((?:DQ|IP|RV|LS)-\d+[a-z]?)\.\*\*', DIST, re.M):
             tag = m.group(1)
             # Bound the entry at the next ledger tag OR the next '## ' section
             # header, whichever comes first. Without the header bound the LAST
@@ -582,7 +607,7 @@ if DIST:
             # their vocabulary — that bug made IP-11 look flagged when it wasn't.
             rest = DIST[m.end():]
             bounds = [x.start() for x in
-                      [re.search(r'^\*\*(?:DQ|IP|RV)-\d+[a-z]?\.\*\*', rest, re.M),
+                      [re.search(r'^\*\*(?:DQ|IP|RV|LS)-\d+[a-z]?\.\*\*', rest, re.M),
                        re.search(r'^##\s', rest, re.M)] if x]
             entry = DIST[m.start(): m.end() + (min(bounds) if bounds else 3000)]
             if CREDIT.search(entry) and tag not in body15:
@@ -611,7 +636,7 @@ if DIST:
             return max(ns) if ns else 0
         # Lag is checked PER FINDING-SERIES. Checking DQ alone let the RV batch
         # land 23 findings with §15 untouched and still report clean (260725-4).
-        for pfx in ['DQ', 'IP', 'RV']:
+        for pfx in ['DQ', 'IP', 'RV', 'LS']:
             head, credited = ledger_head(DIST, pfx), maxnum(body15, pfx)
             if head == 0:
                 continue                      # series not in the corpus yet
@@ -739,9 +764,25 @@ if MAN_KEY:
             "cannot see a second capture of the same event. Add the registry.")
     else:
         body = sec.group(1)
-        rows, session, parsed = [], None, 0
+        # ⚠️ SUBSECTION SCOPING (260728-2, CL-4). '### STANDALONE RECORDINGS' is
+        # a subsection of '# Sessions Ingested', so its rows were being counted
+        # as sessions -- the headline moved 14/9 -> 17/12 purely because three
+        # LS rows landed. The manifest's own rule is that a standalone recording
+        # is its own session and gets NO session row, so counting them
+        # contradicts the registry this check exists to police. They are parsed
+        # and reported SEPARATELY rather than dropped: a row that vanishes from
+        # a validator is the C1/C6 shape, and the point is to see them, not to
+        # count them as sessions.
+        STANDALONE_HDR = re.compile(r'^#{2,4}.*STANDALONE', re.I)
+        rows, standalone, session, parsed = [], [], None, 0
+        in_standalone = False
         for line in body.splitlines():
             line = line.strip()
+            if line.startswith('#'):
+                was = in_standalone
+                in_standalone = bool(STANDALONE_HDR.match(line))
+                if in_standalone != was:
+                    session = None            # never carry a name across tables
             if not line.startswith('|') or set(line) <= set('|-: '):
                 continue
             cells = [c.strip() for c in line.strip('|').split('|')]
@@ -754,6 +795,9 @@ if MAN_KEY:
             name = re.sub(r'[`*]', '', cells[0]).strip()
             if name and name not in ('\u2033', '"', '\u2019\u2019'):
                 session = name
+            if in_standalone:
+                standalone.append((session or '(unnamed)', cap, line))
+                continue
             parsed += 1
             rows.append((session or '(unnamed)', cap, line))
 
@@ -765,6 +809,9 @@ if MAN_KEY:
         else:
             ok(f"[C12] session registry parsed: {parsed} capture row(s) across "
                f"{len({r[0] for r in rows})} session(s)")
+            ok(f"[C12] {len(standalone)} standalone recording row(s) parsed and "
+               f"correctly EXCLUDED from the session count (manifest rule: a "
+               f"standalone recording gets no session row)")
 
         # (1) A registered-but-unreconciled second capture must not sit quietly.
         pending = [r for r in rows if re.search(r'SWEEP PENDING', r[2], re.I)]

@@ -1,5 +1,15 @@
 # CLAUDE.md
 
+**Last updated: 260728-2**
+
+> ⚠️ **REGISTERED IN `PROJECT_STATE.md` §4 ON 260728-2 (CL-5).** Until then this
+> file was tracked in git but appeared **zero times** in the registry, which put
+> the one file that instructs an agent outside every guarantee the registry
+> provides. This stamp exists so **validator check C3 guards it** instead of
+> skipping it silently. ⛔ **Registration is not reconciliation:** nobody has yet
+> audited this file against `Project_Bootstrap_Prompt.md` for divergence. That
+> audit is owed work.
+
 > **This is a working copy for Claude Code.** `Project_Bootstrap_Prompt.md`
 > is the canonical, versioned, changelogged document. If this file and that
 > one ever diverge, `Project_Bootstrap_Prompt.md` wins — update this file to
