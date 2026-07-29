@@ -25,7 +25,7 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260728-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260729-1** (date-stamped, format yymmdd-iteration)
 
 ⚠️ 260728-2 (CLEANUP PASS, CL-3 + CL-4 + C10/LS). All three coverage defects
 recorded as owed work at 260728-1 §4 are now closed:
@@ -54,6 +54,10 @@ CHANGELOG
           nothing, so the VP- arm checks against a DEFINITION MARKER.
           ⚠️ SCOPE: this pass was authorised to extend C8 and add the stamp
           and NOTHING ELSE. C2's prefix list and C10's do NOT include 'LS'.
+          [Superseded 260728-2: both lists gained 'LS'. Superseded again
+          260729-1: both gained 'BLOG', as did C10 arm (a)'s two regexes.
+          Original text left standing -- it is the record of what that pass
+          was authorised to do, not a claim about the current code.]
           The LS ledger's numbering and its §15 balance were confirmed BY HAND
           on 260728-1 and both were clean, but they are NOT machine-guarded.
           A 22-finding series outside C2 is the C1/C6 silent-skip shape.
@@ -245,6 +249,17 @@ for regpath, abspath in ARCHIVES:
 # ================================================================ CHECK 2
 # Source-tag numbering: unbroken, no duplicates. Suffixed amendments (DQ-7a)
 # are legal and must attach to an EXISTING parent number.
+# ⚠️ PREFIX LIST SCOPE (260729-1). 'BLOG' added at FOUR sites, not two: the C2
+# loop below, C10's ledger_head lag loop, AND C10 arm (a)'s two regexes (the
+# entry finder and the entry-bounding search). Adding it to the two LOOPS only
+# would have left arm (a) blind to all 44 BLOG entries while the run still
+# reported clean -- the C1/C6 silent-skip shape the header warns about, and the
+# exact defect CL-3 closed for 'LS'. Verified before shipping: C2 sees BLOG-1..44
+# unbroken; arm (a) owes nothing (every BLOG entry whose analysis flags common
+# ground is credited in §15); arm (b)'s BLOG lag is 4, inside the >4 threshold,
+# so no cry-wolf warning is introduced. C11's SERIES is DELIBERATELY NOT touched
+# -- it lists three prefixes, excludes 'LS' by the 260728-2 decision, and adding
+# BLOG there would warn about an outline pointer that has never named LS either.
 # ⚠️ PREFIX LIST SCOPE (260728-2, CL-3). 'LS' added: a 22-finding series was
 # being hand-checked, and a hand-check does not persist. The closed batches
 # (GV, BP, RC, EXT, Rev) were CONSIDERED and DELIBERATELY DECLINED: none of
@@ -255,7 +270,7 @@ for regpath, abspath in ARCHIVES:
 # format, add it here in the same pass.
 if DIST:
     seen('C2', DIST_KEY)
-    for prefix in ['DQ', 'IP', 'RV', 'LS']:
+    for prefix in ['DQ', 'IP', 'RV', 'LS', 'BLOG']:
         tags = re.findall(rf'^\*\*{prefix}-(\d+)([a-z]?)\.\*\*', DIST, re.M)
         if not tags:
             warn(f"[C2] {prefix}: no ledger-format entries found in "
@@ -599,7 +614,7 @@ if DIST:
         # arm (a) gains no owed tags and arm (b)'s LS lag is 1, so no cry-wolf
         # warning is introduced. The closed batches are declined here for the
         # same reason as at C2: they use no '**PREFIX-N.**' ledger format.
-        for m in re.finditer(r'^\*\*((?:DQ|IP|RV|LS)-\d+[a-z]?)\.\*\*', DIST, re.M):
+        for m in re.finditer(r'^\*\*((?:DQ|IP|RV|LS|BLOG)-\d+[a-z]?)\.\*\*', DIST, re.M):
             tag = m.group(1)
             # Bound the entry at the next ledger tag OR the next '## ' section
             # header, whichever comes first. Without the header bound the LAST
@@ -607,7 +622,7 @@ if DIST:
             # their vocabulary — that bug made IP-11 look flagged when it wasn't.
             rest = DIST[m.end():]
             bounds = [x.start() for x in
-                      [re.search(r'^\*\*(?:DQ|IP|RV|LS)-\d+[a-z]?\.\*\*', rest, re.M),
+                      [re.search(r'^\*\*(?:DQ|IP|RV|LS|BLOG)-\d+[a-z]?\.\*\*', rest, re.M),
                        re.search(r'^##\s', rest, re.M)] if x]
             entry = DIST[m.start(): m.end() + (min(bounds) if bounds else 3000)]
             if CREDIT.search(entry) and tag not in body15:
@@ -636,7 +651,7 @@ if DIST:
             return max(ns) if ns else 0
         # Lag is checked PER FINDING-SERIES. Checking DQ alone let the RV batch
         # land 23 findings with §15 untouched and still report clean (260725-4).
-        for pfx in ['DQ', 'IP', 'RV', 'LS']:
+        for pfx in ['DQ', 'IP', 'RV', 'LS', 'BLOG']:
             head, credited = ledger_head(DIST, pfx), maxnum(body15, pfx)
             if head == 0:
                 continue                      # series not in the corpus yet
