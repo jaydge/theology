@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- 260731-1: **Append.** Adds Rev. James's reply of **7/29/26, 4:45 PM**, his answer to the 7/23 grounding question (DQ-15). Extends coverage through **2026-07-29**. ⚠️ **Capture method differs from every prior entry in this file: this block was copied from the Discord client, not produced by DiscordChatExporter.** It was appended at EOF, so **no prior byte changed** and every offset previously logged against this file still holds; the author/timestamp line was normalised from the client's `Name — date, time` form into this file's existing `### date, time — Name` heading form, and nothing else in the message text was altered. No analysis, no source tags, no cleanup.
 - 260724-1: **Re-export.** Extends the capture through **2026-07-23** (adds JD's 12:07 PM post, the DQ-7 grounding question in genre-discrimination form). Also **resolves the three relative timestamps** the 260722 export rendered as "Yesterday" into absolute dates (7/21/26, 12:04 AM · 10:55 AM · 11:42 AM), which is what confirmed the DQ-7 date correction from 07-22 to 07-21. No other changes; still raw verbatim, no analysis, no source tags, no cleanup.
 - 260722-1: Initial build. Raw verbatim capture of Discord thread "Regulative Principle" from DiscordChatExporter export. No analysis, no source tags, no cleanup.
 
@@ -205,3 +206,9 @@ Does that work the same way regardless of whether the example is something shown
 The last of those would generally justify it for me, since that's an approved example in the ordinary sense, though even there I'd want to know whether a given instance was meant for the whole church or belonged to its own occasion.
 
 For the first two (described in a vision or a prophecy with no NT example), I'm less clear on what takes it from acceptable in that setting to something we would have to find appropriate for us.
+
+---
+
+### 7/29/26, 4:45 PM — Athanasius325 / Fr James
+
+I would say in the Heavenly worship I would need a strong argument as to why we should not allow that particular practice, given that Heavenly worship is perfect. For a prophetic description, it depends on quite a number of factors, from context to feasibility to purpose and a variety of other things. Do you have a particular prophetic example in mind?

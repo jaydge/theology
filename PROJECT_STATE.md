@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260729-2** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260731-1** (created 260724-3). Read this file first, before any other project document.
 
+> **260731-1 pass note.** ⚙️ **CAPTURE PASS — raw log only. No intake, no finding, no argument change, and nothing posted to Rev. James.** ⭐ **REV. JAMES REPLIED IN THE PRIORITY CHANNEL ON 2026-07-29, 4:45 PM — DQ-15 IS ANSWERED AND THE CHANNEL IS NOW JD'S TURN.** The reply was appended to `src/SRC_Discord_RPW.md` at EOF (no prior byte changed) and the `SRC_Manifest.md` row updated for hash, size, line count, coverage and export history. ⚠️ **The capture is a Discord-client clipboard copy, not a DiscordChatExporter run — the first non-exporter capture in that file.** It carries no permalink and cannot be re-derived; **re-verify against an exporter run before deploying any verbatim quote from this message outward.** ⏳ **NO FINDING WAS LOGGED AND NO `DQ` NUMBER WAS MINTED; next free `DQ` remains `DQ-16`.** The answer is on the record and in the file; **what it means, and what it unblocks, is a separate pass.** ⛔ **DQ-9 IS UNMOVED** — the reply is about **genre**, which is the transfer question, and the level question still sits underneath it (§2). **No gate moved. Items 22 and 23 are no longer blocked by an outstanding turn, but they were NOT unqueued by this pass** — sequencing is JD's call and is not a documentation update. **Touched three files** (`src/SRC_Discord_RPW.md`, `SRC_Manifest.md`, this file).
+>
 > **260729-2 pass note.** RECONCILE pass, applying patch `PATCH_BLOG_BATCH2_260729-2.md` — **the second `BLOG` intake.** **Ingested nine self-authored blogspot posts, 2014-09-07 to 2017-10-09** (registered **W7-W15** in `SRC_Manifest.md`; **9/9 hash- and byte-verified at intake, zero mismatches**), **27 findings `BLOG-45` … `BLOG-71`** EXTENDING the existing BLOG ledger rather than opening a second one. **Touched three files** (`PROJECT_STATE.md`, `St_Francis_EMC_Distinctives.md`, `SRC_Manifest.md`); `validate_project.py` needed no change, as predicted, since `BLOG` was added to C2 and C10 at 260729-1.
 >
 > ⛔⛔ **THE VINTAGE IS MORE SEVERE THAN BATCH 1's AND IT GOVERNS EVERY ENTRY. 2014-2017 IS UNDERGRADUATE AND PRE-SEMINARY.** He states in 2016-10-28 that he is in *\"this last semester of my undergrad,\"* and in 2016-12-09 that he has just graduated and is going *\"on to Seminary.\"* **He is not yet a seminarian for eight of the nine sources, not a deacon, not a priest, and not a rector** — **earlier than every other batch including batch 1.** **Every finding is `DEEP HISTORY` by construction. Nothing here is a current position and nothing here may be put to him as what he holds, at any tier, in any layer.**
@@ -105,7 +107,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 | Channel | State | Last message | By | Next action | Do not bump before |
 |---|---|---|---|---|---|
-| **Discord — Regulative Principle** ⭐ *priority channel* | ⏳ **AWAITING RJ** | 2026-07-23, 12:07 PM | JD | Wait. **Add nothing.** (DQ-15 posted) | **2026-07-30** |
+| **Discord — Regulative Principle** ⭐ *priority channel* | ⭐ **JD'S TURN** — RJ replied 2026-07-29 | 2026-07-29, 4:45 PM | RJ | **DQ-15 answered.** He asks a question back: *does JD have a particular prophetic example in mind?* ⚠️ **Do not answer that with "incense" reflexively** — naming the target case is the lock-before-port decision (§2), not a courtesy reply | n/a — no bump owed |
 | **Discord — 39 Articles / Formularies** | ✅ Closed by JD | 2026-07-21, 10:15 AM | JD | None. One item unanswered but **downgraded, do not bump** | n/a |
 | **Discord — Seven sacraments vs. Art. 25** | ✅ Closed by JD | 2026-07-21, 10:16 AM | JD | None | n/a |
 | **Discord — Baptism & Confirmation** | ✅ Closed | 2026-07-04, 12:36 PM | LilleyPartyofFive | None. **JD is not a participant** | n/a |
@@ -121,7 +123,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 **⚠️ Standing constraint:** *one committal question per turn, per channel.* Rebuttals are held until the prior answer is on record.
 
-**⚠️ Cross-channel note (learned 260724):** RJ replies in **batches across threads**, not per-thread. Two open questions in his queue means the second gets the shorter answer. **While DQ-15 is outstanding, do not open a new Discord thread.** Reassess if no reply by ~2026-07-30.
+**⚠️ Cross-channel note (learned 260724):** RJ replies in **batches across threads**, not per-thread. Two open questions in his queue means the second gets the shorter answer. ~~**While DQ-15 is outstanding, do not open a new Discord thread.**~~ ✅ **LIFTED 260731-1 — DQ-15 was answered 2026-07-29.** The batching behaviour it was drawn from still holds: **his queue is empty right now, so the next question posted gets his full attention, and a second thread opened alongside it would split that.** Keep the priority channel single-threaded.
 
 ---
 
@@ -160,9 +162,11 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 ## 3. QUESTION STATE
 
 ### Posted, awaiting reply
+
+✅ **The RPW channel is empty — DQ-15 was answered 2026-07-29 and nothing is outstanding to Rev. James in any channel.**
+
 | ID | Question | Posted | Channel |
 |---|---|---|---|
-| **DQ-15** ⭐ | Grounding question in genre form: does the DQ-7 transfer rule work the same for a heavenly vision, a prophecy, and a recorded NT-church practice? | 2026-07-23 | RPW |
 | — | Self-contradictions closure (locks the DQ-1 enumeration) | 2026-07-14 | Formularies · ⚠️ **DOWNGRADED, do not bump** |
 
 ### Drafted and queued (NOT posted)
@@ -174,11 +178,12 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **⭐ Item 22** `QC-fork` | What the imagery-and-symbolism principle is a principle *of* (← RV-2 / RV-11 vs DQ-9) | ⏸ **QUEUED behind DQ-15. HIGH PRIORITY** — governs more than the incense cluster |
 | **Item 23** `QC-intelligibility` | Does the audience-intelligibility constraint reach the worship imagery? (← RV-22 vs outline Step 7) | ⏸ **QUEUED behind DQ-15** |
 
-⚠️ **Items 22 and 23 were DRAFTED, NOT POSTED (260726-1).** Rev. James has not replied to DQ-15; nothing was posted to him and no `DQ` number was minted. Next free `DQ` remains **DQ-16**. Full drafts and design notes: `RJ_Final_Question_List.md` items 22-23.
+⚠️ **Items 22 and 23 were DRAFTED, NOT POSTED (260726-1); still not posted as of 260731-1.** ✅ **The blocking condition is gone — DQ-15 was answered 2026-07-29** — **but this pass did NOT unqueue them.** They compete with each other and with the reply he is owed; **which one goes next is a sequencing decision, not a documentation update.** Nothing was posted to him and no `DQ` number was minted. Next free `DQ` remains **DQ-16**. Full drafts and design notes: `RJ_Final_Question_List.md` items 22-23.
 
 ### Answered / retired this cycle
 | ID | Result |
 |---|---|
+| **DQ-15** ⭐ | ✅ **Answered 2026-07-29.** ⏳ **CAPTURED IN `src/SRC_Discord_RPW.md`, NOT YET LOGGED AS A FINDING** — no `DQ` number minted, next free remains `DQ-16`. ⚠️ **He answered two of the three prongs** (heavenly vision, prophetic description) and **did not address recorded NT-church practice**; he also **asked a question back.** ⛔ **This does not move DQ-9** — see §2 |
 | **DQ-5** ★ crux | ✅ Answered 2026-07-10 (see DQ-8/DQ-9) |
 | **Item 20** — Art. 25 grace | ✅ Answered 2026-07-20 → **RETIRED** |
 | **DQ-7** verification flags (×2) | ✅ Discharged 260724-1 |
@@ -232,14 +237,14 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260729-2 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260731-1 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260729-2 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v19 (260729-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260726-4 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260726-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260729-2 | Source registry | JD + Claude |
-| `src/SRC_Discord_RPW.md` | 260724-1 | Raw archive — never edited except date resolution | — |
+| `SRC_Manifest.md` | 260731-1 | Source registry | JD + Claude |
+| `src/SRC_Discord_RPW.md` | 260731-1 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |

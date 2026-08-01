@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260729-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260731-1** (date-stamped, format yymmdd-iteration)
+
+**260731-1: `src/SRC_Discord_RPW.md` ROW UPDATED FOR AN APPEND — hash, size, line count, coverage and export history.** Rev. James replied in the priority channel on **2026-07-29, 4:45 PM**, answering the 07-23 grounding question (DQ-15). The reply was **appended at EOF** and a changelog line added at the top of that file; **no existing message byte was altered**, so every previously logged offset against this file still holds. ⚠️ **THE CAPTURE METHOD IS NEW AND IS RECORDED RATHER THAN GLOSSED: this block came from the Discord client's clipboard, not from DiscordChatExporter**, unlike both prior captures of this file. The author/timestamp line was normalised into the file's existing heading form; the message text was not altered. **A clipboard capture is weaker provenance than an exporter run** — it carries no permalink and cannot be re-derived, and if a verbatim quote from this message is ever deployed outward it should be re-verified against an exporter run first. ⏳ **No finding was logged and no `DQ` number was minted; next free `DQ` remains `DQ-16`.** **No other row, hash or procedure was altered.**
 
 **260729-2: WRITTEN SOURCES BLOCK EXTENDED — W7-W15, the nine 2014-2017 posts of BLOG batch 2.** Applied `PATCH_BLOG_BATCH2_260729-2.md` — **the second `BLOG` intake.** **Nine self-authored blogspot posts, 2014-09-07 to 2017-10-09** (registered **W7-W15** in `SRC_Manifest.md`; 9/9 hash- and byte-verified at intake, zero mismatches), **27 findings `BLOG-45` … `BLOG-71`** EXTENDING the existing BLOG ledger. ⛔⛔ **THE VINTAGE IS MORE SEVERE THAN BATCH 1's: 2014-2017 is UNDERGRADUATE AND PRE-SEMINARY.** He is **not yet a seminarian for eight of the nine sources**, not a deacon, not a priest, not a rector — **earlier than every other batch in the project, including batch 1.** **Every finding is `DEEP HISTORY` by construction; nothing here is current and nothing here may be put to him as what he holds.** ✅ **Verification: 9/9 present, 9/9 sha256 match, 9/9 byte-count match, zero mismatches; extraction logic worked and no fallback was needed.** ⚠️ **Hashes for W7-W15 are recorded at 16 hex characters as supplied by the intake thread, where W1-W6 carry full 64-character digests; the difference is RECORDED rather than silently normalised** — a prefix suffices to detect an edited re-fetch and is not interchangeable with a full digest for anything else. ⭐ **A REAL METHODOLOGICAL GAIN OVER BATCH 1, AND ITS LIMIT:** these nine were supplied as **local files**, so batch 2's term scan is **grep-verified and re-runnable**, closing the gap batch 1's block records against itself — ⛔ **but the files remain OUTSIDE the repo, so those greps run against JD's LOCAL ARCHIVE ONLY and CANNOT be re-run from a `git clone`, and a future pass must not claim otherwise.** ⛔ **STILL NOT CLOSEABLE: 15 of 39 posts registered, 24 unread.** ⚠️ **One known outstanding item, recorded as an outstanding FETCH and not as an absence: the 2017-01-12 post is missing from the local archive by slug collision and is not yet fetchable.** **No existing row, hash or procedure was altered.**
 
@@ -166,13 +168,13 @@ The `>>` diarization markers are **sparse and unreliable**: 4 in Session IX, 22 
 | Field | Value |
 |---|---|
 | Filename | `SRC_Discord_RPW.md` |
-| SHA-256 | `66f5f17f5db1956f9fa3a581e1f91a4579f3862def7524a3c976e5c1919907be` |
-| Size | 18,381 bytes |
-| Lines | 206 |
+| SHA-256 | `4355399e8a7ae0b17f2e03ef6cf52b671f32ee97480382a2d963351631bef1df` |
+| Size | 19,475 bytes |
+| Lines | 213 |
 | Thread | "Regulative Principle" (opened by JD, 2026-06-18) |
-| Coverage | 2026-06-18 → 2026-07-23 |
-| Export history | 260722-1 initial (relative timestamps unresolved); **260724-1 re-export**, extends through 07-23 and resolves the three "Yesterday" timestamps to 07-21 |
-| Findings sourced | **DQ-3, DQ-4, DQ-5, DQ-7, DQ-8, DQ-9, DQ-10, DQ-7a, DQ-14, DQ-15** — the priority channel and the source of the entire incense funnel |
+| Coverage | 2026-06-18 → 2026-07-29 |
+| Export history | 260722-1 initial (relative timestamps unresolved); **260724-1 re-export**, extends through 07-23 and resolves the three "Yesterday" timestamps to 07-21; **260731-1 CLIPBOARD APPEND** — Rev. James's 07-29 reply added at EOF from the Discord client, **not** a re-export. ⚠️ **First non-exporter capture in this file.** No prior byte changed, so all previously logged offsets hold; hash/size/line count updated for the append **and** for the changelog line the append added at the top |
+| Findings sourced | **DQ-3, DQ-4, DQ-5, DQ-7, DQ-8, DQ-9, DQ-10, DQ-7a, DQ-14, DQ-15** — the priority channel and the source of the entire incense funnel. ⏳ **Rev. James's 07-29 answer to DQ-15 is CAPTURED in the file but NOT yet logged as a finding; no `DQ` number has been minted for it and next free `DQ` remains `DQ-16`** (260731-1) |
 
 | Field | Value |
 |---|---|
