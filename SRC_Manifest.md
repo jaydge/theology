@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260801-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260801-3** (date-stamped, format yymmdd-iteration)
+
+**260801-3: THE 07-23 DISCREPANCY IS RESOLVED, THREE MESSAGES ARE CORRECTED, AND THE CAPTURE METHOD IS RESTATED ACCURATELY FOR THE WHOLE PROJECT.** `src/SRC_Discord_RPW.md` was rebuilt against a **fresh full-thread capture taken 2026-08-01**. ⭐⭐ **MESSAGES 1-18 COMPARED BYTE-FOR-BYTE AND ARE IDENTICAL — the archive's history through 07-21 is VERIFIED, not merely assumed.** ✅ **Msg 19 (07-23) corrected:** JD edited that post within hours, **before** Rev. James's 07-29 reply, so the corrected text is **what Rev. James actually answered**; the previously archived wording is superseded. ⚠️ **Msgs 20 and 21 had their paragraph breaks restored (2 and 3 paragraphs, flattened to 1 each in prior passes).** **BOTH FLATTENINGS WERE INTRODUCED BY THIS PROJECT WHEN RE-TYPING A SUMMARISED PASTE, NOT BY THE CAPTURE METHOD** — Rev. James's 07-29 reply is the more serious of the two, since his words are the quotable ones. ⛔ **RETRACTION — FALSE PROVENANCE CORRECTED, NOT OVERWRITTEN.** Entries elsewhere in this file and in `src/SRC_Discord_RPW.md` describe the 260722-1 and 260724-1 captures as **DiscordChatExporter** exports. **That is false. DiscordChatExporter has NEVER been used on this project.** **Every capture of every `src/SRC_Discord_*.md` file has been a manual full-thread copy/paste from the Discord client**, later formatted into Markdown. The false entries stand as historical record; **this is the correction.** ⚠️ **CAPTURE-METHOD LIMITATIONS NOW ON RECORD, tested rather than assumed: (1) copy/paste does NOT carry the `(edited)` marker** — msg 19 was edited and the capture shows no trace — so **an edit must be noted BY HAND at capture time or it is lost; (2) same-day timestamps render bare** and need resolving against the capture date; **(3) paragraph breaks ARE preserved**, contrary to an earlier claim in this file. **Hash, size and line count updated. No other row or procedure was altered.**
 
 **260801-2: `src/SRC_Discord_RPW.md` ROW UPDATED FOR A SECOND APPEND — hash, size, line count, coverage.** JD posted **`DQ-18`** on **2026-08-01, 9:39 PM** (which factors keep the Ezekiel 40-48 offerings from carrying over). Appended at EOF; **no prior byte changed**, so all logged offsets hold. ⚠️ **Second clipboard capture, not an exporter run.** ⚠️ **The client rendered the timestamp bare as `9:39 PM`; it is resolved to `8/1/26` on JD's same-day report, NOT from an export** — weaker warrant than the 260724-1 "Yesterday" resolutions, and recorded as such. ⛔ **VERBATIM DISCREPANCY, LOGGED AND UNRESOLVED.** The **7/23/26 12:07 PM** message as archived ends *"...appropriate for us."*; the **same message rendered in the live Discord client on 2026-08-01 ends** *"...appropriate for our worship today."* The archived text came from the **260724-1 DiscordChatExporter run**. **The archive was NOT rewritten to match.** ⚠️ **`DQ-15` rests on that message.** **If a later user edit explains it, this is routine; if the exporter dropped a trailing clause, the integrity of EVERY `src/SRC_Discord_*.md` archive is implicated.** **Do not quote the 7/23 post outward until resolved.** **No other row, hash or procedure was altered.**
 
@@ -172,9 +174,9 @@ The `>>` diarization markers are **sparse and unreliable**: 4 in Session IX, 22 
 | Field | Value |
 |---|---|
 | Filename | `SRC_Discord_RPW.md` |
-| SHA-256 | `79d46bb4d32a48d72ceb92d8f4ff91dccaed5b1f5c9db6bed27ff3a0c9dd7816` |
-| Size | 21,650 bytes |
-| Lines | 221 |
+| SHA-256 | `1b38797ae6f1a665ec7d374e08a93f46f3794ed2ab3843317bbee6560ffb7b73` |
+| Size | 23,583 bytes |
+| Lines | 228 |
 | Thread | "Regulative Principle" (opened by JD, 2026-06-18) |
 | Coverage | 2026-06-18 → 2026-08-01 |
 | Export history | 260722-1 initial (relative timestamps unresolved); **260724-1 re-export**, extends through 07-23 and resolves the three "Yesterday" timestamps to 07-21; **260731-1 CLIPBOARD APPEND** — Rev. James's 07-29 reply added at EOF from the Discord client, **not** a re-export. ⚠️ **First non-exporter capture in this file.** No prior byte changed, so all previously logged offsets hold; hash/size/line count updated for the append **and** for the changelog line the append added at the top |

@@ -1,6 +1,6 @@
 # Project Bootstrap Prompt
 
-**Last updated: 260727-1**
+**Last updated: 260801-3**
 
 **Purpose:** Reusable instructions for starting or continuing a structured,
 long-term research/dialogue project with canonical document tracking. Paste
@@ -40,8 +40,26 @@ reminder of the conventions already in force.
   knowledge as raw record only: timestamp, author, verbatim text, and
   permalink if available. No analysis, no source tags, no commentary
   inside these files.
-- These logs are built from chat exports, not screenshots, once export
-  tooling is in place. Screenshots are a bridge, not a long-term method.
+- The capture method is a **manual full-thread copy/paste from the Discord
+  client**, which is then formatted into Markdown. No export tool is or has
+  ever been used. Any claim in a changelog that a capture came from
+  DiscordChatExporter is false and superseded (see `SRC_Manifest.md`
+  260801-3).
+- **Capture the WHOLE thread on every new reply. Never append a single
+  message.** A full recapture makes `git diff` the edit detector: only the
+  new message should appear, and anything else that moves is an edit.
+- **Discord messages are mutable.** Any diff touching an already-captured
+  message is an edit, and is logged as a dated correction with the superseded
+  text named. It is never absorbed silently, and the historical entry is
+  never rewritten.
+- Copy/paste has tested limits, and they are worked around by hand, not
+  assumed away: it does **not** carry the `(edited)` marker, so an edit
+  visible in the client is invisible in the archive and must be noted
+  manually at capture time; it renders same-day timestamps bare, which are
+  resolved against the capture date and flagged as resolved-by-report rather
+  than captured. It **does** preserve paragraph breaks.
+- Never re-type or reformat a message from a summarised or partial paste.
+  Archive text comes from the raw capture only.
 
 ## Document modes
 
@@ -119,4 +137,5 @@ recurring conventions emerge that should apply project-wide.*
 
 ## Changelog
 
+- **260801-3 (2026-08-01):** Added the Discord capture-method rules to the Discord/live-dialogue section, after a divergence between the archive and the live client was traced and resolved. Records that captures are manual full-thread copy/paste and never came from an export tool, retracting a false provenance claim carried in `src/SRC_Discord_RPW.md` and `SRC_Manifest.md`; requires full-thread recapture on every reply so that `git diff` surfaces edits; requires dated corrections for edited messages; records the tested limits of copy/paste (no `(edited)` marker, bare same-day timestamps, paragraph breaks preserved); and forbids re-typing archive text from a summarised paste.
 - **260727-1 (2026-07-27):** Added this file's first `**Last updated:**` stamp (it carried no version marker before this pass). Registered in `PROJECT_STATE.md` §4 at the same value.
