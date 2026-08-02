@@ -1,7 +1,9 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260801-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260801-2** (created 260724-3). Read this file first, before any other project document.
 
+> **260801-2 pass note.** ⭐ **`DQ-18` POSTED 2026-08-01, 9:39 PM — THE PRIORITY CHANNEL IS BACK TO AWAITING REV. JAMES.** He was asked which factors keep the Ezekiel 40-48 offerings from carrying over to NT worship. ✅ **Ezekiel was verified incense-free before posting** (ESV and KJV, all nine chapters, nil hits on incense/censer/frankincense/perfume/spice and both aroma formulae; the 41:22 wooden altar is named by the text itself as the table), **so the example is neutral and the target case is still unnamed.** Archive and manifest updated in the same pass. ⛔ **VERBATIM DISCREPANCY, LOGGED AND UNRESOLVED.** The **7/23/26 12:07 PM** message as archived ends *"...appropriate for us."*; the **same message rendered in the live Discord client on 2026-08-01 ends** *"...appropriate for our worship today."* The archived text came from the **260724-1 DiscordChatExporter run**. **The archive was NOT rewritten to match.** ⚠️ **`DQ-15` rests on that message.** **If a later user edit explains it, this is routine; if the exporter dropped a trailing clause, the integrity of EVERY `src/SRC_Discord_*.md` archive is implicated.** **Do not quote the 7/23 post outward until resolved.** ⏳ **Intake debt now stands at FOUR items: `DQ-16`, `DQ-17`, `DQ-18`, and the C4 staleness** across the distinctives, question list and incense analysis. **Next free `DQ` is `DQ-19`.** **Touched three files** (`src/SRC_Discord_RPW.md`, `SRC_Manifest.md`, this file).
+>
 > **260801-1 pass note.** RECONCILE pass, applying patch `PATCH_BLOG_BATCH3_260801-1.md` — **the third `BLOG` intake.** **Ingested eight self-authored blogspot posts, 2014-07-01 to 2018-07-05** (registered **W16-W23** in `SRC_Manifest.md`), **32 findings `BLOG-72` … `BLOG-103`** EXTENDING the existing BLOG ledger. **Touched three files** (`PROJECT_STATE.md`, `St_Francis_EMC_Distinctives.md`, `SRC_Manifest.md`); `validate_project.py` needed no change, as predicted, since `BLOG` was added to C2 and C10 at 260729-1.
 >
 > ⛔⛔ **VINTAGE — W16 (2014-07-01) IS THE BLOG'S FIRST POST AND IS NOW THE EARLIEST SOURCE IN THE ENTIRE PROJECT, displacing W14.** It is undergraduate and pre-everything: **three years before seminary** (autumn 2017, dated this batch at `BLOG-97`), **five before the diaconate.** W23 (2018-07-05) is the latest here and is **still seminary-era.** **Every finding is `DEEP HISTORY` by construction. Nothing here is a current position and nothing here may be put to him as what he holds, at any tier, in any layer.** ⛔ **No "you used to say X" logic appears anywhere in the batch.**
@@ -137,7 +139,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 | Channel | State | Last message | By | Next action | Do not bump before |
 |---|---|---|---|---|---|
-| **Discord — Regulative Principle** ⭐ *priority channel* | ⭐ **JD'S TURN** — RJ replied 2026-07-29 | 2026-07-29, 4:45 PM | RJ | **DQ-15 answered.** He asks a question back: *does JD have a particular prophetic example in mind?* ⚠️ **Do not answer that with "incense" reflexively** — naming the target case is the lock-before-port decision (§2), not a courtesy reply | n/a — no bump owed |
+| **Discord — Regulative Principle** ⭐ *priority channel* | ⏳ **AWAITING RJ** | 2026-08-01, 9:39 PM | JD | Wait. **Add nothing.** (`DQ-18` posted: which factors keep the Ezekiel 40-48 offerings from carrying over) | **2026-08-08** |
 | **Discord — 39 Articles / Formularies** | ✅ Closed by JD | 2026-07-21, 10:15 AM | JD | None. One item unanswered but **downgraded, do not bump** | n/a |
 | **Discord — Seven sacraments vs. Art. 25** | ✅ Closed by JD | 2026-07-21, 10:16 AM | JD | None | n/a |
 | **Discord — Baptism & Confirmation** | ✅ Closed | 2026-07-04, 12:36 PM | LilleyPartyofFive | None. **JD is not a participant** | n/a |
@@ -195,10 +197,9 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 
 ### Posted, awaiting reply
 
-✅ **The RPW channel is empty — DQ-15 was answered 2026-07-29 and nothing is outstanding to Rev. James in any channel.**
-
 | ID | Question | Posted | Channel |
 |---|---|---|---|
+| **`DQ-18`** ⭐ | Which factors keep the Ezekiel 40-48 offerings from carrying over to NT worship? Ezekiel named as a **verified-neutral** prophetic example; ⛔ **incense still not named** | 2026-08-01 | RPW |
 | — | Self-contradictions closure (locks the DQ-1 enumeration) | 2026-07-14 | Formularies · ⚠️ **DOWNGRADED, do not bump** |
 
 ### Drafted and queued (NOT posted)
@@ -210,7 +211,7 @@ Other documents may *discuss* state, and much of that discussion is valuable (ro
 | **⭐ Item 22** `QC-fork` | What the imagery-and-symbolism principle is a principle *of* (← RV-2 / RV-11 vs DQ-9) | ⏸ **QUEUED behind DQ-15. HIGH PRIORITY** — governs more than the incense cluster |
 | **Item 23** `QC-intelligibility` | Does the audience-intelligibility constraint reach the worship imagery? (← RV-22 vs outline Step 7) | ⏸ **QUEUED behind DQ-15** |
 
-⚠️ **Items 22 and 23 were DRAFTED, NOT POSTED (260726-1); still not posted as of 260731-1.** ✅ **The blocking condition is gone — DQ-15 was answered 2026-07-29** — **but this pass did NOT unqueue them.** They compete with each other and with the reply he is owed; **which one goes next is a sequencing decision, not a documentation update.** Nothing was posted to him. ⚠️ **Next free `DQ` for a NEW posted question is `DQ-18`, not `DQ-16`** — `DQ-16` and `DQ-17` were reserved at 260731-2 for Rev. James's 07-29 reply. Full drafts and design notes: `RJ_Final_Question_List.md` items 22-23.
+⚠️ **Items 22 and 23 were DRAFTED, NOT POSTED (260726-1); still not posted as of 260731-1.** ✅ **The blocking condition is gone — DQ-15 was answered 2026-07-29** — **but this pass did NOT unqueue them.** They compete with each other and with the reply he is owed; **which one goes next is a sequencing decision, not a documentation update.** Nothing was posted to him. ⚠️ **`DQ-18` WAS SPENT ON 2026-08-01** (the Ezekiel factors question), so **items 22 and 23 are now queued behind `DQ-18`** rather than free; **next free `DQ` is `DQ-19`.** `DQ-16` and `DQ-17` remain reserved for Rev. James's 07-29 reply. Full drafts and design notes: `RJ_Final_Question_List.md` items 22-23.
 
 ### Answered / retired this cycle
 | ID | Result |
@@ -269,14 +270,14 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260801-1 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260801-2 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260801-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v19 (260729-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260726-4 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260726-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260801-1 | Source registry | JD + Claude |
-| `src/SRC_Discord_RPW.md` | 260731-1 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried | — |
+| `SRC_Manifest.md` | 260801-2 | Source registry | JD + Claude |
+| `src/SRC_Discord_RPW.md` | 260801-2 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |
