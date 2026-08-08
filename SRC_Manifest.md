@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260807-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260808-1** (date-stamped, format yymmdd-iteration)
+
+**260808-1: `A101-2026-07-19` INGESTED FROM BOTH CAPTURES IN ONE PASS — THE ⭐ PRIORITY INGEST DISCHARGED; `[R]` REGISTERED AS PRIMARY, `[S]` AS PERMANENT SECONDARY — COMPARISON CAPTURE (BRANCH A); FINDINGS `IP-13`…`IP-23` BORN VERIFIED; NOTHING PROMOTED, NOTHING SUPERSEDED, NO FREEZE.** The 07-19 session (the official upload titles it **"Session III: the Articles of Religion (I-VIII)"**) is ingested from **`[R]`** `Audio_07_19_2026_19_34_03.mp3.txt` (49,875 bytes; `sha256(body.strip())` `c3bf0f15…` — full digest at Note 2b; raw single-stream ASR, one recording, whole file) and **`[S]`** `A101-20260719-official-video.md` (49,497 bytes; `b0047300…`; structured markdown, the File 4 recognition class, one video), both held OUTSIDE the repo in JD's archive (`…/original transcripts/in person classes/`). ⭐⭐ **First application of the born-verified discipline: every logged verbatim carries `grep -ob`-verified `[R]` offsets AND its Step 2 `[S]` outcome recorded at intake — outcomes ✅ CONFIRMED / ⚠️ AMENDED only, so per Step 6 nothing is frozen and the Currently-flagged line stays at none.** ⚠️⚠️ **THE REPORTABLE REVERSE CASE OCCURRED: JD's recorder started late** — `[R]` opens mid-sentence and the session opening (opening prayer + the *"our three-part formularies, our confessional standards"* sentence) exists in `[S]` ALONE; **`IP-13` is `[S]`-sourced with no `[R]` coordinates** (Note 2b). ⬜ The `[S]` upload truncates mid-sentence at the close; the post-close informal exchange is `[R]`-only per Note 2a (property of the stream, not a gap; no finding logged from it). ⚠️ **The session-registry coverage cell is corrected 260808-1 from "Articles 1-7" to "Articles I-VIII"** per the upload title and both captures' content (Article IV not discretely treated — observed, Note 2b). **Quirk registers added for BOTH captures under Note 2b (Step 5 Branch A: `[R]`'s is the register of record, `[S]`'s logged alongside; nothing moves).** ⛔⛔ **BRANCH A GOVERNED THROUGHOUT: `[R]` PRIMARY permanently, `[S]` never promotes, nothing superseded, no coordinate moved.** **No other row, hash or procedure was altered.**
 
 **260807-1: THE `IP-12` SWEEP RUN — THE 06-14 `[S]` CAPTURE REGISTERED AS PERMANENT SECONDARY (BRANCH A), OUTCOME ⚠️ AMENDED, THE WORDING-CRITICAL FREEZE CLEARED; NOTHING PROMOTED, NOTHING SUPERSEDED.** The official upload of `A101-2026-06-14-P1` (`A101-20260614-official-video.md`, held OUTSIDE the repo in JD's archive) is registered under the existing session row as **PERMANENT SECONDARY — COMPARISON CAPTURE**, per Note 2a and Step 4 Branch A. **The Step 2 sweep was run for `IP-12` ONLY** (the pass's scope; no other finding swept, no new findings logged, no other A101 session touched). ⚠️ **Outcome: AMENDED** — the logged verbatim is present in `[S]` at **bytes 19,897–20,763** with wording differences, recorded both-strings-verbatim in the sweep note below and at `IP-12a` in `St_Francis_EMC_Distinctives.md`. ⭐⭐ **The load-bearing result: `[S]` reads "regulative principle" throughout — `[R]`'s "regular principle" is CONFIRMED as a distant-mic artifact, exactly as Note 1 predicted — and the expectation formula is confirmed near-verbatim.** ⚠️ **One substantive word amends: `[R]` "incense is too famous" reads "incense is too papist" in `[S]`.** ⬜ **The normative-label rejection ("it sounds too loosey-goosey") is OUT OF SCOPE for `[S]`:** it lives in `[R]` Part 2 (`Audio_06_14_2026_20_26_39_mp3.txt`, ~@7,930–8,130) and appears in the official upload in no form (grep-verified) — per Note 2a that is a property of the stream, not a gap; `[R]` remains the citation substrate for that element. ✅ **Step 6 applied: the WORDING-CRITICAL freeze on `IP-12` is cleared** (row cell and the Currently-flagged line below). ⛔ **BRANCH A GOVERNED THROUGHOUT: `[R]` stays PRIMARY permanently, `[S]` never promotes, nothing is superseded, no coordinates moved, and per Step 5 `[R]`'s quirk register stays the register of record with `[S]`'s quirks logged alongside under the `[S]` row.** **No other row, hash or procedure was altered.**
 
@@ -270,8 +272,8 @@ This table exists because the hash check cannot do this job. The file tables abo
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(on channel, not yet pulled)* | — | — | — | — |
 | `A101-2026-06-28` | 2026-06-28 | General introductory material | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⬜ *not yet ingested* | — | — | *(none yet)* | — |
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
-| `A101-2026-07-19` | 2026-07-19 | **Articles 1-7** | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⭐ ⬜ **NOT YET INGESTED — PRIORITY INGEST** | — | — | *(none yet)* | — |
-| ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
+| `A101-2026-07-19` | 2026-07-19 | **Articles I-VIII** ⚠️ *(corrected 260808-1 per the upload title and both captures — cell previously read "Articles 1-7"; Article IV not discretely treated; Note 2b)* | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** | `Audio_07_19_2026_19_34_03.mp3.txt` ⛔ *held OUTSIDE the repo (JD's archive)* | `c3bf0f15` | 49,875 | **IP-13…IP-23** *(⚠️ IP-13 is stream-sourced only — recorder-start gap, Note 2b)* | — *(born verified 260808-1; none frozen — Note 2b)* |
+| ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260808-1; never promotes) | `A101-20260719-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `b0047300` | 49,497 | *(comparison capture — Step 2 outcomes at Note 2b; sole substrate for IP-13)* | — |
 | `A101-2026-07-26` | 2026-07-26 | ⚠️ content TBD — **held today**, not yet captured | ✅ **YES** | `[R]` | **PRIMARY (by policy)** | ⬜ **NOT YET CAPTURED** | — | — | *(none yet)* | — |
 | ″ | ″ | ″ | ″ | `[S]` | ⬜ **NOT YET INGESTED** | *(presumed on channel, not yet pulled)* | — | — | — | — |
 
@@ -324,6 +326,8 @@ Raised at 260725-4 as a suspected gap, confirmed in the same pass, and **closed 
 
 ⚠️ **Until a session's capture is ingested, no `IP` finding may be logged from it.** Next free is `IP-13` (`PROJECT_STATE.md` §5). Having a date is necessary but not sufficient: a finding still needs a verified byte offset in an actual capture, and **dating a finding from the intake session rather than the source is the exact mechanism that cost this project two weeks in July 2026.**
 
+> ✅ **DISCHARGED IN PART, 260808-1 — the priority ingest is DONE.** `A101-2026-07-19` was ingested from both captures (Note 2b); findings `IP-13`…`IP-23` logged; **next free is now `IP-24`** (`PROJECT_STATE.md` §5 governs). The 06-28 and 07-26 sessions remain NOT YET INGESTED — their `[S]` files are on disk in JD's archive but were **not read by the 260808-1 pass** (scope rule: one session per pass). *(This note is the correction of record; the paragraph above is left standing per the never-alter convention.)*
+
 ### ⭐⭐ Note 2a — CAPTURE POLICY FOR ANGLICAN 101: `[R]` IS PRIMARY PERMANENTLY, BY POLICY (set 260726-1)
 
 **⚠️ THIS CORRECTS THE PROCEDURE BELOW. IT IS NOT AN APPLICATION OF IT.**
@@ -338,6 +342,66 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 ⚠️ **THE AUDIO-VERIFICATION REQUIREMENT IS UNCHANGED AND APPLIES TO BOTH CAPTURES.** Nothing here relaxes it. Anything quoted at Rev. James is audio-checked before deployment, whatever capture it came from. Primacy governs which coordinates the corpus resolves against; it has never governed whether a quote gets verified.
 
 **What `[S]` is for, then:** when a stream capture arrives for an Anglican 101 session, it is run as a **COMPARISON pass, not a promotion pass.** See the amended Step 4 below.
+
+### ⭐⭐ Note 2b — THE `A101-2026-07-19` DUAL INGEST, RUN 260808-1 (Branch A from birth; findings `IP-13`…`IP-23`, none frozen)
+
+**Captures registered, both held OUTSIDE the repo** in JD's archive (`…/original transcripts/in person classes/`) — the `BLOG`/`POD` handling limit applies: greps run against JD's local archive only and cannot be re-run from a clone. ⚠️ **First-time registrations, the `W19` warrant class — hashes computed fresh by this pass, internal consistency only.**
+
+| Capture | Filename | Bytes (raw) | `sha256(body.strip())` (full) | Format | Role |
+|---|---|---|---|---|---|
+| Room | `Audio_07_19_2026_19_34_03.mp3.txt` | 49,875 *(stripped: 49,874)* | `c3bf0f156d28c60ab9053c636899a3e34e9ec2206de0df2e6b55ed02bdb32a99` *(raw-file digest differs: `6684e68f…` — the one-byte trailing strip)* | Raw single-stream ASR, 1,038 single-sentence lines, zero blank lines, no headers — **one recording, byte range 0–49,875** (boundary rule: the `Audio_MM_DD…` filename class) | **PRIMARY (permanently, Note 2a)** |
+| Stream | `A101-20260719-official-video.md` | 49,497 | `b00473007758a7fedbf2b196eaa776c06a7d72a05994e393043170bfa9797975` *(identical raw and stripped — no leading/trailing whitespace)* | Structured markdown (`#` title, `##` date line, long-line ASR body with sparse `>>` diarization — the File 4 recognition class), **one video** | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Step 4 Branch A; never promotes) |
+
+⚠️ **COVERAGE, CORRECTED AND BOUNDED.** The upload titles the session *"Session III: the Articles of Religion (I-VIII)"* and both captures confirm Articles I through VIII were taught — **the registry cell previously read "Articles 1-7" and is corrected 260808-1 with this note** (the never-silently-change rule; the old value was the pre-ingest estimate from the 260726-1 session list). ⚠️ **Article IV is not discretely treated in either capture** — the class moves from the Article III Q&A to *"number five."* Observed, not explained.
+
+⚠️⚠️ **CAPTURE-SCOPE FACTS — INCLUDING THE REPORTABLE CASE.** **(1) ⛔ RECORDER CUT-IN: `[R]` starts late** (filename timestamp 19:34:03) and opens mid-sentence inside the opening remarks. **The opening prayer and the session's framing sentence — *"The 39 articles are one part of our three-part formularies, our confessional standards"* (→ `IP-13`) — exist in `[S]` ALONE** (`[S]` @~600–1,900). This is **material in `[S]` missing from `[R]` — the reportable case named in the dual-capture procedure — and it is a property of THIS `[R]` capture, not of the series.** `IP-13` therefore carries `[S]` coordinates only; `[S]` is his own channel audio, so the room-capture wording-critical rule does not attach. **(2) ⬜ The `[S]` upload truncates at the close, mid-sentence** (*"That one is"*): the post-close informal exchange (~`[R]` @47,600–49,875 — an Enoch/Elijah question, Roman eschatology, his dispensationalism-to-partial-preterism journey restated) is **`[R]`-only, per Note 2a a property of the stream, not a gap.** No finding was logged from that stretch, so no freeze arises from it. **(3)** Between those bounds the two captures track the same session throughout; `[S]` renders several attendee turns only as fragments (close mic favours the lectern), which is why the attendee historian's textual-criticism commentary is fully legible only in `[R]` — and it is an **attendee's, never Rev. James's** (speaker-discipline note in the distinctives session block).
+
+**The Step 2 outcomes, consolidated.** Every `IP-13`…`IP-23` verbatim was anchored in `[R]` by `grep -ob` and immediately checked in `[S]`; per-finding offsets and outcomes live at each ledger entry. **No verbatim came back ⛔ NOT FOUND; per Step 6 every finding is quotable and the wording-critical freeze was never entered.** ⚠️ **Quote per the stream wording wherever the two diverge** (capture-codes table). The substantive divergences, both strings verbatim — ⚠️ *table cells deliberately write "room" and "stream," not the bracketed codes, per the C12 note at Note 1a:*
+
+| # | Room capture (register of record) | Stream capture (comparison) | Weight |
+|---|---|---|---|
+| 1 | *"we have unique and conductive"* | *"we have unique Anglican doctrine"* | ⭐⭐ The tier's own NAME recovered — load-bearing for `IP-18` |
+| 2 | *"that it's built those way we were going to"* | *"that if you don't hold to it, you're going wrong"* | ⭐⭐ The tier-2 tail recovered — load-bearing for `IP-18` |
+| 3 | *"A homily of that note"* | *"A homily 11"* | ⭐ The homily number recovered — `IP-20` |
+| 4 | *"Ecclesiastes"* (×3, canon passage) | *"Ecclesiasticus"* (×3) | ⭐ Room artifact settled; **not** a claim that Ecclesiastes is apocryphal — false-positive trap |
+| 5 | *"from Calvin to Luther to Graham"* | *"from Calvin to Luther to Cranmer"* | Room artifact settled — `IP-15` |
+| 6 | *"reflects us from venial sin"* | *"cleanses us from venial sins"* | Room artifact — `IP-15` |
+| 7 | *"both Lord and Zacharias"* | *"both ordinances"* | Room artifact — `IP-15` |
+| 8 | *"spiration and creation"* | *"spiration and filiation"* | Room artifact; the true technical term — `IP-17` |
+| 9 | *"to be a submission"* (tail) | *"would be sufficient for me"* (tail) | Tail recovered — `IP-19` |
+| 10 | *"That's the argument that I make"* | *"That's the argument that I know"* | ⚠️ Changes the VOICE: stream has him reporting the critics' argument, not owning it. Stream governs |
+| 11 | *"the ark was made for Mary"* | *"the ark was a preparing"* | 1 Peter 3 quotation (KJV); **not Marian content** — false-positive trap |
+| 12 | *"Affination Creed"* (×2) | *"Athanasian Creed"* (×2) | Room artifact — `IP-23` |
+| 13 | *"non-homarchical government"* | *"non- monopolical government"* | ⚠️ BOTH garbled; contextually *non-monarchical*; unresolved, uncorrected |
+| 14 | *"underdates men"* | *"other games men"* | ⚠️ BOTH garbled ("…men… in a committee at some university"); unresolved, uncorrected — `IP-19` |
+| 15 | *"the Oratory of Dracula"* | *"the number 25"* | ⚠️ BOTH garbled; contextually the **Muratorian fragment** (`[Analysis]` gloss only); unresolved, uncorrected — `IP-19` |
+| 16 | *"lower class"* (venial sins) | *"lower bucks"* | ⚠️ BOTH garbled ("lower-stakes"?); unresolved, uncorrected |
+
+**Room-capture quirk register (`[R]` — the register of record, per Step 5 Branch A; offsets `grep -ob`-recomputed this pass):**
+
+- **"non-homarchical"** for *non-monarchical* — @336
+- **"lower class"** (of venial sins) — @13,509 (stream garbles differently; divergence 16)
+- **"both Lord and Zacharias"** for *both ordinances* — @14,500
+- **"reflects us from venial sin"** for *cleanses us from venial sins* — @14,280
+- **"to Graham"** for *to Cranmer* — @15,806
+- **"the ark was made for Mary"** — @21,943 (1 Peter 3 quotation; ⛔ **false-positive trap: NOT Marian content**)
+- **"Ecclesiastes"** for *Ecclesiasticus* — @22,793, @22,952, @23,114 (⛔ **false-positive trap: NOT a claim about Ecclesiastes**; canon passage)
+- **"spiration and creation"** for *spiration and filiation* — @26,376
+- **"That's the argument that I make"** for *…that I know* — @36,447 (voice-changing; divergence 10)
+- **"underdates men"** — @39,027 (unresolved; divergence 14)
+- **"the Oratory of Dracula"** — @39,945 (contextually the Muratorian fragment; divergence 15)
+- **"Affination Creed"** for *Athanasian Creed* — @47,207, @47,263
+- **"jd"** rendered as the addressee of *"we're almost there"* — @24,973 (stream reads *"Danny"* @28,369; ⛔ **the questioner's identity is UNRESOLVED and unattributed** — speaker-discipline note in the distinctives)
+
+**Stream-capture quirk register (`[S]` — logged alongside under this row per Step 5 Branch A; nothing moves):**
+
+- **"non- monopolical"** for *non-monarchical* — @1,855
+- **"mortia"** for *mortal* (attendee's question, rendered as-is) — @16,691, @16,748
+- **"lower bucks"** (of venial sins) — @16,239
+- **"other games men"** — @40,544 (unresolved; divergence 14)
+- **"the number 25"** where the room capture reads "the Oratory of Dracula" — @41,321 (both garble the same referent; divergence 15)
+- **"Danny"** as the addressee of *"We're almost there"* — @28,369 (room reads "jd" @24,973; unresolved, unattributed)
+- Truncated final sentence (*"That one is"*) — @49,486 to end-of-file; the upload cuts mid-sentence
 
 ### REVELATION CLASS — series JD does not attend
 
@@ -624,4 +688,4 @@ Most findings survive a transcription error fine, because the substance does not
 
 ⚠️ **THIS RULE IS UNAFFECTED BY THE 260726-1 CAPTURE-POLICY INVERSION.** `[R]` being PRIMARY by policy settles which capture the corpus's *coordinates* resolve against. It settles nothing about verification. **Anything quoted at Rev. James is audio-checked before deployment regardless of which capture it came from**, and a `[R]`-sourced wording-critical finding is cleared only against his own audio.
 
-**Currently flagged:** none. ✅ **`IP-12` was CLEARED 260807-1** — swept against the `[S]` comparison capture of `A101-2026-06-14-P1`, outcome **AMENDED** (see Note 1a and `IP-12a`); quotable per the `[S]` wording. ⚠️ **The clearance covers the P1 verbatim block. The "loosey-goosey" element remains `[R]`-Part-2-sourced, OUT OF SCOPE for `[S]`, and subject to the general audio-verification rule like everything else quoted at him.** ⚠️ **The `RV` batch is `[S]`-sourced and is therefore not subject to this rule** — File 4 is already his channel audio.
+**Currently flagged:** none. ⭐ **260808-1: the `A101-2026-07-19` intake produced NO freeze — findings `IP-13`…`IP-23` were born dual-verified (Branch A; every Step 2 outcome CONFIRMED or AMENDED, none NOT FOUND; Note 2b), so nothing entered this register.** ✅ **`IP-12` was CLEARED 260807-1** — swept against the `[S]` comparison capture of `A101-2026-06-14-P1`, outcome **AMENDED** (see Note 1a and `IP-12a`); quotable per the `[S]` wording. ⚠️ **The clearance covers the P1 verbatim block. The "loosey-goosey" element remains `[R]`-Part-2-sourced, OUT OF SCOPE for `[S]`, and subject to the general audio-verification rule like everything else quoted at him.** ⚠️ **The `RV` batch is `[S]`-sourced and is therefore not subject to this rule** — File 4 is already his channel audio.
