@@ -25,7 +25,20 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260811-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260812-1** (date-stamped, format yymmdd-iteration)
+
+⚠️⚠️ 260812-1: C12's CAPTURE-CODE VOCABULARY IS NO LONGER HARDCODED. The row
+parser read r'\[([RS?])\]' -- a second copy of the vocabulary defined in
+SRC_Manifest.md's '### Capture codes' table. The 260812-1 stream-only intake
+added [SW] and [SY]; under the old regex both rows would have parsed as
+nothing and A101-2026-06-28 would have disappeared from the session count
+with the check still printing OK. The vocabulary is now READ FROM THAT TABLE.
+⛔ The check was NOT widened to accept arbitrary bracketed tokens: an
+undefined code still does not parse, and registering a code now means adding
+it to the table, which is one act instead of two. Counts across the change:
+13 capture rows / 8 sessions before and after -- the two 06-28 placeholder
+rows were replaced one-for-one, so the headline figure is unchanged and that
+is reported rather than presented as evidence the change did nothing.
 
 ⚠️⚠️ 260811-1: C10 ARM (a)'s ENTRY-BLEED FIXED AT SOURCE — a defect that had been
 WORKED AROUND THREE TIMES IN THE CORPUS INSTEAD OF FIXED HERE. Arm (a) bounded a
@@ -832,6 +845,32 @@ if MAN_KEY:
         # and reported SEPARATELY rather than dropped: a row that vanishes from
         # a validator is the C1/C6 shape, and the point is to see them, not to
         # count them as sessions.
+        # ⚠️⚠️ CAPTURE-CODE VOCABULARY, FIXED AT SOURCE 260812-1. This parser
+        # used to hardcode r'\[([RS?])\]'. The registry's capture-code table and
+        # this regex were two copies of one fact kept in sync by hand, and the
+        # 260812-1 pass added two codes ([SW], [SY]) for the stream-only,
+        # dual-ASR shape. Under the old regex those rows parsed as ZERO capture
+        # rows: the session would have vanished from the count while the check
+        # reported clean -- the exact C1/C6 blindness shape this check's own
+        # coverage note names.
+        # ⛔ THE REGEX WAS NOT WIDENED TO A WILDCARD. Widening it to [A-Z]+ would
+        # make C12 count any bracketed token in a table cell as a capture and
+        # rebuild the CL-4 pollution defect from the other direction. Instead
+        # the vocabulary is READ FROM THE MANIFEST'S OWN '### Capture codes'
+        # TABLE, which is where it is defined and documented. A code that is not
+        # in that table is still not a capture code, and adding one to the table
+        # is now the single act that registers it.
+        codes = re.findall(r'^\|\s*\**`\[([A-Za-z?]{1,3})\]`\**\s*\|',
+                           manifest, re.M)
+        if not codes:
+            err("[C12] the '### Capture codes' table defines ZERO codes. The "
+                "session-registry parser derives its vocabulary from that "
+                "table; with it empty every capture row below parses as a "
+                "non-row and the registry silently reports as if it were "
+                "clean. Restore the table.")
+            codes = ['R', 'S', '?']
+        CAP_RE = re.compile(r'\[(' + '|'.join(sorted((re.escape(c) for c in set(codes)),
+                                                     key=len, reverse=True)) + r')\]')
         STANDALONE_HDR = re.compile(r'^#{2,4}.*STANDALONE', re.I)
         rows, standalone, session, parsed = [], [], None, 0
         in_standalone = False
@@ -847,8 +886,8 @@ if MAN_KEY:
             cells = [c.strip() for c in line.strip('|').split('|')]
             if len(cells) < 3 or cells[0].lower().startswith('session id'):
                 continue
-            cap = next((re.search(r'\[([RS?])\]', c).group(1)
-                        for c in cells if re.search(r'\[([RS?])\]', c)), None)
+            cap = next((CAP_RE.search(c).group(1)
+                        for c in cells if CAP_RE.search(c)), None)
             if cap is None:
                 continue                      # gap markers, notes, code tables
             name = re.sub(r'[`*]', '', cells[0]).strip()
