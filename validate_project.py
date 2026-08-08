@@ -25,7 +25,20 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260806-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260811-1** (date-stamped, format yymmdd-iteration)
+
+⚠️⚠️ 260811-1: C10 ARM (a)'s ENTRY-BLEED FIXED AT SOURCE — a defect that had been
+WORKED AROUND THREE TIMES IN THE CORPUS INSTEAD OF FIXED HERE. Arm (a) bounded a
+ledger entry at the next finding tag or a '## ' header; '^##\s' does not match
+'### ', so an entry immediately preceding a '### ' header ran its scan window on
+into the following block and inherited that block's vocabulary. Now '^#{2,}\s'.
+The three instances (BLOG-44 at 260729-1, IP-11 in this file's own comments,
+IP-39a at 260810-1) are enumerated at the change site. ⛔ NEITHER DATED WORKAROUND
+WAS REMOVED — 260729-1's heading promotion and 260810-1's §15 decline note both
+stand as record and are now belt-and-braces. ⚠️ THE FIX CHANGED NO WARNING: arm
+(a) owed nothing before and owes nothing after. What it changed is 42 entries'
+scan windows, IP-39a's by ~12 KB. The fix was NOT tuned to preserve that; the
+figures are reported as found. Diagnosis in the 260811-1 close-out.
 
 260806-1: 'POD' added to the C2 prefix loop, C10's lag loop, and C10 arm (a)'s two
 regexes (four sites, the 260729-1 'BLOG' pattern), with the POD batch (POD-1..16).
@@ -627,14 +640,34 @@ if DIST:
         # same reason as at C2: they use no '**PREFIX-N.**' ledger format.
         for m in re.finditer(r'^\*\*((?:DQ|IP|RV|LS|BLOG|POD)-\d+[a-z]?)\.\*\*', DIST, re.M):
             tag = m.group(1)
-            # Bound the entry at the next ledger tag OR the next '## ' section
-            # header, whichever comes first. Without the header bound the LAST
-            # entry in a ledger bleeds into the following sections and inherits
-            # their vocabulary — that bug made IP-11 look flagged when it wasn't.
+            # Bound the entry at the next ledger tag OR the next SECTION HEADER
+            # OF ANY DEPTH, whichever comes first. Without the header bound the
+            # LAST entry in a ledger bleeds into the following sections and
+            # inherits their vocabulary — that bug made IP-11 look flagged when
+            # it wasn't.
+            #
+            # ⚠️⚠️ ENTRY-BLEED FIXED AT SOURCE 260811-1. The header bound was
+            # '^##\s', which does NOT match '### ' (after '##' comes '#', not
+            # whitespace). An entry immediately preceding a '### ' header
+            # therefore ran its scan window on into the following block. THREE
+            # RECORDED INSTANCES, which is why this is fixed here rather than
+            # worked around a fourth time:
+            #   * BLOG-44 (260729-1) — bled into the batch-1 term-scan table;
+            #     worked around then by PROMOTING the following heading to '## '.
+            #   * IP-11    — recorded in the comment immediately above; the
+            #     original diagnosis, never fixed at source.
+            #   * IP-39a  (260810-1) — bled ~12 KB into the W44 handout block and
+            #     inherited 'common ground'; worked around by naming IP-39a in
+            #     §15's decline bullet so the `tag not in body15` test passed.
+            # '#{2,}' bounds '## ', '### ', '#### ' and deeper. ⛔ BOTH DATED
+            # WORKAROUNDS STAY IN PLACE as record (never-alter); they are now
+            # belt-and-braces, not load-bearing. ⚠️ A single '# ' H1 is still not
+            # a bound — deliberately out of this fix's scope; see the close-out's
+            # POD-16 observation.
             rest = DIST[m.end():]
             bounds = [x.start() for x in
                       [re.search(r'^\*\*(?:DQ|IP|RV|LS|BLOG|POD)-\d+[a-z]?\.\*\*', rest, re.M),
-                       re.search(r'^##\s', rest, re.M)] if x]
+                       re.search(r'^#{2,}\s', rest, re.M)] if x]
             entry = DIST[m.start(): m.end() + (min(bounds) if bounds else 3000)]
             if CREDIT.search(entry) and tag not in body15:
                 owed.append(tag)
