@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260813-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260814-1** (date-stamped, format yymmdd-iteration)
+
+**260814-1: ⭐⭐ `a305` REGISTERED AS FILE 10 — REVELATION SESSION XIII (`RV-S13`), THE FIRST 2026 SESSION ADDED SINCE THE ORIGINAL THREE. ⛔⛔ AND `a304` IS RECORDED AS A DUPLICATE, NOT AS A SOURCE.** `a305-Revelation-class-13.md` (**28,532 bytes**, `96d478a1…`, `[S]` PRIMARY, stream-only) registered as **File 10** with a body boundary established at **byte 103** (⚠️ **the header is 103 bytes, not the 84 the intake brief estimated** — measured, not assumed), one session row **`RV-S13`**, canonical alias, quirk register and speaker-attribution note. **Findings `RV-24`…`RV-32`** in `St_Francis_EMC_Distinctives.md`. ⛔⛔ **`a304-Revelation-class-11.md` IS NOT REGISTERED AS A SOURCE AND MINTS NO TAG:** it is a **re-supply of already-ingested `RV-S11`**, 99.984% identical to `a302` bytes 60,455-94,822, and **`RV-20`…`RV-23 (2026)` already source that material from `a302`** — logging it would double-log. **Its byte-identical twin `a304-Revelation-August-2026.md` is recorded with it** (both `2557682176029a6b…`, both 34,462 bytes — hash identity **verified this pass**). ⚠️⚠️ **AND THE 260812 TRIAGE'S SESSION NUMBERS ARE CORRECTED: `a304`/`a305` are Sessions XI and XIII, NOT XIII and XIV.** The filenames' "11"/"13" are **session numbers, not chapter numbers**; established from the `EXT-3` channel titles and agreeing with each file's own header. ⛔ **The triage report is therefore not authoritative on session numbers and must not be treated as such.** ⚠️ **Three open items recorded, none resolved:** the `RV-S11` class-date discrepancy (with the carry-over hypothesis), Session XII's absence from the channel, and **Session XIV as a known, unfetched source.** ⛔ **No date changed.** ⛔ **Sessions I-VIII untouched.**
 
 **260813-1: ⭐⭐⭐ THE 2025 REVELATION RUN IS REGISTERED AT LAST — FILES 8 AND 9, EIGHT SESSION ROWS, AND A THIRD INTAKE FORMAT. ⛔⛔ THE `Rev` BATCH HAD NO REGISTERED SOURCE OF ANY KIND FOR TWO MONTHS.** `Rev-1`…`Rev-11` were ingested as *"Batch 6"* on **2026-06-13**, roughly six weeks before this file existed, and were never retrofitted: **no file, no hash, no byte offsets, no URLs**, while 45+ other sources were registered here. **That batch is where the incense/altar argument lives** — §15 calls it *"the strongest internal lever in the corpus"* — so the corpus's single most load-bearing cluster was also its only **unverifiable** one. **Registered this pass:** `a104.md` (**File 8**, 98,944 bytes, `e73901a8`) and `a104-2.md` (**File 9**, 122,736 bytes, `46898345`), both `[S]`, both held outside the repo. ⛔⛔ **THE SESSION DISTRIBUTION IS NOT 4/4 AND `a104-2` IS NOT A CLEAN CONTINUATION:** the pair is a **mechanical two-way split of one transcript and the cut falls in the MIDDLE of session 4**, so File 8 holds S1-S3 plus the first piece of S4 and File 9 holds the rest of S4 plus S5-S8 — **9 blocks, 8 sessions.** Boundaries were derived from **session ENDS** (the *"Thank you all very much"* dismissal formula), not starts, because three sessions begin mid-word or mid-chit-chat. ✅ **The derivation was confirmed against §18's own June-2026 tag-mapping note, which was written without byte offsets: every located quotation fell in the session §18 predicted, with no exceptions.** ⭐ **A third intake format is minted — block-delimited ASR** — and the boundary-detection table amended, because the existing two rules both give the wrong answer here. ⛔ **ALL EIGHT RECORDING DATES ARE `⚠️ not established`; neither file contains a calendar date.** ⚠️ **One spoken *"AD 2026"* (File 8 @21,072) disagrees with the *"2025"* in JD's own filename label — it reads as illustrative (he is defining futurism), but it is RECORDED AS AN OPEN ANOMALY AND NOT RESOLVED.** ⭐⭐ **The quirk register's first entry is load-bearing: `Lateran` greps to ZERO across both files because the ASR renders it `"lad ladan one canon one"`** — a pass that grepped the clean spelling would have reported `Rev-2`'s citation as NOT FOUND when it is present and spoken. ⛔ **`Rev` is CLOSED and stays closed: nothing renumbered, nothing reopened, no finding added.**
 
@@ -190,6 +192,35 @@ Recorded so later greps do not fail silently and so nobody "corrects" a quote in
 ### ⚠️ Speaker-attribution warning — File 4
 
 The `>>` diarization markers are **sparse and unreliable**: 4 in Session IX, 22 in Session X, 41 in Session XI, against 95 KB of text. Long stretches of RJ's teaching carry no marker at all, and several parishioner questions are marked only on the reply. **Do not treat an unmarked span as attributed.** Every RV quote was read in context and attributed by content, not by marker. Parishioner speech is logged as such and given no tag, per §5 numbering rule 3.
+
+### ⛔⛔ DUPLICATE RE-SUPPLY OF SESSION XI — `a304`, TWO COPIES, NOT A SOURCE (recorded 260814-1)
+
+⛔⛔ **`a304-Revelation-class-11.md` IS NOT A SOURCE. IT IS NOT REGISTERED AS A FILE, IT GETS NO SESSION ROW, AND NO FINDING TAG MAY BE MINTED FROM IT.** It is a **re-supply of material already ingested as `RV-S11`.** This block exists so a later pass finds the decision rather than the file.
+
+| Field | Value |
+|---|---|
+| Filenames | **`a304-Revelation-class-11.md`** and **`a304-Revelation-August-2026.md`** — ⚠️ **two files, one content** |
+| SHA-256 (full, both) | `2557682176029a6b66a0093b79c14389b942999a08a6c7599da394dd0213a6d0` |
+| Size (both) | 34,462 bytes |
+| Relation to File 4 | **99.984% identical to `a302-Revelation-June-July-2026.md` bytes 60,455-94,822** — the exact registered `RV-S11` range |
+| The single difference | **one inserted `[laughter]` token** at `a302` offset **90,556** |
+| Session | **XI** — *Revelation Class, Session XI: The Two Beasts and the Mark (Ch 13)*, `EXT-3`, uploaded 2026-08-02, video `M71-SrYEoEQ` |
+| Disposition | ⛔ **DUPLICATE. Do not register, do not ingest, do not tag** |
+
+⭐⭐ **WHY IT MATTERS, STATED PLAINLY: `RV-20`…`RV-23 (2026)` ALREADY SOURCE THIS MATERIAL FROM `a302`.** Registering `a304` would **double-log the whole of Session XI** under fresh tags — the `IP-4` collision arriving by the door the *"session is the citation unit"* rule was written to close. ⚠️ **The hash check does not catch it:** `a304`'s hash is new, so a hash-keyed intake **passes it.** ⛔ **The ingestion test is the session, not the hash**, and `RV-S11` already has a row.
+
+⭐ **AND THE TWO `a304` FILES ARE BYTE-IDENTICAL TO EACH OTHER — verified this pass, not assumed.** ⚠️ **A future pass finding only `a304-Revelation-August-2026.md` must reach the same conclusion**: the month-named filename is JD's label, not a description of contents, and **it is Session XI, not "the August session."**
+
+> ⚠️⚠️ **AND THE SESSION NUMBERS THE 260812 TRIAGE GAVE FOR `a304`/`a305` ARE WRONG — CORRECTED HERE, 260814-1.** The triage called them **Sessions XIII and XIV.** They are **Sessions XI and XIII**, established from the `EXT-3` channel titles and agreeing with each file's own header line:
+>
+> | File | Channel title (authority) | Upload | Video ID |
+> |---|---|---|---|
+> | `a304` | *Revelation Class, Session XI: The Two Beasts and the Mark (Ch 13)* | 2026-08-02 | `M71-SrYEoEQ` |
+> | `a305` | *Revelation Class, Session XIII: The Last Plagues and the Song of Moses (Chapter 15)* | 2026-08-02 | `7yiQQdH_sEI` |
+>
+> ⛔⛔ **THE MECHANISM OF THE ERROR, RECORDED BECAUSE IT WILL RECUR: the filenames' "11" and "13" are SESSION numbers, and they happen to sit beside chapter numbers that also read 13 and 15.** `a304` is **Session XI on chapter 13**; `a305` is **Session XIII on chapter 15**. **Reading either digit as the other's kind is the whole error.**
+>
+> ⛔ **CONSEQUENCE: the 260812 triage report is NOT authoritative on session numbers and a future pass must not treat it as such.** ⚠️ **Its other findings are untouched by this correction** — this is a correction to one class of claim, not a discrediting of the pass.
 
 ---
 
@@ -616,14 +647,33 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 
 ### REVELATION CLASS — series JD does not attend
 
-*Findings prefix `RV`. Stream-only, so no dual-capture problem arises. Session numbers are Rev. James's own. Source file: **File 4** above.*
+*Findings prefix `RV`. Stream-only, so no dual-capture problem arises. Session numbers are Rev. James's own. Source files: **File 4** (Sessions IX-XI) and, from 260814-1, **File 10** (Session XIII).*
 
 | Session ID | Uploaded | Recorded | Covered | JD present | Capture | Role | File | Byte range | Findings |
 |---|---|---|---|---|---|---|---|---|---|
 | `RV-S09` | 2026-06-21 | 2026-06-21 | Revelation 11, second half | — no | `[S]` | **PRIMARY** | `a302-Revelation-June-July-2026.md` | 125-29,423 | **RV-1 … RV-10** |
 | `RV-S10` | 2026-06-30 | ⚠️ not established | Revelation 12 | — no | `[S]` | **PRIMARY** | ″ | 29,512-60,374 | **RV-11 … RV-19** |
 | `RV-S11` | 2026-06-30 | ⚠️ not established | Revelation 13 | — no | `[S]` | **PRIMARY** | ″ | 60,455-94,822 | **RV-20 … RV-23** |
+| ⭐ `RV-S13` | 2026-08-02 | ⚠️ **not established** | **Revelation 15** — the last plagues and the Song of Moses | — no | `[S]` | **PRIMARY** *(stream-only; no room capture exists)* | `a305-Revelation-class-13.md` *(**File 10**)* | 103-28,531 | **RV-24 … RV-32** |
 | ⬜ | | | *Sessions I-VIII precede the corpus and are not ingested* | — no | | | | | |
+| ⬜ | *Session XII* | | ⚠️ **ABSENT FROM THE CHANNEL — observed, cause unknown, ⛔ not reconstructed** | — no | | | | | |
+| ⬜ | *Session XIV* | 2026-08-07 | ⏳ **KNOWN AND NOT FETCHED** — *The Whore and the Beast (Ch 17-18)* | — no | | | | | |
+
+⛔⛔ **`RV-S13`'s CLASS DATE IS NOT ESTABLISHED, AND THE 2026-08-02 UPLOAD DATE IS NOT IT.** The `Uploaded` column is the channel's stamp and is the lookup key for finding the video; **it is not a recording date and must never be promoted into one.** ⚠️ **The file's own header reads `## Aug 3, 2026`, which is a MONDAY and POSTDATES the upload — see the internal-inconsistency note at File 10.** ⛔ **Three candidate dates are in play (the 08-02 upload, the 08-03 header, and the unknown Sunday the class was actually held) and NONE is adopted.**
+
+⭐ **THE SESSION SKIPS FROM XI TO XIII, AND THE ROW ORDER RECORDS THAT AS OBSERVED.** `RV-S12` **does not exist as a row** because no Session XII source exists to register. ⛔ **The gap is recorded, not explained** — see the three open items below.
+
+#### ⏳ THREE OPEN ITEMS ON THE 2026 RUN — RECORDED 260814-1, ⛔ NONE RESOLVED
+
+⛔⛔ **ALL THREE ARE RECORDED HERE SO THEY STOP DEPENDING ON PASS NOTES TO SURVIVE** (the `a303` precedent). ⛔ **This pass changed no date, fetched no video, and reconstructed nothing.**
+
+**(a) ⚠️⚠️ `RV-S11`'s CLASS DATE IS PROBABLY WRONG, AND THE LIKELIEST MECHANISM IS A CARRY-OVER.** The table gives `RV-S11` **uploaded 2026-06-30**. ⭐ **But the channel shows SESSION X at 2026-06-30 — matching `RV-S10` exactly — and shows Session XI at 2026-08-02.** ⚠️ **That pattern is what a value copied down one row looks like:** two adjacent rows carrying one date, where the channel gives the two sessions different ones. ⛔⛔ **AND IT IS NOT SETTLED BY THE CHANNEL EITHER, because the channel supplies an UPLOAD date and the cell that matters is the CLASS date** — and `RV-S10`/`RV-S11` both already read *"recording date not established."* ⛔ **BOTH READINGS STAND: (i) the 06-30 stamp on `RV-S11` is correct as an upload date and the channel grid is being misread; (ii) the 06-30 stamp was carried over from `RV-S10` and Session XI's real upload is 2026-08-02.** ⛔ **No figure is changed and neither reading is chosen.** ⚠️⚠️ **WHAT IT COSTS, STATED PLAINLY: `RV-20`…`RV-23 (2026)` are dated to a class date that may be wrong.** ⭐ **What it does NOT cost: their WARRANT.** Every one is anchored by byte offset in File 4, not by date, so **no finding moves on this** — the same structure that insulated the `Rev` batch from its own year anomaly. ⏳ **A watch-page check on `M71-SrYEoEQ` gives the authoritative upload stamp; JD's recollection gives the class date. Neither was run this pass.** *(This extends, and does not replace, the `PROJECT_STATE.md` §7 row recorded at 260813-1.)*
+
+**(b) ⛔ SESSION XII IS GENUINELY ABSENT FROM THE CHANNEL — OBSERVED, CAUSE UNKNOWN.** All **fourteen** Revelation videos on `EXT-3` were enumerated: **there is no Session XII, and no title naming Revelation 14 or Revelation 16.** ⛔⛔ **RECORDED AS AN OBSERVATION AND NOTHING MORE. Do not infer that the session did not happen, was not recorded, was deleted, or was skipped** — the `BLOG-101`/`BLOG-103` remnant discipline governs: **an absence from a feed is not evidence the item was never made.** ⛔ **Do not reconstruct its content from Sessions XI and XIII.** ⛔⛔ **AND DO NOT CONNECT IT TO THE OPENING LINE OF `a305`.** That session opens *"It actually is recording this time"* (@103) — ⚠️ **the speaker of that sentence is NOT ESTABLISHED** (it precedes the first `>>` marker by 69 bytes), **it names no session, and reading it as an explanation of Session XII's absence would be inventing a causal link out of an adjacency.** ⛔ **It is logged as a transcript fact and as nothing else.**
+
+**(c) ⭐ SESSION XIV EXISTS AND IS NOT HELD — recorded so it is not rediscovered.** ***Revelation Class, Session XIV: The Whore and the Beast (Ch 17-18)***, `EXT-3`, uploaded **2026-08-07**, video **`nGfY6_P5m5o`**, **35:33**. ⛔⛔ **NOT FETCHED, NOT PULLED, NOT INGESTED BY THIS PASS, AND NOT TO BE.** ⏳ **It is a KNOWN, UNFETCHED SOURCE** — the state the `A101-2026-06-14-P2` `[S]` row occupies, and it is recorded for the same reason: **an unrecorded known source is one that gets "discovered" again in three passes' time.**
+
+⭐ **THE RUN'S SHAPE, AS ESTABLISHED:** **I-XI, XIII, XIV** *(Session IV is split Pt 1/Pt 2 on the channel)*; **XII missing**; **I-VIII exist and are not transcribed.** ⛔ **Note 3 above is UNCHANGED by this pass: the 2026 Sessions I-VIII remain un-ingested and out of scope, and this pass did not touch them.**
 
 **Note 3.** Sessions I through VIII exist and are presumably on the channel. They are not ingested and are not findings-bearing. Rows are omitted rather than left blank because nothing in the corpus cites them; add rows if and when they are pulled. *(The 2025 Revelation class logged under the `Rev` prefix in `St_Francis_EMC_Distinctives.md` §18 is a different, earlier run of the class and is not covered by these rows.)*
 
@@ -717,6 +767,73 @@ The `>>` diarization markers are **present but sparse and unreliable**, exactly 
 - **`"deny uh the deity of Christ"`** — File 8 @85,576 (`Rev-4`): an ASR filler **inside** a quoted span, which is why the corpus's rendering of it is logged as an amendment rather than a match
 - **`"We we have both"`** and **`"Uh and that's how it is for us"`** — File 9 @47,312 (`Rev-9`): stutter and disfluency **inside the incense/altar quotation**; the corpus's clean rendering is logged as `Rev-9a`
 - **`"makest"` / `"made this glad"` / `"makes us glad"`** — three different ASR renderings of the **same** collect opening (*"O God, who makest us glad with the weekly remembrance…"*) across S2, S3 and S6. ⚠️ **The collect is a fixed liturgical text; the variation is entirely transcription noise and must not be read as three different prayers**
+
+### ⭐⭐ File 10 — `a305`, Revelation Session XIII (registered 260814-1)
+
+*Continues the File numbering from File 9. ⚠️ **This is a 2026-run source and belongs to the `RV` series, not to the 2025 `Rev` batch above** — it is placed here because File numbers are sequential, not because it is grouped with Files 8-9.*
+
+| File | Filename (as delivered) | SHA-256 (full) | Bytes | Lines | Videos | Session contained |
+|---|---|---|---|---|---|---|
+| **File 10** | `a305-Revelation-class-13.md` | `96d478a199568fc1b2ddb27610b61320c040411acf3c63a4ba039fba485efb05` | 28,532 | 5 | 1 | **Session XIII only** |
+
+**Capture: `[S]` — Rev. James's channel audio. ⛔⛔ STREAM-ONLY. NO ROOM CAPTURE EXISTS AND NONE IS EXPECTED: JD does not attend this class.** ⛔ **Do not read the absence of an `[R]` row as an un-ingested capture** — the `A101-2026-06-28` distinction applies with the opposite cause (there, JD attended and did not record; here, he is not in the building at all).
+
+✅ **HASH, SIZE AND LINE COUNT COMPUTED FROM THE FILE THIS PASS, NOT COPIED.** **No collision with any previously registered hash; the file had never been ingested.** ⚠️ **First-time registration, the `W19` warrant class — internal consistency only.**
+
+⭐⭐ **THE BODY BOUNDARY, ESTABLISHED RATHER THAN ASSUMED — AND THE INTAKE BRIEF'S FIGURE WAS WRONG.** The brief described *"an 84-byte header JD prepended."* **Measured, the header is 103 bytes.** It is **four lines**, not one:
+
+| Bytes | Content |
+|---|---|
+| 0-85 | `# Revelation Class, Session XIII: The Last Plagues and the Song of Moses (Chapter 15)` + newline |
+| 86 | blank line |
+| 87-101 | `## Aug 3, 2026` + newline |
+| 102 | blank line |
+| **103-28,531** | ⭐ **BODY — 28,429 bytes, one continuous line, no trailing newline** |
+
+⭐ **BODY DIGEST:** `sha256(body.strip())` = **`d27ebea8e8de275cc3d098aa926fb8a2b9bb5f9e59a66fe116fad18fed26ca4a`**. ⚠️ **The body has no leading or trailing whitespace, so the stripped and unstripped body digests are identical** — recorded explicitly because Files 8-9 are the opposite case and a later pass comparing the wrong value would report a false mismatch.
+
+⛔⛔ **ALL `RV` BYTE OFFSETS FOR THIS SESSION ARE ABSOLUTE AGAINST THE WHOLE FILE AS IT STANDS, HEADER INCLUDED** — the File 4 precedent. **The body starting at 103 means every logged offset is 103 higher than an offset measured against the body alone.** ⚠️ **If JD ever strips the header, every offset in `RV-24`…`RV-32` shifts by 103. Recorded here so that shift is recognised rather than read as corruption.**
+
+**Format: structured markdown, the File 4 recognition class** — `#`/`##` header lines over a long-line ASR body, sparse `>>` diarization. ⚠️ **But unlike File 4 it carries ONE video, not three:** the header is a title-and-date block, **not** an internal session delimiter. ⛔ **Do not apply File 4's per-video splitting to it.** **ASCII throughout; zero non-ASCII bytes** (verified).
+
+⚠️⚠️ **AN INTERNAL INCONSISTENCY IN THE HEADER ITSELF — RECORDED, NOT RESOLVED.** The header reads **`## Aug 3, 2026`**, a **Monday**. The channel gives the upload as **2026-08-02**, a **Sunday**. ⛔⛔ **A class cannot be uploaded the day before it is held, so the header date and the upload date cannot both be right, and the header date cannot be the class date if the upload date is.** ⛔ **Neither is adopted as the class date and neither figure is changed.** ⚠️ **The header is JD's own prepended label, and a label is not a source** (the `a104` *"2025"* precedent, 260813-1). ⏳ **One glance at the video's watch page closes it.**
+
+#### Canonical alias — File 10
+
+| Canonical alias | File | Byte range | Role |
+|---|---|---|---|
+| RV-Session-XIII | `a305-Revelation-class-13.md` | 103-28,531 | Revelation 15 — the last plagues and the Song of Moses |
+
+⛔⛔ **HELD OUTSIDE THE REPO**, in `…/EMC-Anglican/original transcripts/video transcripts/`, on the same footing as Files 8-9 and every `BLOG`, `POD` and `A101` stream source (`PROJECT_STATE.md` §0). ⚠️ **Therefore NOT reachable by check C6 — a deliberate scope boundary, not a coverage gap** (the 260813-1 diagnosis, unchanged).
+
+#### ⚠️ Speaker-attribution note — File 10
+
+**Fifteen `>>` markers across 28.4 KB, and they fall in exactly two clusters:** one at the opening versicle (@172), one at a parishioner exchange (@21,502-@22,271), and one at the close (@25,417-@25,472, @28,519). ⛔⛔ **THE ENTIRE TEACHING BODY FROM @174 TO @21,502 CARRIES NO MARKER AT ALL** — a ~21 KB unmarked span. ⛔ **Do not treat an unmarked span as attributed by marker.** Every quotation logged this pass was **read in context and attributed by content.**
+
+⭐⭐ **THE ONE ATTRIBUTION CHECK RECORDED IN FULL, BECAUSE THE MATERIAL IT PROTECTS IS THE SESSION'S MOST VALUABLE.** At **@21,898** a turn begins *"Those vestments are there to protect you as a person from us as a congregation…"* and runs to @22,271. ⛔⛔ **THAT TURN IS AN ATTENDEE'S, NOT REV. JAMES'S, AND IT READS EXACTLY LIKE HIS.** It is first-person-plural, theologically fluent, and about vestments — the session's own subject. ✅ **It is settled by two independent facts, not by the marker alone:** the turn is **addressed to the vested man** (*"protect **you** as a person"*, *"when **you** wear those vestments"*), and the **next turn opens *"So if I could reformulate that I think you're on to something here"*** (@22,273) — a reformulation is not something a speaker performs on himself. ⛔⛔ **HAD THIS BEEN READ AS RJ'S, THE CORPUS WOULD HOLD A PARISHIONER'S "CHRIST INSULATING YOU FROM US" ACCOUNT OF VESTMENTS AS THE RECTOR'S OWN THEOLOGY OF THE PRIESTHOOD.** ⛔ **No attendee is named** (`GV-31` / Ruling C), and **no attendee sentence is tagged** (§5 rule 3).
+
+⭐ **AND THE POSITIVE ATTRIBUTION IS RECORDED TOO, RATHER THAN ASSUMED FROM THE FILENAME.** The unmarked teaching voice is established as the celebrant and rector by content: he reads the chapter and teaches it throughout; he is **vested at the time** (*"the al right here is the white"* @17,610, and the attendee's *"the vestments that you're wearing"* @21,570 confirms it externally); he speaks as the one who **faces the altar and preaches from the pulpit** in that building (@23,980-@24,250); and he narrates his own move from evangelicalism to Anglicanism (@22,600-@23,100). ⚠️ **This is the same content-based method used for `RV-1`…`RV-23`, stated here rather than inherited silently.**
+
+#### ASR quirks — File 10, preserved as transcribed (added 260814-1)
+
+*Recorded so later greps do not fail silently and so nobody "corrects" a quote in place. Precedent: `"regular principle"` at IP-12; `"lad ladan"` at `Rev-2a`. **Offsets measured with `grep -ob` this pass, not copied.***
+
+- ⭐⭐ **`"lurggical"`** for ***liturgical*** — **six occurrences: @990, @17,372, @19,889, @24,603, @26,452, @26,683.** ⛔⛔ **THIS ONE IS LOAD-BEARING AND IT IS THE `Lateran` SHAPE EXACTLY. A grep for `liturgical` returns ZERO across this file.** ⚠️ **`liturgy` DOES appear normally** (@18,339, @22,205, @22,237, @23,421, @23,614, @23,664), **so a scan on `liturg` succeeds and a scan on `liturgical` fails** — and the six `lurggical` hits include **every one of the session's heavenly-liturgy framings.** ⛔ **A pass that greps `liturgical` and stops would report the strongest §13-adjacent material in the session as absent.**
+- ⭐ **`"esquetology"`** for ***eschatology*** — @4,971, @26,993. ⛔ **`eschatolog` greps to ZERO.**
+- ⭐ **`"bold judgments"`** for ***bowl judgments*** — @26,709, inside the session's closing summary of Revelation 15. ⚠️ **`bowl` appears elsewhere in the session normally; this single instance is mangled.**
+- **`"cassic"` / `"cassich"`** for ***cassock*** — @17,588, @17,879, @18,055. ⛔ **`cassock` greps to ZERO.**
+- ⚠️ **`"al"` / `"owl"` / `"Alb"`** for ***alb*** — @17,621 and @17,610 (*"underneath the al. So, the al right here is the white"*), @17,946 (*"the white owl"*), @18,081 (*"the white Alb"*). ⛔⛔ **THREE RENDERINGS OF ONE GARMENT INSIDE 500 BYTES, two of them ordinary English words.** ⛔ **A grep for `alb` as a lowercase word returns zero; `Alb` returns one.** ⚠️⚠️ **AND `owl` IS A TRAP IN BOTH DIRECTIONS: it also occurs at @18,975 and @19,714 as a SUBSTRING OF `bowls`** (the seven golden bowls). ⛔ **Only @17,946 is the garment. A bare `owl` scan returns three hits and two of them are not the quirk.**
+- **`"Ebianites"` / `"Epianites"` / `"Aionites"`** for ***Ebionites*** — @11,138, @11,905, @12,194, @14,626. ⛔ **`Ebionite` greps to ZERO.**
+- **`"Marcianites"` / `"Marcian"`** for ***Marcionites / Marcion*** — @11,242, @12,129, @12,153, @12,255, @12,547, @14,642. ⛔ **`Marcion` greps to ZERO.**
+- **`"sheakina"`** for ***Shekinah*** — @15,974
+- **`"theophanes"`** for ***theophanies*** — @25,842
+- **`"Si"`** for ***Sinai*** — @25,829, in *"This image recalls Si and other theophanes."* ⚠️ **He says *Sinai* correctly 230 bytes earlier (@25,597); only the second instance is truncated.**
+- **`"a millill"`** for ***amillennial*** — @4,995, inside *"premill, a millill and postmill."* ⚠️ **`amill` greps to zero; `premill` and `postmill` both resolve.**
+- ⚠️ **`"post-millennial"` is HYPHENATED** — @5,747. ⛔ **`postmillennial` as one word greps to ZERO in this file**, against the corpus's usual unhyphenated form.
+- **`"product"`** for ***prophet*** — @12,098, in the Ebionite Christology (*"He is a man, a great product"*). ⚠️ **He says *prophet* correctly in the immediately preceding sentence; the ASR mangles the repetition only.**
+- **`"anglopileness"`** for ***anglophile-ness*** — @8,613, his own coinage in an aside about English spelling
+- **`"Israeli descent"`** for ***Israelite descent*** — @7,184
+- ⚠️ **Non-speech tokens present:** `[clears throat]` @4,324 and @23,843; `[snorts]` @19,654 and @26,042. ⛔ **`[laughter]` does NOT occur in this file** — recorded because a `[laughter]` token is the single differing byte-run between `a304` and `a302`, and a later pass must not read the two facts together as related.
 
 ### STANDALONE RECORDINGS — not part of any series
 
