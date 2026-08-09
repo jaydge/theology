@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260812-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260813-1** (date-stamped, format yymmdd-iteration)
+
+**260813-1: ⭐⭐⭐ THE 2025 REVELATION RUN IS REGISTERED AT LAST — FILES 8 AND 9, EIGHT SESSION ROWS, AND A THIRD INTAKE FORMAT. ⛔⛔ THE `Rev` BATCH HAD NO REGISTERED SOURCE OF ANY KIND FOR TWO MONTHS.** `Rev-1`…`Rev-11` were ingested as *"Batch 6"* on **2026-06-13**, roughly six weeks before this file existed, and were never retrofitted: **no file, no hash, no byte offsets, no URLs**, while 45+ other sources were registered here. **That batch is where the incense/altar argument lives** — §15 calls it *"the strongest internal lever in the corpus"* — so the corpus's single most load-bearing cluster was also its only **unverifiable** one. **Registered this pass:** `a104.md` (**File 8**, 98,944 bytes, `e73901a8`) and `a104-2.md` (**File 9**, 122,736 bytes, `46898345`), both `[S]`, both held outside the repo. ⛔⛔ **THE SESSION DISTRIBUTION IS NOT 4/4 AND `a104-2` IS NOT A CLEAN CONTINUATION:** the pair is a **mechanical two-way split of one transcript and the cut falls in the MIDDLE of session 4**, so File 8 holds S1-S3 plus the first piece of S4 and File 9 holds the rest of S4 plus S5-S8 — **9 blocks, 8 sessions.** Boundaries were derived from **session ENDS** (the *"Thank you all very much"* dismissal formula), not starts, because three sessions begin mid-word or mid-chit-chat. ✅ **The derivation was confirmed against §18's own June-2026 tag-mapping note, which was written without byte offsets: every located quotation fell in the session §18 predicted, with no exceptions.** ⭐ **A third intake format is minted — block-delimited ASR** — and the boundary-detection table amended, because the existing two rules both give the wrong answer here. ⛔ **ALL EIGHT RECORDING DATES ARE `⚠️ not established`; neither file contains a calendar date.** ⚠️ **One spoken *"AD 2026"* (File 8 @21,072) disagrees with the *"2025"* in JD's own filename label — it reads as illustrative (he is defining futurism), but it is RECORDED AS AN OPEN ANOMALY AND NOT RESOLVED.** ⭐⭐ **The quirk register's first entry is load-bearing: `Lateran` greps to ZERO across both files because the ASR renders it `"lad ladan one canon one"`** — a pass that grepped the clean spelling would have reported `Rev-2`'s citation as NOT FOUND when it is present and spoken. ⛔ **`Rev` is CLOSED and stays closed: nothing renumbered, nothing reopened, no finding added.**
 
 **260812-1: `A101-2026-06-28` INGESTED — ⭐⭐ A NEW REGISTRY SHAPE, NAMED: THE **STREAM-ONLY, DUAL-ASR** SESSION. ⛔⛔ NO ROOM CAPTURE EXISTS FOR THIS SESSION AND NONE EVER WILL — JD SEARCHED HIS RECORDER APP AND FILES AND CONFIRMED HE DID NOT RECORD THE ROOM ON 2026-06-28. TWO NEW CAPTURE CODES MINTED (`[SW]`, `[SY]`); FINDINGS `IP-40`…`IP-44`; NOTHING PROMOTED, NOTHING SUPERSEDED, NO FREEZE.** The 06-28 session (the upload titles it **"Anglican Class, Session II: History"**) is ingested from **two independent ASR transcriptions of the SAME broadcast audio**: **`[SW]`** `St Francis Anglican, Spartanburg is live!.mp3.txt` (44,434 bytes; `sha256` `42014d78…`) — **JD's own Whisper transcription, PRIMARY on JD's attested quality judgment** — and **`[SY]`** `A101-20260628-official-video.md` (45,268 bytes; `f5fd706a…`) — **YouTube auto-captions pulled via a Chrome extension, COMPARISON.** Both held OUTSIDE the repo in JD's archive. ⛔⛔ **NEITHER FILE IS CODED `[R]`, AND THE REASON IS RECORDED SO IT IS NOT RE-DERIVED: `[R]` MEANS ROOM CAPTURE AND ASSERTING IT HERE WOULD BE FALSE.** Seven tests in the prior pass — identical mid-sentence truncation and an inverted room/lectern signature among them — established that the candidate file is not a room capture; JD's search settled it. **Both files are stream-class.** ⚠️⚠️ **THE WARRANT THIS PAIR CARRIES IS WEAKER THAN `[R]`-vs-`[S]` AND THE DIFFERENCE IS LOAD-BEARING (Note 2d, and it travels with every finding in this session): where the two agree, wording is confirmed AGAINST TRANSCRIPTION ERROR — that and nothing more. ⛔⛔ IT CANNOT CATCH ANYTHING THE STREAM ITSELF OMITTED, CUT OR NEVER CAPTURED, because both files derive from ONE broadcast. At 07-19 and 07-26 the `[R]`-vs-`[S]` pair caught stream omission; here nothing can. A finding from this session is "verified against ASR error," NEVER "verified against the room."** ⛔⛔ **THE SESSION END IS LOST FROM THE RECORD ENTIRELY.** Both files cut mid-sentence at the same point (*"…within the formularies. There are sections"*) — **the SOURCE is truncated, so whatever followed is gone: this is a genuine corpus gap, not `[R]`-only material and not `⬜ OUT OF SCOPE`.** ⚠️ **What it costs, stated: there is NO post-session Q&A for this session at all**, where 07-26's room capture carried roughly 30 KB of it. ⚠️ **The coverage cell is corrected 260812-1** from *"General introductory material"* to the session's actual content (the stream's own title plus the Reformation before-and-after, the English Reformation, the Elizabethan Settlement and a formularies overview), **and Note 2's standing "lower value" remark is corrected with it** — the content does not bear it out. **Quirk registers added for BOTH files under Note 2d, including the *categories/countries* divergence.** ⛔ **BRANCH A's comparison logic is followed in substance, but this is NOT Branch A: Branch A presupposes a room capture. The shape is registered under its own name.**
 
@@ -66,8 +68,30 @@ The section above was written when every uploaded source was raw single-stream A
 |---|---|---|
 | **Raw ASR** (Files 1-3) | Single-sentence lines, zero blank lines, no headers, filename of the form `Audio_MM_DD_YYYY_HH_MM_SS_mp3.txt` | One file = one recording. Byte range is the whole file |
 | **Structured markdown** (File 4 onward) | `##` / `###` header lines, long-line ASR bodies | **Boundaries are explicit. Read them; do not infer.** Record per-video byte ranges |
+| ⭐ **Block-delimited ASR** (Files 8-9; minted 260813-1) | ⚠️ **A plain-text title line that is NOT a markdown header** (no `#`), then blank-line-separated **paragraph blocks each opening with a literal `==`**, long-line ASR bodies | **One `==` block = one recording SEGMENT, not necessarily one session.** ⛔⛔ **A block boundary and a session boundary are DIFFERENT THINGS here and must be established separately** — see the rule below |
 
 **The rule:** check for `##` / `###` headers *first*, on every new upload. Only fall back to the marker sweep above when there are none.
+
+### ⭐⭐ AMENDMENT 260813-1 — A THIRD FORMAT, AND THE ONE THAT BREAKS "ONE BLOCK = ONE SESSION"
+
+**Files 8 and 9 (`a104.md` / `a104-2.md`, the 2025 Revelation run) are the flagged case for the format row added above.** They carry **no `##`/`###` headers at all**, so the 260725-4 rule falls through to the marker sweep — and unlike Files 1-3 the sweep **does** find markers: blank lines and a line-initial `==` on every body block.
+
+⛔⛔ **THE TRAP, STATED FIRST BECAUSE IT IS THE WHOLE REASON THIS AMENDMENT EXISTS.** The two filenames (`a104` / `a104-2`) and the two title lines (*"chunk 1 of 2"* / *"chunk 2 of 2"*) both invite the reading **"file 1 holds the first half of the sessions, file 2 holds the second half."** ⛔ **That reading is WRONG.** The pair is a **mechanical two-way split of ONE continuous transcript**, and **the cut lands in the MIDDLE of session 4**, not on a session boundary. `a104.md` holds 4 blocks and `a104-2.md` holds 5, but there are **8 sessions, not 9** — because the last block of the first file and the first block of the second file are **one session in two pieces**.
+
+**The join, verified byte-exact rather than assumed:**
+
+| Side | Bytes | Text |
+|---|---|---|
+| `a104.md` end | …98,942 | *"…which represents still being committed"* |
+| `a104-2.md` start | 48… | *"to the old covenant as a way to be saved…"* |
+
+**Joined:** *"…still being committed to the old covenant as a way to be saved…"* — a clean mid-sentence continuation. ⚠️ **The split consumed the space between "committed" and "to"**; a naive concatenation of the two byte ranges produces `committedto`. **Recorded so a later pass that re-joins them does not read the missing space as corruption.**
+
+⭐ **THE BOUNDARY RULE THAT ACTUALLY DECIDED IT — session ends, not session starts.** Block *starts* are unreliable in this pair: two of the eight sessions begin mid-word because the recording started late (`S4`: *"So, similar issue as last week…"*; `S7`: *"hand out. …"*), and one begins with pre-class chit-chat before the collect (`S5`: *"That's a tree in case you can't tell…"*). **Session ENDS are reliable and uniform:** every completed session closes on the dismissal formula ***"Thank you all very much"*** (S3 additionally on *"you all are dismissed"*; S8 on *"See you at Holy Communion"*). ⛔ **A block that does NOT end on the dismissal formula is an unfinished session and continues into the next block** — which is exactly and only `a104.md`'s fourth block.
+
+✅ **INDEPENDENTLY CONFIRMED, NOT MERELY SELF-CONSISTENT.** The nine session ranges derived by this method were checked against **§18's own tag-mapping note**, which was written in June 2026 with no byte offsets and no access to this analysis. §18 states `Rev-9` = the Rev 8 passage **taught in session 6**, `Rev-10` = the Rev 5 passage **taught in session 4**, and `Rev-11` = the heavenly-participation principle **stated across sessions 3-5**. **Every located quotation fell inside the predicted session, with no exceptions** (`Rev-9` cluster → S6; `Rev-10` → S4; `Rev-11` Sanctus → S3, Rev 5 → S4, Rev 7 → S5). ⭐ **Two independent derivations agreeing is warrant; one derivation checked against itself is not.**
+
+⚠️ **The eight sessions are CONSECUTIVE WEEKLY sessions**, established from internal relative markers (*"similar issue as last week"*, *"remember that passage from last week"*, *"next week we'll be super excited"*, *"then the next week we will do chapter 11"*). ⛔ **This establishes ORDER and SPACING. It establishes no DATE** — see the dating note in the session table below.
 
 ## File 1
 
@@ -602,6 +626,97 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 | ⬜ | | | *Sessions I-VIII precede the corpus and are not ingested* | — no | | | | | |
 
 **Note 3.** Sessions I through VIII exist and are presumably on the channel. They are not ingested and are not findings-bearing. Rows are omitted rather than left blank because nothing in the corpus cites them; add rows if and when they are pulled. *(The 2025 Revelation class logged under the `Rev` prefix in `St_Francis_EMC_Distinctives.md` §18 is a different, earlier run of the class and is not covered by these rows.)*
+
+> ⚠️⚠️ **NOTE 3 IS UNCHANGED BY THE 260813-1 RETRO-REGISTRATION, AND THE REASON MATTERS.** The eight rows added below are the **2025 run** (`Rev`). Note 3's *"Sessions I through VIII"* are the **2026 run's** sessions I-VIII, which remain **un-ingested and out of scope**. ⛔ **These are two different sets of eight sessions and they are not the same eight.** The 2026 I-VIII are still not pulled, still not findings-bearing, and this pass did not touch them.
+
+### ⭐⭐⭐ REVELATION CLASS, 2025 RUN — the closed `Rev` batch, RETRO-REGISTERED 260813-1
+
+*Findings prefix `Rev`. Stream-only, so no dual-capture problem arises. Source files: **File 8** and **File 9** below.*
+
+⛔⛔ **WHAT THIS BLOCK IS, STATED BEFORE ANYTHING ELSE.** `Rev-1`…`Rev-11` were ingested as *"Batch 6"* on **2026-06-13** — roughly six weeks **before this manifest existed** — and were never retrofitted. Until this pass they carried **no registered source: no file, no hash, no byte offsets, no URLs.** Forty-five-plus sources were registered here and **not one of them was the 2025 Revelation run**, which is where the strongest incense material in the corpus lives.
+
+⛔⛔ **THIS PASS GIVES AN EXISTING CLOSED BATCH THE PROVENANCE IT NEVER HAD. IT DOES NOTHING ELSE.** ⛔ **`Rev` is CLOSED. Nothing here renumbers it, reopens it, or adds a finding to it.** The only new tags this pass may mint are **amendments carrying a parent number and a letter suffix** (§5 rule 2), and only where a quotation was found to differ from the source. **No `Rev-12` exists and none may be created.**
+
+| Session ID | Uploaded | Recorded | Covered | JD present | Capture | Role | File | Byte range | Findings sourced |
+|---|---|---|---|---|---|---|---|---|---|
+| `Rev2025-S1` | — not established | ⚠️ **not established** | Intro; the three millennial views and the four timeline approaches | — no | `[S]` | **PRIMARY** | `a104.md` | 47-31,850 | **Rev-1** *(and the anti-dispensationalism material)* |
+| `Rev2025-S2` | — not established | ⚠️ **not established** | Revelation 1-3: the Son-of-Man vision and the seven churches | — no | `[S]` | **PRIMARY** | ″ | 31,852-59,103 | **Rev-2** |
+| `Rev2025-S3` | — not established | ⚠️ **not established** | Revelation 4: the heavenly throne-room worship | — no | `[S]` | **PRIMARY** | ″ | 59,105-82,607 | **Rev-3**; ⭐ **Rev-11** *(Sanctus → Sursum Corda)* |
+| `Rev2025-S4` | — not established | ⚠️ **not established** | Revelation 5 and the start of 6: the Lamb and the seals | — no | `[S]` | **PRIMARY** | ⚠️ **`a104.md` + `a104-2.md`** *(one session, SPLIT ACROSS BOTH FILES)* | ⚠️ **`a104.md` 82,609-98,942 + `a104-2.md` 48-9,856** | **Rev-4**; ⭐⭐ **Rev-10** *(bowls of incense)*; **Rev-11** *(part)* |
+| `Rev2025-S5` | — not established | ⚠️ **not established** | Revelation 7: the 144,000 and the great multitude | — no | `[S]` | **PRIMARY** | `a104-2.md` | 9,858-40,497 | **Rev-5**; **Rev-11** *(part)* |
+| `Rev2025-S6` | — not established | ⚠️ **not established** | Revelation 8: the seventh seal and the first four trumpets | — no | `[S]` | **PRIMARY** | ″ | 40,499-67,573 | **Rev-6**; ⭐⭐⭐ **Rev-9** *(the altar/censer passage — the strongest internal lever in the corpus)* |
+| `Rev2025-S7` | — not established | ⚠️ **not established** | Revelation 9: the fifth and sixth trumpets and the binding of Satan | — no | `[S]` | **PRIMARY** | ″ | 67,575-94,304 | **Rev-7** |
+| `Rev2025-S8` | — not established | ⚠️ **not established** | Revelation 10: the mighty angel and the eating of the scroll | — no | `[S]` | **PRIMARY** | ″ | 94,306-122,733 | **Rev-8** |
+
+⛔⛔ **EVERY RECORDING DATE IS "NOT ESTABLISHED", AND THAT IS A FINDING RATHER THAN AN OMISSION.** **Neither file contains a single calendar date, month name, or upload stamp.** The only year-strings in either file are (a) the **title lines JD wrote** (*"St Francis Revelation Class 2025 chunk 1 of 2"*) — **JD's own file label, not Rev. James's speech, and a label is not a source** — and (b) one spoken *"AD 2026"*, treated immediately below. ⛔ **No date is inferred for any of the eight rows.** The `Uploaded` column is *"— not established"* rather than blank because **the videos were not locatable on either channel at the 260812 triage**, so there is no upload stamp to record; ⛔ **this is a searched absence, not an unchecked cell.**
+
+> ⚠️⚠️ **AN OBSERVED ANOMALY IN THE FILE'S OWN YEAR LABEL — RECORDED, NOT RESOLVED (260813-1).** At **`a104.md` @21,072**, inside Session 1, Rev. James says: *"So, I'm here in AD 2026. Almost all of Revelation is uh future for me."*
+>
+> ⭐ **READ IN CONTEXT IT IS ILLUSTRATIVE, NOT AUTOBIOGRAPHICAL.** He is defining **futurism** as one of the four timeline approaches and naming the present year to occupy a futurist's vantage point — the next sentence is *"That's the approach."* **It is not a statement about when the class was recorded.**
+>
+> ⛔⛔ **BUT IT IS STILL THE ONLY SPOKEN YEAR IN EITHER FILE, AND IT DISAGREES WITH THE "2025" IN THE FILENAME LABEL.** Three readings are live and **none is chosen here:** (i) he named the then-current year and the recording really is 2026; (ii) he misspoke or spoke a round hypothetical year; (iii) ASR error. ⛔ **Do not resolve this by inference.** ⚠️ **It bears on the `Rev`/`RV` two-run picture and therefore on the year-citation convention** (`PROJECT_STATE.md` §5 rule 12), **but it does not by itself move any finding**: every `Rev` finding's warrant is a located quotation in a registered file, and that warrant is unaffected by which year the class was taught. ⏳ **Logged as an open item. One glance at the channel's video list, or JD's own recollection, closes it.**
+
+⚠️ **All byte ranges above are BODY ranges** — they start at the `==` marker of a block and end at its final character, exclusive of the trailing newline. ⛔ **All byte offsets recorded for `Rev` findings this pass are ABSOLUTE against the named file**, not against a per-session split, on the File 4 precedent.
+
+#### Canonical aliases — 2025 Revelation corpus
+
+| Canonical alias | File | Byte range | Role |
+|---|---|---|---|
+| Rev2025-Session-1 | `a104.md` | 47-31,850 | Intro; millennial views and timeline approaches |
+| Rev2025-Session-2 | `a104.md` | 31,852-59,103 | Revelation 1-3 |
+| Rev2025-Session-3 | `a104.md` | 59,105-82,607 | Revelation 4 |
+| Rev2025-Session-4 · Part 1 | `a104.md` | 82,609-98,942 | Revelation 5-6, first piece |
+| Rev2025-Session-4 · Part 2 | `a104-2.md` | 48-9,856 | Revelation 5-6, continuation ⚠️ **same session as Part 1** |
+| Rev2025-Session-5 | `a104-2.md` | 9,858-40,497 | Revelation 7 |
+| Rev2025-Session-6 | `a104-2.md` | 40,499-67,573 | Revelation 8 |
+| Rev2025-Session-7 | `a104-2.md` | 67,575-94,304 | Revelation 9 |
+| Rev2025-Session-8 | `a104-2.md` | 94,306-122,733 | Revelation 10 |
+
+⚠️ **The `Part 1` / `Part 2` alias shape is borrowed deliberately from the `IP-Session-2026-06-14` precedent above**, which solved the same problem — one event, two files — **without renaming anything on disk and without shifting a single existing offset.**
+
+### ⭐⭐ Files 8 and 9 — the 2025 Revelation run sources (registered 260813-1)
+
+*The eight rows above are the `Rev` session rows. These continue the File numbering from File 7.*
+
+| File | Filename (as delivered) | SHA-256 (full) | Bytes | Lines | `==` blocks | Sessions contained |
+|---|---|---|---|---|---|---|
+| **File 8** | `a104.md` | `e73901a8878b694da3049f9d6e0cd61772c56e549b01be8bb92c5e9d6bfe4e90` | 98,944 | 11 | 4 | **S1, S2, S3, and the FIRST PIECE of S4** |
+| **File 9** | `a104-2.md` | `468983452e408140481e2f30c21ed702db3a69b393e002436a4f88a5ce2c2d22` | 122,736 | 15 | 5 | ⚠️ **the SECOND PIECE of S4, then S5, S6, S7, S8** |
+
+⚠️ **HASHES ARE OF THE FILE AS DELIVERED (raw bytes), which is the value `sha256sum` returns and the value C6 would compare.** The `sha256(body.strip())` values requested at intake are recorded separately below, because the two differ and a later pass comparing the wrong one would report a false mismatch:
+
+| File | `sha256(body.strip())` | Stripped bytes |
+|---|---|---|
+| **File 8** | `42462436aa637060aa0c282b044b34e0b12bf466f62df49620e0aba993d919bb` | 98,942 |
+| **File 9** | `e0a679fb4b802a1ac5d8e0ab7872ad90a86d7f7b3f1ce0bb82b0febfdaf53e17` | 122,732 |
+
+✅ **BOTH HASHES WERE COMPUTED FROM THE SOURCE FILES ON 260813-1, NOT COPIED FROM ANY PRIOR DOCUMENT** — there was no prior document to copy from, which is the point of this pass. **Byte counts, line counts and block counts verified in the same run. No collision with any previously registered hash; neither file had ever been ingested.**
+
+⛔⛔ **FORMAT: block-delimited ASR, the third intake format — see the 260813-1 amendment to the boundary-detection section above before deriving any range from these files.** ⛔ **Do NOT apply the one-file-one-recording rule (Files 1-3) and do NOT apply the explicit-header rule (File 4).** Both are wrong here, and the second is wrong in the specific way that produces nine sessions instead of eight.
+
+⛔⛔ **HELD OUTSIDE THE REPO.** Both files live in `…/EMC-Anglican/original transcripts/video transcripts/`, **outside the repo root**, on the same footing as the `BLOG`, `POD` and `A101` stream sources (`PROJECT_STATE.md` §0). ⚠️ **They are therefore NOT reachable by check C6**, whose file set is derived from the §4 registry and scoped to `src/SRC_Discord_*.md`. **See the C6 diagnosis in the 260813-1 pass note — this is a deliberate scope boundary, not a coverage gap to be closed by widening C6.**
+
+#### ⚠️ Speaker-attribution note — Files 8 and 9
+
+The `>>` diarization markers are **present but sparse and unreliable**, exactly as in File 4. They cluster around parishioner questions and the opening versicles (*"The Lord be with you. >> With your spirit."*) and are **absent through long stretches of teaching**. ⛔ **Do not treat an unmarked span as attributed.** Every quotation verified this pass was **read in context and attributed by content, not by marker.**
+
+⭐ **ONE ATTRIBUTION CHECK IS RECORDED IN FULL BECAUSE IT NEARLY WENT THE OTHER WAY.** `Rev-11`'s *"our worldview should be first and foremost informed by our worship"* (`a104-2.md` @13,415) sits **immediately after a question addressed to the class** — *"What do you think a lesson is there that we could learn from that?"* — which is precisely the shape of a parishioner answering. ✅ **It is RJ.** There is **no `>>` marker between the question and the sentence**, and he continues without a turn break into *"So what do I mean by that?"* and then expands the point for a further 900 bytes. **He is answering his own rhetorical question.** ⚠️ **Had a marker fallen there, this sentence would have been a parishioner's and `Rev-11` would have lost one of its three legs.** *(The `LS-15`/`LS-16` discipline — an anchor anchors its own turn — applied prospectively rather than after a correction.)*
+
+#### ASR quirks — Files 8 and 9, preserved as transcribed (added 260813-1)
+
+*Recorded so later greps do not fail silently and so nobody "corrects" a quote in place. Precedent: `"regular principle"` at IP-12. ⚠️ **Quirks are properties of a CAPTURE, not of a session.*** **Offsets below were measured with `grep -ob` this pass, not copied.**
+
+- ⭐⭐ **`"lad ladan one canon one"`** for ***Lateran I, canon 1*** — File 8 @56,931 (`Rev-2`). ⛔⛔ **THIS ONE IS LOAD-BEARING AND IT IS THE REASON THIS REGISTER EXISTS.** The full ASR reads *"the first council of uh uh lad ladan one canon one."* **A grep for `Lateran` across both files returns ZERO**, and a pass that ran that grep and stopped would have reported `Rev-2`'s citation as **NOT FOUND** when it is in fact present and spoken. ⚠️ **`Lateran` is not a greppable string in this corpus; `ladan` is.**
+- **`"leotysi"`** for ***Laodicea*** — File 8, the seven-churches passage (`Rev-2`), a few hundred bytes after the Lateran mangle
+- **`"nickelans"` / `"nickel teachings"`** for ***Nicolaitans*** — File 8 @47,586 and throughout the Revelation 2-3 exposition (`Rev-2`)
+- **`"Balum's doctrine"`** for ***Balaam's doctrine*** — File 8 @50,648 (`Rev-2`)
+- **`"impropriy"`** for ***impropriety*** — File 8 @51,847
+- **`"deviency"`** for ***deviancy*** — File 8 @47,662
+- **`"Zechariah 39"`** for ***Zechariah 3:9*** — File 8 @89,158 (`Rev-4`); he is reading a verse reference aloud and the colon is lost
+- **`"1818"`** for ***Matthew 18:18*** — File 8 @56,100 region (`Rev-2`), same colon-loss shape inside the keys passage
+- **`"deny uh the deity of Christ"`** — File 8 @85,576 (`Rev-4`): an ASR filler **inside** a quoted span, which is why the corpus's rendering of it is logged as an amendment rather than a match
+- **`"We we have both"`** and **`"Uh and that's how it is for us"`** — File 9 @47,312 (`Rev-9`): stutter and disfluency **inside the incense/altar quotation**; the corpus's clean rendering is logged as `Rev-9a`
+- **`"makest"` / `"made this glad"` / `"makes us glad"`** — three different ASR renderings of the **same** collect opening (*"O God, who makest us glad with the weekly remembrance…"*) across S2, S3 and S6. ⚠️ **The collect is a fixed liturgical text; the variation is entirely transcription noise and must not be read as three different prayers**
 
 ### STANDALONE RECORDINGS — not part of any series
 
