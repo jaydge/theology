@@ -1,6 +1,20 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260816-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260817-1** (created 260724-3). Read this file first, before any other project document.
+
+> **260817-1 pass note.** ⛔⛔ **SMALL SURGICAL PASS — THE `260810-1` COLLISION NAMED AND RESOLVED; THE UNDOCUMENTED 8/8 DISCORD APPEND GIVEN ITS OWN NUMBER; ITS CORRECTION TO A FULL RECAPTURE BLOCKED THIS PASS FOR WANT OF DISCORD ACCESS. NOT AN INTAKE: no new source read for new content, no `DQ`/`IP`/other finding number minted.**
+>
+> ⛔⛔ **THE COLLISION, AND WHY IT IS WRITTEN UP RATHER THAN LEFT AS TWO COMMITS SHARING A LABEL.** Commit `d4c4f6d` (2026-08-08) spent `260810-1` on the audio-verification discharge for `IP-37`/`IP-38`/`IP-39` — fully documented, every corpus citation of `260810-1` referring to it, and untouched by this pass. Commit `74396c3` (2026-08-10) separately appended Rev. James's 8/8/26, 2:12 PM reply — his answer to `DQ-18` (the Ezekiel 40-48 factors question) — to `src/SRC_Discord_RPW.md`, outside the orchestration thread, in a separate working session; its own commit message and the changelog/Export-History lines it wrote ALSO carry the label `260810-1`. Two unrelated events, one label, the same calendar day.
+>
+> ⛔⛔ **A DISCOVERY THAT CORRECTS THIS PASS'S OWN BRIEFING: THE COLLISION IS NOT GIT-LOG-ONLY.** The brief stated that no corpus citation refers to `260810-1` meaning the Discord append, confirmed by grep before the brief was written. **A fresh grep run at the start of this pass found two prose citations that do**: `src/SRC_Discord_RPW.md`'s own changelog line (its 260810-1 entry, labelled "Append"), and `SRC_Manifest.md`'s Export History cell for that row — both written by `74396c3` itself, when it updated the manifest row in the same commit. ⛔ **Neither is altered by this pass.** Both stand exactly as `74396c3` wrote them, per the never-alter rule; dated notes are added beside them instead (`SRC_Manifest.md`, this pass — see its `260817-1` row note).
+>
+> ⭐ **WHY THIS EVENT IS BEING WRITTEN UP NOW, RATHER THAN A NEW PASS NOTE SIMPLY APPEARING.** The 8/10 append carries a commit message and a bare changelog/Export-History line, but no `PROJECT_STATE.md` pass note and no `§4` registry-cell bump — `src/SRC_Discord_RPW.md`'s registered version here still reads `260801-3`, behind its own file's latest changelog entry. A collision between two fully documented events is confusing on its own; a collision where one side is this thin compounds it, because a future reader checking `260810-1` against this file finds only the audio-verification discharge and has no way to know a second, unrelated event also claimed the label. Registering the second event under its own number, dated to when it actually happened (2026-08-08), closes that gap by addition — nothing about the original is touched.
+>
+> ⚠️⚠️ **THE APPEND ALSO VIOLATED THE `260801-3` STANDING RULE, AND THE VIOLATION IS THE SAME FAILURE MODE THE RULE WAS ADOPTED TO CATCH.** `260801-3` requires a full-thread recapture on every reply, never an append, because RJ had previously edited a message after posting and an append cannot detect that happening again. The 8/10 capture was a single-message append — its own changelog line said so at the time (flagged itself as "NOT the full-thread re-capture the 260801-3 standing rule requires") — and this pass was briefed to correct it to a full recapture (Task B).
+>
+> ⛔⛔ **TASK B IS BLOCKED THIS PASS AND IS REPORTED AS SUCH RATHER THAN SIMULATED.** Discord access was checked via the browser tool: `discord.com/channels/@me` resolved to the logged-out sign-in screen, and no Discord MCP connector is connected in this session. Per the brief's own instruction, this is reported plainly rather than worked around. **`src/SRC_Discord_RPW.md` is NOT touched by this pass — its hash (`bffdba5b87f5f47b6ec26b0ccbcf80aa70a3a3bc67ab2349d17053b7b5d782f9`), size (25,453 bytes), line count (243) and Coverage (`2026-06-18 → 2026-08-08`) are unchanged**, and remain to be verified or corrected once the full recapture is possible. ⏳ **Owed: the full-thread recapture itself, and whatever dated corrections it turns up if RJ edited any earlier message.**
+>
+> ⛔ **NOTHING ELSE MOVED.** `260810-1`'s number, its pass note, and every citation of it — in this file, `SRC_Manifest.md`, `St_Francis_EMC_Distinctives.md` and `Project_Bootstrap_Prompt.md` — are untouched (grep-verified before and after this pass). No `DQ`, `IP` or other finding number minted. No gate moved, no channel state changed (`DQ-18` remains posted 2026-08-01, answered 2026-08-08 by RJ; nothing drafted, altered or posted to him this pass — this pass only touches how the answer already given is archived). `St_Francis_EMC_Distinctives.md` not touched. **Touched two files** (`SRC_Manifest.md`, this file). **Emitted for JD's review and applied at his direction** *(§5 rule 11 — this note makes no claim about its own commit state)*.
 
 > ⭐⭐⭐ **PASS NOTE 260816-1 — `A101-2026-08-09` INTAKE AND RECONCILE, ⛔⛔ SEGMENT 1 OF 4. SEVEN ARTIFACTS REGISTERED WITH VERIFIED HASHES; A PROVENANCE EVENT RECORDED; TWO BOOTSTRAP CONVENTIONS ADOPTED; A KEY-TERMS FILE ADDED AS TOOLING. ⛔⛔ NO FINDING MINTED AND NO `IP` NUMBER CONSUMED — `IP-45` IS STILL THE NEXT FREE NUMBER.**
 >
@@ -488,15 +502,15 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260816-1 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260817-1 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260815-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v20 (260802-1) | Backstage — question bank | JD only |
 | `RJ_Incense_Analysis.md` | 260802-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260726-4 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
-| `SRC_Manifest.md` | 260816-1 | Source registry | JD + Claude |
+| `SRC_Manifest.md` | 260817-1 | Source registry | JD + Claude |
 | `asr_keyterms_A101.md` | 260816-1 | ⭐ **Tooling — REGISTERED 260816-1.** Tuned ASR key-terms list for the `A101` series, built from manglings verified by grep against the capture. ⛔ **NOT a correction map: it changes what the recogniser hears on the next run and never licenses rewriting a mangling already captured.** ⚠️ Terms entered on expected-coverage grounds are segregated in the file from terms entered on an observed mangling | JD + Claude |
-| `src/SRC_Discord_RPW.md` | 260801-3 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried | — |
+| `src/SRC_Discord_RPW.md` | 260801-3 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried. ⚠️ **260817-1: the `260810-1`-labelled append (commit `74396c3`) is now registered under its own number and its correction to a full recapture is OWED — see `SRC_Manifest.md`'s row note and this file's `260817-1` pass note. Version cell here is UNCHANGED because the file's content is unchanged (Task B blocked, no Discord access this pass).** | — |
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |
