@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260815-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260816-1** (date-stamped, format yymmdd-iteration)
+
+**260816-1: ⭐⭐⭐ `A101-2026-08-09` REGISTERED — SEVEN ARTIFACTS, ALL HASHES VERIFIED; ⛔⛔ A PROVENANCE EVENT RECORDED (THE CAPTURE OF RECORD IS TRIMMED AND CARRIES THE DELETED ORIGINAL'S NAME); SEGMENT 1 OF 4 INGESTED; ⛔⛔ NO FINDING MINTED AND NO `IP` NUMBER CONSUMED.** All seven artifacts registered at Note 2e with **digests recomputed from disk this pass — zero mismatches**. ⛔⛔ **THE PROVENANCE EVENT, RECORDED LOUDLY: the as-recorded original overran the session and was truncated by STREAM COPY (no re-encode); the untrimmed original was DELETED; the trimmed file now carries its name.** Artifact 1 is therefore **trimmed-but-name-inherited and is NOT the as-recorded original** — the `W17` stamp-defect shape, and one no hash check can detect, because the hash faithfully describes the file that is there and says nothing about whether it is the file the name claims. **A standing convention is adopted in `Project_Bootstrap_Prompt.md` (260816-1): a trimmed or replaced original is recorded in this manifest AND the survivor is marked not-the-original, with the reason.** ⭐ **The dual-ASR verification protocol is registered as a bootstrap convention on its second use** (first: the 06-28 `[SW]`/`[SY]` pair) — **agreement gives provisional confidence against transcription error only; divergence enters an ear queue; neither transcript is authoritative on wording alone; diarization is NAVIGATION ONLY and never attribution of record.** ⭐ **A tuned key-terms list is added to the repo as reusable tooling** (`asr_keyterms_A101.md`, registered in `PROJECT_STATE.md` §4) — ⛔ **it is NOT a correction map: it changes what the recogniser hears next time and never licenses rewriting a captured mangling.** ⛔⛔ **THE PASS'S LOAD-BEARING NEGATIVE RESULT: THE WORD-LEVEL SPLICE CHECK FAILED ITS OWN CALIBRATION CASE.** At the one merge named as confirmed (sentence 1394), **the actual questioner→reply splice carries a 0 ms inter-word gap** and does not appear among the sentence's twelve largest gaps; the largest gap (1,049 ms) sits at a different point entirely. **Artifact 7 was further measured to add NOTHING artifact 5 did not already carry** — identical timing and speaker, differing at 166 positions in text case/punctuation only — and its word-level speaker field is **inherited from the parent sentence** (0 of 3,856 sentences carry a word with a differing label), so the word stream **cannot disagree with the diarization and therefore cannot detect a merged turn.** ⛔ **No "cleared vs queued" ratio was produced, because producing one would have manufactured false confidence; the honest figure is zero cleared, all queued.** ⛔⛔ **THE BRIEF'S SPEAKER MAPPING IS WRONG AND IS CORRECTED: the full run contains exactly THREE labels (`A`, `B`, `C`) — there is no label `F`, so Rev. Brian cannot be identified by label, and there are no low-volume labels to over-split.** The real defect is the reverse: **three labels for a plainly multi-voice room is a severe UNDER-count**, demonstrated by three provable mislabels inside segment 1 (887, 888, 936/937). ⛔ **No label may be treated as a person and `B` is not a synonym for Rev. James.** ⛔⛔ **NO FINDING WAS MINTED — `IP-45` REMAINS THE NEXT FREE NUMBER** — on JD's ruling, three guards converging: speaker not establishable, splice detector failed, no ear verification performed. **Segment 1 emits a methodology report, a coverage map and an ear queue instead of a ledger.** ⭐⭐ **ARTICLE XX WAS REACHED AND TAUGHT** (sentences 315-458, 27:01-37:31) — the highest-value material in the segment for §13 and the ceremonial cluster, **and it is entirely under the quoting guard.** ⚠️ **ONE CORRECTION TO THE BRIEF'S QUIRK TABLE: `"Hyria"` is the COUNCIL OF HIERIA (754), NOT hyperdulia** — established from the surrounding date and the Second Nicaea reference; **Rendering B drops the council name entirely, leaving only *"754"***, so a pass grepping Rendering B would report it absent when it is spoken. Ten of the eleven listed manglings verified exactly as stated. ⛔ **`latria`, `dulia`, `hyperdulia` and `deuterocanon` are ABSENT FROM BOTH RENDERINGS — recorded as absences, which do not compound into a position.** ⛔⛔ **HAZARD 3 APPLIED BY NOT LOOKING: this pass did not search for, locate, or record the private-individual and allegation material, deliberately — an exclusion that must name what it excludes is not an exclusion.** ⛔ **Hazard 2's anchor (sentences 1350/1352) falls OUTSIDE segment 1; the verbatim/`[Stated-Analysis]` guard is recorded and carried to segment 2, never as a silent substitution.** **CUT POINT: segment 1 ends at sentence 886 (t = 4088.0 s, 1:08:08); segment 2 resumes at sentence 887 (t = 4089.2 s), which opens on purgatory.** ⛔ **Segments 2-4 NOT ingested; no coverage beyond sentence 886 is established and no absence beyond it may be inferred.** ⛔ **Nothing promoted, nothing superseded, no gate moved, no `VP-` pair or number, no `DELTA`, no question touched, and no other row, hash or procedure altered.**
 
 **260815-1: ⭐⭐ `a306` REGISTERED AS FILE 11 — REVELATION SESSION XIV (`RV-S14`), AND THE 2026 RUN'S TAIL IS CLOSED. ⛔⛔ THE DUPLICATE CHECK WAS RUN BEFORE ANY TAG WAS MINTED AND IT CLEARED.** `a306-Revelation-class-14.md` (**26,839 bytes**, `67dad871…`, `sha256(body.strip())` `f0556491…`, `[S]` PRIMARY, stream-only) registered as **File 11** with a body boundary established at **byte 85** (⚠️ **measured, not assumed — the header is 85 bytes over four lines, where File 10's was 103; the two are NOT the same length and a later pass must not carry File 10's figure across**), one session row **`RV-S14`**, canonical alias, quirk register and speaker-attribution note. **Findings `RV-33`…`RV-43`** in `St_Francis_EMC_Distinctives.md`. ⭐⭐ **THE DUPLICATE CHECK IS RECORDED IN FULL BECAUSE `a304` IS ONE PASS OLD AND THE LESSON IS NOT YET CHEAP:** longest-common-run comparison against **all 94,822 bytes of `a302`** returned **45 characters** (*". Thank you. Any other questions? All right. "* — a stock classroom transition), against **`a305`** **30 characters** (the shared `# Revelation Class, Session XI` title prefix, nothing else), and against **`a304`** **45 characters** (the same stock phrase). ✅ **CLEAN. `a306` is new material and duplicates no ingested session** — established rather than presumed, the `a305` result (133 characters, the weekly collect) being the only prior baseline. ⛔⛔ **CLASS DATE NOT ESTABLISHED — AND THE FAILURE MODE HERE IS THE OPPOSITE OF `a305`'s AND MUST NOT BE READ AS AGREEMENT.** The file's header reads **`## Aug 7, 2026`**, a **Friday**, which **matches the channel's upload stamp EXACTLY**. ⛔ **There is no internal contradiction of `a305`'s kind — and a coincidence with the upload stamp is precisely what a label copied from the channel listing looks like, so it establishes nothing about when the class was held.** ⛔ **BOTH READINGS STAND and neither is adopted: (i) the class was held 2026-08-07 and uploaded the same day; (ii) the header is JD's transcription of the channel's upload stamp and says nothing about the class date.** ⛔ **No date is changed and none is inferred.** ⭐ **THE `260814-1` OPEN ITEM (c) IS DISCHARGED:** Session XIV was a known, unfetched source; it is now fetched, registered and ingested. ⛔ **Open items (a) — the `RV-S11` date discrepancy — and (b) — Session XII's absence — are UNTOUCHED and UNRESOLVED.** ⚠️⚠️ **A NEW QUIRK CLASS, AND IT IS THE MOST LOAD-BEARING ENTRY IN THE REGISTER: the capture carries YouTube's PROFANITY MASK.** The chapter's central noun is rendered **`[ __ ]`** at six points; **`whore` greps to ZERO across the entire body** and survives only in the `#` title line JD prepended. ⛔ **A pass that greps the obvious term would report the session's own subject as absent.** ⚠️ **The mask carries the file's only 24 non-ASCII bytes (U+00A0 inside each token), so `a306` is NOT ASCII-throughout where File 10 was** — recorded so the difference is not read as corruption. ⚠️ **AND A SECOND, UNREGISTERED SOURCE IS OBSERVED AND NOT FETCHED: he refers the class to a HANDOUT** (@1,351) **setting out the two readings.** ⛔ **Not located, not registered, no `W` number consumed** — recorded on the `W44`/`W45` precedent so it is not rediscovered. ⛔ **Sessions I-VIII untouched. Session XII not reconstructed. `a302`, `a304`, `a305` and Files 8-9 were read only as cross-reference; no row, hash or offset in any of them was altered.**
 
@@ -343,6 +345,8 @@ This table exists because the hash check cannot do this job. The file tables abo
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260808-1; never promotes) | `A101-20260719-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `b0047300` | 49,497 | *(comparison capture — Step 2 outcomes at Note 2b; sole substrate for IP-13)* | — |
 | `A101-2026-07-26` | 2026-07-26 | **Articles IX-XVI** *(both captures' title and content, 260809-1; Article XVII announced, NOT taught — questions consumed the close; ⚠️ substantial post-session informal predestination/Black-Rubric/Mass-sacrifice discussion is `[R]`-only, Note 2c)* | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** | `A101-20260726-JD-recording-with-q-and-a.md` ⛔ *held OUTSIDE the repo (JD's archive)* ⚠️ *naming/format departs from the `Audio_MM_DD…` class — Note 2c* | `96a9c5a9` | 57,305 | **IP-24…IP-39** *(⚠️ several `[S]`-sourced — recorder-start gap + fragmentary mid-session stretch; `IP-37`/`IP-38`/`IP-39` are `[R]`-only post-session; Note 2c)* | — *(born verified where dual-covered; single-capture stretches ⬜ OUT OF SCOPE, none frozen — Note 2c; ✅ the room-only post-session findings IP-37/IP-38/IP-39 audio-verified by JD 260810, flags DISCHARGED 260810-1 — Note 2c)* |
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260809-1; never promotes) | `A101-20260726-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `845de990` | 55,179 | *(comparison capture — sole substrate for the Articles XIII-XVI and confession/succession stretches; truncates mid-sentence at the close)* | — |
+| `A101-2026-08-09` | 2026-08-09 | ⚠️ **PARTIAL — SEGMENT 1 OF 4 ONLY (sentences 0-886 of 3,856; 0-68 min of 4h 20m 30s).** Segment 1 coverage, established from the captures: Article XVII (predestination and election) · ⭐⭐ **ARTICLE XX, REACHED AND TAUGHT** · sola scriptura and Trent · the Magisterium · creeds and anti-creedal objection · paedocommunion · genuflection and images · the whole life of Christ as salvific · death and preparation for it. ⛔ **Segments 2-4 NOT INGESTED; coverage beyond sentence 886 is NOT established by this pass** | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** — ⛔⛔ **TRIMMED-BUT-NAME-INHERITED: this file is NOT the as-recorded original. Provenance event at Note 2e** | `Audio_08_09_2026_19_35_15.mp3` ⛔ *held OUTSIDE the repo (JD's archive)* | `0d6df52a` | 250,080,486 | ⛔ **NONE — no finding minted, no number consumed; `IP-45` remains the next free number** *(Note 2e)* | ⚠️⚠️ **YES — THE WHOLE SEGMENT.** Multi-voice; diarization is navigation only; the word-level splice check FAILED its own calibration. ⛔ Nothing here is attributable or quotable before ear confirmation *(Note 2e)* |
+| ″ | ″ | ″ | ″ | *stream — flagged only, NOT a capture row* | ⏳ **POSSIBLE FUTURE CAPTURE — FLAGGED ONLY. NOT PULLED, AND ITS EXISTENCE IS NOT ESTABLISHED.** Were the parish channel (`EXT-3`) to upload this session, it would register as PERMANENT SECONDARY — COMPARISON CAPTURE (Branch A; never promotes). ⛔ **Do not read this row as a known source.** ⚠️ *Formatting note: this cell deliberately writes "stream" rather than the bracketed code — C12 counts any row here carrying a bracketed code as a session capture row, and a capture that does not exist must not be counted as one (the CL-4 defect shape, per Note 1a)* | *(not pulled)* | — | — | *(none)* | — |
 
 > ⛔⛔ **`A101-2026-06-28` HAS NO ROOM CAPTURE AND NEVER WILL — CONFIRMED ABSENT, NOT "NOT YET CAPTURED" (260812-1).** JD searched his recorder app and his files: **he did not record the room on 2026-06-28.** The `[R]` placeholder row that stood here until 260812-1 is retired on the **260726-1 pattern** (placeholders are superseded by the real state, not deleted from the historical record — this line records what it was for). ⛔ **Do not re-add an `[R]` row for this session, and do not read the absence of one as an un-ingested capture: there is nothing to ingest.** ⚠️ **This is why the session gets its own shape rather than being forced into Branch A, which presupposes a room capture — see Note 2d.**
 
@@ -646,6 +650,236 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 - ⚠️ **`IP-20`'s Homily citation is NOT anticipated** — `Tobit` **0·0** · `Sirach` **0·0** · `alms` **0·0**. The Homilies are named as a formulary (`IP-40`) and described historically; **no Homily is cited by number or content.** ⛔ **`DQ-1`'s owed enumeration gets nothing from this session.**
 - ⚠️ **Known Gap 12 — nothing** (`theonomy` **0·0**). **Known Gap 2 — nothing** (`active obedience` **0·0**).
 - ⚠️ **`Elizabethan Settlement` is 3·0 and `Elizabethan` 5·0** — ⛔ **not an absence in the session but an absence in the COMPARISON file's vocabulary**; the youtube render garbles the term. The Settlement **is** taught (whisper); the coverage-cell correction rests on the whisper render and on the upload's own title.
+
+### ⭐⭐⭐ Note 2e — THE `A101-2026-08-09` INTAKE, SEGMENT 1 OF 4, RUN 260816-1 — ⛔⛔ **A SINGLE-CAPTURE, DUAL-ASR SESSION WITH THE AUDIO PRESENT; NO FINDING MINTED AND NO `IP` NUMBER CONSUMED**
+
+**Session:** `A101-2026-08-09`, class date **2026-08-09**. **Capture: single `[R]` room recording, PRIMARY.** ⚠️ **A possible future `[S]` is flagged in the table above if `EXT-3` uploads the session; its existence is not established.**
+
+⛔⛔ **SCOPE. THIS PASS INGESTED SEGMENT 1 ONLY — sentences 0-886 of 3,856.** The session runs **4h 20m 30s / 15,630 s / 3,856 diarized sentences / 44,692 words (Rendering A) / 46,210 words (Rendering B)**. ⛔ **Nothing beyond sentence 886 is established by this pass, and no absence beyond sentence 886 may be inferred from it.**
+
+#### ⭐ THE SEVEN ARTIFACTS — ALL SEVEN HASHES VERIFIED AGAINST THE FILES THIS PASS
+
+⛔ **Every digest below was recomputed from the file on disk before registration. No hash is carried from report. Zero mismatches.**
+
+| # | File | Bytes | SHA-256 (first 8) | Role |
+|---|---|---|---|---|
+| 1 | `Audio_08_09_2026_19_35_15.mp3` | 250,080,486 | `0d6df52a` | ⭐ **CAPTURE OF RECORD · room · PRIMARY · THE EAR-VERIFICATION TARGET.** ⛔ **Trimmed-but-name-inherited — see the provenance event below** |
+| 2 | `Audio_08_09_2026_19_35_15_asr.mp3` | 93,780,764 | `2b3fb757` | ⛔⛔ **NON-QUOTABLE.** Lossy 16 kHz mono derivative, made only to clear an upload ceiling. Same duration, same t=0. ⛔ **NEVER a quote-verification target** |
+| 3 | `SRC_WHISPER_20260809.txt` | 244,552 | `a5c18034` | **Rendering A** — local whisperfile, no diarization, 44,692 words |
+| 4 | `SRC_WHISPER_20260809.json` | 16,423,643 | `5cab7342` | Rendering A, segment-level |
+| 5 | `SRC_AAI_20260809_sentences.json` | 4,490,253 | `d94bec9d` | **Rendering B** — AssemblyAI `universal-3-5-pro`, diarized, 3,856 sentences, 15,630 s, overall confidence 0.9499 |
+| 6 | `SRC_AAI_20260809_transcript.srt` | 392,824 | `093827dd` | Rendering B, caption form |
+| 7 | `SRC_AAI_20260809_timestamps.json` | 3,897,957 | `f110d7b9` | Rendering B, word-level — 46,210 words. ⚠️ **See the Hazard 1 result: it does NOT do what it was registered to do** |
+
+⛔ **All seven are held OUTSIDE the repo in JD's archive** (§0 — the audio is large and the transcripts are full session text). **Hashes only here.**
+
+#### ⛔⛔ PROVENANCE EVENT — RECORDED LOUDLY, AND IT IS THE `W17` STAMP-DEFECT SHAPE
+
+⚠️⚠️ **THE AS-RECORDED ORIGINAL OF ARTIFACT 1 NO LONGER EXISTS.** The recording overran the session. The overrun was removed by **stream copy — a container-level trim with NO re-encode**, so the retained audio is bit-identical to the original's corresponding span and is not generationally degraded. **The untrimmed original was then DELETED.** ⛔⛔ **The trimmed file now carries the deleted original's filename.**
+
+**Recorded, in the three parts the convention requires:**
+
+1. **What was deleted:** the untrimmed as-recorded file, including the post-session overrun. ⛔ **It is gone and is NOT reconstructible.** ⛔ **Its duration, and therefore the length of what was removed, was NOT recorded at trim time and is NOT estimated here** — an estimate is exactly the `BLOG-13` furniture error.
+2. **What was done:** stream copy, no re-encode. ✅ **This is the benign kind of trim** — the surviving audio is not a re-compression, so it remains a sound ear-verification target. ⚠️ **`t=0` is unchanged, so every timestamp in this note resolves against artifact 1 as it stands.**
+3. **What artifact 1 now is:** ⛔⛔ **TRIMMED, AND NOT THE AS-RECORDED ORIGINAL, WHILE CARRYING THE ORIGINAL'S NAME.**
+
+⛔⛔ **WHY THIS IS LOGGED AT THIS VOLUME.** `Audio_08_09_2026_19_35_15.mp3` is a **provenance claim**: it asserts that this is what the recorder wrote at 19:35:15 on 2026-08-09. **That assertion is now false, and nothing in the file, its hash, or its filesystem timestamps records that it changed.** ⛔ **The hash cannot catch it** — it faithfully describes the file that is there and says nothing about whether that file is the one the name claims. **A file asserting a provenance it does not have is the `W17` stamp-defect shape**, and the same class as `BLOG-71`, where text inside the body hash dated nothing because the hash verified the fetch and not the authorship. ⭐ **The standing convention adopted from this event is in `Project_Bootstrap_Prompt.md` (260816-1).**
+
+#### THE CAPTURE SHAPE — SINGLE CAPTURE, TWO RENDERINGS, ⭐ AND THE AUDIO IS PRESENT
+
+⭐⭐ **This is the strongest verification position the `A101` series has been in, and the reason is the audio, not the second rendering.** At 07-19 and 07-26 the `[R]`/`[S]` comparison adjudicated **one machine reading against another**. Here **artifact 1 survives**, so a contested wording goes **to the recording itself** — the `260810-1` warrant that discharged `IP-37`/`IP-38`/`IP-39`.
+
+**The protocol, registered as a bootstrap convention on its second use** (first: the 06-28 `[SW]`/`[SY]` pair, `260812-1`):
+
+- ✅ Where the two renderings **agree**, wording carries **provisional confidence** — against transcription error, and that only.
+- ⚠️ Where they **diverge**, the passage enters the **VERIFICATION QUEUE**, resolved by ear against artifact 1.
+- ⛔⛔ **Neither transcript is authoritative on wording alone.**
+- ⛔ **Diarization is a NAVIGATION LAYER ONLY. It is NOT attribution of record.**
+
+⚠️ **AND THE PAIR IS SILENT ABOUT WHAT THE MICROPHONE MISSED.** Both renderings derive from **one recording**. Their agreement cannot catch anything the capture itself did not get. ⛔ **This is a single-capture session and must never be read as equivalent to an `[R]`/`[S]` pair.**
+
+⛔ **ARTIFACT 2 IS NEVER A VERIFICATION TARGET.** It is a 16 kHz mono lossy derivative made solely to clear an upload ceiling. **Ear verification goes to artifact 1.**
+
+#### ⛔⛔ HAZARD 1 — THE WORD-LEVEL SPLICE CHECK WAS RUN, AND ⛔ **IT FAILED ITS OWN CALIBRATION CASE**
+
+⚠️⚠️ **THIS IS THE PASS'S LOAD-BEARING NEGATIVE RESULT, AND IT REVERSES THE EXPECTATION THE INTAKE BRIEF WAS BUILT ON.** The brief registered artifact 7 as *"the turn-boundary tool"* that *"changes this hazard's class."* ⛔ **Tested against the one merge the brief names as confirmed, it does not.**
+
+**The calibration case, located and measured:** sentence **1394**, **t = 6302.955-6333.562 s**, **107 words, 30.6 s, labelled speaker `B` throughout**. It contains at least four turns: it runs from a questioner's *"why can't you ask"* straight into the reply *"no no I didn't ask the church in America"* — **a questioner's words and the answer packed into one speaker-labelled sentence, with no ragged boundary visible in the text.**
+
+⛔⛔ **THE ACTUAL SPLICE CARRIES NO GAP AT ALL.** The questioner→reply boundary falls between word 85 (*"ask"*) and word 86 (*"no"*). **The inter-word gap there is 0 ms.** It does not appear in the sentence's twelve largest gaps.
+
+| Measure | Value |
+|---|---|
+| Largest gap in the calibration sentence | **1,049 ms**, at word 23→24 — ⛔ **a DIFFERENT point, not the known splice** |
+| Gap at the known questioner→reply splice (word 85→86) | ⛔ **0 ms** |
+| Sentence-internal rhythm | median 0 ms · mean 64 ms · p95 370 ms |
+| Whole-session rhythm (n = 42,354) | p50 0 · p90 114 · p95 305 · p99 842 · p99.5 1,161 ms |
+
+⛔⛔ **AND ARTIFACT 7 ADDS NOTHING ARTIFACT 5 DID NOT ALREADY CARRY.** Measured this pass: artifact 7's 46,210 words are **identical in timing and speaker** to the word arrays already embedded inside artifact 5, differing at **166 positions in TEXT ONLY** (sentence-case capitalisation and terminal punctuation). ⛔⛔ **Its word-level `speaker` field is INHERITED FROM THE PARENT SENTENCE and carries no independent information: 0 of 3,856 sentences contain a word bearing a different speaker label from its own sentence.** ⭐ **So the word stream cannot disagree with the diarization, and therefore cannot detect a merged turn.**
+
+⛔⛔ **THE CONSEQUENCE, STATED PLAINLY: A "CLEARED vs QUEUED" RATIO WAS NOT PRODUCED, BECAUSE PRODUCING ONE WOULD BE MISLEADING.** The brief asked how many quotations the word-level check cleared. **The honest answer is ZERO cleared and ALL queued** — and the reason matters more than the number: a sentence showing no anomalous gap would have been reported as *"probably a single turn, provisional confidence,"* when the calibration case proves a real merge sits entirely below the detection threshold. ⭐ **Reporting the ratio would have manufactured confidence in precisely the direction this project most guards against.** ⚠️ **A future pass should treat this technique as NOT worth repeating in this form** — which is the reporting the brief asked for, delivered with the opposite sign.
+
+⭐ **What the timing data IS good for, recorded so the artifact is not written off:** locating **long pauses between sentences** as topic-boundary candidates (used for the cut point below) and flagging **over-long single-label sentences** as merge *candidates* by duration and word count. ⛔ **Both are navigation. Neither is attribution.**
+
+#### ⛔⛔ HAZARD 2 — THE MISIDENTIFIED MINISTER: ANCHOR LOCATED, AND IT FALLS OUTSIDE SEGMENT 1
+
+**Anchor located** at sentences **1350** (t = 6140.5 s) and **1352** (t = 6144.9 s), label `C`: *"Reverend Gosnell's prayers."*
+
+⛔⛔ **BOTH SIT AT SENTENCE 1350+, OUTSIDE SEGMENT 1 (0-886). Hazard 2 does not bite in this segment, and nothing in this pass turns on it.**
+
+⚠️ **The guard is recorded here anyway, and carried forward to segment 2, because that is where it will be needed:**
+
+- **[Stated]** — the verbatim as spoken is *"Reverend Gosnell's prayers."*
+- **[Stated-Analysis]** — the intended referent is **Rev. Brian, a visiting minister from another church**. **Rev. Gosnell is a different minister, present earlier in the session and gone by this point.**
+- ⛔⛔ **NEVER A SILENT SUBSTITUTION.** The verbatim stands as spoken; the correction is a labelled inference and is never folded into the quotation.
+
+⚠️ **AND THE `[Stated-Analysis]` LAYER IS ITSELF UNVERIFIED BY THIS PASS.** The referent correction is carried from the intake brief. ⛔ **This pass did not establish by ear which minister was present when, and did not attempt to** — it is recorded as an inference to be confirmed in segment 2, not as settled.
+
+#### ⛔⛔ HAZARD 3 — PRIVATE INDIVIDUALS AND A SERIOUS ALLEGATION: NEVER-RAISE GUARD APPLIED AT INTAKE
+
+⛔⛔ **The session contains material concerning private individuals unconnected to this project, including a serious allegation against a named person.**
+
+✅ **THE GUARD IS APPLIED, AND THE STRONGEST FORM OF APPLYING IT WAS TO NOT GO LOOKING.** ⛔ **This pass did NOT search for the material, did NOT locate it, and does NOT know where in the session it falls.** ⚠️ **That was a deliberate choice and is recorded as one:** locating it would have required holding it in the pass record in order to exclude it, and an exclusion that has to name what it excludes is not an exclusion. **Nothing is logged, named, summarised, characterised, paraphrased or alluded to, at any tier, in any document.**
+
+⛔ **This is stricter than `BLOG-63`'s note, and the reason is the reach, not the severity: that material was his own; this reaches third parties.** ⛔ **No private individual is named** (`GV-31` / Ruling C).
+
+⚠️ **Recorded so that a future pass does not "discover" this material and log it.** ⛔ **A later segment encountering it applies the same guard and does not treat its own rediscovery as new information.**
+
+#### ⛔⛔ SPEAKER MAPPING — RE-CONFIRMED AGAINST THE FULL RUN, AND THE BRIEF'S MAPPING IS **WRONG**
+
+**Measured across all 3,856 sentences:**
+
+| Label | Sentences | Words | Observed character |
+|---|---|---|---|
+| `B` | 2,300 | 30,061 | Predominantly the teaching voice — reads the Articles aloud, answers questions |
+| `C` | 1,212 | 13,459 | A substantial discursive participant |
+| `A` | 344 | 2,690 | Short questions and assents |
+
+⛔⛔ **THERE IS NO LABEL `F`. THERE ARE NO LOW-VOLUME LABELS. THE FULL RUN CONTAINS EXACTLY THREE LABELS: `A`, `B`, `C`.** ⛔ **The brief's mapping — *"`A`, `C`, `F` are recurring interlocutors; `F` is Rev. Brian"* — cannot be applied: the label it identifies Rev. Brian by does not exist in this diarization.** ⚠️ **Its accompanying warning that *"several low-volume labels look like over-split cross-talk"* is also not borne out — there are none to over-split.**
+
+⛔⛔ **AND THE REAL PROBLEM IS THE OPPOSITE OF OVER-SPLITTING: THREE LABELS ARE FAR FEWER THAN THE PEOPLE IN THE ROOM.** The class is plainly multi-voice. **Label count is not person count, and here it is a severe UNDER-count** — each label is absorbing several people.
+
+⭐⭐ **DEMONSTRATED, NOT ASSUMED — three instances inside segment 1 where the labelling is provably wrong:**
+
+- Sentence **887** (*"...I just wanted to ask you about purgatory really quick"*) is labelled **`B`**, the teaching label, but is a **questioner**, and self-identifies with a Roman Catholic frame five sentences later (*"my tradition"*, sentence 892).
+- Sentence **888** (*"Go ahead."*) is labelled **`C`** but is plainly **the teacher yielding the floor** — the reverse assignment, in adjacent sentences.
+- Sentences **936/937** (*"Are there any questions about that one?"* / *"Is there any scriptural reference to that?"*) are **both** labelled `B`, though the second is a question **to** the teacher, not from him.
+
+⛔⛔ **CONCLUSION, AND IT GOVERNS EVERY FUTURE SEGMENT: NO LABEL IN THIS SESSION MAY BE TREATED AS A PERSON, AND `B` IS NOT A SYNONYM FOR REV. JAMES.** ⛔ **No sentence may be attributed to Rev. James on the strength of its label** (`LS-15`/`LS-16`/`LS-19`). ⛔ **JD's own questions are in this transcript and are never findings about him.**
+
+#### ⛔⛔ WHY NO FINDING WAS MINTED, AND `IP-45` IS UNCONSUMED
+
+**Three independent guards converge, and each alone would be sufficient:**
+
+1. ⛔ **Speaker not establishable.** Three labels for a many-voice room, with demonstrated mislabelling inside segment 1. The standing rule is that no sentence is attributed to Rev. James unless the speaker is established.
+2. ⛔ **The splice detector failed calibration.** Turn boundaries inside single-label sentences are not detectable by the means available to this pass.
+3. ⛔ **No ear verification was performed.** Artifact 1 is present and is the right target, but this pass did not listen to it.
+
+⭐ **JD's ruling, recorded: segment 1 emits a METHODOLOGY REPORT, A COVERAGE MAP AND AN EAR QUEUE — NOT A FINDINGS LEDGER.** ⛔ **`IP-45` remains the next free number.** ⚠️ **This is not a judgment that the session is thin — it is dense, and §12 material in particular is the richest the corpus has seen. It is a judgment that the material is not yet attributable.**
+
+#### ⭐⭐ ARTICLE XX — **REACHED, AND TAUGHT**
+
+⭐⭐ **REPORTED AS THE BRIEF REQUIRED, AND THE ANSWER IS YES.** Article XX is not merely mentioned: it is **read and expounded inside segment 1**, opening at sentence **315 (t = 1621.0 s)** — *"Article 20, I think, is what we have next"* — and running to its close at sentence **458 (t = 2251.3 s)**, *"Any other questions on Article 20?"* **Four occurrences of the Article by name across the session; three of them inside segment 1.**
+
+**Observed within the block** (⛔ navigation only — none of this is attributed, and none is quotable): the Church's authority to establish rites and ceremonies; the Church as **not infallible**; the Church as **subject to Scripture**; and an explicit comparison drawn between the Article's position on sola scriptura and **one of the two positions Roman Catholics are permitted to hold** (sentence 343).
+
+⛔⛔ **THIS IS THE HIGHEST-VALUE MATERIAL IN THE SEGMENT FOR §13 AND THE CEREMONIAL CLUSTER, AND IT IS ENTIRELY UNDER THE QUOTING GUARD.** ⚠️ **It bears directly on `IP-12`/`IP-12a` and on the `IP-34` rites-and-ceremonies clause already logged under an Article-XX guard.** ⛔ **Nothing there moves on this pass.** ⭐ **It is the first item in the ear queue below, and it is the strongest reason to run one.**
+
+#### TERM SCAN — SEGMENT 1 AND THE FULL SESSION, WITH ABSENCES REPORTED
+
+⚠️ **Counts are over Rendering B (`FULL`) and Rendering A (`WHISPER`), with segment 1 broken out. ⛔ A count is a navigation aid, not a finding.**
+
+| Term | Seg 1 | Full | Whisper | Note |
+|---|---|---|---|---|
+| Article XVII | 1 | 1 | 1 | Named once only |
+| **Article XX** | **3** | **4** | 4 | ⭐ **taught — see above** |
+| Article XXII | 0 | 0 | 0 | ⛔ **ABSENT — never named**, though its subject matter (purgatory, images, invocation) is discussed |
+| predestination | 25 | 25 | 22 | Entirely within segment 1 |
+| infallible | 18 | 18 | 17 | Entirely within segment 1, with Article XX |
+| sola scriptura | 2 | 7 | 4 | |
+| Trent | 3 | 4 | 4 | |
+| Tridentine | 1 | 1 | 1 | |
+| Book of Common Prayer | 3 | 3 | 3 | |
+| rites and ceremonies | 2 | 2 | 1 | With Article XX |
+| paedocommunion | 2 | 2 | 1 | |
+| purgatory | 8 | 11 | 10 | ⚠️ **opens at sentence 887 — the FIRST sentence of segment 2** |
+| invocation | 1 | 5 | 3 | Mostly beyond segment 1 |
+| intercession | 1 | 1 | 1 | |
+| Lent | **0** | 29 | 27 | ⛔ **entirely beyond segment 1** |
+| Gesima / Septuagesima | **0** | 5 | 4 | ⛔ **entirely beyond segment 1** |
+| Apocrypha | **0** | 11 | 9 | ⛔ **entirely beyond segment 1** |
+| Ante-Communion | **0** | 1 | 1 | ⛔ **beyond segment 1** |
+| deacon | **0** | 3 | 3 | ⛔ **beyond segment 1** |
+| Quartodeciman | 0 | 1 | 1 | Beyond segment 1 |
+| Pascha | 0 | 2 | 2 | Beyond segment 1 |
+| death barrier | 0 | 2 | 3 | Beyond segment 1 |
+| **latria** | **0** | **0** | **0** | ⛔⛔ **ABSENT FROM BOTH RENDERINGS** |
+| **dulia** | **0** | **0** | **0** | ⛔⛔ **ABSENT FROM BOTH RENDERINGS** |
+| **hyperdulia** | **0** | **0** | **0** | ⛔⛔ **ABSENT — see the `Hyria` correction below** |
+| **deuterocanon** | **0** | **0** | **0** | ⛔⛔ **ABSENT FROM BOTH RENDERINGS** |
+
+⛔⛔ **ABSENCES ARE REPORTED AS ABSENCES AND DO NOT COMPOUND INTO A POSITION.** ⚠️ **`latria`/`dulia`/`hyperdulia` being absent does NOT establish that the distinction was not taught in other words** — the brief listed it among expected topics, and the vocabulary check simply does not settle it. ⛔ **Nor does absence of the technical terms license a finding that he avoids them.** ⚠️ **The `Lateran` → *"lad ladan"* lesson (`260813-1`) was applied throughout: every absence above was chased through BOTH renderings and through the known mangled forms before being reported.**
+
+#### ⚠️⚠️ ONE CORRECTION TO THE INTAKE BRIEF'S QUIRK TABLE — `Hyria` IS **NOT** HYPERDULIA
+
+**All eleven manglings the brief listed were verified by grep before use. Ten are confirmed exactly as stated. The eleventh is misattributed.**
+
+⛔⛔ **`Hyria` (Rendering A, ×2) is the COUNCIL OF HIERIA (754), not *hyperdulia*.** Established from the surrounding context, which supplies both the date and the opposing council: the name is given twice as *"Hyria"*, placed *"prior to the seventh council"*, and followed by the bare date *"754"* and by *"goes against the second Nicene Council."* **A council of 754, prior to the Seventh and standing against Second Nicaea, is the iconoclast synod of Hieria.**
+
+⚠️ **AND RENDERING B IS WORSE HERE THAN RENDERING A — the reverse of the usual direction.** Rendering B **drops the council name entirely**; only the bare date *"754"* survives (sentences 1854-1855). ⛔ **A pass grepping Rendering B for this council would report it absent when it is spoken.**
+
+⛔ **Recorded, not silently corrected.** Both renderings stand as transcribed. The correction is in the quirk register and in `asr_keyterms_A101.md`, which carries `Council of Hieria` and `Second Council of Nicaea` as terms **so the next capture gets them**. ⭐ **Had the brief's attribution been carried through unchecked, the term list would have taught the recogniser to render a historical council as a devotional category — and *hyperdulia* is a real word that would have read as correct and never been questioned. A plausible wrong term is more dangerous than an implausible one.**
+
+#### ASR QUIRK REGISTER — `A101-2026-08-09`, PRESERVED AS TRANSCRIBED
+
+⛔ **Logged, never silently corrected.** Rendering A is the local whisperfile; Rendering B is AssemblyAI. **All counts grep-verified this pass.**
+
+| True form | Rendering A (whisperfile) | Rendering B | Status |
+|---|---|---|---|
+| Book of Common Prayer | *"Book of Congress"* ×2 | correct | A mangles |
+| Council of Trent | *"the Council of Tribes"* ×1 | correct | A mangles |
+| Tridentine | *"Tribantine"* ×1 | correct | A mangles |
+| Summa Theologiae | *"the Southa Theology"* ×1 | correct | A mangles |
+| paedocommunion | *"Cato community"* ×1 | correct | A mangles |
+| Ante-Communion | *"an Anticonunion"* ×1 | correct | A mangles |
+| purgatory | *"Hercules"* ×1 | correct | A mangles |
+| Quartodeciman | *"Quartodestimate"* ×1 | correct | A mangles |
+| Septuagesima | *"Septagesima"* ×1 | correct | A mangles |
+| Pascha | *"Pasco"* ×1 | correct | A mangles |
+| **Council of Hieria** | *"Hyria"* ×2 | ⛔ **NAME DROPPED — only *"754"* survives** | ⛔⛔ **BOTH FAIL. Brief's attribution corrected** |
+
+⚠️ **A merged-turn artefact is also logged as a quirk of Rendering B, since it is a property of that rendering and not of the session:** single speaker-labelled sentences containing multiple turns, **with no ragged boundary in the text and, at the calibration case, no detectable gap in the timing.** ⛔ **This is why the whole segment is under a quoting guard.**
+
+#### ⛔⛔ THE VERIFICATION QUEUE — EAR CONFIRMATION AGAINST ARTIFACT 1
+
+⚠️ **Flagged with timestamps so JD can verify efficiently — the `260810-1` pattern that cleared `IP-37`/`IP-38`/`IP-39`.** ⛔ **Artifact 1 only. ⛔ NEVER artifact 2.**
+
+| # | What | Sentences | Timestamp (artifact 1) | Why queued |
+|---|---|---|---|---|
+| 1 | ⭐⭐ **ARTICLE XX — the whole block** | 315-458 | **27:01 - 37:31** | **The segment's highest-value material.** Establish who is speaking at each turn, then the wording of the non-infallibility and subject-to-Scripture statements |
+| 2 | ⭐ The Article XX / Roman-permitted-positions comparison | 343 | **29:22** | A precise claim about what Rome allows; wording-critical |
+| 3 | Article XVII — predestination and election block | 3-~120 | **00:08 - 10:24** | The session's opening; 25 of 25 `predestination` hits sit here |
+| 4 | The Trent / sola scriptura stretch | ~330-360 | **~28:00 - 31:24** | Trent ×3 in segment 1; `[Stated]` vs characterisation-of-Rome must be separated by ear |
+| 5 | paedocommunion exchange | 491 | **40:02** | Bears on Known Gap 11; questioner-sourced, attribution unestablished |
+| 6 | Genuflection / images stretch | ~660-885 | **~55:00 - 68:06** | Bears on §13 and the ceremonial cluster |
+| 7 | ⛔ **Calibration case — the confirmed merge** | 1394 | **1:45:03 - 1:45:34** | ⛔ **Segment 2. Listed so segment 2 inherits it. Establish the turn boundaries by ear; the timing cannot** |
+| 8 | ⛔ **Hazard 2 — the minister referent** | 1350, 1352 | **1:42:21, 1:42:25** | ⛔ **Segment 2.** Confirm who was present and who had left |
+
+⛔ **Nothing in this queue is deployable until it is confirmed. ⛔ A clean timing check does not by itself make a quotation outward-deployable — timing is evidence, not proof.**
+
+#### ⭐⭐ THE CUT POINT — SEGMENT 1 ENDS AT SENTENCE 886; SEGMENT 2 RESUMES AT SENTENCE 887
+
+| | Value |
+|---|---|
+| **Last sentence of segment 1** | **886** — *"Yeah, any other questions?"* |
+| **Timestamp** | **t = 4088.0 s** (**1:08:08**) |
+| **First sentence of segment 2** | **887** — *"Well, I just wanted to ask you about purgatory really quick."* |
+| **Timestamp** | **t = 4089.2 s** (**1:08:09**) |
+| **Segment 1 size** | **887 sentences** (0-886) of 3,856 · **23.0%** of the session |
+
+⭐ **WHY HERE AND NOT AT 960.** The brief specified *"the nearest natural topic boundary to sentence 960."* **This is it, at 74 sentences' distance.** The teaching voice closes the preceding topic explicitly at sentence 885 — *"We're going to move on from this"* — invites questions at 886, and a **new topic opens at 887 with a direct question about purgatory.** ⚠️ **The next candidate boundary in the other direction is sentence 1140 (the Sursum Corda, t = 5151.2 s), 180 sentences away — more than twice as far.** ⛔ **Cutting at 960 exactly would have sliced the middle of the purgatory-and-invocation discussion, which is the densest §12 material in the session.**
+
+⭐ **What segment 2 inherits, stated so it resumes cleanly:** it **opens on purgatory** (Known Gap 10) and runs into the invocation-of-saints and intercession material (§12, Open Q 3, Open Q 4), then the Sursum Corda at 1140. ⛔ **It also inherits the Hazard 2 anchor (1350/1352) and the Hazard 1 calibration case (1394), neither of which falls in segment 1.**
 
 ### REVELATION CLASS — series JD does not attend
 
