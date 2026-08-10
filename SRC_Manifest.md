@@ -247,12 +247,12 @@ The `>>` diarization markers are **sparse and unreliable**: 4 in Session IX, 22 
 | Field | Value |
 |---|---|
 | Filename | `SRC_Discord_RPW.md` |
-| SHA-256 | `1b38797ae6f1a665ec7d374e08a93f46f3794ed2ab3843317bbee6560ffb7b73` |
-| Size | 23,583 bytes |
-| Lines | 228 |
+| SHA-256 | `bffdba5b87f5f47b6ec26b0ccbcf80aa70a3a3bc67ab2349d17053b7b5d782f9` |
+| Size | 25,453 bytes |
+| Lines | 243 |
 | Thread | "Regulative Principle" (opened by JD, 2026-06-18) |
-| Coverage | 2026-06-18 → 2026-08-01 |
-| Export history | 260722-1 initial (relative timestamps unresolved); **260724-1 re-export**, extends through 07-23 and resolves the three "Yesterday" timestamps to 07-21; **260731-1 CLIPBOARD APPEND** — Rev. James's 07-29 reply added at EOF from the Discord client, **not** a re-export. ⚠️ **First non-exporter capture in this file.** No prior byte changed, so all previously logged offsets hold; hash/size/line count updated for the append **and** for the changelog line the append added at the top |
+| Coverage | 2026-06-18 → 2026-08-08 |
+| Export history | 260722-1 initial (relative timestamps unresolved); **260724-1 re-export**, extends through 07-23 and resolves the three "Yesterday" timestamps to 07-21; **260731-1 CLIPBOARD APPEND** — Rev. James's 07-29 reply added at EOF from the Discord client, **not** a re-export. ⚠️ **First non-exporter capture in this file.** No prior byte changed, so all previously logged offsets hold; hash/size/line count updated for the append **and** for the changelog line the append added at the top; **260810-1 CLIPBOARD APPEND** — Rev. James's 8/8/26, 2:12 PM reply (his answer to DQ-18) added at EOF, the relative timestamp resolved to 8/8/26 on JD's report and the duplicated raw author line normalised into the file's heading form. ⚠️ **Single-message append, NOT the full-thread re-capture the 260801-3 standing rule requires** — recorded, and a full-thread capture is owed before any verbatim quotation outward. No prior byte changed, so all logged offsets hold; hash/size/line count updated for the append **and** for the changelog line it added at the top |
 | Findings sourced | **DQ-3, DQ-4, DQ-5, DQ-7, DQ-8, DQ-9, DQ-10, DQ-7a, DQ-14, DQ-15** — the priority channel and the source of the entire incense funnel. ⏳ **Rev. James's 07-29 answer to DQ-15 is CAPTURED in the file but NOT yet logged as a finding; no `DQ` number has been minted for it and next free `DQ` remains `DQ-16`** (260731-1) |
 
 | Field | Value |
