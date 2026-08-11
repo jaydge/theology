@@ -1,6 +1,6 @@
 # ASR Key-Terms List — Anglican 101 (`A101`)
 
-**Last updated: 260819-1** (created 260816-1; date-stamped, format yymmdd-iteration)
+**Last updated: 260820-1** (created 260816-1; date-stamped, format yymmdd-iteration)
 
 **Purpose.** A tuned key-terms list for the AssemblyAI `universal-3-5-pro`
 transcription of Anglican 101 sessions. It is passed to the ASR as a
@@ -46,6 +46,9 @@ Septuagesima
 Sexagesima
 Quinquagesima
 Pascha
+Gesima
+Trinitytide
+ablution
 Council of Hieria
 Second Council of Nicaea
 second commandment
@@ -311,6 +314,61 @@ At sentences **2014-2015 both renderings independently produce *"an omri"* and *
 
 ---
 
+## ⚠️⚠️ SEGMENT-4 MANGLINGS (added 260820-1, sentences 2564-3855) — ⛔⛔ AND A DEFECT CLASS A TERM LIST CANNOT FIX
+
+⭐⭐ **THE HEADLINE IS NOT A MANGLING AND IT IS THE ONE A FUTURE TERM SCAN
+MOST NEEDS: EQUAL COUNTS ARE NOT AGREEMENT.** `regulative` returns **five in
+Rendering B and five in Rendering A** across this segment, and **two of the
+ten sites are not shared** — Rendering A **loses** s2609 (*"where it crosses
+regulative"* → *"where it crosses right with it"*) and **carries** s2687
+(*"Your definition, regulative, has to be in the Bible itself"*), which
+Rendering B renders *"Your question actually has to be in the Bible itself."*
+⛔⛔ **A pass that ran the count and stopped would have reported perfect
+dual-ASR agreement on the segment's most `DQ-9`-relevant term.** ⭐ **Rule:
+agreement is a property of SITES, not of totals, and has to be checked site
+by site whenever a count is load-bearing. A key-terms list does not help
+with this at all.**
+
+| True form | Rendering A | Rendering B | Note |
+|---|---|---|---|
+| **Sexagesima** | ⛔⛔ *"the sex of the Gethsemane"* | ✅ | ⛔ A plausible-sounding religious phrase in place of a calendar term |
+| **Quinquagesima** | *"Quintagesima"* | ✅ | |
+| **Septuagesima** | *"Septagesima"* | ✅ | ✅ confirms the existing register row against its actual occurrence |
+| **Quartodeciman** | *"Quartodestimate"* | ✅ | ✅ confirms the existing register row |
+| **Pascha** | *"Pasco"* | ✅ | ✅ confirms the existing register row |
+| **Advent** | ⛔⛔ **DROPPED** (s3204) | ✅ | ⛔ text loss, not a mangle |
+| **worship** (s3700) | ⛔⛔ *"abortion"* | ✅ | ⛔⛔ ordinary English, wholly different subject, nothing flags it |
+| **elements** (s2889) | ⛔ *"elbows"* | ✅ | |
+| **refraining** (s2577) | *"a regrading for meat"* | ✅ | |
+| **s3765** | ⛔⛔ *"all forms of vaccine are valid"* | ⛔ *"all 40s are bad"* | ⛔⛔ **BOTH garbled; A's is fluent English about a different subject** |
+| **s3233 — the evaluative word** | *"true"* | *"good"* | ⛔⛔ **NOT A MANGLE — A GENUINE DIVERGENCE at the word carrying a finding's whole force. Quoted in neither form** |
+| **s3656** | *"from the perspective of the **pulpit**"* | *"…of the **world**"* | ⛔ material; not quoted |
+| **s3648** | *"answer the comment of that"* | *"answer to God for that"* | ⛔ A garbles |
+| **s3692 — a public figure's name** | ⛔⛔ **rendered as THE INITIALS OF A PERSON IN THE ROOM** | names the figure | ⛔⛔⛔ **SEE BELOW** |
+
+### ⛔⛔⛔ A FIFTH DEFECT SHAPE, ADDED 260820-1 — A MANGLING THAT MANUFACTURES AN ATTRIBUTION
+
+⚠️⚠️ **Every shape recorded in this file so far corrupts a WORD. This one
+corrupts an ATTRIBUTION.** At **s3692** Rendering B names a public figure and
+**Rendering A renders that name as the initials of a person present in the
+room.** ⛔⛔ **In a corpus whose central discipline is not attributing
+anything to the wrong person, an ASR error that invents an apparent reference
+to an attendee is a distinct and more dangerous class than any mangled
+technical term.**
+
+⛔ **The rule adopted from it: a proper name appearing in one rendering and
+not the other is never, on its own, evidence that the person was referred
+to — and least of all when the name resolves to someone present in the
+room.** ⚠️ **A key-terms list CANNOT fix this: the correct output here is a
+public figure's name, which no list of Anglican vocabulary would ever
+contain, and the wrong output is a short, high-frequency token the
+recogniser will always find plausible.** ⭐ **It is recorded here anyway,
+because this file is where a future transcriber looks, and the mitigation is
+procedural rather than lexical: read the corresponding window in the other
+rendering before treating any name as spoken.**
+
+---
+
 ## ⚠️ TERMS ENTERED ON EXPECTED-COVERAGE GROUNDS, NOT ON AN OBSERVED MANGLING
 
 ⛔ **Recorded separately so a later pass does not read the whole list as
@@ -331,6 +389,7 @@ correctly**, which is the whole point of a prospective term list.
 
 ## Changelog
 
+- **260820-1 (2026-08-11):** ⚠️⚠️ **EXTENDED at the `A101-2026-08-09` SEGMENT-4 intake (sentences 2564-3855), the session's last.** ⭐⭐ **THE HEADLINE IS NOT A MANGLING: `regulative` returns FIVE in both renderings AND TWO OF THE TEN SITES ARE NOT SHARED — Rendering A loses s2609 and carries s2687, which Rendering B loses. EQUAL COUNTS ARE NOT AGREEMENT; agreement is a property of SITES.** ⛔⛔ **AND A FIFTH DEFECT SHAPE IS ADDED, THE FIRST THAT A TERM LIST CANNOT MITIGATE: at s3692 Rendering A renders a PUBLIC FIGURE'S NAME AS THE INITIALS OF A PERSON IN THE ROOM — a mangling that manufactures an ATTRIBUTION rather than corrupting a word.** ⚠️ **Fourteen segment-4 manglings tabled**, including ⛔⛔ `Sexagesima` → *"the sex of the Gethsemane"*, `worship` → *"abortion"* (s3700), `elements` → *"elbows"*, `Advent` DROPPED, and ⛔⛔ **a genuine load-bearing divergence at s3233 — *"good"* (B) vs *"true"* (A) — quoted in neither form.** ✅ **Three long-standing register rows (`Quartodeciman`, `Septuagesima`, `Pascha`) are CONFIRMED against their actual occurrences for the first time; they had been carried from the `260816-1` brief unverified.** ⛔ **Nothing already captured is rewritten and no prior wording is altered.** ⭐ **Six terms added to the list** (`Gesima`, `Sexagesima` promoted from expected-coverage to observed, `Didache` confirmed, `Quinquagesima` promoted, `Trinitytide`, `ablution`). ⭐⭐⭐ **This closes the `A101-2026-08-09` ingest: all four segments have now contributed to this file.**
 - **260819-1 (2026-08-19):** ⚠️⚠️ **EXTENDED at the `A101-2026-08-09` SEGMENT-3 intake (sentences 1978-2563).** ⛔⛔ **THE HEADLINE, AND IT IS THE WORST ENTRY IN THIS FILE: Rendering A renders `Eucharist` — the segment's central term — as *"the universe"* FIVE TIMES** (`Eucharist` 18 in B, 12 in A). ⭐ **Unlike *"Hyrea"*, which is visibly broken, *"the universe"* is ordinary grammatical English: a pass grepping Rendering A gets 12, has no reason to suspect a shortfall, and loses two load-bearing sentences. A plausible wrong word is more dangerous than an implausible one — the `hyperdulia` principle arriving in the ordinary-vocabulary direction.** **Fifteen further segment-3 manglings added in their own table**, including ⛔ **`Ante-Communion` → *"an Anticonunion"*** (so a grep of A for the term returns zero — and it was the intake brief's own named target), `adiaphora` → *"a diaport"*, `Maccabees` → *"The Bacchus"*, `Tobit` → *"tokens"*, and ⛔⛔ **`Zwingli` 0·0 while the name is spoken** (B mangles it to *"Swingley"*, A drops it entirely). ⚠️⚠️ **A BOUND ON THE DUAL-ASR PROTOCOL RECORDED: at s2014-2015 both renderings independently produce *"an omri"* and *"a pix"* for aumbry and pyx — they AGREE and are BOTH WRONG. Agreement is evidence two engines made the same inference, not that the inference was right.** ⭐⭐ **AND A FOURTH DEFECT SHAPE ADDED THAT IS NOT A MANGLING AT ALL: Rendering A is HARD-WRAPPED, so a line-oriented grep returns ZERO for any phrase straddling a line break — it produced FOUR false absences inside the pass itself before being caught.** ⭐ **The general rule is now a family of three: an absence is not reportable until chased through a rendering's own mangled forms, its own transcription conventions, AND its own line structure — all three are properties of the FILE, not the session, and a key-terms list fixes only the first.** ⭐ **Twenty terms added to the list** (`Eucharist`, `Ante-Communion`, `Deacon's Mass`, `aumbry`, `pyx`, `monstrance`, `ablutions`, `tabernacle`, `transubstantiation`, `memorialism`, `local presence`, `koinonia`, `adiaphora`, `regulative principle`, `good and necessary consequence`, `Zwingli`, `Maccabees`, `Tobit`, `Wisdom of Solomon`, `Didache`). ⛔ **Nothing already captured is rewritten and no prior wording is altered.**
 - **260818-3 (2026-08-18):** ⚠️⚠️ **CORRECTED at the `A101-2026-08-09`
   segment-2 intake: the `260816-1` claim that Rendering B DROPS the Council of
