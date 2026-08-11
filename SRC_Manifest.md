@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260818-3** (date-stamped, format yymmdd-iteration)
+**Last updated: 260819-1** (date-stamped, format yymmdd-iteration)
+
+**260819-1: ⭐⭐⭐ `A101-2026-08-09` SEGMENT 3 OF 4 INGESTED (sentences 1978-2563) — `IP-51`…`IP-58`; ⭐⭐ THE DENSEST `DQ-9` MATERIAL THE CORPUS HAS EVER HELD, AND ⛔⛔ A NEW ASR DEFECT CLASS THAT WOULD SILENTLY GUT A TERM SCAN.** Full note at **Note 2g**. **Coverage established from the captures, not from the brief: the tabernacle and the reserved sacrament · Eucharistic adoration refused · real presence, transubstantiation excluded, memorialism named and declined · ⭐ Ante-Communion and the Deacon's Mass, exactly where segment 2 forward-pointed them · the ablutions in the first person · ⭐⭐ the regulative principle vs the *"regulative example"* · Article XXVIII invoked unnamed · the Apocrypha.** ⭐⭐ **`DQ-9` GETS ITS DECISIVE DATUM AND THE SPEAKER SPLIT IS THE OPPOSITE OF THE CARELESS READING: `warrant` ×3·3 and EVERY ONE IS THE OBJECTOR'S, ZERO ARE HIS; `authoriz-` 0·0; `authority` ×3 and all three are a THIRD speaker's. His own move is to reject act-level warrant by name — the objector is following *"the regulative example,"* not the regulative principle.** ⛔⛔ **THE PASS'S LOAD-BEARING ASR RESULT, AND IT IS THE `Hyrea` LESSON AT ITS MOST DANGEROUS: Rendering A renders `Eucharist` — the segment's central term — as *"the universe"* FIVE TIMES. `Eucharist` returns 18 in Rendering B and 12 in Rendering A, and the six missing ones are not garbage but ORDINARY, GRAMMATICAL ENGLISH that no reader would ever flag.** ⚠️ **Three further shapes of the same defect recorded: `Ante-Communion` → *"an Anticonunion"*, `adiaphora` → *"a diaport"*, `Maccabees` → *"The Bacchus"*, `Tobit` → *"tokens"*, `Zwingli` → *"Swingley"* (Rendering B) and DROPPED entirely by Rendering A — ⛔ and a FOURTH shape that is not a mangling at all: **Rendering A is HARD-WRAPPED, so a line-oriented grep for any phrase longer than a few words returns ZERO for text that is plainly present.** ⛔⛔ **THE SEGMENT'S MOST CONSEQUENTIAL SENTENCE IS NOT ATTRIBUTED: *"I believe the Roman Mass is blasphemous"* sits in a 15.7-second single-label sentence that is a merge candidate by every flagged criterion, and BOTH readings are live. It is NOT his on this evidence and NOT the objector's either — logged both ways, chosen neither.** ⛔ **`Article` ×1·1 and it is *"the article,"* NOT a naming by number; `Article 34` 0·0 — the row does NOT move, and the interrogative segment 2 forward-pointed at sentence 2593 falls in SEGMENT 4 under this cut. `confession` 0·0, `absolution` 0·0 — Known Gap 11's confession half does NOT move.** ⛔⛔ **HAZARD 3: THE GUARD HELD. Nothing logged, named, characterised or alluded to, at any tier, and one stretch read while establishing the cut point is recorded as excluded with NOTHING about its subject.** ⛔ **Every finding carries an OPEN EAR-VERIFICATION FLAG; no ear verification was performed this pass either. The ear queue now spans three segments and stands at TWENTY-FIVE items.** **Cut point: segment 3 ends at sentence 2563; segment 4 resumes at 2564.** **Next free `IP`: `IP-59`.**
 
 **260818-3: ⭐⭐⭐ `A101-2026-08-09` SEGMENT 2 OF 4 INGESTED (sentences 887-1977) — ⭐⭐ THE SESSION MINTS FOR THE FIRST TIME, `IP-45`…`IP-50`; ⛔⛔ A CORRECTION TO THIS FILE'S OWN `260816-1` RECORD: RENDERING B DOES **NOT** DROP THE COUNCIL OF HIERIA.** Full note at **Note 2f**. **Coverage established from the captures, not from the brief: purgatory (Known Gap 10) · Matthew 5:25-26 and Luke 12:58-59 · invocation of the saints at length · the Sursum Corda · prayer to the Trinity · images, the second commandment and the Council of Hieria · the statues at St. Francis.** ⛔⛔ **THE BRIEF'S INVENTORY IS CORRECTED: `Ante-Communion` 0·0 and `deacon` 0·0 in this segment — both fall at sentences 2056-2057 (SEGMENT 3); `sola scriptura` 0·0; the sole `Trent` hit is *"Trent Horn,"* a person, not the Council.** ⛔⛔ **`Article` 0·0 across all 1,091 sentences — the Articles are NOT the throughline here and Article XXI onward is NOT reached.** ⭐⭐ **THE HIERIA CORRECTION, WHICH IS THE PASS'S LOAD-BEARING RESULT ABOUT THIS FILE: Note 2e, the `260816-1` pass note and `asr_keyterms_A101.md` all state that Rendering B *"drops the council name entirely,"* leaving only *"754."* IT DOES NOT. Rendering B carries the name TWICE as *"Hyrea"* (sentences 1851, 1852) — grep-verified in `SRC_AAI_20260809_sentences.json`, the `.srt` and the word-level file. Rendering A carries it twice as *"Hyria."* NEITHER rendering drops it and NEITHER gets it right.** ⚠️ **The mechanism is the point and it is the previous pass's own cited lesson turned on itself: `260816-1` grepped Rendering B for `Hyria` (Rendering A's form) and for `Hieria` (the true form), got zero, and reported a deletion — it did not grep for RENDERING B'S OWN mangled form. That is the `Lateran` → *"lad ladan"* discipline (`260813-1`) applied to one rendering and not the other.** ⛔ **The `260816-1` wordings STAND at every site per the never-alter rule; dated notes are added beside them.** ⛔⛔ **HAZARD 2 CONFIRMED IN BOTH RENDERINGS and applied verbatim-plus-`[Stated-Analysis]`, never as a substitution. ⛔⛔ HAZARD 3 NEVER APPROACHED — nothing searched for, located or recorded, at any tier.** ⛔ **Every finding carries an OPEN EAR-VERIFICATION FLAG; no ear verification was performed this pass. The ear queue is extended by nine items.** **Cut point: segment 2 ends at sentence 1977; segment 3 resumes at 1978.** **Next free `IP`: `IP-51`.**
 
@@ -367,7 +369,7 @@ This table exists because the hash check cannot do this job. The file tables abo
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260808-1; never promotes) | `A101-20260719-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `b0047300` | 49,497 | *(comparison capture — Step 2 outcomes at Note 2b; sole substrate for IP-13)* | — |
 | `A101-2026-07-26` | 2026-07-26 | **Articles IX-XVI** *(both captures' title and content, 260809-1; Article XVII announced, NOT taught — questions consumed the close; ⚠️ substantial post-session informal predestination/Black-Rubric/Mass-sacrifice discussion is `[R]`-only, Note 2c)* | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** | `A101-20260726-JD-recording-with-q-and-a.md` ⛔ *held OUTSIDE the repo (JD's archive)* ⚠️ *naming/format departs from the `Audio_MM_DD…` class — Note 2c* | `96a9c5a9` | 57,305 | **IP-24…IP-39** *(⚠️ several `[S]`-sourced — recorder-start gap + fragmentary mid-session stretch; `IP-37`/`IP-38`/`IP-39` are `[R]`-only post-session; Note 2c)* | — *(born verified where dual-covered; single-capture stretches ⬜ OUT OF SCOPE, none frozen — Note 2c; ✅ the room-only post-session findings IP-37/IP-38/IP-39 audio-verified by JD 260810, flags DISCHARGED 260810-1 — Note 2c)* |
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260809-1; never promotes) | `A101-20260726-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `845de990` | 55,179 | *(comparison capture — sole substrate for the Articles XIII-XVI and confession/succession stretches; truncates mid-sentence at the close)* | — |
-| `A101-2026-08-09` | 2026-08-09 | ⚠️⚠️ **PARTIAL — SEGMENTS 1-2 OF 4 (sentences 0-1977 of 3,856; 0-140 min of 4h 20m 30s; 51.3%). Updated 260818-3.** ⭐⭐ **SEGMENT 2 (887-1977) ingested at `260818-3`: purgatory and Known Gap 10 · Matthew 5:25-26 and Luke 12:58-59 · invocation of the saints at length · the Sursum Corda · prayer to the Trinity · images, the second commandment and the Council of Hieria · the statues at St. Francis. ⛔ `Article` 0·0 in segment 2 — open Q&A throughout, Article XXI onward NOT reached; `Ante-Communion`/`deacon` fall at s2056-2057, SEGMENT 3.** ⛔ **Segments 3-4 NOT INGESTED.** *(Segment 1 coverage, `260816-1`, unchanged:)* ⚠️ **SEGMENT 1 OF 4 (sentences 0-886).** Segment 1 coverage, established from the captures: Article XVII (predestination and election) · ⭐⭐ **ARTICLE XX, REACHED AND TAUGHT** · sola scriptura and Trent · the Magisterium · creeds and anti-creedal objection · paedocommunion · genuflection and images · the whole life of Christ as salvific · death and preparation for it. ⛔ **Segments 2-4 NOT INGESTED; coverage beyond sentence 886 is NOT established by this pass** | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** — ⛔⛔ **TRIMMED-BUT-NAME-INHERITED: this file is NOT the as-recorded original. Provenance event at Note 2e** | `Audio_08_09_2026_19_35_15.mp3` ⛔ *held OUTSIDE the repo (JD's archive)* | `0d6df52a` | 250,080,486 | ⭐⭐ **`IP-45`…`IP-50` (segment 2, `260818-3`, Note 2f) — the session's first minted findings.** ⛔ **Segment 1 minted NONE** *(Note 2e)*. **Next free: `IP-51`** | ⚠️⚠️ **YES — THE WHOLE SEGMENT.** Multi-voice; diarization is navigation only; the word-level splice check FAILED its own calibration. ⛔ Nothing here is attributable or quotable before ear confirmation *(Note 2e)* |
+| `A101-2026-08-09` | 2026-08-09 | ⚠️⚠️ **PARTIAL — SEGMENTS 1-3 OF 4 (sentences 0-2563 of 3,856; 0-178 min of 4h 20m 30s; 66.5%). Updated 260819-1.** ⭐⭐ **SEGMENT 3 (1978-2563) ingested at `260819-1`, `IP-51`…`IP-58`: the tabernacle and the reserved sacrament · Eucharistic adoration refused · real presence with transubstantiation excluded and memorialism declined · ⭐ Ante-Communion and the Deacon's Mass (Known Gap 11's deacon prong; ⛔ `confession`/`absolution` 0·0, the confession half does NOT move) · the ablutions in his own first person · ⭐⭐ the regulative principle vs the *"regulative example"* — `DQ-9`'s decisive datum, with `warrant` ×3·3 ALL the objector's and ZERO his · Article XXVIII invoked as *"the article"* and NOT named by number · the Apocrypha. ⛔ `Article 34` 0·0 — the row does NOT move; the sentence-2593 interrogative falls in SEGMENT 4 under this cut.** ⛔ **Segment 4 NOT INGESTED.** *(Segment 2 coverage, `260818-3`, unchanged:)* ⭐⭐ **SEGMENT 2 (887-1977) ingested at `260818-3`: purgatory and Known Gap 10 · Matthew 5:25-26 and Luke 12:58-59 · invocation of the saints at length · the Sursum Corda · prayer to the Trinity · images, the second commandment and the Council of Hieria · the statues at St. Francis. ⛔ `Article` 0·0 in segment 2 — open Q&A throughout, Article XXI onward NOT reached; `Ante-Communion`/`deacon` fall at s2056-2057, SEGMENT 3.** *(Segment 1 coverage, `260816-1`, unchanged:)* ⚠️ **SEGMENT 1 OF 4 (sentences 0-886).** Segment 1 coverage, established from the captures: Article XVII (predestination and election) · ⭐⭐ **ARTICLE XX, REACHED AND TAUGHT** · sola scriptura and Trent · the Magisterium · creeds and anti-creedal objection · paedocommunion · genuflection and images · the whole life of Christ as salvific · death and preparation for it. ⛔ **Segments 2-4 NOT INGESTED; coverage beyond sentence 886 is NOT established by this pass** | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** — ⛔⛔ **TRIMMED-BUT-NAME-INHERITED: this file is NOT the as-recorded original. Provenance event at Note 2e** | `Audio_08_09_2026_19_35_15.mp3` ⛔ *held OUTSIDE the repo (JD's archive)* | `0d6df52a` | 250,080,486 | ⭐⭐ **`IP-51`…`IP-58` (segment 3, `260819-1`, Note 2g).** ⭐⭐ **`IP-45`…`IP-50` (segment 2, `260818-3`, Note 2f) — the session's first minted findings.** ⛔ **Segment 1 minted NONE** *(Note 2e)*. **Next free: `IP-59`** | ⚠️⚠️ **YES — THE WHOLE SEGMENT.** Multi-voice; diarization is navigation only; the word-level splice check FAILED its own calibration. ⛔ Nothing here is attributable or quotable before ear confirmation *(Note 2e)* |
 | ″ | ″ | ″ | ″ | *stream — flagged only, NOT a capture row* | ⏳ **POSSIBLE FUTURE CAPTURE — FLAGGED ONLY. NOT PULLED, AND ITS EXISTENCE IS NOT ESTABLISHED.** Were the parish channel (`EXT-3`) to upload this session, it would register as PERMANENT SECONDARY — COMPARISON CAPTURE (Branch A; never promotes). ⛔ **Do not read this row as a known source.** ⚠️ *Formatting note: this cell deliberately writes "stream" rather than the bracketed code — C12 counts any row here carrying a bracketed code as a session capture row, and a capture that does not exist must not be counted as one (the CL-4 defect shape, per Note 1a)* | *(not pulled)* | — | — | *(none)* | — |
 
 > ⛔⛔ **`A101-2026-06-28` HAS NO ROOM CAPTURE AND NEVER WILL — CONFIRMED ABSENT, NOT "NOT YET CAPTURED" (260812-1).** JD searched his recorder app and his files: **he did not record the room on 2026-06-28.** The `[R]` placeholder row that stood here until 260812-1 is retired on the **260726-1 pattern** (placeholders are superseded by the real state, not deleted from the historical record — this line records what it was for). ⛔ **Do not re-add an `[R]` row for this session, and do not read the absence of one as an un-ingested capture: there is nothing to ingest.** ⚠️ **This is why the session gets its own shape rather than being forced into Branch A, which presupposes a room capture — see Note 2d.**
@@ -1051,6 +1053,194 @@ Note 2e recorded three converging guards, each *"alone sufficient."* **Two are u
 ⭐ **WHY HERE AND NOT AT 1,800.** The brief specified *"the nearest natural topic boundary to sentence 1,800."* **Sentence 1,800 sits in the middle of the images argument** — it is the objector's *"Like Calvin said, we're idol factories"* (t = 7839.4 s), mid-exchange, with the teaching voice's reply still to come. ⛔ **There is no boundary there and no long pause anywhere near it: the largest inter-sentence gap in the whole stretch 1650-2000 is 4.03 s, at sentence 1696, which is also mid-argument.** **The two real candidates are 1612** (*"But the other images thing, that'll be a whole nother—"*, t = 7274.5 s — **188 sentences BEFORE 1,800**) **and 1978** (**178 sentences after**). ⭐ **1978 is both nearer and better: it is a new question opening a genuinely new topic — the tabernacle and the reserved sacrament — and cutting there keeps the whole images/second-commandment argument inside ONE segment instead of slicing it.** ⛔ **Cutting at 1,800 exactly would have split a single continuous exchange between two passes, which is the failure the segment-1 cut point was chosen to avoid.**
 
 ⭐ **What segment 3 inherits, stated so it resumes cleanly:** it **opens on the tabernacle and the reserved sacrament** (§8, §10 — *"why a tabernacle?"*, *"why not just a dish"*), and the term scan places **Ante-Communion and the Deacon's Mass at sentences 2056-2057** (Known Gap 11, `POD-5`/`POD-6`/`POD-10`), **the Apocrypha from ~2504**, **Quartodeciman at 2673**, **Pascha at 2681**, **the string `Article 34` occurring at sentence 2593** *(⚠️⚠️ ⛔ **DO NOT READ THIS AS A NAMING AND DO NOT MOVE THE ARTICLE 34 ROW ON IT.** The occurrence is an interrogative — *"Is that Article 34?"* — and it is **retracted in the very next sentence**: *"Or no, Article 20."* ⛔ **Its speaker is not established, the question form is not the row's criterion, and this pass did NOT read the surrounding stretch. It is recorded ONLY so segment 3 finds it deliberately rather than by surprise, and so that a grep hit on `Article 34` in this session is not mistaken for the naming the row waits for.**)*, and **Lent and the Gesima Sundays from ~2565 and ~3199.** ⛔ **None of that is ingested and none of it is established beyond the fact that the terms occur.**
+
+### ⭐⭐⭐ Note 2g — THE `A101-2026-08-09` INTAKE, SEGMENT 3 OF 4, RUN 260819-1 — ⭐⭐ **`DQ-9`'s DECISIVE DATUM, AND ⛔⛔ AN ASR DEFECT THAT TURNS THE SEGMENT'S CENTRAL TERM INTO ORDINARY ENGLISH**
+
+**Session:** `A101-2026-08-09`, class date **2026-08-09**. **Capture: the same single `[R]` room recording registered at Note 2e.** ⛔ **No new artifact was registered by this pass; the seven artifacts, their hashes, the provenance event and the trimmed-but-name-inherited marking are all at Note 2e and are unchanged.**
+
+⛔⛔ **SCOPE. SEGMENT 3 COVERS SENTENCES 1978-2563 OF 3,856** — t = **8426.853-10693.2 s** (**2:20:27-2:58:13**), **586 sentences**, **6,824 words** (Rendering B), **15.2%** of the session. **Segments 1+2+3 now cover sentences 0-2563 — 66.5%.** ⛔ **Segment 4 is NOT ingested; nothing beyond sentence 2563 is established and no absence beyond it may be inferred.**
+
+#### ⭐ WHY THIS SEGMENT MINTS — THE SAME ONE GUARD MOVED, AND IT MOVED FURTHER THAN IN SEGMENT 2
+
+**Two guards are unchanged and still bind:** ⛔⛔ **the word-level splice detector remains FALSIFIED and was NOT used** (Note 2e), and ⛔⛔ **NO EAR VERIFICATION WAS PERFORMED.** ⛔ **Artifact 2 was not used and is never a verification target.**
+
+⭐⭐ **The speaker guard moved further here than in segment 2, and by the same method — explicit ROLE SELF-IDENTIFICATION, never the label.** This segment contains the strongest such anchors in the session so far, because the teaching voice describes **his own liturgical actions at his own altar in the first person**:
+
+| Anchor | Sentence | Timestamp | What it establishes |
+|---|---|---|---|
+| *"this happened this morning— if not enough was laid out for consecration"* | **1980** | **8431.5 s (2:20:31)** | ⭐ The celebrant, reporting **that morning's** service |
+| ⭐⭐ The ablutions, first person — *"the acolyte will give me…"*, *"I'll have him wash my fingers"* | **2253-2257** | **9506.1-9527.6 s (2:38:26)** | ⭐⭐ **The celebrant's own actions at his own altar. The strongest role anchor in the session** |
+| *"to teach myself and to teach my congregation"* | **2267** | **9584.5 s (2:39:44)** | ⭐ **His own congregation**, spoken as its clergyman |
+| *"the deacon for us is not allowed to consecrate"* | **2057** | **8750.2 s (2:25:50)** | Speaking for his own church's order |
+| *"as a Baptist who hated that belief, I became convinced"* | **2347** | **9849.0 s (2:44:09)** | His own biography |
+
+⛔⛔ **AND THE LABEL STILL ESTABLISHES NOTHING — IN THIS SEGMENT THE MISLABELLING BITES LABEL `C`, WHERE SEGMENTS 1 AND 2 DEMONSTRATED IT IN `B`.** ⭐ **Three provable instances, each a QUESTION AND ITS ANSWER BOTH CARRYING THE SAME LABEL:**
+
+- **2109/2110** — *"So you believe that the elements have a physical change…?"* / *"There's not a physical change."* — **both `C`.**
+- **2113/2114** — *"…neither element that has to do with the actual molecules…"* / *"No, the bread and the wine is fully and truly there."* — **both `C`.**
+- **2123/2124** — *"…you're saying it spiritually is tied to God now in some way?"* / *"Yes."* — **both `C`.**
+
+⛔ **So the under-count is not a property of one label. No label in this session may be treated as a person** (`LS-15`/`LS-16`/`LS-19`), and ⛔ **JD's own questions are in this transcript and are never findings about him.**
+
+**Segment-3 diarization tallies, measured:**
+
+| Label | Sentences | Words |
+|---|---|---|
+| `B` | 290 | 3,662 |
+| `C` | 268 | 2,932 |
+| `A` | 28 | 230 |
+
+#### ⛔⛔ ACTUAL TOPIC COVERAGE — ESTABLISHED FROM THE CAPTURES, AND THE BRIEF'S TWO NAMED TARGETS BOTH LANDED
+
+| Block | Sentences | Timestamps | Topic |
+|---|---|---|---|
+| 1 | **1978-2029** | 2:20:27-2:23:15 | ⭐⭐ **The tabernacle and the reserved sacrament** — *"where the consecrated elements remain"*; reservation **not required**; aumbry and pyx as alternatives |
+| 2 | **2030-2058** | 2:23:15-2:25:58 | ⭐⭐ **Eucharistic adoration refused** — the monstrance declined as a rite *"not established by Christ"*; ⛔ **the unattributed *"blasphemous"* sentence, see below**; ⭐ **Ante-Communion and the Deacon's Mass at 2056-2057** |
+| 3 | **2059-2160** | 2:25:59-2:32:40 | The reverence argument — dropped elements, the crumb case, consecrated vs *"mundane wine"* |
+| 4 | **2077-2092, 2298-2362** | 2:26:48, 2:41:36-2:46:02 | ⭐⭐⭐ **THE REGULATIVE PRINCIPLE** — the element/circumstance distinction pressed by the objector; ⭐ **the *"regulative example"* counter-move** |
+| 5 | **2126-2240** | 2:29:58-2:37:34 | ⭐⭐ **Real presence** — both realities present; memorialism named and declined; koinonia; Passover and the eating of the victim |
+| 6 | **2241-2296** | 2:37:35-2:41:36 | ⭐⭐ **The ablutions and the reverent consumption of the remains**; the megachurch counter-example |
+| 7 | **2363-2399** | 2:46:03-2:47:44 | **Local presence rejected** (Aquinas cited as denying it); Lutheran latitude; ⛔ **transubstantiation excluded by name** |
+| 8 | **2400-2426** | 2:47:45-2:50:16 | ⭐ **Article XXVIII invoked as *"the article"*** — carried about and lifted up, with a pastoral qualification |
+| 9 | **2492-2510** | 2:53:12-2:55:10 | **Sola scriptura asked for directly and LOST BY BOTH CAPTURES**; ⭐ **the Apocrypha** — morals and history yes, doctrine necessary to salvation no |
+| 10 | **2511-2563** | 2:55:11-2:58:13 | ⭐⭐ **The regulative principle answered from Christ's own practice** — the post-Maccabean feast and the synagogues, neither commanded in the OT |
+
+⭐⭐ **THE BRIEF'S TWO NAMED TARGETS BOTH LANDED EXACTLY WHERE SEGMENT 2 FORWARD-POINTED THEM.** `Ante-Communion` and `deacon` are at **2056-2057**, as predicted to the sentence. ⭐ **This is the first time in this session that a forward pointer has been confirmed rather than corrected, and it is recorded as such because the three preceding passes all had to correct their briefs.**
+
+⛔⛔ **AND THE `Article 34` FORWARD POINTER IS *NOT* REACHED UNDER THIS CUT.** Segment 2 flagged the string at sentence **2593**. **2593 falls in SEGMENT 4** under the cut point below. ⛔ **`Article 34` 0·0 in segment 3 and the row does NOT move.** ⚠️ **Segment 2's warning about it stands unchanged and is carried forward verbatim: the occurrence is an interrogative, it is retracted in the next sentence, and it is NOT the naming the row waits for.**
+
+#### ⛔⛔ THE PASS'S LOAD-BEARING ASR RESULT — `Eucharist` BECOMES *"the universe"*, AND THAT IS THE `Hyrea` LESSON AT ITS WORST
+
+⚠️⚠️ **The brief required each rendering to be checked against ITS OWN plausible mangled form rather than the other rendering's. Run that way, this segment produced the most dangerous instance the project has yet recorded.**
+
+⛔⛔ **`Eucharist` returns 18 in Rendering B and 12 in Rendering A. FIVE of the six missing occurrences are rendered *"the universe."***
+
+| Rendering B | Rendering A |
+|---|---|
+| *"Christ is present in the Eucharist"* (s2007) | *"Christ is present in **the universe**"* |
+| *"the presence of Christ in the Eucharist"* (s2345) | *"the presence of christ in **the universe**"* |
+| *"denies the local presence"* (s2372) | *"denies the local presence of Christ in **the universe**"* |
+| *"that's not the purpose of the Eucharist"* (s2420) | *"that's not the purpose of **the universe**"* |
+| *"the purpose of the Eucharist is to eat"* (s2421) | *"the purpose of **the universe** is to eat"* |
+
+⛔⛔ **WHY THIS IS WORSE THAN `Hyrea`, AND THE DIFFERENCE IS THE WHOLE POINT.** *"Hyrea"* and *"Hyria"* are **visibly broken** — a reader meets them and knows something is wrong. ***"The universe"* is ordinary, grammatical English.** A pass grepping Rendering A for `Eucharist` gets **12**, has no reason to suspect a shortfall, and **the five lost sentences include two of the segment's load-bearing ones.** ⭐ **A plausible wrong word is more dangerous than an implausible one — the same principle the `hyperdulia` catch was recorded under at Note 2e, arriving this time in the ordinary-vocabulary direction rather than the technical-term one.**
+
+⚠️ **THREE FURTHER INSTANCES OF THE SAME SHAPE, ALL FOUND BY READING THE CORRESPONDING WINDOW RATHER THAN BY GREPPING A GUESS:**
+
+| True form | Rendering B | Rendering A | Note |
+|---|---|---|---|
+| **Ante-Communion** | ✅ *"Ante-Communion"* | ⛔ ***"an Anticonunion"*** | ⛔⛔ **A grep of Rendering A for `Ante-Communion` returns ZERO for a term that is plainly there** — and this is the term the brief named as a target |
+| **adiaphora** | ✅ *"adiaphora"* | ⛔ ***"a diaport"*** | ⛔ Reads as two ordinary words |
+| **Maccabees** | ✅ *"The Maccabees"* | ⛔ ***"The Bacchus"*** | ⛔ **A plausible proper noun.** Nothing announces the error |
+| **Tobit** | ✅ *"Tobit"* | ⛔ ***"tokens"*** | ⛔ Ordinary English |
+| **Zwingli** | ⛔ ***"Swingley"*** | ⛔⛔ **DROPPED — *"Do you agree with this being me?"*** | ⛔⛔ **`Zwingli` returns 0·0 while the name is spoken. NEITHER rendering carries it** |
+| **Anglican** | ✅ *"the Anglican position"* | ⛔ ***"the interposition"*** ×2 | ⚠️ **`Anglican` is a REPEAT offender in Rendering A with a DIFFERENT form each time** — segment 2 recorded *"ancient"* |
+| **aumbry / pyx** | *"an omri"* / *"a pix"*; later *"an ombrage"* / *"a pyx"* | *"an omri"* / *"a pix"*; later ***"an omelette"* / *"a pig"*** | ⚠️⚠️ **BOTH renderings mangle these, and at the first occurrence they mangle them IDENTICALLY** |
+| **divinity** | ✅ *"body, blood, soul, and divinity"* | ⛔ *"body, blood, soul, and **body**"* | ⛔ material |
+| **sacrament** | ✅ | ⛔ *"the sacrum"* | |
+| **Scripture** | ✅ | ⛔ *"description"* ×1 | ⛔ material |
+| **regulative principle** | ✅ *"the regulative principle"* | ⛔ *"the **regular** principle"* ×1 | ⛔ **material — `DQ-9`-adjacent** |
+
+⛔⛔ **THE IDENTICAL-MANGLE ROW IS THE ONE THAT BITES THE PROTOCOL ITSELF, AND IT IS RECORDED LOUDLY.** At sentences 2014-2015 **both renderings independently produce *"an omri"* and *"a pix"*** for what are almost certainly **aumbry** and **pyx**. ⚠️⚠️ **The dual-ASR protocol says agreement gives provisional confidence against transcription error. HERE THE TWO RENDERINGS AGREE AND ARE BOTH WRONG.** ⭐ **Agreement between two engines is evidence they made the same inference from the same audio, not evidence that the inference was right — and where the audio is a low-frequency technical term, the same inference is exactly what one should expect.** ⛔ **This does not overturn the protocol; it bounds it, and the bound belongs beside the protocol at Note 2e.**
+
+#### ⛔⛔ A FOURTH SHAPE, AND IT IS NOT A MANGLING AT ALL — RENDERING A IS HARD-WRAPPED
+
+⚠️⚠️ **Recorded because it produced false absences inside this very pass, and was caught only by re-running the checks against the joined text.** **`SRC_WHISPER_20260809.txt` is HARD-WRAPPED at short line lengths.** ⛔⛔ **A line-oriented grep — which is what every `grep` invocation in this project is by default — returns ZERO for any phrase that happens to straddle a line break, no matter how plainly the phrase is present.**
+
+**Demonstrated this pass:** *"the tabernacle is the word that was used"*, *"worship Christ is through the eating"*, *"what's not allowed is transubstantiation"* and *"use the Apocrypha to teach morals and history"* **all returned NOT FOUND on a line-oriented search and are ALL present**, split across two or three lines each.
+
+⭐⭐ **THE GENERAL RULE ADOPTED FROM IT, AND IT IS THE THIRD MEMBER OF A FAMILY THIS SESSION KEEPS PRODUCING:** an absence in a rendering is not reportable until it has been chased through **(i)** that rendering's own mangled forms (`Hyrea`), **(ii)** that rendering's own transcription conventions (*"2nd Commandment"*), and **(iii)** ⭐ **that rendering's own LINE STRUCTURE.** ⛔ **All three are properties of the FILE, not of the session, and all three convert a present term into a reported absence.**
+
+#### ⛔⛔ THE SEGMENT'S MOST CONSEQUENTIAL SENTENCE — AND IT IS NOT ATTRIBUTED
+
+⚠️⚠️ **THIS IS THE `"we don't do prayers for the dead"` SHAPE FROM SEGMENT 2, ARRIVING AGAIN AND POINTING THE OTHER WAY.**
+
+**Sentence 2030**, t = **8595.3-8611.0 s** (**2:23:15**), **label `B`, 15.7 seconds, single label**, reads in Rendering B: ***"I believe the Roman Mass is blasphemous because they're actually adoring the bread and they're directing worship at a So, the concern with their theology is that the substance of the bread and wine are no longer there…"***
+
+⛔⛔ **IT IS A MERGE CANDIDATE BY EVERY CRITERION NOTE 2e LEFT AVAILABLE** — over-long, single-label, and containing a visible mid-sentence truncation (*"at a"*) exactly where Rendering A supplies *"at a physical object"* and then continues into a second speaker's register. ⛔ **The timing cannot resolve it; Note 2e proved that.**
+
+**Both readings are live and BOTH ARE RECORDED:**
+
+1. **The objector's, whole.** Sentence 2029 (label `C`) ends *"…I have some problems with that because the way their view is—"*, and Rendering A runs straight on into *"I believe the Roman Mass is blasphemous…"* with no break. ⚠️ **On this reading the whole run is the Reformed visitor explaining his own objection**, and *"blasphemous"* is **Article XXXI's own word about the Masses** — native vocabulary for exactly this speaker.
+2. **Split.** The teaching voice takes over and the objector assents at 2031 (*"That's the concern."*). ⚠️ **The second half — a technically precise account of what transubstantiation does to the substance — fits the teaching register, and 2032 opens *"So, what we say is…"***
+
+⛔⛔ **NEITHER IS CHOSEN. The sentence is NOT attributed to Rev. James and is quoted nowhere in the corpus outside this note, which records it in order to fence it.** ⭐ **What IS his, and is established independently of this sentence, is the SUBSTANCE of the adoration refusal — anchored at 2044-2052 in an unbroken first-person celebrant register (`IP-52`). The word *"blasphemous"* is what is not established, and a strong polemical characterisation of Rome in his mouth is precisely the kind of thing this project must not manufacture.** ⏳ **Ear queue item 18.**
+
+#### ⭐⭐ RENDERING AGREEMENT AND DIVERGENCE — THE DUAL-ASR PROTOCOL, RUN
+
+✅ **AGREEMENT.** **Sixteen of twenty tested anchors are dual-confirmed near-verbatim**, including every clause quoted in `IP-51`…`IP-58`. ⭐ **Two are verbatim-identical across both renderings and are the strongest in the segment:** *"the deacon for us is not allowed to consecrate the elements"* (s2057) and *"I think you're following the regulative example"* (s2084).
+
+⚠️ **DIVERGENCE — QUEUED, NOT RESOLVED. ⛔ Nothing in this table is quoted anywhere in the corpus.**
+
+| Sentence | t (artifact 1) | Rendering B | Rendering A | Why it matters |
+|---|---|---|---|---|
+| **2500** | **10434.8 s (2:53:54)** | *"according to what our **Holy Mother** says"* | *"according to what our **book** says"* | ⛔⛔ **See the sola scriptura loss below. The divergence is theologically loaded and the whole answer is garbled in BOTH** |
+| **2030** | **8595.3 s (2:23:15)** | truncates at *"directing worship at a"* | *"directing worship at a **physical object**"* | ⛔⛔ **The unattributed sentence. A is the fuller witness** |
+| **2082** | **8815.0 s (2:26:55)** | *"the **regulative** principle"* | *"the **regular** principle"* | ⛔ `DQ-9`-adjacent |
+| **2396** | **10031.2 s (2:47:11)** | *"what's not allowed is transubstantiation"* | ⭐ **adds a second excluded pole — *"and a mere memorial"*** | ⭐⭐ **A carries a clause B LOSES; ⛔ A's own text there is too garbled to quote** |
+| **2033** | **8620.7 s (2:23:41)** | *"body, blood, soul, and **divinity**"* | *"body, blood, soul, and **body**"* | ⛔ A mangles |
+| **2369** | **9953.3 s (2:45:53)** | *"in the Roman **Mass** they have a local presence"* | *"the Roman **baths**, they have a local presence"* | ⛔ material |
+| **2003** | **8503.3 s (2:21:43)** | *"the tabernacle is the word that was used for the presence of God"* | ⛔ **no corresponding run** | ⛔ single-rendering; **not quoted** |
+
+⭐⭐ **AND FOR THE THIRD TIME IN TWO SEGMENTS, RENDERING A IS SOMEWHERE THE BETTER WITNESS** (s2030, s2396). ⛔ **This is the merged-turn artefact of Rendering B showing up as TEXT LOSS rather than as speaker error — the same mechanism segment 2 recorded at s1145 and s1374.**
+
+#### ⛔⛔ ASKED DIRECTLY, AND LOST BY BOTH CAPTURES — THE SOLA SCRIPTURA DEFINITION
+
+⚠️⚠️ **Recorded as its own item because it is the highest-value thing this segment failed to capture, and because an unrecoverable answer must be recorded as unrecoverable rather than reconstructed.**
+
+At **2498** (t = 10428.1 s, **2:53:48**) a participant asks him directly: **what is his *"elevator sentence for sola scriptura"*.** ⛔⛔ **HIS ANSWER, AT 2500, IS GARBLED PAST RECOVERY IN BOTH RENDERINGS** — Rendering B produces *"according to what our Holy Mother says… on a sort of my work of a ruler, like, as the norms of practice"*; Rendering A produces *"according to what our book says… on a sort of my work, as the Romans have practiced."* ⛔ **The two disagree at the load-bearing word and both are incoherent.**
+
+⛔⛔ **NOTHING IS LOGGED FROM IT AND NO FINDING RESTS ON IT.** ⚠️ **It is NOT recorded as an absence either — the question was asked and answered; the CAPTURE failed, which is a different fact from silence and must not be collapsed into one.** ⏳ **Ear queue item 19, and it is the highest-value item this pass adds.**
+
+#### ⛔⛔ HAZARD 3 — THE GUARD HELD, AND ONE EXCLUSION IS RECORDED WITHOUT ITS SUBJECT
+
+⛔⛔ **Nothing is logged, named, summarised, characterised, paraphrased or alluded to, at any tier, in any document.** ⛔ **No private individual is named** (`GV-31` / Ruling C).
+
+⚠️⚠️ **AND THIS PASS'S APPLICATION DIFFERS FROM SEGMENTS 1 AND 2 IN ONE RESPECT THAT MUST BE STATED HONESTLY RATHER THAN GLOSSED.** Those passes applied the guard **by not looking**. **This pass had to read forward past its own range to establish a defensible cut point**, and in doing so **encountered material to which the guard applies.** ⛔⛔ **The guard was applied on contact: the stretch was excluded from analysis, no finding draws on it, no sentence index for it is recorded anywhere, and nothing about its subject, its participants or its content appears in this note or in any other file.** ⭐ **This is the segment-2 decline precedent applied to a discovery rather than to a refusal — a stretch can be recorded as excluded, and NOTHING about it recorded, which is the only way an exclusion can be logged without becoming the disclosure it excludes.**
+
+⚠️ **Recorded so segment 4 does not treat its own encounter with such material as new information, and applies the same guard without needing to be told where.**
+
+#### ⛔⛔ THE VERIFICATION QUEUE — SEGMENT 3 ADDITIONS
+
+⚠️ **Timestamps against artifact 1. ⛔ Artifact 1 only. ⛔ NEVER artifact 2.** ⛔ **Items 1-8 at Note 2e and 9-17 at Note 2f stand; these are additional. The queue now spans THREE segments and stands at TWENTY-FIVE items, ⛔ with ZERO cleared.**
+
+| # | What | Sentences | Timestamp | Why queued |
+|---|---|---|---|---|
+| 18 | ⛔⛔ ***"I believe the Roman Mass is blasphemous"* — WHOSE SENTENCE IS IT?** | 2029-2032 | **2:23:15 - 2:23:40** | ⛔⛔ **THE MOST CONSEQUENTIAL ATTRIBUTION IN THE SEGMENT.** A 15.7 s single-label merge candidate; both readings live. **Not logged either way** |
+| 19 | ⭐⭐ **The sola scriptura definition** | 2498-2503 | **2:53:48 - 2:54:31** | ⛔⛔ **Asked directly and GARBLED PAST RECOVERY in both renderings.** The highest-value uncaptured answer in the segment |
+| 20 | ⭐⭐⭐ **The regulative-principle exchange, whole** | 2077-2092, 2298-2362, 2511-2563 | **2:26:48 - 2:58:13** | `IP-56` — **`DQ-9`'s decisive block.** Establish the his/objector split at every turn before anything is built on it |
+| 21 | ⭐⭐ **The ablutions sequence** | 2249-2258 | **2:37:29 - 2:39:02** | `IP-55` — the segment's strongest role anchor AND its densest ceremonial datum; both depend on it being his |
+| 22 | ⭐ **Ante-Communion / Deacon's Mass** | 2056-2057 | **2:25:42 - 2:25:50** | `IP-54` — Known Gap 11's deacon prong. **Rendering A reads *"an Anticonunion"*** |
+| 23 | ⭐ **Article XXVIII invoked as *"the article"*** | 2413-2419 | **2:49:27 - 2:49:51** | `IP-57` — **a `VP-1` `NOW` datum is FLAGGED on it. Rendering A garbles the clause badly.** Confirm he says *"the article"* and NOT a number |
+| 24 | **Real presence — both realities, transubstantiation excluded** | 2032-2038, 2395-2398 | **2:23:34 - 2:47:18** | `IP-53` — **Rendering A carries a second excluded pole (*"a mere memorial"*) that Rendering B loses** |
+| 25 | ⚠️ **The three same-label question-and-answer pairs** | 2109/2110, 2113/2114, 2123/2124 | **2:29:09 - 2:29:56** | ⛔ **The mislabelling demonstration.** Confirm by ear that these are two voices, not one |
+
+⛔ **Nothing in this queue is deployable until it is confirmed, and ⛔ `IP-51`…`IP-58` are not deployable either — a minted finding under an open ear flag is a logged position, not a usable quotation.**
+
+#### ⭐⭐ THE CUT POINT — SEGMENT 3 ENDS AT SENTENCE 2563; SEGMENT 4 RESUMES AT SENTENCE 2564
+
+| | Value |
+|---|---|
+| **Last sentence of segment 3** | **2563** — *"Why don't we pick that up in the next?"* |
+| **Timestamp** | **t = 10691.860-10693.200 s** (**2:58:12-2:58:13**) |
+| **First sentence of segment 4** | **2564** — *"If you also, if you ever want to meet somebody, I would love to because because that's a whole another subject I have."* |
+| **Timestamp** | **t = 10693.200 s** (**2:58:13**) |
+| **Inter-sentence gap** | ⛔⛔ **0.000 s — see below** |
+| **Segment 3 size** | **586 sentences** (1978-2563) of 3,856 · **15.2%** of the session |
+| **Segments 1+2+3 cumulative** | **2,564 sentences** (0-2563) · **66.5%** |
+
+⭐⭐ **WHY HERE AND NOT AT 2,900 — AND THE ANSWER IS THAT SENTENCE 2,900 SITS IN THE MIDDLE OF A SINGLE ARGUMENT 780 SENTENCES LONG.** The brief specified *"the nearest natural topic boundary to sentence 2,900."* ⛔ **There is no boundary there.** **A continuous Lent / church-calendar / binding-the-conscience / ecclesial-authority argument runs from 2565 to 3344 without a break** — the same objector, the same regulative-principle thread, flowing from Lent into the ordering of sacred time, into what an authority may bind, and into church-hopping. **Sentence 2,900** is *"No problems."* — **mid-turn, mid-argument.**
+
+**The two real candidates, both measured:**
+
+- ⭐ **2563/2564 — 337 sentences before the target. CHOSEN.** It is a boundary **the participants themselves mark, twice**: the topic is closed at 2556 (*"This is probably a good topic for another day because it's getting late"*) and 2563 (*"Why don't we pick that up in the next?"*), and a **new subject is announced at 2564 and named at 2565 — *"Lent and the church calendar."*** ⭐ **A speaker naming his own next subject is the cleanest boundary form available.**
+- ⛔ **3344/3345 — 445 sentences after the target. REJECTED.** It is a real boundary (a thunderstorm interrupts and the class breaks), but it is **further from the target**, it would swallow the entire Lent argument into segment 3 and leave segment 4 with only 511 sentences, **and it lies past material to which the Hazard 3 guard applies.**
+
+⛔ **Cutting at 2,900 exactly would have split one continuous exchange between two passes — the failure both prior cut points were chosen to avoid.**
+
+⛔⛔ **AND THE GAP AT THE CHOSEN BOUNDARY IS 0.000 s, WHICH IS RECORDED BECAUSE IT CONFIRMS HAZARD 1 FROM THE OPPOSITE DIRECTION.** Note 2e established that **a real turn boundary can carry no measurable gap** (the s1394 calibration merge, 0 ms). ⭐ **Here a real TOPIC boundary — one the speakers announce in words, twice — also carries 0.000 s**, while the largest gap anywhere in the surrounding 550 sentences (**3.55 s**, before sentence 2801) falls **mid-argument** and marks nothing. ⛔⛔ **So the timing data does not locate topic boundaries either, and Note 2e's one surviving concession to artifact 7 — that long inter-sentence pauses are usable as *"topic-boundary candidates"* — is NOT borne out in this segment and was NOT relied on. This cut point was chosen entirely from the words.**
+
+⭐ **What segment 4 inherits, stated so it resumes cleanly:** it **opens on Lent and the church calendar** (§14) and runs through fasting, the ordering of sacred time, and the limits of ecclesial authority; the term scan places **`Article 34` and `Article 20` at 2593-2594** *(⚠️⚠️ ⛔ **the segment-2 warning stands unchanged: the occurrence is an INTERROGATIVE, retracted in the very next sentence, its speaker is not established, and it is NOT the naming the Article 34 row waits for**)*, **the Didache at ~2751**, **Quartodeciman at 2673**, **Pascha at 2681**, **the Gesima Sundays at ~3199-3202**, and **church planting and parish growth from ~3351.** ⛔⛔ **AND IT INHERITS THE HAZARD 3 GUARD IN LIVE FORM. Segment 4 must apply it on contact and record nothing.** ⛔ **None of that is ingested and none is established beyond the fact that the terms occur.**
 
 ### REVELATION CLASS — series JD does not attend
 
