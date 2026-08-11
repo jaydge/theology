@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260818-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260818-3** (date-stamped, format yymmdd-iteration)
+
+**260818-3: ⭐⭐⭐ `A101-2026-08-09` SEGMENT 2 OF 4 INGESTED (sentences 887-1977) — ⭐⭐ THE SESSION MINTS FOR THE FIRST TIME, `IP-45`…`IP-50`; ⛔⛔ A CORRECTION TO THIS FILE'S OWN `260816-1` RECORD: RENDERING B DOES **NOT** DROP THE COUNCIL OF HIERIA.** Full note at **Note 2f**. **Coverage established from the captures, not from the brief: purgatory (Known Gap 10) · Matthew 5:25-26 and Luke 12:58-59 · invocation of the saints at length · the Sursum Corda · prayer to the Trinity · images, the second commandment and the Council of Hieria · the statues at St. Francis.** ⛔⛔ **THE BRIEF'S INVENTORY IS CORRECTED: `Ante-Communion` 0·0 and `deacon` 0·0 in this segment — both fall at sentences 2056-2057 (SEGMENT 3); `sola scriptura` 0·0; the sole `Trent` hit is *"Trent Horn,"* a person, not the Council.** ⛔⛔ **`Article` 0·0 across all 1,091 sentences — the Articles are NOT the throughline here and Article XXI onward is NOT reached.** ⭐⭐ **THE HIERIA CORRECTION, WHICH IS THE PASS'S LOAD-BEARING RESULT ABOUT THIS FILE: Note 2e, the `260816-1` pass note and `asr_keyterms_A101.md` all state that Rendering B *"drops the council name entirely,"* leaving only *"754."* IT DOES NOT. Rendering B carries the name TWICE as *"Hyrea"* (sentences 1851, 1852) — grep-verified in `SRC_AAI_20260809_sentences.json`, the `.srt` and the word-level file. Rendering A carries it twice as *"Hyria."* NEITHER rendering drops it and NEITHER gets it right.** ⚠️ **The mechanism is the point and it is the previous pass's own cited lesson turned on itself: `260816-1` grepped Rendering B for `Hyria` (Rendering A's form) and for `Hieria` (the true form), got zero, and reported a deletion — it did not grep for RENDERING B'S OWN mangled form. That is the `Lateran` → *"lad ladan"* discipline (`260813-1`) applied to one rendering and not the other.** ⛔ **The `260816-1` wordings STAND at every site per the never-alter rule; dated notes are added beside them.** ⛔⛔ **HAZARD 2 CONFIRMED IN BOTH RENDERINGS and applied verbatim-plus-`[Stated-Analysis]`, never as a substitution. ⛔⛔ HAZARD 3 NEVER APPROACHED — nothing searched for, located or recorded, at any tier.** ⛔ **Every finding carries an OPEN EAR-VERIFICATION FLAG; no ear verification was performed this pass. The ear queue is extended by nine items.** **Cut point: segment 2 ends at sentence 1977; segment 3 resumes at 1978.** **Next free `IP`: `IP-51`.**
 
 **260818-2: ⭐⭐ THE `260817-1` FULL-THREAD-RECAPTURE DEBT ON `src/SRC_Discord_RPW.md` IS CLOSED — THE RECAPTURE WAS DONE MANUALLY BY JD AND COMPARED MESSAGE-BY-MESSAGE; 21 OF 22 MESSAGES BYTE-IDENTICAL. ⛔⛔ THE ONE DIVERGENCE WAS A DEFECT IN THE ARCHIVE, NOT IN THE FRESH CAPTURE, AND IT FALSIFIES A CLAIM THE CORPUS ALREADY MADE.** ⛔ **Discord access on this project is NEVER automated** — JD performed the copy/paste himself, per standing policy, and a disposable verification thread compared the result against the archive message by message. ⛔⛔ **THE FALSIFIED CLAIM, NAMED PLAINLY: the `260810-1`/`260817-1` record states that the duplicated raw author line the 8/8 paste carried *"was normalised into this file's heading form."* IT WAS NOT.** The line `Athanasius325 / Fr James — Yesterday at 2:12 PM` was still sitting inside message 22's body, immediately beneath its own heading, with a doubled blank line above it. **Both are removed this pass.** ⭐ **This is a CONTENT CORRECTION to a raw archive and it is permitted precisely because it removes a leftover normalisation fragment the corpus already claims was removed — it completes what `260810-1` said it did, and it alters no statement anyone made.** ⛔ **The `260810-1` and `260817-1` prose is NOT edited; both stand as written per the never-alter rule, and this entry is the correction.** ⚠️ **A SECOND, COSMETIC DEFECT FIXED IN THE SAME PASS:** message 19's heading (`7/23/26, 12:07 PM`) carried an **ASCII hyphen** where all 21 other headings carry an **em dash (U+2014)** and **lacked the `(OP)` suffix** every other JD heading carries; both corrected **against the file's own headings, verified byte-wise rather than from memory.** ⛔ **NO MESSAGE BODY TEXT WAS ALTERED BY EITHER FIX.** ⚠️⚠️ **A THIRD ANOMALY IS RECORDED AND DELIBERATELY NOT FIXED, and the restraint is the point: that same heading separates `12:07` from `PM` with a NARROW NO-BREAK SPACE (U+202F) where all 21 others use a plain space.** Same residue class as the first defect — an unnormalised paste artifact — **but it was not in this pass's brief, and a raw archive is not the place to widen scope unasked.** ⏳ **It needs JD's ruling, not a silent fix; the byte is unchanged.** ✅ **TWO RE-CONFIRMATIONS, NO ACTION:** message 19 still ends *"…appropriate for our worship today"* (the `260801-3` reading holds), and messages 20/21 still carry **2** and **3** paragraphs — **the `260801-3` restorations have NOT re-flattened.** ⛔⛔ **THE `(edited)`-MARKER RESULT IS RECORDED PRECISELY AND IS NOT UPGRADED: no marker was observed in this capture; this does NOT confirm the absence of prior edits, per the standing clipboard-capture limitation** (`260801-3` — copy/paste never carries the marker regardless of what the client shows). **A recapture that shows no marker is a recapture, not a clean bill of health.** ✅ **Coverage CONFIRMED UNCHANGED at `2026-06-18 → 2026-08-08`** against the recapture's own bounds (22 messages, `6/18/26, 1:02 PM` → `8/8/26, 2:12 PM`); **no correction was needed.** ⚠️ **Hash, size and line count updated for the two fixes AND for the changelog line the pass added at the top of the archive** — `c7ff63fd…`, 28,627 bytes, 242 lines. ⛔ **`260810-1`'s number and every citation of it are UNTOUCHED — this pass closes the CONTENT debt, not the NUMBERING debt, which was closed at `260817-1`.** ⛔ **No `DQ`/`IP`/other finding number minted. Nothing drafted, altered or posted to Rev. James.** **Touched three files** (`src/SRC_Discord_RPW.md`, this file, `PROJECT_STATE.md`).
 
@@ -365,7 +367,7 @@ This table exists because the hash check cannot do this job. The file tables abo
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260808-1; never promotes) | `A101-20260719-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `b0047300` | 49,497 | *(comparison capture — Step 2 outcomes at Note 2b; sole substrate for IP-13)* | — |
 | `A101-2026-07-26` | 2026-07-26 | **Articles IX-XVI** *(both captures' title and content, 260809-1; Article XVII announced, NOT taught — questions consumed the close; ⚠️ substantial post-session informal predestination/Black-Rubric/Mass-sacrifice discussion is `[R]`-only, Note 2c)* | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** | `A101-20260726-JD-recording-with-q-and-a.md` ⛔ *held OUTSIDE the repo (JD's archive)* ⚠️ *naming/format departs from the `Audio_MM_DD…` class — Note 2c* | `96a9c5a9` | 57,305 | **IP-24…IP-39** *(⚠️ several `[S]`-sourced — recorder-start gap + fragmentary mid-session stretch; `IP-37`/`IP-38`/`IP-39` are `[R]`-only post-session; Note 2c)* | — *(born verified where dual-covered; single-capture stretches ⬜ OUT OF SCOPE, none frozen — Note 2c; ✅ the room-only post-session findings IP-37/IP-38/IP-39 audio-verified by JD 260810, flags DISCHARGED 260810-1 — Note 2c)* |
 | ″ | ″ | ″ | ″ | `[S]` | ⭐ **PERMANENT SECONDARY — COMPARISON CAPTURE** (Branch A; ingested 260809-1; never promotes) | `A101-20260726-official-video.md` ⛔ *held OUTSIDE the repo (JD's archive)* | `845de990` | 55,179 | *(comparison capture — sole substrate for the Articles XIII-XVI and confession/succession stretches; truncates mid-sentence at the close)* | — |
-| `A101-2026-08-09` | 2026-08-09 | ⚠️ **PARTIAL — SEGMENT 1 OF 4 ONLY (sentences 0-886 of 3,856; 0-68 min of 4h 20m 30s).** Segment 1 coverage, established from the captures: Article XVII (predestination and election) · ⭐⭐ **ARTICLE XX, REACHED AND TAUGHT** · sola scriptura and Trent · the Magisterium · creeds and anti-creedal objection · paedocommunion · genuflection and images · the whole life of Christ as salvific · death and preparation for it. ⛔ **Segments 2-4 NOT INGESTED; coverage beyond sentence 886 is NOT established by this pass** | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** — ⛔⛔ **TRIMMED-BUT-NAME-INHERITED: this file is NOT the as-recorded original. Provenance event at Note 2e** | `Audio_08_09_2026_19_35_15.mp3` ⛔ *held OUTSIDE the repo (JD's archive)* | `0d6df52a` | 250,080,486 | ⛔ **NONE — no finding minted, no number consumed; `IP-45` remains the next free number** *(Note 2e)* | ⚠️⚠️ **YES — THE WHOLE SEGMENT.** Multi-voice; diarization is navigation only; the word-level splice check FAILED its own calibration. ⛔ Nothing here is attributable or quotable before ear confirmation *(Note 2e)* |
+| `A101-2026-08-09` | 2026-08-09 | ⚠️⚠️ **PARTIAL — SEGMENTS 1-2 OF 4 (sentences 0-1977 of 3,856; 0-140 min of 4h 20m 30s; 51.3%). Updated 260818-3.** ⭐⭐ **SEGMENT 2 (887-1977) ingested at `260818-3`: purgatory and Known Gap 10 · Matthew 5:25-26 and Luke 12:58-59 · invocation of the saints at length · the Sursum Corda · prayer to the Trinity · images, the second commandment and the Council of Hieria · the statues at St. Francis. ⛔ `Article` 0·0 in segment 2 — open Q&A throughout, Article XXI onward NOT reached; `Ante-Communion`/`deacon` fall at s2056-2057, SEGMENT 3.** ⛔ **Segments 3-4 NOT INGESTED.** *(Segment 1 coverage, `260816-1`, unchanged:)* ⚠️ **SEGMENT 1 OF 4 (sentences 0-886).** Segment 1 coverage, established from the captures: Article XVII (predestination and election) · ⭐⭐ **ARTICLE XX, REACHED AND TAUGHT** · sola scriptura and Trent · the Magisterium · creeds and anti-creedal objection · paedocommunion · genuflection and images · the whole life of Christ as salvific · death and preparation for it. ⛔ **Segments 2-4 NOT INGESTED; coverage beyond sentence 886 is NOT established by this pass** | ✅ **YES** | `[R]` | **PRIMARY (permanently, Note 2a)** — ⛔⛔ **TRIMMED-BUT-NAME-INHERITED: this file is NOT the as-recorded original. Provenance event at Note 2e** | `Audio_08_09_2026_19_35_15.mp3` ⛔ *held OUTSIDE the repo (JD's archive)* | `0d6df52a` | 250,080,486 | ⭐⭐ **`IP-45`…`IP-50` (segment 2, `260818-3`, Note 2f) — the session's first minted findings.** ⛔ **Segment 1 minted NONE** *(Note 2e)*. **Next free: `IP-51`** | ⚠️⚠️ **YES — THE WHOLE SEGMENT.** Multi-voice; diarization is navigation only; the word-level splice check FAILED its own calibration. ⛔ Nothing here is attributable or quotable before ear confirmation *(Note 2e)* |
 | ″ | ″ | ″ | ″ | *stream — flagged only, NOT a capture row* | ⏳ **POSSIBLE FUTURE CAPTURE — FLAGGED ONLY. NOT PULLED, AND ITS EXISTENCE IS NOT ESTABLISHED.** Were the parish channel (`EXT-3`) to upload this session, it would register as PERMANENT SECONDARY — COMPARISON CAPTURE (Branch A; never promotes). ⛔ **Do not read this row as a known source.** ⚠️ *Formatting note: this cell deliberately writes "stream" rather than the bracketed code — C12 counts any row here carrying a bracketed code as a session capture row, and a capture that does not exist must not be counted as one (the CL-4 defect shape, per Note 1a)* | *(not pulled)* | — | — | *(none)* | — |
 
 > ⛔⛔ **`A101-2026-06-28` HAS NO ROOM CAPTURE AND NEVER WILL — CONFIRMED ABSENT, NOT "NOT YET CAPTURED" (260812-1).** JD searched his recorder app and his files: **he did not record the room on 2026-06-28.** The `[R]` placeholder row that stood here until 260812-1 is retired on the **260726-1 pattern** (placeholders are superseded by the real state, not deleted from the historical record — this line records what it was for). ⛔ **Do not re-add an `[R]` row for this session, and do not read the absence of one as an un-ingested capture: there is nothing to ingest.** ⚠️ **This is why the session gets its own shape rather than being forced into Branch A, which presupposes a room capture — see Note 2d.**
@@ -850,6 +852,8 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 
 ⛔ **Recorded, not silently corrected.** Both renderings stand as transcribed. The correction is in the quirk register and in `asr_keyterms_A101.md`, which carries `Council of Hieria` and `Second Council of Nicaea` as terms **so the next capture gets them**. ⭐ **Had the brief's attribution been carried through unchecked, the term list would have taught the recogniser to render a historical council as a devotional category — and *hyperdulia* is a real word that would have read as correct and never been questioned. A plausible wrong term is more dangerous than an implausible one.**
 
+⚠️⚠️ **CORRECTION 260818-3, MADE AS A DATED NOTE BESIDE THE ORIGINAL RATHER THAN ABSORBED — THE "RENDERING B DROPS THE NAME" CLAIM ABOVE IS FALSE, AND SO IS THE CLAIM THAT B IS WORSE THAN A HERE.** *(The two paragraphs above stand exactly as `260816-1` wrote them, per the never-alter rule. They were an honest report of a grep that was run; the defect is in the grep's targets, not in the reporting.)* ⛔⛔ **RENDERING B CARRIES THE COUNCIL'S NAME TWICE, AS *"Hyrea"* — sentences 1851 and 1852 (t = 8061.9 s and 8062.4 s, 2:14:22).** Grep-verified this pass in **three** Rendering-B artifacts independently: `SRC_AAI_20260809_sentences.json` (×4 — the sentence text plus the embedded word array), `SRC_AAI_20260809_transcript.srt` (×2) and `SRC_AAI_20260809_timestamps.json` (×2). **Rendering A carries it twice as *"Hyria."*** ⛔ **So the true state is: BOTH renderings mangle the name to a near-homophone, NEITHER drops it, and NEITHER gets it right. `Hieria` returns 0·0.** ⚠️⚠️ **WHY THE ORIGINAL GREP MISSED IT, AND THIS IS THE PART WORTH KEEPING: the `260816-1` pass searched Rendering B for `Hyria` — RENDERING A'S mangled form — and for `Hieria`, the true form. It did not search for RENDERING B'S OWN mangled form, because that form was not yet known.** ⛔⛔ **THAT IS EXACTLY THE `Lateran` → *"lad ladan"* LESSON THE SAME PASS CITED BY NAME, APPLIED TO ONE RENDERING AND NOT THE OTHER — and it is a general defect, not a one-off: when two renderings mangle a term DIFFERENTLY, each rendering's own form must be discovered before an absence in either can be reported.** ⭐ **The practical rule adopted from it: locate the term in the rendering that HAS it, read the corresponding timestamp window in the other, and grep for what is actually there — never grep the second rendering for the first one's mistake.** ✅ **What the original note got RIGHT and which stands undisturbed: the identification of the council itself (754, prior to the Seventh, against Second Nicaea = Hieria) is confirmed by this pass from the same context, and the `hyperdulia` misattribution in the intake brief was correctly caught.** ⚠️ **One further detail corrected in passing: the original note places the surviving *"754"* at *"sentences 1854-1855."* Sentence 1854 is *"754."* and 1855 is *"Yeah, that goes against the Second Nicene Council."* — the date is at 1854 only; ⛔ and the NAME is at 1851-1852, four sentences earlier, which is why a window search around 1854 would also have missed it.**
+
 #### ASR QUIRK REGISTER — `A101-2026-08-09`, PRESERVED AS TRANSCRIBED
 
 ⛔ **Logged, never silently corrected.** Rendering A is the local whisperfile; Rendering B is AssemblyAI. **All counts grep-verified this pass.**
@@ -900,6 +904,153 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 ⭐ **WHY HERE AND NOT AT 960.** The brief specified *"the nearest natural topic boundary to sentence 960."* **This is it, at 74 sentences' distance.** The teaching voice closes the preceding topic explicitly at sentence 885 — *"We're going to move on from this"* — invites questions at 886, and a **new topic opens at 887 with a direct question about purgatory.** ⚠️ **The next candidate boundary in the other direction is sentence 1140 (the Sursum Corda, t = 5151.2 s), 180 sentences away — more than twice as far.** ⛔ **Cutting at 960 exactly would have sliced the middle of the purgatory-and-invocation discussion, which is the densest §12 material in the session.**
 
 ⭐ **What segment 2 inherits, stated so it resumes cleanly:** it **opens on purgatory** (Known Gap 10) and runs into the invocation-of-saints and intercession material (§12, Open Q 3, Open Q 4), then the Sursum Corda at 1140. ⛔ **It also inherits the Hazard 2 anchor (1350/1352) and the Hazard 1 calibration case (1394), neither of which falls in segment 1.**
+
+### ⭐⭐⭐ Note 2f — THE `A101-2026-08-09` INTAKE, SEGMENT 2 OF 4, RUN 260818-3 — ⭐⭐ **THE SESSION MINTS: `IP-45`…`IP-50`, UNBROKEN; ⛔⛔ EVERY ENTRY UNDER AN OPEN EAR-VERIFICATION FLAG**
+
+**Session:** `A101-2026-08-09`, class date **2026-08-09**. **Capture: the same single `[R]` room recording registered at Note 2e.** ⛔ **No new artifact was registered by this pass; the seven artifacts, their hashes, the provenance event and the trimmed-but-name-inherited marking are all at Note 2e and are unchanged.**
+
+⛔⛔ **SCOPE. SEGMENT 2 COVERS SENTENCES 887-1977 OF 3,856** — t = **4089.170-8425.698 s** (**1:08:09-2:20:26**), **1,091 sentences**, **12,801 words** (Rendering B) / **12,329** (Rendering A), **28.3%** of the session. **Segments 1+2 together now cover sentences 0-1977 — 51.3%.** ⛔ **Segments 3-4 are NOT ingested; nothing beyond sentence 1977 is established and no absence beyond it may be inferred.**
+
+#### ⭐⭐ WHY THIS SEGMENT MINTS WHEN SEGMENT 1 DID NOT — ONE GUARD MOVED, TWO STILL BIND
+
+Note 2e recorded three converging guards, each *"alone sufficient."* **Two are unchanged:**
+
+1. ⛔⛔ **THE WORD-LEVEL SPLICE DETECTOR IS STILL FALSIFIED AND WAS NOT USED.** Its calibration case falls **inside this segment** — sentence **1394**, t = **6302.955-6333.562 s** (**1:45:03-1:45:34**), **107 words, 30.6 s, single label `B`, at least four turns**, with the confirmed questioner→reply splice carrying a **0 ms** inter-word gap. ⛔ **A diarized sentence spanning a turn is not detectable by timing. Merge candidates are flagged by duration and word count only, and they go to the ear.**
+2. ⛔⛔ **NO EAR VERIFICATION WAS PERFORMED.** Artifact 1 survives and is the right target. **This pass did not listen to it.** ⛔ **Artifact 2 was not used and is never a verification target.**
+
+⭐ **The third guard — "the speaker cannot be established" — moved, and ONLY because this segment contains what segment 1's did not: EXPLICIT ROLE SELF-IDENTIFICATION BY THE TEACHING VOICE.**
+
+| Anchor | Sentence | Timestamp | What it establishes |
+|---|---|---|---|
+| *"those who've been to St. Francis… I start singing, lift up your hearts"* | **1142** | **5161.9 s (1:26:02)** | ⭐ The speaker is **the celebrant at St. Francis** |
+| Recites the Preface — *"therefore with angels and archangels…"* | **1145** | **5190.1 s (1:26:30)** | The celebrant's own words at the altar |
+| *"the statues are behind the altar at our church"* | **1973** | **8404.8 s (2:20:05)** | ⭐ **His own building**, spoken as its clergyman |
+| *"if I'm teaching on these sorts of things"* — enquirers *"from the Roman tradition"* come to him | **1367** | **6188.4 s (1:43:08)** | His own teaching practice with enquirers |
+
+⛔⛔ **AND THE LABEL STILL ESTABLISHES NOTHING. `B` DEMONSTRABLY CARRIES OTHER PEOPLE IN THIS SEGMENT TOO** — the purgatory questioner (887, 892, 894, 905), a question put *to* the teacher (937), and **both halves of the confirmed merge at 1394.** ⛔ **Attribution was made per sentence, on an unbroken teaching register plus rendering agreement, and refused wherever either failed.**
+
+**Segment-2 diarization tallies, measured:**
+
+| Label | Sentences | Words |
+|---|---|---|
+| `B` | 561 | 7,161 |
+| `C` | 445 | 4,955 |
+| `A` | 85 | 685 |
+
+⛔⛔ **THREE LABELS, AND AT LEAST FIVE DISTINGUISHABLE PEOPLE IN THE ROOM BY CONTENT ALONE:** the teaching voice; **a visiting priest** who vests and prays before an altar elsewhere; a **Roman Catholic visitor** who says *"my tradition"* and argues purgatory; a **Reformed/Presbyterian-leaning interlocutor** who presses the second commandment and cites Calvin's *Institutes*; and at least one further participant. ⛔ **`C` absorbs the visiting priest AND the Reformed objector. This is the segment's single largest attribution hazard.**
+
+#### ⛔⛔ ACTUAL TOPIC COVERAGE — ESTABLISHED FROM THE CAPTURES, AND THE BRIEF'S INVENTORY IS WRONG
+
+| Block | Sentences | Timestamps | Topic |
+|---|---|---|---|
+| 1 | **887-924** | 1:08:09-1:10:39 | ⭐⭐ **Purgatory** — put by a Roman Catholic visitor from **Matthew 5:25-26** and **Luke 12:58-59**; refused; post-mortem sanctification held open-but-untaught; Orthodox toll houses declined |
+| 2 | **925-1183** | 1:10:39-1:37:52 | ⭐⭐⭐ **Invocation of the saints** — the mediated-petition position stated and pressed; Hebrews 12:1; the Revelation worship scenes; *Letters to Malcolm* recommended by a participant |
+| 3 | **1108-1131** | 1:23:35-1:25:20 | ⚠️ **A VISITING PRIEST'S DIFFERENT POSITION** — praying *with* the saints as he vests; ⛔ **not the teaching voice** |
+| 4 | **1113-1149, 1515-1523** | 1:23:57-1:26:52, 1:54:29 | ⭐⭐ **The Sursum Corda and the one Church** — Triumphant and Militant in mystical union |
+| 5 | **1184-1476** | 1:37:52-1:51:16 | The pressure continues — the Blessed Virgin example; the death barrier; the angels control case; ⛔ **the Hazard 2 anchor at 1350/1352**; ⛔ **the calibration merge at 1394** |
+| 6 | **1477-1611** | 1:51:16-2:00:00 | Guardrails, Anglo-Papists disavowed, the corruption of the practice conceded on both sides |
+| 7 | **1612-1977** | 2:00:12-2:20:26 | ⭐⭐ **Images and the second commandment** — the crucifix; Deuteronomy 4; the incarnational warrant; **the Council of Hieria (754) vs Second Nicaea**; Joshua 7:6 and the Ark's cherubim; the bronze serpent and Hezekiah; ⭐ **the statues at St. Francis** |
+
+⛔⛔ **WHAT THE BRIEF EXPECTED AND IS NOT HERE, GREP-VERIFIED IN BOTH RENDERINGS ACROSS ALL 1,091 SENTENCES:** `Ante-Communion` **0·0** · `deacon` **0·0** *(⭐ **LOCATED: sentences 2056-2057, t ≈ 8742.4/8750.2 s, 2:25:42 — SEGMENT 3, about five minutes past the cut point**)* · `sola scriptura` **0·0** · `confession` **0·0** · `absolution` **0·0**. ⛔ **KNOWN GAP 11 DOES NOT MOVE ON THIS SEGMENT.** ⚠️ **And `Trent` returns exactly ONE hit, which is *"Trent Horn, Roman Catholic apologist"* (s928) — a PERSON. The Council of Trent is discussed in SEGMENT 1 (s344, s347) and not at all here.**
+
+⛔⛔ **THE ARTICLES ARE NOT THE THROUGHLINE. `Article` returns 0·0 — the word is not spoken once in 1,091 sentences.** Segment 1 reached and closed Article XX at s458; **this segment is open Q&A end to end.** ⛔ **Article XXI onward is NOT reached. `Article 34` 0·0 — the Article 34 row does not move.** ⚠️ **Article XXII's entire subject matter — purgatory, invocation, images — is taught at length while the Article is never named, which is the pattern segment 1 already recorded.**
+
+#### ⭐⭐ RENDERING AGREEMENT AND DIVERGENCE — THE DUAL-ASR PROTOCOL, RUN
+
+✅ **AGREEMENT (provisional confidence against transcription error, and that only) — every quotation logged in `IP-45`…`IP-50` was checked in both renderings at its own timestamp.** Sixteen anchors verified near-verbatim across both.
+
+⚠️ **DIVERGENCE — QUEUED, NOT RESOLVED. ⛔ Nothing in this table is quoted anywhere in the corpus.**
+
+| Sentence | t (artifact 1) | Rendering B | Rendering A | Why it matters |
+|---|---|---|---|---|
+| **1043** | **4742.8 s (1:19:03)** | *"the prayers of the righteous **dead**"* | *"the prayers of the righteous **man**"* | ⛔⛔ **dead-vs-man is the entire point of the sentence** |
+| **933** | **4287.1 s (1:11:27)** | *"pray to them **directly**"* | *"pray to them **joyously**"* | ⛔ changes the claim |
+| **894** | **4116.4 s (1:08:36)** | *"the **Anglican** tradition"* | *"the **ancient** tradition"* | ⛔ changes the question being asked |
+| **1931** | **8269.0 s (2:17:49)** | *"an authorization that was **given**"* | *"an authorization that was **good**"* | ⛔ `DQ-9`-adjacent; not quoted |
+| **915** | **4215.4 s (1:10:15)** | *"their **toll booth** thing"* | *"their **told me** thing"* | Which Orthodox teaching is declined |
+| **918** | **4219.5 s (1:10:20)** | *"not a big **fan** of that"* | *"That's not a big **thing**"* | Strength of the refusal |
+| **1681** | **7479.8 s (2:04:40)** | *"Christ is called the icon of God"* | ⛔ **NOTHING at that position** | ⛔ single-rendering only |
+| **1350** | **6140.5 s (1:42:21)** | *"…are okay **then**"* | *"…are okay **there**"* | ⚠️ one word; touches nothing |
+
+⭐⭐ **AND TWICE IN THIS SEGMENT RENDERING A IS THE BETTER WITNESS, WHICH IS THE REVERSE OF THE USUAL DIRECTION AND IS RECORDED SO IT IS NOT FORGOTTEN:** (i) **s1145**, the Preface, where Rendering B garbles the BCP text (*"that glorious name that before praising thee is said"*) and Rendering A carries it correctly (*"thy glorious name evermore, praising thee and saying"*); (ii) **s1374**, where Rendering B truncates the clause mid-sentence (*"Because I do not have warrant from Scripture How's your argument…"*) and Rendering A carries it whole (*"warrant from scripture to direct my prayers to anyone other than God"*). ⛔ **This is the merged-turn artefact of Rendering B showing up as TEXT LOSS rather than as speaker error.**
+
+#### ASR QUIRK REGISTER — SEGMENT 2 ADDITIONS, ⛔ PRESERVED AS TRANSCRIBED
+
+⛔ **Logged, never silently corrected.** All grep-verified this pass.
+
+| True form | Rendering A | Rendering B | Note |
+|---|---|---|---|
+| **Council of Hieria** | *"Hyria"* ×2 (s1851-1852) | ⛔⛔ ***"Hyrea"* ×2 — NOT dropped** | ⛔⛔ **CORRECTS `260816-1` — see the dated note at Note 2e** |
+| purgatory | *"Hercules"* ×1 | correct | ⭐ **located: s887, t = 4089.2 s — the FIRST sentence of segment 2** |
+| venial | *"menial"* | correct | A mangles |
+| saints | *"students"* ×1 | correct | A mangles |
+| Anglican | *"ancient"* ×1 | correct | ⛔ **material — see the divergence table** |
+| Hebrews 12:1 / cloud of witnesses | *"perhaps 12-1"* / *"a lot of witnesses"* | correct | A mangles both halves of one citation |
+| Church Triumphant | *"church triumvirate"* | correct | A mangles |
+| Church Militant | *"church middle-ist"* | correct | A mangles |
+| Trent Horn | *"Trent Warren"* | correct | ⚠️ a person, not the Council |
+| patron saint | *"patriot-zine"* | correct | A mangles |
+| *Letters to Malcolm, Chiefly on Prayer* | *"Letters to Malcolm Sheeley"* | correct | A mangles the subtitle into a surname |
+| directly | *"joyously"* ×1 | correct | ⛔ material |
+| toll booth | *"told me"* ×1 | correct | ⛔ material |
+| **BCP Preface (Sursum Corda→Sanctus)** | ✅ **correct** | ⛔ **garbled** | ⭐ **A is the better witness here** |
+
+⚠️⚠️ **ONE RENDERING-CONVENTION TRAP THAT IS NOT A MANGLING AND WILL BITE A LATER SWEEP.** **Rendering B writes *"2nd Commandment"* (×10); Rendering A writes *"second commandment"* (×11).** ⛔⛔ **A grep for `2nd commandment` against Rendering A returns ZERO for a term spoken eleven times — the `Hyrea` shape exactly, arriving from the other side.** ⭐ **General rule adopted from both: an absence in ONE rendering is never reportable until the term has been located in the other and its local form read off the corresponding timestamp window.**
+
+#### ⛔⛔ HAZARD 2 — THE MISIDENTIFIED MINISTER: ANCHOR REACHED, AND APPLIED EXACTLY AS SPECIFIED
+
+**The anchor falls in this segment**, label `C`:
+
+| | Sentence | Timestamp | Rendering B | Rendering A |
+|---|---|---|---|---|
+| 1 | **1350** | **6140.5 s (1:42:21)** | *"So, to me, I don't see how Reverend Gosnell's prayers are okay then."* | *"So to me, I don't see how Reverend Gosnell's prayers are okay there."* |
+| 2 | **1352** | **6144.9 s (1:42:25)** | *"I don't see how Reverend Gosnell's prayers would be okay because they're not directed to God alone."* | *"I don't see how Reverend Gosnell's prayers would be okay, because they're not directed to God alone."* |
+
+✅ **THE NAME IS CONFIRMED IN BOTH RENDERINGS.** The only divergence is *"then"*/*"there"* at 1350, which touches nothing.
+
+- **[Stated]** — the verbatim as spoken is ***"Reverend Gosnell's prayers."***
+- **[Stated-Analysis]** — the intended referent is **Rev. Brian, a visiting minister**; **Rev. Gosnell is a different minister, present earlier in the session and gone by this point.**
+- ⛔⛔ **NEVER A SILENT SUBSTITUTION. The verbatim stands as spoken; the correction is a labelled inference and is never folded into the quotation.**
+
+⚠️⚠️ **AND THE `[Stated-Analysis]` LAYER IS STILL UNVERIFIED.** It is carried from the intake brief through Note 2e. ⛔ **This pass did NOT establish by ear which minister was present when, and did not attempt to.** ⏳ **It remains an inference to confirm, and it is in the ear queue below.** ⭐ **What this pass CAN add from context, and it is corroboration only, not confirmation: a visiting priest is demonstrably present and speaking in this segment (s1108-1131), which is consistent with the brief's account. ⛔ It does not establish that the sentence refers to him.**
+
+#### ⛔⛔ HAZARD 3 — PRIVATE INDIVIDUALS AND A SERIOUS ALLEGATION: THE NEVER-RAISE GUARD CARRIED UNCHANGED
+
+⛔⛔ **The guard was applied in the same form Note 2e adopted, and for the same reason: THE STRONGEST WAY TO APPLY IT IS NOT TO GO LOOKING.** ⛔ **This pass did NOT search for the material, did NOT locate it, and does not know whether it falls inside segment 2's range or outside it.** ⚠️ **Nothing is logged, named, summarised, characterised, paraphrased or alluded to, at any tier, in any document.** ⛔ **No private individual is named** (`GV-31` / Ruling C) — **the segment contains at least four given names of participants and NONE is recorded anywhere in this corpus.** ⚠️ **One adjacent stretch was closed by the speaker himself with an explicit refusal to continue; ⛔ this pass records that a decline occurred and records NOTHING about its subject, which is the only way a decline can be recorded without becoming the disclosure it declines.**
+
+#### ⛔⛔ THE VERIFICATION QUEUE — SEGMENT 2 ADDITIONS
+
+⚠️ **Timestamps against artifact 1. ⛔ Artifact 1 only. ⛔ NEVER artifact 2.** ⛔ **Items 1-8 at Note 2e stand; these are additional.**
+
+| # | What | Sentences | Timestamp | Why queued |
+|---|---|---|---|---|
+| 9 | ⛔⛔ ***"We don't do prayers for the dead"* — WHOSE SENTENCE IS IT?** | 1340-1341 | **1:41:40 - 1:41:42** | ⛔⛔ **THE MOST CONSEQUENTIAL ATTRIBUTION IN THE SEGMENT.** If it is his it contradicts `RC3-20`; the surrounding run is the objector's. **Not logged either way** |
+| 10 | ⛔ *"the prayers of the righteous **dead**/**man**"* | 1043 | **1:19:03** | Material divergence; the sentence's whole point |
+| 11 | ⭐⭐ **The purgatory answer, whole** | 887-924 | **1:08:09 - 1:10:39** | `IP-45`/`IP-46` — Known Gap 10's first current-voice data; establish the turn boundaries and the wording of *"I will not teach that"* |
+| 12 | ⭐⭐⭐ **The invocation block, whole** | 925-1183 | **1:10:39 - 1:37:52** | `IP-47` — §12's largest block; **establish who is speaking at every turn**, especially across 1108-1131 |
+| 13 | ⚠️ **The visiting priest's stretch** | 1108-1131 | **1:23:35 - 1:25:20** | ⛔ Confirm this is NOT the teaching voice; a first-person Marian devotional claim sits inside it |
+| 14 | ⛔ **Hazard 2 — the minister referent** | 1350, 1352 | **1:42:21, 1:42:25** | ⛔ Confirm who was present and who had left. **Carried from Note 2e item 8; the name itself is now dual-confirmed, the REFERENT is not** |
+| 15 | ⛔ **Calibration case — the confirmed merge** | 1394 | **1:45:03 - 1:45:34** | ⛔ Carried from Note 2e item 7. **Timing cannot resolve it; the ear must** |
+| 16 | ⭐⭐ **The images / second-commandment block** | 1612-1977 | **2:00:12 - 2:20:26** | `IP-50` — establish the turn boundaries across a fast four-way exchange, and the wording of *"images of Christ are allowed"* |
+| 17 | ⭐ **The `warrant` / `authoriz-` sentences** | 898, 1374, 1877, 1878, 1698, 1884, 1885, 1929, 1931, 1961 | **1:08:57 - 2:19:23** | ⛔ `DQ-9`-adjacent. **Confirm the his/objector split before anything is ever built on it** |
+
+⛔ **Nothing in this queue is deployable until it is confirmed, and ⛔ `IP-45`…`IP-50` are not deployable either — a minted finding under an open ear flag is a logged position, not a usable quotation.**
+
+#### ⭐⭐ THE CUT POINT — SEGMENT 2 ENDS AT SENTENCE 1977; SEGMENT 3 RESUMES AT SENTENCE 1978
+
+| | Value |
+|---|---|
+| **Last sentence of segment 2** | **1977** — *"So we recognize that reality."* |
+| **Timestamp** | **t = 8423.794-8425.698 s** (**2:20:24-2:20:26**) |
+| **First sentence of segment 3** | **1978** — *"When you say the tabernacle, yeah, what's that mean?"* |
+| **Timestamp** | **t = 8426.853 s** (**2:20:27**) |
+| **Inter-sentence gap** | **1.155 s** |
+| **Segment 2 size** | **1,091 sentences** (887-1977) of 3,856 · **28.3%** of the session |
+| **Segments 1+2 cumulative** | **1,978 sentences** (0-1977) · **51.3%** |
+
+⭐ **WHY HERE AND NOT AT 1,800.** The brief specified *"the nearest natural topic boundary to sentence 1,800."* **Sentence 1,800 sits in the middle of the images argument** — it is the objector's *"Like Calvin said, we're idol factories"* (t = 7839.4 s), mid-exchange, with the teaching voice's reply still to come. ⛔ **There is no boundary there and no long pause anywhere near it: the largest inter-sentence gap in the whole stretch 1650-2000 is 4.03 s, at sentence 1696, which is also mid-argument.** **The two real candidates are 1612** (*"But the other images thing, that'll be a whole nother—"*, t = 7274.5 s — **188 sentences BEFORE 1,800**) **and 1978** (**178 sentences after**). ⭐ **1978 is both nearer and better: it is a new question opening a genuinely new topic — the tabernacle and the reserved sacrament — and cutting there keeps the whole images/second-commandment argument inside ONE segment instead of slicing it.** ⛔ **Cutting at 1,800 exactly would have split a single continuous exchange between two passes, which is the failure the segment-1 cut point was chosen to avoid.**
+
+⭐ **What segment 3 inherits, stated so it resumes cleanly:** it **opens on the tabernacle and the reserved sacrament** (§8, §10 — *"why a tabernacle?"*, *"why not just a dish"*), and the term scan places **Ante-Communion and the Deacon's Mass at sentences 2056-2057** (Known Gap 11, `POD-5`/`POD-6`/`POD-10`), **the Apocrypha from ~2504**, **Quartodeciman at 2673**, **Pascha at 2681**, **the string `Article 34` occurring at sentence 2593** *(⚠️⚠️ ⛔ **DO NOT READ THIS AS A NAMING AND DO NOT MOVE THE ARTICLE 34 ROW ON IT.** The occurrence is an interrogative — *"Is that Article 34?"* — and it is **retracted in the very next sentence**: *"Or no, Article 20."* ⛔ **Its speaker is not established, the question form is not the row's criterion, and this pass did NOT read the surrounding stretch. It is recorded ONLY so segment 3 finds it deliberately rather than by surprise, and so that a grep hit on `Article 34` in this session is not mistaken for the naming the row waits for.**)*, and **Lent and the Gesima Sundays from ~2565 and ~3199.** ⛔ **None of that is ingested and none of it is established beyond the fact that the terms occur.**
 
 ### REVELATION CLASS — series JD does not attend
 
