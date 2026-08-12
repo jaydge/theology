@@ -1,6 +1,6 @@
 # ASR Key-Terms List — Anglican 101 (`A101`)
 
-**Last updated: 260820-1** (created 260816-1; date-stamped, format yymmdd-iteration)
+**Last updated: 260821-1** (created 260816-1; date-stamped, format yymmdd-iteration)
 
 **Purpose.** A tuned key-terms list for the AssemblyAI `universal-3-5-pro`
 transcription of Anglican 101 sessions. It is passed to the ASR as a
@@ -241,6 +241,25 @@ already captured.** All grep-verified.
 | patron saint | *"patriot-zine"* | correct | |
 | *Letters to Malcolm, Chiefly on Prayer* | *"Malcolm Sheeley"* | correct | subtitle mangled into a surname |
 | **BCP Preface** (Sursum Corda → Sanctus) | ✅ **correct** | ⛔ **garbled** | ⭐ **A is the better witness here** |
+| ⭐⭐⭐ **James 5:16 — *"a righteous **man** availeth much"*** *(added 260821-1)* | ✅ correct at **s1041**; *"righteous **man**"* at s1043 | ✅ correct at **s1041**; ⛔⛔ ***"righteous **DEAD**"* at s1043** | ⛔⛔⛔ **SEE THE DEFECT-CLASS NOTE BELOW — THE SHARPEST INSTANCE IN THIS FILE** |
+
+### ⛔⛔⛔ A SIXTH DEFECT SHAPE, ADDED 260821-1 — A MANGLING THAT INSERTS AN ENTIRE DOCTRINE
+
+⛔⛔ **THIS IS THE `Eucharist` → *"the universe"* FAMILY — A WRONG READING IN ORDINARY, GRAMMATICAL, PLAUSIBLE ENGLISH THAT NOTHING ANNOUNCES — AND IT IS THE MOST DANGEROUS INSTANCE THE PROJECT HAS MET.**
+
+✅ **JD's direct audio verification, 260821-1:** ***"the prayers of a righteous man availeth much, right?"*** ⭐⭐ **THAT IS JAMES 5:16 (KJV)** — the KJV reads *"The effectual fervent prayer of a righteous man availeth much"*, and ***"availeth"* is the KJV's own marker, carried by no modern version.** ⛔ **It is a SCRIPTURE CITATION, attributed to Scripture per `PROJECT_STATE.md` §5 rule 9.4's public-domain-text exemption, and NOT counted as his own prose.**
+
+⛔⛔ **WHY THIS IS WORSE THAN *"the universe"* OR *"abortion"*, AND THE COMPARISON IS THE POINT:**
+
+| Instance | Why it is catchable | Why this one is not |
+|---|---|---|
+| `Eucharist` → *"the universe"* | **Plainly wrong** to any reader who knows the subject | — |
+| `worship` → *"abortion"* | **Visibly off-topic** — the subject changes | — |
+| ⛔⛔ **`righteous man` → *"righteous DEAD"*** | — | ⛔⛔ **DOCTRINALLY COHERENT AND CONTEXTUALLY APT.** The surrounding stretch really is about the sanctified in heaven, so the wrong reading *fits* — and it **inserts an entire doctrine (the intercession of the dead) into what is actually a proof text** |
+
+⚠️⚠️ **THE GENERAL RULE ADOPTED, SO A FUTURE PASS INHERITS IT RATHER THAN REDISCOVERING IT: a plausible wrong reading that inserts real theological content is more dangerous than an implausible one, and the danger scales with HOW WELL the wrong reading fits its context. A mangle that reads like something he might plausibly have said is the one that gets deployed.** ⛔ **A term list cannot fix this shape — both words are real English and both are in-domain. Only the ear can.**
+
+⛔⛔ **AND A DISCREPANCY IS RECORDED RATHER THAN SMOOTHED: ear-queue item 10 named s1043; JD's returned verbatim is word-for-word s1041, a different sentence about six seconds earlier. *"Availeth much"* occurs at s1041 in BOTH renderings and at s1043 in NEITHER. ⛔ Both readings of what that means are live, neither is chosen, and s1043 remains unquoted in either form.** **Full handling at `St_Francis_EMC_Distinctives.md` `IP-47a`.**
 
 ⚠️ **TERMS ADDED TO THE LIST ABOVE FROM THIS SEGMENT:** `Church Triumphant` ·
 `Church Militant` · `Theotokos` · `cloud of witnesses` · `second commandment`.
@@ -274,7 +293,7 @@ a person over the Council on a session where both are discussed.
 | True form | Rendering A | Rendering B | Note |
 |---|---|---|---|
 | **Eucharist** | ⛔⛔ ***"the universe"* ×5** | correct ×18 | ⛔⛔ **see above** |
-| **Ante-Communion** | ⛔ ***"an Anticonunion"*** | ✅ correct | ⛔⛔ **A grep of A for `Ante-Communion` returns ZERO for a term that is there** |
+| **Ante-Communion** | ⛔ ***"an Anticonunion"*** | ✅ correct | ⛔⛔ **A grep of A for `Ante-Communion` returns ZERO for a term that is there** ✅⭐ **EAR-CONFIRMED 260821-1 — JD's direct audio verification: spoken CLEARLY as *"Ante-Communion"*, in the fuller clause *"a service called an Ante-Communion or a Deacon's Mass"* (`IP-54a`). ⛔ THIS ROW IS NOT REMOVED AND MUST NOT BE — the mangling is real and is exactly why the term did not grep. ⭐ What changed is the STATUS of the true form: ear-confirmed AGAINST the mangling, the strongest state a quirk row can reach** |
 | **adiaphora** | ⛔ ***"a diaport"*** | ✅ correct | ⛔ reads as two ordinary words |
 | **Maccabees** | ⛔ ***"The Bacchus"*** | ✅ correct | ⛔ **a plausible proper noun; nothing announces the error** |
 | **Tobit** | ⛔ ***"tokens"*** | ✅ correct | ⛔ ordinary English |
@@ -388,6 +407,8 @@ correctly**, which is the whole point of a prospective term list.
 ---
 
 ## Changelog
+
+- **260821-1 (2026-08-11):** ⭐⭐⭐ **EXTENDED at the `A101-2026-08-09` EAR-VERIFICATION ROUND 1 — and this is the first entry in this file written from the AUDIO rather than from a rendering comparison.** ⛔ **A SIXTH DEFECT SHAPE RECORDED: a mangling that INSERTS AN ENTIRE DOCTRINE.** *"The prayers of a righteous **man** availeth much"* (s1041) is **JAMES 5:16 (KJV)** — a proof text — and Rendering B's *"the prayers of the righteous **DEAD**"* at s1043 does not get one word wrong, **it inserts the intercession of the dead into a Scripture citation.** ⛔⛔ **Same family as `Eucharist` → *"the universe"* and `worship` → *"abortion"*, but WORSE than either, because the wrong reading is DOCTRINALLY COHERENT AND CONTEXTUALLY APT rather than plainly wrong or visibly off-topic.** ⚠️ **General rule adopted: the danger of a plausible-English mangle scales with how WELL the wrong reading fits — and ⛔ a term list cannot fix this shape, since both words are real English and both are in-domain. Only the ear can.** ⛔ **A discrepancy is recorded rather than smoothed: queue item 10 named s1043, JD's verbatim is s1041, and *"availeth much"* is at s1041 in BOTH renderings and s1043 in NEITHER; both readings live, neither chosen, s1043 unquoted.** ✅ **And one existing row is UPGRADED rather than removed: `Ante-Communion` is ear-confirmed as spoken clearly against Rendering A's *"an Anticonunion"* — ⛔ the mangled-form row is KEPT, because it remains the reason the term did not grep.** **Full handling at `St_Francis_EMC_Distinctives.md` `IP-47a` and `IP-54a`.**
 
 - **260820-1 (2026-08-11):** ⚠️⚠️ **EXTENDED at the `A101-2026-08-09` SEGMENT-4 intake (sentences 2564-3855), the session's last.** ⭐⭐ **THE HEADLINE IS NOT A MANGLING: `regulative` returns FIVE in both renderings AND TWO OF THE TEN SITES ARE NOT SHARED — Rendering A loses s2609 and carries s2687, which Rendering B loses. EQUAL COUNTS ARE NOT AGREEMENT; agreement is a property of SITES.** ⛔⛔ **AND A FIFTH DEFECT SHAPE IS ADDED, THE FIRST THAT A TERM LIST CANNOT MITIGATE: at s3692 Rendering A renders a PUBLIC FIGURE'S NAME AS THE INITIALS OF A PERSON IN THE ROOM — a mangling that manufactures an ATTRIBUTION rather than corrupting a word.** ⚠️ **Fourteen segment-4 manglings tabled**, including ⛔⛔ `Sexagesima` → *"the sex of the Gethsemane"*, `worship` → *"abortion"* (s3700), `elements` → *"elbows"*, `Advent` DROPPED, and ⛔⛔ **a genuine load-bearing divergence at s3233 — *"good"* (B) vs *"true"* (A) — quoted in neither form.** ✅ **Three long-standing register rows (`Quartodeciman`, `Septuagesima`, `Pascha`) are CONFIRMED against their actual occurrences for the first time; they had been carried from the `260816-1` brief unverified.** ⛔ **Nothing already captured is rewritten and no prior wording is altered.** ⭐ **Six terms added to the list** (`Gesima`, `Sexagesima` promoted from expected-coverage to observed, `Didache` confirmed, `Quinquagesima` promoted, `Trinitytide`, `ablution`). ⭐⭐⭐ **This closes the `A101-2026-08-09` ingest: all four segments have now contributed to this file.**
 - **260819-1 (2026-08-19):** ⚠️⚠️ **EXTENDED at the `A101-2026-08-09` SEGMENT-3 intake (sentences 1978-2563).** ⛔⛔ **THE HEADLINE, AND IT IS THE WORST ENTRY IN THIS FILE: Rendering A renders `Eucharist` — the segment's central term — as *"the universe"* FIVE TIMES** (`Eucharist` 18 in B, 12 in A). ⭐ **Unlike *"Hyrea"*, which is visibly broken, *"the universe"* is ordinary grammatical English: a pass grepping Rendering A gets 12, has no reason to suspect a shortfall, and loses two load-bearing sentences. A plausible wrong word is more dangerous than an implausible one — the `hyperdulia` principle arriving in the ordinary-vocabulary direction.** **Fifteen further segment-3 manglings added in their own table**, including ⛔ **`Ante-Communion` → *"an Anticonunion"*** (so a grep of A for the term returns zero — and it was the intake brief's own named target), `adiaphora` → *"a diaport"*, `Maccabees` → *"The Bacchus"*, `Tobit` → *"tokens"*, and ⛔⛔ **`Zwingli` 0·0 while the name is spoken** (B mangles it to *"Swingley"*, A drops it entirely). ⚠️⚠️ **A BOUND ON THE DUAL-ASR PROTOCOL RECORDED: at s2014-2015 both renderings independently produce *"an omri"* and *"a pix"* for aumbry and pyx — they AGREE and are BOTH WRONG. Agreement is evidence two engines made the same inference, not that the inference was right.** ⭐⭐ **AND A FOURTH DEFECT SHAPE ADDED THAT IS NOT A MANGLING AT ALL: Rendering A is HARD-WRAPPED, so a line-oriented grep returns ZERO for any phrase straddling a line break — it produced FOUR false absences inside the pass itself before being caught.** ⭐ **The general rule is now a family of three: an absence is not reportable until chased through a rendering's own mangled forms, its own transcription conventions, AND its own line structure — all three are properties of the FILE, not the session, and a key-terms list fixes only the first.** ⭐ **Twenty terms added to the list** (`Eucharist`, `Ante-Communion`, `Deacon's Mass`, `aumbry`, `pyx`, `monstrance`, `ablutions`, `tabernacle`, `transubstantiation`, `memorialism`, `local presence`, `koinonia`, `adiaphora`, `regulative principle`, `good and necessary consequence`, `Zwingli`, `Maccabees`, `Tobit`, `Wisdom of Solomon`, `Didache`). ⛔ **Nothing already captured is rewritten and no prior wording is altered.**
