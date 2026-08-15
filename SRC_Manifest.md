@@ -1,6 +1,8 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260826-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260826-3** (date-stamped, format yymmdd-iteration)
+
+**260826-3: ⭐⭐⭐ THE FOUR-PASS `a303` OPEN ITEM IS CLOSED WITH A DEFINITIVE ANSWER — `a303-A101-0719-Vaughans.md` IS A DUPLICATE RE-SUPPLY OF THE ALREADY-REGISTERED `[S]` STREAM CAPTURE, NOT A THIRD CAPTURE AND ⛔⛔ NOT A ROOM RECORDING. ⛔ NOT AN INTAKE: NO FINDING MINTED, NO `IP` NUMBER CONSUMED, `IP-70` STILL FREE.** The file first recorded at `260808-1` and deliberately declined by four consecutive passes is **read, hashed, compared and disposed of** (50,997 bytes, mtime 2026-07-24 — ⭐ **both verified against the file this pass, not carried from the prior figure**; `sha256` `47666233…`, `sha256(body.strip())` `d561fcf6…`, 32-byte header, ASCII throughout, 152 `>>` markers). **Registered as a DUPLICATE RE-SUPPLY on the `a304` pattern: no `W` number, no File number, no session row, no tag, no coordinate.** ⛔⛔⛔ **AND JD'S OWN WORKING PREMISE IS CONTRADICTED, WHICH IS THE RESULT HE MOST NEEDS: he supplied it as HIS OWN PHONE RECORDING of the 07-19 class. IT IS NOT A ROOM CAPTURE AT ALL — it derives from the STREAM, the same broadcast already registered as `[S]` `A101-20260719-official-video.md`.** ⭐⭐ **THE EVIDENCE IS A COVERAGE-WINDOW ARGUMENT, NOT A SIMILARITY SCORE, AND THAT IS WHY IT IS DECISIVE: `a303` carries ALL SIX of the `[S]`-ONLY OPENING MARKERS that the `[R]` recorder-start gap cost us** (*"begin in about a minute"*, *"Where's Father Brian"*, *"did everyone get handouts"*, *"The Lord be with you"*, *"Let us pray"*, *"the meek are guided"* — **every one 0 in `[R]`**), **and it carries NONE of the four `[R]`-ONLY POST-CLOSE MARKERS** (`Enoch` 0, `Elijah` 0, `preterist` 0, `dispensational` 0, against 2·2·1·2 in `[R]`). ⭐⭐⭐ **AND THE TERMINUS SETTLES IT: `a303` stops at *"…Hey. >> Yeah, please."* and `[S]` stops THREE WORDS LATER at *"…Yeah. That one is"* — the same cut, mid-conversation. TWO INDEPENDENT CAPTURES OF A LIVE EVENT DO NOT STOP WITHIN THREE WORDS OF EACH OTHER.** ⚠️⚠️ **THE METHODOLOGICAL RESULT IS THE INVERSE OF THE `a304` LESSON AND IS THE MOST TRANSFERABLE THING IN THIS ENTRY: LONGEST-COMMON-RUN IS THE WRONG DISCRIMINATOR FOR THIS DUPLICATE CLASS AND WOULD HAVE CLEARED IT.** The runs are **253 characters against `[R]` and 370 against `[S]`** — figures that by the `a305`/`a306`/`a307` standard read as *"clean, new material."* ⛔ **They are nothing of the kind: `a304` was a re-supply of the same TRANSCRIPT and so ran 99.984% identical, whereas `a303` is a re-supply of the same AUDIO under a DIFFERENT ASR, which shares almost no long literal runs at all. A hash check passes it; a longest-run check passes it; only a coverage-window and quirk-alignment comparison catches it.** ⭐ **Calibrated against the project's own known same-audio/different-engine pair (Note 2d's `[SW]`/`[SY]`, word-ratio `0.9281`): `a303`↔`[S]` is `0.9485`, ABOVE that baseline, while `[R]`↔`[S]` — different audio, same event — is `0.9132` and `a303`↔`[R]` is `0.9091`, the LOWEST of the three.** **3-gram coverage of `a303`: `83.20%` by `[S]`, `68.88%` by `[R]`, `87.54%` by `[R]`+`[S]`.** ⭐ **Quirk alignment agrees: `a303` reads `Ecclesiasticus` ×3, *"unique Anglican doctrine"*, *"argument that I know"*, *"ark was a preparing"* and *"Homaly 11"* — `[S]`'s readings at the five points where `[R]` garbles — and carries ZERO of the other twelve `[R]`-specific quirks.** ⚠️ **TWO CONTRARY DATA ARE RECORDED RATHER THAN SUPPRESSED: `a303` reads *"affanation"*/*"affination creed"* where `[S]` reads `Athanasian` ×2, and *"lower class"* where `[S]` reads *"lower bucks"* — both `[R]`-side garbles. They do NOT establish room audio and are not treated as doing so: independent ASR passes mangle hard proper nouns independently, and the window evidence is categorical where this is suggestive.** ⛔⛔ **STAGE 2 WAS NOT RUN, BY RULE AND ON EVIDENCE: `a303`'s coverage is a STRICT SUBSET of `[R]`+`[S]`.** Twelve sentences of ≥8 words fall below 0.34 coverage — **150 words, 1.6% of the file** — and the longest contiguous low-coverage run is **42 words** which on inspection is the Moses/Israel intercession exchange **already carried by both registered captures and merely garbled differently.** ⛔ **NO new material, NO re-mining of `IP-13`…`IP-23`, NOTHING promoted, `[R]` STILL PRIMARY PERMANENTLY.** ⭐ **One corroboration is recorded and mints nothing: `a303`'s independent *"Homaly 11"* agrees with `[S]` against `[R]` on Note 2b divergence 3, the homily number that is load-bearing for `IP-20`. A THIRD ASR agreeing strengthens an already-CONFIRMED Step 2 outcome.** ⛔ **`IP-20` is NOT amended, NOT re-worded and NOT re-numbered; no letter suffix minted.** ⚠️⚠️ **AND A SEPARATE UNREGISTERED FILE WAS OBSERVED IN THE COURSE OF THE COMPARISON AND IS RECORDED, NOT INGESTED: `a101-3.txt` — see the disposition block below and `PROJECT_STATE.md` §7. ⭐ It, not `a303`, is the ROOM-CLASS candidate for the recording JD described.** ⛔ **Nothing moved: no gate, no `VP-` pair or number, no `DELTA`, no question drafted, altered or posted, nothing to Rev. James, `DQ-18` still posted and unresolved, no attendee named, no quirk register moved, no byte offset altered, no hash of any registered source changed.** *(§5 rule 11 — this entry makes no claim about its own commit state.)*
 
 **260826-2: ⭐⭐⭐ SESSIONS I-VIII RE-MINED FROM FILES 8 AND 9 — THE EIGHT `Rev2025-S*` ROWS ANNOTATED BESIDE THEIR ORIGINAL JUNE REGISTRATION, AND TWO LOAD-BEARING QUIRKS FOUND INSIDE THE CORPUS'S TWO MOST-CITED PASSAGES. ⛔⛔ NOT AN INTAKE: NO SOURCE FETCHED, TRANSCRIBED OR RE-ENCODED, NO HASH CHANGED, NO BYTE OFFSET ALTERED, NO `W` OR FILE NUMBER CONSUMED.** A close reading of **already-registered** text. **Both hashes re-derived this pass and both match** (`e73901a8…` / `468983452…`; 98,944 / 122,736 bytes; line and block counts confirmed). ⭐⭐ **FILES 8 AND 9 CONFIRMED SINGLE-RENDERING — established, not assumed:** one `[S]` stream capture, one ASR rendering, `[S]` PRIMARY permanently, ⛔ **no `[R]` exists and none ever will (JD does not attend this class)**; ⚠️ **the four `a403`/`a404-part-1`/`a404-part-2`/`a406` lookalikes are the byte-exact redundant re-downloads confirmed at `260822-1`/`260822-2`, spot-re-verified here (`a403`'s body tail is byte-identical to File 8's `Rev2025-S3` range) — ⛔ they are NOT a second rendering and NO dual-ASR cross-check exists for this material.** ⭐ **Findings `RV-53`…`RV-63` in `St_Francis_EMC_Distinctives.md`**, prefix per the `260822-2` ruling; ⚠️ **and the citation nuance is recorded rather than glossed — rule 12's `(2026, tracked series)` is accurate as a PROVENANCE marker but ⛔ these offsets resolve against FILES 8 AND 9, not against `RV`'s Files 4/10/11/12.** ⛔⛔⛔ **`Rev` IS NOT REOPENED: no `Rev-N` finding added, renumbered, amended or touched — and NO AMENDMENT WAS WARRANTED, every `Rev-1`…`Rev-11` claim having been re-checked against the source and found accurate. The §5 rule 2 suffix route was available and deliberately NOT used.** ⭐⭐⭐ **THE QUIRK REGISTER GAINS ITS TWO MOST IMPORTANT ENTRIES SINCE `lad ladan`: `Sursum Corda` GREPS TO ZERO** — three manglings in one session (`cersum` / `cersome` / `cerseum quarter`, File 8 @80,171 / @80,320 / @80,846), **and that session is `Rev-11`'s** — **and `censer` GREPS TO ZERO**, the ASR reading `sensor` three times **inside `Rev-9`'s altar/censer passage, the strongest internal lever in the corpus.** ⚠️ **A pass grepping either clean spelling would report the project's two most load-bearing liturgical anchors as NOT FOUND.** ⭐ **Also registered: `solar scripture` for *sola scriptura*** (⚠️ **`260818-3` reported that term 0·0 for `A101` — same trap, different session**), **`chairbim` for cherubim** (⚠️ **which is exactly what a §12 Ark-cherubim scan would miss by spelling**), `1 Corinthians 24` for 1 Chronicles 24, `Isaiah 63` for Isaiah 6:3, `flipsos`, `lurggical`. ⭐⭐ **AND A FALSE-POSITIVE TRAP BLOCK IS ADDED, headed by the one most likely to do damage: TWO of File 9's fifteen `altar` hits are the revivalist ALTAR CALL, not a liturgical altar.** ⭐ **§12's absolute zero was re-verified against a CLOSE READING rather than a skim and HOLDS** (`Mary` **0** — both apparent hits are *"pri-MARY-ily"*; `image` 45 / `idol` 10 reproduce the `260813-1` counts exactly); ⛔ **and per `260822-2` that is a FIFTH SAMPLE OF ONE SILENCE, not a fifth silence.** ⚠️ **Sessions IV and VI yielded NO new finding and their rows say so — a reported absence is a result, not a gap.** ⛔ **Nothing moved: no session row's original registration overwritten, no date adopted for any of the eight rows (all still NOT ESTABLISHED), no gate, no `VP-` pair or number, no `DELTA`, no question drafted or posted, nothing to Rev. James, `DQ-18` still posted and unresolved, `DQ-9` and OQ8 unmoved, the Article 34 row unmoved, `CL-9` untouched for a tenth consecutive batch.** *(§5 rule 11 — this entry makes no claim about its own commit state.)*
 
@@ -531,6 +533,88 @@ For the Anglican 101 series, **JD's room recording `[R]` is PRIMARY permanently,
 - **"the number 25"** where the room capture reads "the Oratory of Dracula" — @41,321 (both garble the same referent; divergence 15)
 - **"Danny"** as the addressee of *"We're almost there"* — @28,369 (room reads "jd" @24,973; unresolved, unattributed)
 - Truncated final sentence (*"That one is"*) — @49,486 to end-of-file; the upload cuts mid-sentence
+
+### ⛔⛔ DUPLICATE RE-SUPPLY OF THE 07-19 STREAM CAPTURE — `a303-A101-0719-Vaughans.md`, NOT A SOURCE (recorded 260826-3)
+
+⛔⛔ **`a303-A101-0719-Vaughans.md` IS NOT A SOURCE. IT IS NOT REGISTERED AS A FILE, IT GETS NO SESSION ROW, NO `W` NUMBER, AND NO FINDING TAG MAY BE MINTED FROM IT.** It is a **second ASR rendering of the same broadcast already registered as `[S]` `A101-20260719-official-video.md`** under the `A101-2026-07-19` row. This block exists so a later pass finds the decision rather than the file. ⛔ **Held OUTSIDE the repo**, in JD's archive at `…/original transcripts/video transcripts/`.
+
+| Field | Value |
+|---|---|
+| Filename | **`a303-A101-0719-Vaughans.md`** |
+| Size / mtime | **50,997 bytes**, mtime **2026-07-24 23:26** — ⭐ **both re-verified against the file this pass, not carried from the `260811-1` figure** |
+| `sha256` (raw file) | `476662338c56d4ba59753c46354efe00c41d541dcc0d5150a8e1072b86a2719f` |
+| `sha256(body.strip())` | `d561fcf623799dbc5b3aa332112da49a5ee6393bfed36e9e4d615887180bfa96` |
+| Format | `# A101 Vaughans` + `## Jul 19, 2026` + **one 50,964-byte body line** — **header MEASURED at 32 bytes**; 4 lines total; **ASCII throughout** (0 non-ASCII bytes); **152 `>>` markers** |
+| Underlying audio | ⭐⭐ **THE STREAM** — the same broadcast as `[S]`. ⛔⛔ **NOT a room capture and NOT JD's phone** |
+| Relation to `[S]` | **Same coverage window**, terminating **three words short of `[S]`'s own truncation**; 3-gram coverage **83.20%** by `[S]`, **87.54%** by `[R]`+`[S]` |
+| Session | **`A101-2026-07-19`** — *"Session III: the Articles of Religion (I-VIII)"*, already fully ingested from both captures at `260808-1` (Note 2b) |
+| Disposition | ⛔ **DUPLICATE RE-SUPPLY. Do not register, do not ingest, do not tag** |
+
+⛔⛔⛔ **THE PREMISE IT ARRIVED UNDER IS CONTRADICTED, AND THAT IS THE POINT OF THIS BLOCK.** JD supplied it as **his own phone recording of the 07-19 class**, which would have made it a third capture and put the dual-capture procedure and Branch A in play. **It is not.** ⛔ **`[R]` `Audio_07_19_2026_19_34_03.mp3.txt` remains the ONLY room capture of this session, PRIMARY permanently per Note 2a, and nothing about its role, coordinates or quirk register moves.**
+
+⭐⭐ **THE ARGUMENT IS A COVERAGE-WINDOW ARGUMENT, NOT A SIMILARITY SCORE.** Note 2b records two capture-scope facts that between them fingerprint each capture, and `a303` matches `[S]`'s fingerprint on both:
+
+| Window test | `a303` | `[R]` | `[S]` | Reading |
+|---|---|---|---|---|
+| The six `[S]`-only OPENING markers (recorder-start gap) — *"begin in about a minute"*, *"Where's Father Brian"*, *"did everyone get handouts"*, *"The Lord be with you"*, *"Let us pray"*, *"the meek are guided"* | ✅ **all 6 present** | ⛔ **0** | ✅ all 6 | `a303` has what `[R]` structurally CANNOT have |
+| The four `[R]`-only POST-CLOSE markers — `Enoch`, `Elijah`, `preterist`, `dispensational` | ⛔ **0 · 0 · 0 · 0** | 2 · 2 · 1 · 2 | 0 | `a303` LACKS what only `[R]` has |
+| Terminus | *"…Hey. >> Yeah, please."* | runs on ~2,275 B further | *"…Yeah. That one is"* | ⭐⭐ **same cut, THREE WORDS apart, mid-conversation** |
+
+⭐⭐⭐ **THE TERMINUS IS THE DECISIVE DATUM: two independent captures of a live event do not stop within three words of each other.** A shared cut point mid-conversation is a property of **one recording**, not of two devices in one room.
+
+⚠️⚠️ **AND THE METHODOLOGICAL RESULT IS THE INVERSE OF THE `a304` LESSON — IT IS RECORDED IN FULL BECAUSE THE `a304` PROCEDURE, APPLIED HERE, WOULD HAVE CLEARED THIS FILE AS NEW MATERIAL.**
+
+| Comparison | Longest common run | By the `a305`/`a306`/`a307` standard this reads as |
+|---|---|---|
+| `a303` vs `[R]` | **253 characters** | "clean — new material" |
+| `a303` vs `[S]` | **370 characters** | "clean — new material" |
+
+⛔⛔ **BOTH READINGS ARE WRONG, AND THE REASON GENERALISES: `a304` was a re-supply of the same TRANSCRIPT and therefore ran 99.984% identical; `a303` is a re-supply of the same AUDIO under a DIFFERENT ASR ENGINE, and two engines over one recording share almost no long literal runs.** ⭐ **So there are TWO duplicate classes, and they need OPPOSITE tests: a hash check passes both; a longest-run check catches the `a304` class and PASSES the `a303` class; only coverage-window and quirk-alignment comparison catches the `a303` class.**
+
+⭐ **CALIBRATED AGAINST THE PROJECT'S OWN KNOWN SAME-AUDIO/DIFFERENT-ENGINE PAIR rather than against intuition** — Note 2d's `[SW]`/`[SY]`, two ASR renderings of one 06-28 broadcast:
+
+| Pair | Word-level ratio | What it is |
+|---|---|---|
+| `[SW]` vs `[SY]` *(Note 2d)* | **0.9281** | ⭐ **the calibration: KNOWN same audio, two engines** |
+| **`a303` vs `[S]`** | **0.9485** | ⭐⭐ **ABOVE the same-audio baseline** |
+| `[R]` vs `[S]` | 0.9132 | different audio, same event |
+| `a303` vs `[R]` | **0.9091** | **the LOWEST of the three** |
+
+⭐ **QUIRK ALIGNMENT AGREES, AT THE FIVE POINTS NOTE 2b's DIVERGENCE TABLE ALREADY ISOLATED.** `a303` reads `Ecclesiasticus` ×3 (`[R]`: *"Ecclesiastes"* ×3), *"unique Anglican doctrine"* (`[R]`: *"unique and conductive"*), *"argument that I know"* (`[R]`: *"…that I make"*), *"ark was a preparing"* (`[R]`: *"the ark was made for Mary"*) and *"Homaly 11"* (`[R]`: *"A homily of that note"*) — **`[S]`'s reading every time — and carries ZERO of the other twelve `[R]`-specific quirks.**
+
+⚠️ **TWO CONTRARY DATA, RECORDED RATHER THAN SUPPRESSED BECAUSE A LATER PASS WILL FIND THEM AND SHOULD FIND THE REASONING WITH THEM.** `a303` reads *"affanation"*/*"affination creed"* where `[S]` reads `Athanasian` ×2, and *"lower class"* where `[S]` reads *"lower bucks"* — **both of these are `[R]`-side garbles.** ⛔ **They are NOT treated as establishing room audio.** Independent engines mangle hard proper nouns independently, *Athanasian* is exactly such a word, and both `[R]` and `[S]` already garble the *"lower —"* phrase differently (Note 2b divergence 16). **The window evidence is categorical; this is suggestive at best, and it loses.**
+
+⛔⛔ **STAGE 2 WAS NOT RUN — BY RULE AND ON EVIDENCE.** `a303`'s coverage is a **strict subset of `[R]`+`[S]`.** Twelve sentences of ≥8 words fall below 0.34 3-gram coverage against the two registered captures — **150 words, 1.6% of the file** — and the **longest contiguous low-coverage run is 42 words**, which on inspection is the **Moses/Israel intercession exchange already carried by both captures and merely garbled differently.** ⛔ **There is no unmined stretch, so `IP-13`…`IP-23` were NOT re-mined, no finding was minted, and `IP-70` remains free.**
+
+⭐ **ONE CORROBORATION IS RECORDED AND IT MINTS NOTHING.** `a303`'s independent *"Homaly 11"* agrees with `[S]` against `[R]` on **Note 2b divergence 3** — the homily number, load-bearing for `IP-20`. **A third ASR agreeing strengthens a Step 2 outcome that was already ✅ CONFIRMED.** ⛔ **`IP-20` is NOT amended, NOT re-worded, NOT re-numbered, and no §5 rule 2 letter suffix was minted. A corroboration is not a correction.**
+
+### ⏳ OBSERVED, UNREGISTERED, AND NOT INGESTED — `a101-3.txt` (recorded 260826-3)
+
+⚠️⚠️ **A SECOND UNREGISTERED FILE NAMING 7/19/2026 WAS FOUND WHILE THE `a303` COMPARISON WAS RUNNING, AND IT IS RECORDED HERE IMMEDIATELY RATHER THAN LEFT IN A PASS NOTE — THE `a303` LESSON APPLIED THE SAME PASS IT WAS LEARNED.** An open item that lives only in the newest close-out is one quiet pass away from being lost, and this project has just spent four passes proving it.
+
+| Field | Value |
+|---|---|
+| Filename | **`a101-3.txt`**, in `…/original transcripts/in person classes/` |
+| Size / mtime | **50,870 bytes**, mtime 2026-08-06 16:03 |
+| `sha256` (raw file) | `2fd3deae5857fac2…` *(prefix only — ⛔ NOT registered as a source hash)* |
+| Header | `# Transcript of the Meeting: meeting-f72c34f3-beea-46b9-bfc5-dc3d3e9adb58 - a101-3` · `## Date: 7/19/2026` · `[MM:SS]` timestamps · **0 `>>` markers** |
+| Registration | ⛔ **ABSENT from `SRC_Manifest.md` in every table** — grep-verified this pass |
+| Disposition | ⏳ **OBSERVED ONLY. NOT ingested, NOT registered, NO `W` number, NO File number, NO session row, NO tag** |
+
+⭐⭐ **AND IT IS THE ROOM-CLASS CANDIDATE — WHICH MEANS JD'S PHONE-RECORDING RECOLLECTION IS PROBABLY RIGHT ABOUT A FILE AND WRONG ABOUT WHICH ONE.** The same window tests that excluded `a303` point the other way here, and they were run on aggregate statistics and marker greps only:
+
+| Test | `a101-3` | Reading |
+|---|---|---|
+| 3-gram coverage by `[R]` vs by `[S]` | **0.7024** vs **0.6008** | leans ROOM |
+| The six `[S]`-only OPENING markers | ⛔ **0 of 6** | ⭐ **has the `[R]`-shaped recorder-start gap** |
+| The `[R]`-only POST-CLOSE markers | `Elijah` 1 · `preterist` 1 · `dispensational` 2 | ⭐⭐ **carries the material ONLY the room capture has** |
+| Terminus | runs **past `[R]`'s end** into further informal conversation absent from `[R]` | ⚠️ **a LONGER capture than `[R]` at the tail** |
+
+⛔⛔ **BOTH READINGS ARE LIVE AND NEITHER IS ADOPTED: (i) a second ASR of the SAME room audio as `[R]`, rendered from a longer or untrimmed original; (ii) a genuinely DISTINCT second room device — JD's phone beside the recorder.** ⚠️ **The 0.7024 figure does not settle it and is not made to: it sits WELL BELOW the 0.83-0.93 band that same-audio/different-engine pairs produced elsewhere in this pass, which is what reading (ii) predicts and reading (i) does not comfortably explain.** ⛔ **This pass does not resolve it and must not — it was not this pass's scope, the file was not read for content, and the ingestion test forbids registering an unexamined capture.**
+
+⏳ **WHAT IT NEEDS: its own intake pass, and JD's confirmation of which device produced it.** ⚠️⚠️ **IF IT IS A DISTINCT ROOM DEVICE THAT RUNS PAST `[R]`'s END, IT CARRIES POST-SESSION MATERIAL THE CORPUS DOES NOT HOLD IN ANY CAPTURE** — which is precisely the value JD hoped `a303` would have. ⛔ **That is a hypothesis stated to be tested, NOT a finding, and nothing in the corpus rests on it.**
+
+---
 
 ### ⭐⭐ Note 2c — THE `A101-2026-07-26` DUAL INGEST, RUN 260809-1 (Branch A from birth; findings `IP-24`…`IP-39`, none frozen)
 
