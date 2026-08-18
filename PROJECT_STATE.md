@@ -1,6 +1,8 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260828-1** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260828-2** (created 260724-3). Read this file first, before any other project document.
+
+> ⭐ **PASS NOTE 260828-2 — NEW REGISTERED DOCUMENT: `RJ_Open_Questions_and_Divergences.md`.** A short, scannable review sheet requested by JD, in two parts: (1) what is still not understood about RJ's own views, (2) where he diverges from pre-Oxford classical Reformed Anglicanism or broad church consensus. **It is a summary index, not a findings document.** It introduces **no new findings**, advances no numbering series, and deploys no verbatim quotation that was not already byte-offset verified in its home document; every row points to `St_Francis_EMC_Distinctives.md`, `RJ_Incense_Analysis.md` or this file for the evidence. ⚠️ **It deliberately carries no volatile state** — its ask-state column is marked indicative, and §1/§2/§4 here remain authoritative for turn state, gates and versions. Registered in §4 and added to the §4 repo-layout tree and to `README.md` in this same pass.
 
 > ⭐⭐⭐ **PASS NOTE 260828-1 — `LS-39`/`LS-40` AUDIO-VERIFIED AGAINST A FULL DIARIZED TRANSCRIPT, AND A REAL CORRECTION FOLLOWS.** JD requested a targeted ear check on Batch P2's File 17 (the two-voice source, the only one carrying real attribution risk in that batch) and supplied a complete diarized transcript, not just spot-checked quotes.
 >
@@ -826,9 +828,10 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260828-1 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260828-2 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260828-1 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v20 (260802-1) | Backstage — question bank | JD only |
+| `RJ_Open_Questions_and_Divergences.md` | 260828-2 | ⭐ **Backstage — REVIEW SHEET, REGISTERED 260828-2.** Summary index only: open unknowns about RJ's views + divergences from pre-Oxford classical Reformed Anglicanism. ⚠️ **Derived, not a source.** No findings originate here and no numbering series advances here; every row points to `St_Francis_EMC_Distinctives.md`, `RJ_Incense_Analysis.md` or this file. ⚠️ **Carries no volatile state by design** — its ask-state column is explicitly marked indicative, and §1/§2/§4 above remain authoritative. **Drift risk, recorded not fixed:** nothing in `validate_project.py` checks this file's rows against the ledgers they summarise, so a stale row here is caught by hand or not at all | JD only |
 | `RJ_Incense_Analysis.md` | 260802-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260827-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
@@ -838,7 +841,7 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 | `src/SRC_Discord_39ArticlesFormularies.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_SevenSacraments.md` | 260724-3 | Raw archive — never edited except date resolution | — |
 | `src/SRC_Discord_BaptismConfirmation.md` | 260722-1 | Raw archive — never edited except date resolution | — |
-| `README.md` | 260727-1 | Repo front page | JD + Claude |
+| `README.md` | 260828-2 | Repo front page | JD + Claude |
 | `Project_Bootstrap_Prompt.md` | 260816-1 | Conventions | JD + Claude |
 | `validate_project.py` | 260812-1 | ⚠️ **Tooling — REGISTERED 260726-1, STAMPED 260728-1.** ⭐ **260811-1: C10 arm (a)'s entry-bleed FIXED AT SOURCE** — the entry bound now recognises `### ` and deeper (`^#{2,}\s`), after three recorded instances were worked around in the corpus instead of fixed here (`BLOG-44`, `IP-11`, `IP-39a`). ⚠️ **No warning changed; 42 scan windows narrowed.** ⭐ **260812-1: C12's CAPTURE-CODE VOCABULARY IS NO LONGER HARDCODED** — the row parser read `[RS?]`, a second copy of the set defined in `SRC_Manifest.md`'s `### Capture codes` table, and the new `[SW]`/`[SY]` rows would have parsed as nothing while C12 printed OK. ⛔ **NOT widened to a wildcard** — the vocabulary is read from that table, so an undefined code still does not parse. ⚠️ **Counts unchanged, 13/8 before and after; the two 06-28 placeholder rows were replaced one-for-one.** | JD + Claude |
 | `CLAUDE.md` | 260728-2 | ⚠️ **Agent instructions — DERIVED working copy for Claude Code. `Project_Bootstrap_Prompt.md` WINS on any divergence** | Claude (read first by Claude Code) |
@@ -859,6 +862,7 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 ├── PROJECT_STATE.md              ← read first
 ├── St_Francis_EMC_Distinctives.md
 ├── RJ_Final_Question_List.md
+├── RJ_Open_Questions_and_Divergences.md
 ├── RJ_Incense_Analysis.md
 ├── On_Incense_and_the_Altar.md
 ├── Incense_Conversational_Outline.md
