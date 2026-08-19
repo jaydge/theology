@@ -1,6 +1,6 @@
 # What I Still Don't Understand — and Where RJ Diverges
 
-**Last updated: 260828-2** (date-stamped, format yymmdd-iteration)
+**Last updated: 260828-3** (date-stamped, format yymmdd-iteration)
 
 <!-- PURPOSE HEADER — maintained in place, not appended. -->
 
@@ -75,7 +75,7 @@
 1. **Annihilationism is the biggest one.** Confirmed only in 2014-2017 pre-seminary blog material, under a never-raise guard, with no current-voice counterpart. Presenting it as his present teaching is not supported by the corpus.
 2. **Two "obvious" divergences are refuted on his own record:** eucharistic **adoration** of the reserved sacrament (refused by name; monstrance, "we don't do that") and **baptismal regeneration** (he reads Art. 27 and the 1662 liturgy faithfully). Both are on the do-not-deploy register.
 3. **Veneration of images is not on record.** He says "we're not bowing down to the statues." The presence-and-defence charge is sound; the veneration charge is not.
-4. **The `A101-2026-08-09` findings (`IP-45`…`IP-68`) carry open ear-verification flags** and are not deployable until the speaker split is confirmed.
+4. **The `A101-2026-08-09` ear-verification queue is partially cleared, not fully open.** `IP-54`, `IP-55`, `IP-57`, `IP-59`, `IP-64`, and `IP-68` are ear-confirmed and deployable (`260821-1`). `IP-69`, minted in that same round, is attribution-confirmed but expressly **not** outward-deployable — its force is left open; read its force guard before citing it anywhere. `IP-66` is force-confirmed but the exact word remains uncertain — usable without quoting the disputed term. Everything else from that session (roughly two dozen items) is still deferred at JD's own choice, not urgent, and not yet confirmed either way.
 5. **One line commonly misremembered as his is the objector's:** *"We don't do prayers for the dead"* in the 08-09 session. Never attribute it to him.
 6. **The strongest internal lever is not a doctrine on either table** — it is `OQ8`: his own Hebrews/fulfilment hermeneutic and his own anti-literalist apocalyptic hermeneutic cutting against his incense and altar warrant.
 
@@ -84,5 +84,7 @@
 ## CHANGELOG
 
 *Newest first. Entries are historical record — never altered, only added to.*
+
+**260828-3 — §3 Trap 4 corrected against the `260821-1` ear-verification round.** The trap claimed the entire `A101-2026-08-09` range (`IP-45`…`IP-68`) undeployable pending ear verification — accurate when this file was drafted, stale since `260821-1` partially discharged the queue. Rewritten to record: six findings ear-confirmed and deployable (`IP-54`, `IP-55`, `IP-57`, `IP-59`, `IP-64`, `IP-68`); `IP-69` (minted at `260821-1`) attribution-confirmed but not outward-deployable, force expressly open; `IP-66` force-confirmed with the word unresolved, usable without quoting the disputed term; the rest still open. ⚠️ The drafted correction supplied for this pass grouped `IP-69` with the deployable six; verification against `St_Francis_EMC_Distinctives.md` (the `IP-69` entry, the `IP-52` guard-discharge note, the `260821-1` changelog) and `SRC_Manifest.md` (session row) showed that misstates `IP-69`'s force guard, and the text was corrected before application. Source: `260821-1`. No other row, trap, or section touched.
 
 **260828-2 — created.** Distilled from `PROJECT_STATE.md` (§1-§3, §7), `St_Francis_EMC_Distinctives.md` (OQ block, Known Gaps, VP vintage pairs, §§1-18), `RJ_Final_Question_List.md` and `RJ_Incense_Analysis.md`. No new findings; this file asserts nothing that is not already logged elsewhere, and cites no verbatim quotation that was not already byte-offset verified in its home document. Deliberately carries **no** turn state, gate state or version state — those stay in `PROJECT_STATE.md` §1/§2/§4. Registered in `PROJECT_STATE.md` §4 in the same pass.
