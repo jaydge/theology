@@ -1,6 +1,6 @@
 # What I Still Don't Understand — and Where RJ Diverges
 
-**Last updated: 260828-3** (date-stamped, format yymmdd-iteration)
+**Last updated: 260829-2** (date-stamped, format yymmdd-iteration)
 
 <!-- PURPOSE HEADER — maintained in place, not appended. -->
 
@@ -39,8 +39,9 @@
 | 16 | **What he calls himself now.** Does the compound self-description (Wesleyan / annihilationist / Eastern leanings) still hold? | Never asked | `VP-5`, `LS-6` vs `LS-30` | Distinctives §1 |
 | 17 | **Theonomy / two kingdoms.** Does his postmillennialism carry a civil program? | He has called himself unsettled — do not harden | `IP-22`, `RV-32` | Distinctives Known Gap 12 |
 | 18 | **Private confession as a precondition for communion.** The "required/encouraged/available" half is answered; this half is not. | Untouched in every era | `POD-5`, `IP-33`, `IP-54` | Distinctives Known Gap 11 |
-| 19 | **What of Roman structure he would keep** once Rome's claims are set aside. Nothing on the 2026 side. | Never asked | `VP-2` | Distinctives §3 |
-| 20 | **The Assumption of the BVM** — still personally held while refusing its dogmatisation? | Then-side only; no current datum | `VP-7`, `POD-14`, `BLOG-108` | Distinctives §12 |
+| 19 | **Why the Bishop of Rome at the third tier, and where does Canterbury sit?** `LS-24` ranks Scripture, then the consensus of the universal Church, then the Bishop of Rome — but `LS-26`, same video, makes that office a presiding first-among-equals with no veto, which is an odd thing to rank as a tier of authority. Canterbury he calls a patriarchate (2017), never ranked against Rome. | Never asked | `LS-24`, `LS-26`, `LS-40`, `BLOG-136` | Distinctives §3 |
+| 20 | **What of Roman structure he would keep** once Rome's claims are set aside. Nothing on the 2026 side. | Never asked | `VP-2` | Distinctives §3 |
+| 21 | **The Assumption of the BVM** — still personally held while refusing its dogmatisation? | Then-side only; no current datum | `VP-7`, `POD-14`, `BLOG-108` | Distinctives §12 |
 
 ---
 
@@ -84,6 +85,8 @@
 ## CHANGELOG
 
 *Newest first. Entries are historical record — never altered, only added to.*
+
+**260829-2 — one new §1 row (now row 19): the Bishop of Rome's tier and Canterbury's place in it. ⚠️ The row as commissioned was rewritten before application, because its premise did not survive verification.** The drafted row asked what distinguishes Rome's rank from any other patriarch's or primate's *"if not infallibility"* — filed as never asked. Independent check found the wording absent from both question-tracking files (`Canterbury` 0·0, `bishop of rome` 0·0) but the **substance answered on the record, in the same source as `LS-24` itself**: `LS-26` (2021-08-05, ~1,600 bytes after `LS-24`'s @36,406, anchored *"§3 / Papacy, gap FILLED"*) has him welcoming the Bishop of Rome as a first-among-equals who presides over the councils, bounded as not a one-man veto; `RC-7` restates the same position. Logging *"what distinguishes Rome's rank"* as unasked would have recorded as open a question he answers in his own voice, against the `260726-1` standing rule. The row was therefore narrowed to the two parts that are genuinely open: **(a)** why a presiding primacy of honour appears as an authority *tier* at all in `LS-24`'s ranking, the `LS-24`/`LS-26` tension being unreconciled and same-speaker-same-day; **(b)** Canterbury's rank, on which the sole corpus datum is `BLOG-136` (2017, blog vintage, not current voice) calling Canterbury certainly a patriarchate, never ranked against Rome. Rewrite approved by JD before application. **Placement:** inserted at 19, ahead of the existing `VP-2` Roman-structure row (pushed to 20; Assumption row to 21) — same §3 territory and better evidenced than that row (four IDs spanning 2021-2024, two of them ⭐⭐⭐, against `VP-2`'s single then-side datum), but kept below the warrant, formulary and doctrinal-gap clusters at rows 1-18, since it is an ecclesiology curiosity and not a lever on the live incense or Bucket A lines. ⛔ The one `§1 row` cross-reference in the corpus (§2 row 11 → §1 row 8) sits above the insertion point and is unaffected. ⛔ **No question drafted or posted; nothing to RJ.** No other row, no §2, no §3 touched. No tag minted, no gate moved, no ledger changed.
 
 **260828-3 — §3 Trap 4 corrected against the `260821-1` ear-verification round.** The trap claimed the entire `A101-2026-08-09` range (`IP-45`…`IP-68`) undeployable pending ear verification — accurate when this file was drafted, stale since `260821-1` partially discharged the queue. Rewritten to record: six findings ear-confirmed and deployable (`IP-54`, `IP-55`, `IP-57`, `IP-59`, `IP-64`, `IP-68`); `IP-69` (minted at `260821-1`) attribution-confirmed but not outward-deployable, force expressly open; `IP-66` force-confirmed with the word unresolved, usable without quoting the disputed term; the rest still open. ⚠️ The drafted correction supplied for this pass grouped `IP-69` with the deployable six; verification against `St_Francis_EMC_Distinctives.md` (the `IP-69` entry, the `IP-52` guard-discharge note, the `260821-1` changelog) and `SRC_Manifest.md` (session row) showed that misstates `IP-69`'s force guard, and the text was corrected before application. Source: `260821-1`. No other row, trap, or section touched.
 
