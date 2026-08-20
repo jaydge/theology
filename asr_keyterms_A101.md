@@ -1,6 +1,6 @@
 # ASR Key-Terms List — Anglican 101 (`A101`)
 
-**Last updated: 260821-1** (created 260816-1; date-stamped, format yymmdd-iteration)
+**Last updated: 260830-2** (created 260816-1; date-stamped, format yymmdd-iteration)
 
 **Purpose.** A tuned key-terms list for the AssemblyAI `universal-3-5-pro`
 transcription of Anglican 101 sessions. It is passed to the ASR as a
@@ -28,6 +28,52 @@ standing in the transcript**, per the never-alter rule.
 ⚠️ **The distinction is load-bearing.** A silent correction destroys the
 evidence that the capture was unreliable at that point — which is exactly
 the evidence a later verification pass needs.
+
+---
+
+## ⭐⭐⭐ HOW TO USE THIS — THE PROMPT, READY TO PASTE
+
+**AssemblyAI:** paste the block below into the `word_boost` / **Custom
+Vocabulary** field (or `word_boost` array if using the API). Set boost
+level to **high**. ⚠️ **This is a vocabulary hint list, not an
+instruction — AssemblyAI does not take prose direction, so do not paste
+the surrounding explanation, only the terms.**
+
+**Local Whisper (or any engine taking an `initial_prompt`):** paste the
+prose form below instead. Whisper's `initial_prompt` biases toward the
+style and vocabulary of whatever text it's given, so a natural sentence
+works better there than a bare list.
+
+### Prose form, for Whisper's `initial_prompt`
+
+```
+A lecture on Anglican theology and liturgy, discussing the Book of
+Common Prayer, the Thirty-nine Articles, and the Elizabethan Settlement.
+Topics include the Eucharist, Ante-Communion, the Deacon's Mass,
+transubstantiation, memorialism, and the regulative principle of
+worship. The speaker references the Council of Trent, the Council of
+Hieria, the Second Council of Nicaea, Quartodeciman practice, and the
+Gesima seasons — Septuagesima, Sexagesima, Quinquagesima — as well as
+Pascha and Trinitytide. Liturgical objects are named: the aumbry, the
+pyx, the monstrance, the tabernacle, and the ablutions. Theological
+vocabulary includes adiaphora, koinonia, latria, dulia, hyperdulia,
+propitiatory, lapsarian, sola scriptura, and good and necessary
+consequence. Authors and figures include Cranmer, Bramhall, Zwingli,
+and the Summa Theologiae. Scripture and canon discussion covers the
+Apocrypha, the deuterocanonical books, Tobit, the Wisdom of Solomon,
+Maccabees, and the Didache.
+```
+
+⚠️ **Whisper's `initial_prompt` is capped at 224 tokens** — the block
+above is sized to fit. ⛔ **Do not append the full list to it; it will
+be silently truncated and the terms at the end will be lost.**
+
+### ⛔ Standing reminder
+
+**Use this on every AssemblyAI or Whisper run for this corpus.** It was
+not used on the `P1`, `P2`, or `P3` batches — a known gap, cheap to
+mitigate after the fact by cross-checking against YouTube's own captions
+rather than re-transcribing.
 
 ---
 
