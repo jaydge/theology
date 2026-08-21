@@ -1,6 +1,6 @@
 # ORCHESTRATION — how work gets done on this project
 
-**Last updated: 260832-3** (date-stamped, format yymmdd-iteration)
+**Last updated: 260832-5** (date-stamped, format yymmdd-iteration)
 
 > **What this file is.** The durable *working conventions* — how a batch
 > gets from a YouTube URL to a committed finding, and which mistakes keep
@@ -277,6 +277,10 @@ staleness of long chat conversations generally.** Not part of this
 project's data discipline, but worth knowing about, since orchestration
 threads are exactly the kind of long-running conversation this system
 exists to handle.
+
+**The full specification lives at
+`passes/ff-rff-ffd-system-documentation-v2.md`; this section summarizes
+it.**
 
 **The problem it solves:** a chat thread resends its full history every
 turn, an interface has no native fork or compaction, and a long thread
