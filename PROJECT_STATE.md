@@ -1,6 +1,8 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260831-3** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260832-2** (created 260724-3). Read this file first, before any other project document.
+
+> ⭐ **PASS NOTE 260832-2 — `Calvin_Luther_and_Anglican_Formularies_on_Iconography.md` REGISTERED, BACKSTAGE, NO VOLATILE STATE.** JD's own research document, prepared to have primary-source counter-material ready against a claim on record (`LS-93`) that Calvin, Luther, and most Anglicans historically had no objection to iconography. ⛔⛔ **Its content was never read or verified by Claude — no upload of it reached any thread.** ⚠️ **Not expected to need maintenance**: per JD, its content does not depend on anything Rev. James says. **No findings originate here; no numbering series advances.** ⚠️ **`ORCHESTRATION.md` and the `passes/` convention, drafted at `260832-1`, were NEVER APPLIED** — a patch conflict interrupted that pass and it was not reissued while Batch 4 verification took priority. Still owed; to be regenerated fresh against current HEAD.
 
 > ⭐⭐⭐ **PASS NOTE 260831-3 — LS BATCH 7, THE `batch4` PRIESTHOOD, ORDERS AND SACRIFICE INTAKE AND RECONCILE. FIVE NEW `[S]` SOURCES REGISTERED AS FILES 30-34 (`Heschmeyer` 2025-03-18 · `WomenConsecrate` 2024-10-15 · `HolyOrders` 2025-08-21 · `ApostolicSuccession` 2020-03-08 · `LutheranEucharist` 2022-04-21). `LS-111`…`LS-120`, TEN FINDINGS, UNBROKEN. ⛔⛔ NO `[R]` EXISTS FOR ANY OF THE FIVE AND NONE IS ASSERTED.**
 >
@@ -953,10 +955,11 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260831-3 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260832-2 | Backstage | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260831-3 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v20 (260802-1) | Backstage — question bank | JD only |
 | `RJ_Open_Questions_and_Divergences.md` | 260829-4 | ⭐ **Backstage — REVIEW SHEET, REGISTERED 260828-2.** Summary index only: open unknowns about RJ's views + divergences from pre-Oxford classical Reformed Anglicanism. ⚠️ **Derived, not a source.** No findings originate here and no numbering series advances here; every row points to `St_Francis_EMC_Distinctives.md`, `RJ_Incense_Analysis.md` or this file. ⚠️ **Carries no volatile state by design** — its ask-state column is explicitly marked indicative, and §1/§2/§4 above remain authoritative. **Drift risk, recorded not fixed:** nothing in `validate_project.py` checks this file's rows against the ledgers they summarise, so a stale row here is caught by hand or not at all | JD only |
+| `Calvin_Luther_and_Anglican_Formularies_on_Iconography.md` | 260832-2 | ⭐ **Backstage — JD's OWN RESEARCH, REGISTERED 260832-2.** Prepared to address a claim on record (`LS-93` and elsewhere) that Calvin, Luther, and most Anglicans historically had no objection to iconography — assembled to have primary-source counter-material ready if that claim is pressed. ⛔⛔ **NOT A TRANSCRIPT OF ANYTHING REV. JAMES SAID. NOT VERIFIED BY CLAUDE — its content was never uploaded to any orchestration or working thread and has not been independently read.** ⚠️ **Carries no volatile state and is not expected to change** — JD's own note: it "won't change based on anything RJ says," so it does not need the maintenance discipline applied to findings or to `RJ_Open_Questions_and_Divergences.md`. **No findings originate here; no numbering series advances here.** If a future pass draws on it, that pass is responsible for verifying its own citations against primary sources directly, the same as it would for any other secondary reference | JD only |
 | `RJ_Incense_Analysis.md` | 260802-1 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
 | `On_Incense_and_the_Altar.md` | 260725-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
 | `Incense_Conversational_Outline.md` | 260830-1 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
