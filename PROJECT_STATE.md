@@ -1,6 +1,6 @@
 # PROJECT_STATE — the single source of truth for VOLATILE state
 
-**Last updated: 260832-2** (created 260724-3). Read this file first, before any other project document.
+**Last updated: 260832-3** (created 260724-3). Read this file first, before any other project document.
 
 > ⭐ **PASS NOTE 260832-2 — `Calvin_Luther_and_Anglican_Formularies_on_Iconography.md` REGISTERED, BACKSTAGE, NO VOLATILE STATE.** JD's own research document, prepared to have primary-source counter-material ready against a claim on record (`LS-93`) that Calvin, Luther, and most Anglicans historically had no objection to iconography. ⛔⛔ **Its content was never read or verified by Claude — no upload of it reached any thread.** ⚠️ **Not expected to need maintenance**: per JD, its content does not depend on anything Rev. James says. **No findings originate here; no numbering series advances.** ⚠️ **`ORCHESTRATION.md` and the `passes/` convention, drafted at `260832-1`, were NEVER APPLIED** — a patch conflict interrupted that pass and it was not reissued while Batch 4 verification took priority. Still owed; to be regenerated fresh against current HEAD.
 
@@ -955,7 +955,9 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
 
 | Path | Version | Class | Audience |
 |---|---|---|---|
-| `PROJECT_STATE.md` | 260832-2 | Backstage | JD + Claude |
+| `PROJECT_STATE.md` | 260832-3 | Backstage | JD + Claude |
+| `ORCHESTRATION.md` | 260832-3 | ⭐ **Durable working conventions — the delegate-and-verify loop, paths, the batch workflow, the `passes/` artifact convention, the transcription pipeline, the recurring failure modes, and (§9) JD's separate FF/RFF/FFD thread-lifecycle system.** ⛔ **Holds NO volatile state**; next-free numbers and open items stay in this file, evidence rules stay in §5. **Read second, after this file, by any new orchestration thread.** | JD + Claude |
+| `passes/README.md` | 260832-3 | ⭐ **Committed pass artifacts** — every delegated pass writes its `.diff` and `_close-out.md` here and they are committed with the change they describe. Makes each pass's reasoning permanently recoverable from git history, and lets orchestration read them from a fresh clone instead of spending a chat attachment per batch. See `ORCHESTRATION.md` §4. | JD + Claude |
 | `St_Francis_EMC_Distinctives.md` | 260831-3 | Backstage — findings corpus | JD only |
 | `RJ_Final_Question_List.md` | v20 (260802-1) | Backstage — question bank | JD only |
 | `RJ_Open_Questions_and_Divergences.md` | 260829-4 | ⭐ **Backstage — REVIEW SHEET, REGISTERED 260828-2.** Summary index only: open unknowns about RJ's views + divergences from pre-Oxford classical Reformed Anglicanism. ⚠️ **Derived, not a source.** No findings originate here and no numbering series advances here; every row points to `St_Francis_EMC_Distinctives.md`, `RJ_Incense_Analysis.md` or this file. ⚠️ **Carries no volatile state by design** — its ask-state column is explicitly marked indicative, and §1/§2/§4 above remain authoritative. **Drift risk, recorded not fixed:** nothing in `validate_project.py` checks this file's rows against the ledgers they summarise, so a stale row here is caught by hand or not at all | JD only |
