@@ -1,0 +1,481 @@
+diff --git a/PROJECT_STATE.md b/PROJECT_STATE.md
+index 5eac37b..c9e5777 100644
+--- a/PROJECT_STATE.md
++++ b/PROJECT_STATE.md
+@@ -1,7 +1,9 @@
+ # PROJECT_STATE — the single source of truth for VOLATILE state
+ 
+-**Last updated: 260833-7** (created 260724-3). Read this file first, before any other project document.
++**Last updated: 260833-8** (created 260724-3). Read this file first, before any other project document.
+ 
++> ⚙️ **PASS NOTE 260833-8 — `SRC_Channel_Inventory.md` CREATED: A NEW COMPANION REGISTRY, NOT AN INTAKE. NO SOURCE, FILE, FINDING, `LS`/`IP`/`RV`/`DQ` NUMBER MINTED.** Catalogued all 368 videos across the `@barelyprotestant5365` (`EXT-2`) and `@StFrancisAnglicanSpartanburg` (`EXT-3`) YouTube channels, from `channel_videos.tsv` and `channel_metadata.jsonl` (both held outside the repo, at `/Users/jd/EMC/`). Backfilled decisions already implicit in the corpus rather than making new ones: **8 exact video-ID matches** (Files 27-34) marked `INGESTED` against File numbers/finding ranges already recorded in `SRC_Manifest.md`; **19 of Files 1-26** matched by inexact title search, each corroborated by an independent upload-date check, marked `INGESTED (inexact title match)`; 2 left ambiguous (Files 11/12, conflicting session-numbering) and 5 left with zero candidates (Files 1/2/4/8/9, non-1:1-mappable). **56 videos marked `DECLINED`** by category (channel-admin, politics, gaming, guest-conference, scandal, ufo, hell/annihilationism, dispensationalism, non-Christian apologetics, book/film review), conservatively; **285 left blank**. Also recorded: only 4 of 302 dated `EXT-2` videos postdate the 2026-07-25 triage, supporting (not proving) that the 306-vs-219 count difference from the prior triage is a `/videos`-vs-`/streams` tab-scope difference, not new content; and the 4 TSV video IDs absent from the JSONL (3 members-only, 1 not-yet-started livestream at pull time) are flagged for future re-check. **Touched `SRC_Channel_Inventory.md` (new file), `SRC_Manifest.md` and this file.** No gate moved, no channel state changed, no question drafted or posted, nothing entered or left the do-not-deploy register, and nothing was posted to Rev. James. DQ-15 remains outstanding and DQ-9 remains the standing obstacle.
++>
+ > ⚙️ **PASS NOTE 260833-7 — TOOLING PASS: `transcribe_yt.py` MOVED INTO VERSION CONTROL; NO INTAKE, NO FINDING, NO `IP`/`RV`/`DQ`/`LS` NUMBER TOUCHED.**
+ >
+ > ✅ **GATE.** HEAD `6b83dd6f69d812c74154ad3e491f05019eecb4a8` (*"260833-6: Discord intake…"*), exactly as briefed; working tree clean before this pass's first edit. Validator BEFORE: **`78 ok · 6 warnings · 0 errors`** — the standing six (C1 `src/SRC_Discord_RPW.md` relative timestamp · C3 `Calvin_Luther_and_Anglican_Formularies_on_Iconography.md` unparseable stamp · C4 `St_Francis_EMC_Distinctives.md` two answered-as-pending · C5 ×2 volatile-state · C11 outline four findings behind DQ ledger head), confirmed individually against this file's own §4 registry before any edit. **`260833-7` grep-verified genuinely free** across the whole repo before use (highest existing stamp anywhere: `260833-6`).
+@@ -1088,7 +1090,7 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
+ 
+ | Path | Version | Class | Audience |
+ |---|---|---|---|
+-| `PROJECT_STATE.md` | 260833-7 | Backstage | JD + Claude |
++| `PROJECT_STATE.md` | 260833-8 | Backstage | JD + Claude |
+ | `ORCHESTRATION.md` | 260832-5 | ⭐ **Durable working conventions — the delegate-and-verify loop, paths, the batch workflow, the `passes/` artifact convention, the transcription pipeline, the recurring failure modes, and (§9) JD's separate FF/RFF/FFD thread-lifecycle system.** ⛔ **Holds NO volatile state**; next-free numbers and open items stay in this file, evidence rules stay in §5. **Read second, after this file, by any new orchestration thread.** | JD + Claude |
+ | `passes/README.md` | 260832-3 | ⭐ **Committed pass artifacts** — every delegated pass writes its `.diff` and `_close-out.md` here and they are committed with the change they describe. Makes each pass's reasoning permanently recoverable from git history, and lets orchestration read them from a fresh clone instead of spending a chat attachment per batch. See `ORCHESTRATION.md` §4. | JD + Claude |
+ | `St_Francis_EMC_Distinctives.md` | 260833-6 | Backstage — findings corpus | JD only |
+@@ -1098,7 +1100,8 @@ JD is willing to tip his hand on **argument direction** where it moves the discu
+ | `RJ_Incense_Analysis.md` | 260833-2 | ⚠️ **BACKSTAGE — DO NOT SHARE** | JD only |
+ | `On_Incense_and_the_Altar.md` | 260833-2 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
+ | `Incense_Conversational_Outline.md` | 260833-5 | **INTERNAL** · relay-clean **SUSPENDED (recoverable)** | JD only |
+-| `SRC_Manifest.md` | 260833-6 | Source registry | JD + Claude |
++| `SRC_Manifest.md` | 260833-8 | Source registry | JD + Claude |
++| `SRC_Channel_Inventory.md` | 260833-8 | ⭐ **NEW, REGISTERED 260833-8.** Companion registry to `SRC_Manifest.md` — inventories all 368 videos across the `@barelyprotestant5365`/`@StFrancisAnglicanSpartanburg` YouTube channels and records which are `INGESTED` (cross-referencing File numbers/finding ranges already in `SRC_Manifest.md`), `DECLINED` (by category and date), or unjudged (blank). ⛔ **Mints no File, finding or number of any kind.** | JD + Claude |
+ | `asr_keyterms_A101.md` | 260830-2 | ⭐ **Tooling — REGISTERED 260816-1; ⚠️ CORRECTED 260818-3 (the Rendering-B "dropped name" claim falsified; segment-2 manglings added); ⚠️⚠️ EXTENDED 260819-1 (segment-3 manglings, including `Eucharist` → *"the universe"* ×5, and a FOURTH defect shape that is not a mangling at all — Rendering A's hard wrapping).** Tuned ASR key-terms list for the `A101` series, built from manglings verified by grep against the capture. ⛔ **NOT a correction map: it changes what the recogniser hears on the next run and never licenses rewriting a mangling already captured.** ⚠️ Terms entered on expected-coverage grounds are segregated in the file from terms entered on an observed mangling | JD + Claude |
+ | `src/SRC_Discord_RPW.md` | 260833-6 | Raw archive — **extended by capture only** (append or re-export) and date resolution; message text is never edited. ⚠️ Class wording widened 260731-1: "never edited except date resolution" did not describe the 260724-1 re-export it already carried. ⚠️ **260817-1: the `260810-1`-labelled append (commit `74396c3`) is now registered under its own number and its correction to a full recapture is OWED — see `SRC_Manifest.md`'s row note and this file's `260817-1` pass note. Version cell here is UNCHANGED because the file's content is unchanged (Task B blocked, no Discord access this pass).** <br><br> ✅⭐ **260818-2 — THE OWED RECAPTURE IS DONE AND THE CELL MOVES OFF `260801-3` FOR THE FIRST TIME.** JD recaptured the full thread manually (⛔ **Discord access is never automated**); a disposable thread compared it message-by-message — **21 of 22 byte-identical.** ⚠️⚠️ **CLASS WORDING WIDENED AGAIN, AND THIS IS THE WIDENING THAT MATTERS: this pass removed a duplicated raw author line from inside message 22's body and corrected message 19's heading punctuation.** ⭐ **Permitted narrowly — the stray line was a leftover normalisation fragment `260810-1` already CLAIMED to have removed, so deleting it completes that claim rather than altering anything anyone said.** ⛔ **"Message text is never edited" STILL BINDS in full: no message content was altered, and this permission extends to nothing else.** ⚠️ **Pre-260818-2 byte offsets against this file no longer hold** — bytes changed at the top, midpoint and end. ⏳ **One anomaly recorded and NOT fixed: a U+202F narrow no-break space in message 19's heading, awaiting JD's ruling.** ⭐⭐⭐ **260831-2 — A SECOND FULL-THREAD RECAPTURE, MESSAGE 23 (`DQ-19`) APPENDED, ALL 22 PRIOR MESSAGES CONFIRMED IDENTICAL.** JD posted `DQ-19` on 2026-08-20 but had not captured it; the recapture found zero edits anywhere in the thread's history before the append. Pre-260831-2 offsets against messages 1-22 STILL HOLD — the append changed nothing before message 23's own heading. ⭐⭐⭐ **260833-1 — A THIRD FULL-THREAD RECAPTURE, THIS TIME FROM A COMMITTED RAW ARTIFACT (`src/SRC_Discord_RPW-raw.txt`, at HEAD `be2587f`, registered in `SRC_Manifest.md`): messages 1-22 CONFIRMED IDENTICAL; ⚠️ MESSAGE 23 (JD's own `DQ-19` post) CARRIED ONE EDIT** — `("regulates it," if you will,)` → `("regulates it," if you will)` — **corrected by dated changelog note on the message-19 precedent (the raw at HEAD is the text Rev. James answered); cause (post-capture edit by JD vs. prior-capture handling) not adjudicated, both readings recorded. MESSAGE 24 APPENDED — Rev. James's `DQ-19` answer, 8/21/26, 2:17 PM, archived as ONE message with its single-newline continuation boundary (*"To add to those last two sentences…"*) preserved byte-exactly and the one-or-two-messages ambiguity recorded, neither reading chosen.** ⚠️ **Offsets: pre-260833-1 offsets against messages 1-22 STILL HOLD; offsets into message 23's body do NOT (one byte removed); everything after message 23 is new.** ⛔ **The raw artifact deliberately has NO row in this table** — it is a stamp-less capture file registered in `SRC_Manifest.md` with hash/size/date (the `.gitignore`-exemption shape: recorded decision, not oversight); its post-processing disposition is JD's call, flagged in the `260833-1` close-out. | — |
+ | `src/SRC_Discord_Assurance.md` | 260833-6 | ⭐⭐ **NEW, REGISTERED 260833-6.** Raw archive — **extended by capture only** and date resolution; message text is never edited. ⚠️ **Carries a dated note recording an edit JD made to his OWN 12:02 PM message before Rev. James replied; the never-alter rule applies to JD's text as to anyone's** | — |
+diff --git a/SRC_Manifest.md b/SRC_Manifest.md
+index c90b111..245a132 100644
+--- a/SRC_Manifest.md
++++ b/SRC_Manifest.md
+@@ -1,6 +1,10 @@
+ # SRC_Manifest — Transcript Source Manifest
+ 
+-**Last updated: 260833-6** (date-stamped, format yymmdd-iteration)
++**Last updated: 260833-8** (date-stamped, format yymmdd-iteration)
++
++⭐ **Companion registry: `SRC_Channel_Inventory.md`** (registered `260833-8`). It inventories all 368 videos pulled from the `@barelyprotestant5365` (`EXT-2`) and `@StFrancisAnglicanSpartanburg` (`EXT-3`) YouTube channels and records, for each, whether it is already `INGESTED` (cross-referencing the File number and finding range recorded in THIS file), `DECLINED` (by category and date), or unjudged (blank). ⛔ **It mints no File, finding, `LS`, `IP`, `RV`, `DQ` or any other number — every fact in it is either pulled from the channel data or cross-referenced from what is already recorded below.** See that file for the full inventory and its own upload-date scope-difference analysis.
++
++**260833-8: ⭐⭐ `SRC_Channel_Inventory.md` REGISTERED — A NEW COMPANION REGISTRY, NOT A NEW SOURCE. ⛔⛔ NO FILE, FINDING, `LS`, `IP`, `RV`, `DQ`, `VP`, `DELTA` OR `W` NUMBER WAS MINTED.** All 368 videos across the two known channels (`EXT-2`, `EXT-3`) were catalogued from `channel_videos.tsv` (368 data rows) and `channel_metadata.jsonl` (364 records; the 4-ID gap — `Wt7HI5SJahk`, `mfty5D0PAF0`, `b6hTPg50R9Q`, `7HKFlfqG1jY` — confirmed by exact set-difference and flagged for re-check, not assumed permanently inaccessible). **8 exact video-ID matches** (Files 27-34, IDs already recoverable from each source's own `-meta.json`) were marked `INGESTED` against the File numbers and finding ranges already recorded above — no range was invented; each is the batch range this file already documents (e.g. Files 27-29 → `LS-100`…`LS-110`; Files 30-34 → `LS-111`…`LS-120`). **19 of Files 1-26** were matched by inexact title search, each corroborated by an independent second check (the JSONL `upload_date` agreeing with the File's own previously-recorded recording-date evidence) before being marked `INGESTED (inexact title match)`; **2 (Files 11, 12) were left ambiguous** — their own internal session-numbering conflicts with the channel's title-numbering, and no arbiter is available — and **5 (Files 1, 2, 4, 8, 9) had zero candidates** (in-person, never-uploaded audio, or one file spanning multiple sessions with no 1:1 video). **56 videos were marked `DECLINED`** by category (channel-admin, politics, gaming, guest-conference, scandal, ufo, hell/annihilationism, dispensationalism, non-Christian apologetics, book/film review), conservatively, from title and description; **285 were left blank**, undecided rather than force-classified. Full detail, tallies and the upload-date scope-difference note are in `SRC_Channel_Inventory.md` itself. ⛔ **Nothing in this file was altered: no hash, byte offset, finding text or File-block content changed.**
+ 
+ **260833-6: ⭐⭐ DISCORD DOUBLE INTAKE — `src/SRC_Discord_Assurance.md` REGISTERED AS THE CORPUS'S FIFTH DISCORD SOURCE, AND `src/SRC_Discord_RPW.md` RECAPTURED IN FULL AND EXTENDED THROUGH 2026-08-24.** ⭐⭐⭐ **BOTH RAW ARTIFACTS NOW CARRY A `CAPTURED <date, time> ET` LINE — a project-wide convention change that resolves the relative-timestamp problem AT SOURCE and supersedes the `260801-2`/`260810-1` reported-recollection warrant class.** Ten bare same-day timestamps across the two threads are resolved against the files' own capture lines, corroborated by each thread's last message preceding its capture by one minute. ⭐⭐ **RPW recapture result: messages 1-23 byte-identical; message 24 carried a one-byte trailing-space divergence, and for the first time the cause could be ADJUDICATED — a RAW-vs-RAW comparison against the prior artifact at `be2587f` returns the capture line plus pure appends and nothing else, so the byte was dropped by this project's own `260833-1` append and is ⛔ NOT an author edit.** ⚠️ **The new archive records its thread's TWO header shapes (three-line OP / one-line non-OP) so a future recapture cannot read a rendering difference as an edit, and applies the `260833-1` U+202F whole-class ruling rather than making a fresh one.** ⛔⛔ **One message was edited by its author after posting and the author is JD; the archive carries the dated note and the removed text.** Findings sourced: `DQ-20`, `DQ-23` (RPW) · `DQ-21`, `DQ-22` (Assurance).
+ 
+diff --git a/SRC_Channel_Inventory.md b/SRC_Channel_Inventory.md
+new file mode 100644
+index 0000000..59ccde3
+--- /dev/null
++++ b/SRC_Channel_Inventory.md
+@@ -0,0 +1,425 @@
++# SRC_Channel_Inventory — YouTube Channel Video Inventory (registered 260833-8)
++
++**Companion registry to `SRC_Manifest.md`.** This file inventories all 368 videos found across two YouTube channels — `@barelyprotestant5365` (`EXT-2`, 306 videos) and `@StFrancisAnglicanSpartanburg` (`EXT-3`, 62 videos) — as pulled via `channel_videos.tsv` and `channel_metadata.jsonl` (both held outside the repo, at `/Users/jd/EMC/`, on the `PROJECT_STATE.md` §0 footing already used for `BLOG`/`POD`/`A101` stream sources).
++
++⛔⛔ **THIS PASS MINTS NO NEW FINDING, `LS`, `IP`, `RV`, `DQ`, `VP`, `DELTA`, `W` OR `File` NUMBER OF ANY KIND.** It is purely a decision-recording pass over sources already known to the project. Every `INGESTED` row below cites a File number and finding range that is **already recorded in `SRC_Manifest.md`** — none is created here. Every `DECLINED` row records a category and the date of this pass's decision. Every other row is left **blank/unjudged** — not a claim of exclusion, only an honest absence of a decision.
++
++**Last updated: 260833-8**
++
++## Method
++
++1. **Source data.** `channel_videos.tsv` (369 lines incl. header = 368 data rows; columns `video_id, duration_seconds, upload_date, title, channel_code, channel_handle, source_tab`) and `channel_metadata.jsonl` (364 records; `video_id, upload_date, duration, title, description, view_count, channel`) were pulled by JD via `tools/` scraping. **4 of the 368 TSV video IDs have no corresponding JSONL metadata record** — see the note below. The TSV's own `upload_date` column is `NA` for all 368 rows (not populated at scrape time); the `Upload date` column below is backfilled from the JSONL where a record exists, and reads `unresolved` for the 4 gap IDs.
++2. **Exact-ID matches (Files 27-34).** These eight Files' provenance already carries a recoverable YouTube video ID (via each source's own `-meta.json`, per `SRC_Manifest.md`'s Files 27-34 registration), and `SRC_Manifest.md` already records a File number and finding range for each. Matched here on strict video-ID equality. Marked `INGESTED`.
++3. **Inexact title matches (Files 1-26).** These Files predate the `-meta.json` intake procedure and carry no recorded video ID — only a working title (sometimes a raw filename or guest surname). Each candidate File title/guest-name was searched against all 368 TSV titles; where the JSONL `upload_date` also independently corroborated the File's own recorded recording-date evidence (a second, structurally-independent check, not just a title string match), the match is recorded `INGESTED (inexact title match)`. Where a File's own internal session-numbering conflicts with the channel's own title-numbering (Files 11 and 12 — see below), or where a File spans multiple sessions and cannot map 1:1 to a single video (Files 1, 2, 4, 8, 9), no match is recorded and the row is left blank — see the Step-5b tally below for the full breakdown of matched / ambiguous / no-candidate outcomes.
++4. **Category declines.** For the remaining videos (368 minus the 27 matched above), an automated classification pass reviewed title (and description, where JSONL metadata exists) against ten known decline categories from the prior ~120-video triage. Only unambiguous matches were marked `DECLINED`; all doubtful cases were left blank. See tally below.
++
++## Upload-date analysis — scope-difference conclusion
++
++**Only 4 of the 302 dated `EXT-2` (`@barelyprotestant5365`) videos postdate the 2026-07-25 triage date** (`-4r_jF7YRpU` 2026-08-04, `wXH9IM-FWTs` 2026-08-25, `1URyNWfhjz8` 2026-08-13, `EzZypB5cBBM` 2026-07-31). This is **well-supported, but not certain**, evidence that the 306-vs-219 count difference between this pull and the older 2026-07-25 triage is a **scope difference** — the older triage most likely covered only the channel's `/videos` tab (82 of the 306 `EXT-2` rows here carry `source_tab = videos`; the remaining 224 carry `source_tab = streams`) — **rather than 87 videos of genuinely new content produced in one month.** It is not proven certain because the older triage's exact tab scope was never directly confirmed in any surviving record; it is inferred from the near-total absence of post-triage-date content in the pull.
++
++## No-metadata gap — 4 videos, flagged for re-check
++
++**4 of the 368 TSV video IDs have no `channel_metadata.jsonl` record** — `Wt7HI5SJahk`, `mfty5D0PAF0`, `b6hTPg50R9Q` (all three members-only at pull time) and `7HKFlfqG1jY` (a not-yet-started livestream at pull time). Their `Upload date` and `View count` cells below read `unresolved`. **This is flagged for a future re-check, not assumed permanently inaccessible** — a members-only video can become public, and a not-yet-started livestream will eventually air and acquire metadata.
++
++## Step 5b — inexact title match tally (Files 1-26)
++
++- **Matched (title + independent date corroboration):** 19 of 26 — Files 3, 5, 6, 7, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26.
++- **Ambiguous (plausible content-level candidate exists, but conflicts with the File's own internal session-numbering and no arbiter is available):** 2 of 26 — **File 11** (`a306`, "Session XIV" per the File's own numbering, content = Revelation 17-18; the channel's own title-numbering has no "Session XIV" entry at all, and its "Session XV" entry carries the Revelation 17-18 content instead — `nGfY6_P5m5o`) and **File 12** (`a307`, "Session XV" per the File's own numbering, content = Revelation 19; the channel's "Session XVI" entry carries that content instead — `lJo0WgP37rs`). Both left **blank** rather than force-matched, per the manifest's own repeated warnings that this corpus's session numbers are not reliably self-consistent.
++- **Zero candidates (no single video the File can map to):** 5 of 26 — **Files 1 and 2** (in-person audio recordings of a class, never uploaded to either channel), **File 4** (one file spanning three Revelation sessions, IX-XI, not reducible to one video), **Files 8 and 9** (one nine-block transcript pair spanning eight sessions with a mid-session split, not reducible to one video each).
++
++## Step 5c — category decline tally
++
++56 videos declined, all dated 2026-08-25 (this pass), by category:
++
++| Category | Count |
++|---|---|
++| channel-admin | 11 |
++| politics | 10 |
++| gaming | 9 |
++| guest-conference | 8 |
++| scandal | 5 |
++| ufo | 4 |
++| hell-annihilationism | 3 |
++| dispensationalism | 3 |
++| non-christian-apologetics | 2 |
++| book-film-review | 1 |
++| **Total** | **56** |
++
++**285 of the 341 non-matched videos were left blank/unjudged** (title/description did not make a category unambiguous). No wildcard "unrelated" bucket was used — a video with no clear category fit was left blank rather than forced into the nearest available label.
++
++## Full inventory (368 rows)
++
++| Video ID | Title | Upload date | Duration (s) | Channel code | Source tab | View count | Decision |
++|---|---|---|---|---|---|---|---|
++| `-4r_jF7YRpU` | The "Religion of Peace" | 2026-08-04 | 15 | EXT-2 | videos | 311 |  |
++| `n2w_Kz0Zy-M` | Saint Militant Believes We Should Sin or "Be Destroyed"? w/ Hitler Hated Christ | 2026-04-07 | 229 | EXT-2 | videos | 448 |  |
++| `iSFFCo5coE0` | Saint Militant is Okay w/ Mass Murder? Talk w/ Hitler Hated Christ | 2026-04-07 | 253 | EXT-2 | videos | 277 |  |
++| `Mi18kUl6RuE` | Dale Partridge's Normal (But Not Ideal) Marriage | 2026-01-14 | 47 | EXT-2 | videos | 635 | DECLINED — scandal — 2026-08-25 |
++| `49Mwcn5O6Wc` | Tucker Calling for the Nuking of Iran | 2026-01-07 | 67 | EXT-2 | videos | 2247 | DECLINED — politics — 2026-08-25 |
++| `OEodJOKhd7A` | Megyn Kelly Promoting Children "Transitioning" (2018) | 2025-12-21 | 45 | EXT-2 | videos | 1234 | DECLINED — politics — 2026-08-25 |
++| `Ns2jU8injPw` | UMC Pastor Announces He is "Transitioning" | 2025-12-02 | 235 | EXT-2 | videos | 1519 |  |
++| `rIMLKXzDR1k` | Openly "Gay" Man Confirmed in a Roman Catholic Church | 2025-11-13 | 209 | EXT-2 | videos | 1350 |  |
++| `xGg-niVcOVI` | Bishop Strickland Standing Up for What is Right | 2025-11-13 | 76 | EXT-2 | videos | 689 |  |
++| `p-jeXC7sokY` | What Makes a Sacrament Valid? | 2025-10-17 | 689 | EXT-2 | videos | 823 |  |
++| `wZ9HGS-jfRk` | Pope Leo's Liberalism (w/ Question from Reporter) | 2025-10-01 | 107 | EXT-2 | videos | 770 |  |
++| `uttppAjZ6cI` | Pope Leo's Liberalism | 2025-10-01 | 50 | EXT-2 | videos | 373 |  |
++| `2UDDpVWfkSc` | Call an Exorcist | 2025-09-25 | 7 | EXT-2 | videos | 1097 |  |
++| `Nxx1QEhvIB0` | Teaching the Mass | 2025-09-22 | 5685 | EXT-2 | videos | 767 |  |
++| `Wt7HI5SJahk` | Actual Transition Surgery | unresolved | 15 | EXT-2 | videos | unresolved |  |
++| `ab6q2WrCpo0` | Evil Pride Blasphemies in a Roman Catholic Mass | 2025-06-17 | 411 | EXT-2 | videos | 1842 |  |
++| `8NKB6FY3WLM` | Pope Leo XIV and Archbishop Rowan Williams | 2025-06-04 | 41 | EXT-2 | videos | 10377 |  |
++| `umfGxm3jFsI` | When You Find Out Something is a Sacralism | 2025-05-30 | 6 | EXT-2 | videos | 1397 |  |
++| `17M5hMvDRm4` | ANOTHER Roman Priest Rapping (Don't Worry: It's not Ex Cathedra) | 2025-05-22 | 111 | EXT-2 | videos | 783 |  |
++| `VDj4ljBIIIU` | Lizzie Demonstrates Her Arrogance and Ignorance | 2025-05-15 | 234 | EXT-2 | videos | 761 |  |
++| `EqgNkZK7iJM` | Pope Leo XIV Preaching on Immigration | 2025-05-13 | 60 | EXT-2 | videos | 1188 |  |
++| `s4TJznqu1Aw` | Based Pope Leo XIV Being Based | 2025-05-12 | 18 | EXT-2 | videos | 901 |  |
++| `bQXMP1cLRa0` | Rapping German Priest (Roman Catholic) | 2025-03-31 | 46 | EXT-2 | videos | 3527 |  |
++| `bEQONmTL1Fk` | Join Fr Calvin Robinson for the Perseus Conference! (October 24-26) | 2024-06-05 | 34 | EXT-2 | videos | 804 |  |
++| `BThNrjT6uI8` | At the Shrine of the Blessed Sacrament | 2024-06-04 | 36 | EXT-2 | videos | 438 |  |
++| `uF0fZ58eH80` | Fighting Against Lust | 2024-05-24 | 145 | EXT-2 | videos | 795 |  |
++| `gIEVsDLx4TA` | This is What Abuse Looks Like | 2024-05-12 | 62 | EXT-2 | videos | 1511 |  |
++| `nwibeUITGzc` | Yet Another Reason to Dislike John MacArthur | 2024-05-03 | 144 | EXT-2 | videos | 3275 |  |
++| `mNf7kwjYwnA` | Roman Priest "Blessing" the Vow-Exchange of Two Lesbians | 2024-05-03 | 61 | EXT-2 | videos | 770 |  |
++| `qVfv94yCxMY` | "Husband" of the Secretary of Transportation Seen Grooming Kids | 2024-03-12 | 27 | EXT-2 | videos | 1181 | DECLINED — scandal — 2026-08-25 |
++| `oVStigN2k3g` | Bishop Farmer's Apology to Fr Calvin Robinson | 2024-02-01 | 93 | EXT-2 | videos | 10067 |  |
++| `zcO7AwtnhdM` | Question Concerning 1 John 5:8 | 2024-01-05 | 228 | EXT-2 | videos | 449 |  |
++| `W_xc7tSoz4Q` | Creeping Liberalism in Our Children's Books | 2023-11-25 | 19 | EXT-2 | videos | 499 |  |
++| `xk2zB2LEcF8` | Talk with Fr Matt Kennedy: Where Does Our Assurance Lie? | 2023-11-24 | 2536 | EXT-2 | videos | 541 |  |
++| `8gb4BXlfLO4` | Easter Vigil From When I was in Seminary | 2023-11-23 | 31 | EXT-2 | videos | 349 |  |
++| `ulrD_RdI6Q0` | How to Use the 2019 Book of Common Prayer, Traditional Language Edition | 2023-01-29 | 1884 | EXT-2 | videos | 1708 |  |
++| `ZMZ66pLxLuI` | Me and My Brother Debating Anglicanism and Papism While Watching a Tree Being Felled | 2022-12-26 | 59 | EXT-2 | videos | 1857 |  |
++| `rznr47iFWj4` | Our New Deacon! | 2022-11-05 | 163 | EXT-2 | videos | 1010 |  |
++| `jTNqBnhO8A8` | Is Mary the Mother of God? | 2022-07-30 | 362 | EXT-2 | videos | 1311 |  |
++| `FSHHIm-xIBM` | The Stories We Tell | 2022-02-17 | 3519 | EXT-2 | videos | 384 |  |
++| `9SMGzwSsMSI` | Anglican 101 Session 2: Our Confessional Standards | 2021-07-05 | 2325 | EXT-2 | videos | 991 |  |
++| `hDRmWM5Nkgw` | Anglican 101, Session 1: Our History | 2021-06-15 | 3343 | EXT-2 | videos | 1117 |  |
++| `6jSu739GvhI` | Book Recommendation: The Anglican Office Book | 2021-05-04 | 477 | EXT-2 | videos | 3007 |  |
++| `MLvweRO41bo` | A Talk with Austin from Gospel Simplicity | 2021-03-03 | 2555 | EXT-2 | videos | 4580 |  |
++| `Ym8DgpMjB5A` | A History of the Church in England--A Book Review | 2021-02-19 | 429 | EXT-2 | videos | 578 |  |
++| `SvNROzhqVZ0` | No Other Foundation--A Book Review (Concerning Women's Ordination) | 2021-02-16 | 357 | EXT-2 | videos | 594 |  |
++| `wvpJL0DzBto` | Bad Arguments for Roman Catholicism | 2021-01-24 | 1566 | EXT-2 | videos | 1914 |  |
++| `imipCdI7B9s` | Advice for Switching Traditions/Denominations | 2021-01-13 | 1069 | EXT-2 | videos | 2325 |  |
++| `M1E8Tfj4vnU` | Is the Monarch of England the Pope of Anglicanism? | 2020-12-20 | 631 | EXT-2 | videos | 593 |  |
++| `CmnwsSDrc3o` | Simply Anglican--A Book Review | 2020-10-21 | 1392 | EXT-2 | videos | 878 |  |
++| `qm_ur2izYBY` | Canterbury Cousins--A Book Review | 2020-10-17 | 272 | EXT-2 | videos | 192 |  |
++| `MLCh-d15F_o` | A Debate on Holy Orders: "Absolutely Null and Utterly Void"...Is Apostolicae Curae Correct? | 2020-08-29 | 5897 | EXT-2 | videos | 1364 |  |
++| `x0hfBI6w6f0` | Debate: Is Apostolicae Curae Correct? (Opening Statements Only) | 2020-08-28 | 2483 | EXT-2 | videos | 386 |  |
++| `DavM_5hcN0w` | Response to Pastor Mike Winger's Video Against Infant Baptism (Older Video Uploaded) | 2020-07-19 | 5309 | EXT-2 | videos | 1766 |  |
++| `UmIAkdRtzhw` | Are Icons Idolatrous? | 2020-07-03 | 875 | EXT-2 | videos | 1208 |  |
++| `Y-xfYRjzMC8` | A Bad Way to Understand John 6:63 | 2020-06-26 | 500 | EXT-2 | videos | 293 |  |
++| `30mExhHCw4w` | The Memorialist View of The Last Supper: Arguments and Critiques | 2020-06-18 | 1754 | EXT-2 | videos | 586 |  |
++| `02JUN3rrukQ` | Update! June 10th, 2020 | 2020-06-11 | 367 | EXT-2 | videos | 64 | DECLINED — channel-admin — 2026-08-25 |
++| `sO-_EJbq_oQ` | Thoughts on the Papacy Debate with Noah Edmonds | 2020-06-04 | 593 | EXT-2 | videos | 308 |  |
++| `auiLAv8BYpk` | Debate on the Papacy: Scripture and the Seven Ecumenical Councils (Deacon James and Noah Edmonds) | 2020-06-02 | 4567 | EXT-2 | videos | 1782 |  |
++| `vF_6Fr85C8A` | Update: June 1st, 2020 | 2020-06-01 | 316 | EXT-2 | videos | 55 | DECLINED — channel-admin — 2026-08-25 |
++| `pYO6mt0DZko` | Response to "Should Christians Baptize Their Babies?" | 2020-05-30 | 2343 | EXT-2 | videos | 376 |  |
++| `BaFFNOZQ0Ns` | Update! May 24th, 2020 | 2020-05-24 | 351 | EXT-2 | videos | 50 | DECLINED — channel-admin — 2026-08-25 |
++| `s2-jIFFBiJg` | What About the Apocrypha? (Anglican Perspectives) | 2020-05-22 | 1790 | EXT-2 | videos | 970 |  |
++| `0FPjyjKus9k` | Six Sets of Questions Commonly Asked by Atheists | 2020-05-17 | 1609 | EXT-2 | videos | 185 |  |
++| `98aUMXKIrzY` | The Blackout Club : Ten Cursed Ciphers | 2020-05-03 | 146 | EXT-2 | videos | 687 | DECLINED — gaming — 2026-08-25 |
++| `KsLqJIPrpCg` | Response to "Why is Anglicanism a Gateway to (Roman) Catholicism?" | 2020-04-30 | 3389 | EXT-2 | videos | 1089 |  |
++| `gA-ELOCiwC8` | Fundamentalist Claims Coronavirus is Because We Celebrate Easter? A Charitable Response | 2020-04-09 | 1732 | EXT-2 | videos | 317 |  |
++| `zt5kpHQ2nkw` | Is Contemporary Worship Wrong? | 2020-04-09 | 570 | EXT-2 | videos | 577 |  |
++| `hJ1HA4kRv3M` | Five Reasons I Became Anglican | 2020-04-02 | 1694 | EXT-2 | videos | 17542 |  |
++| `IGNmKMXhL1Q` | Morning Prayer, 5th Sunday in Lent, According to the Book of Common Prayer 2019 (with a Homily) | 2020-03-29 | 1556 | EXT-2 | videos | 159 |  |
++| `xySXFYRQ9tI` | How to Use the Book of Common Prayer for Morning Prayer | 2020-03-28 | 1753 | EXT-2 | videos | 473 |  |
++| `xcNz2wdI2P8` | Stations of the Cross (St. Augustine's Prayer Book, 2nd Ed.) | 2020-03-27 | 1543 | EXT-2 | videos | 1270 |  |
++| `M7iSL5mznTk` | A Liturgy for Spiritual Communion (Traditional) | 2020-03-20 | 194 | EXT-2 | videos | 182 |  |
++| `w6DHJouM6XU` | Alien: Isolation: Trapping the Xenomorph | 2020-03-09 | 347 | EXT-2 | videos | 3756 | DECLINED — gaming — 2026-08-25 |
++| `7_egBtP9H1I` | Debate on Holy Orders within Anglicanism: Rev. James and Noah, Moderated by Evan Minton | 2020-03-02 | 5023 | EXT-2 | videos | 2457 |  |
++| `WtYY8phH1-s` | Creating Ashes for Ash Wednesday, with Fr. Jack Gabig | 2019-03-05 | 1108 | EXT-2 | videos | 159 |  |
++| `9Fezj9WMh3A` | Fr. Ray Teaching About the Other Sacraments | 2017-07-14 | 2148 | EXT-2 | videos | 143 |  |
++| `8nRhmD4w-Wg` | Fr. Ray Teaching About the Eucharist | 2017-07-06 | 2524 | EXT-2 | videos | 314 |  |
++| `V-K-iLT9OH4` | Compline, From St. Augustine's Prayerbook | 2017-06-30 | 123 | EXT-2 | videos | 794 |  |
++| `gDcmyvbuA1Y` | A Missions Trip Changed Her Theology | 2015-12-01 | 3108 | EXT-2 | videos | 337 |  |
++| `Q2UN43YiqyM` | Piper's "Essentials to the Gospel" Neglected to Mention the Resurrection of Jesus | 2014-01-12 | 299 | EXT-2 | videos | 805 |  |
++| `7HKFlfqG1jY` | Dr William Lane Craig's Heresies | unresolved | NA | EXT-2 | streams | unresolved |  |
++| `wXH9IM-FWTs` | Is Atheism More Reasonable than Sola Scriptura? Debate | 2026-08-25 | 5598 | EXT-2 | streams | 99 |  |
++| `1URyNWfhjz8` | Does the Bible Permit Polygamy? w/ The Layman Apologist | 2026-08-13 | 4392 | EXT-2 | streams | 133 |  |
++| `EzZypB5cBBM` | Is Partial Preterism Biblical? Reacting to a GotQuestions Article | 2026-07-31 | 2126 | EXT-2 | streams | 205 |  |
++| `Rl5qQcVp4TM` | Is Mormonism Christian? a Discussion w/ Joshua Carr | 2026-07-03 | 5104 | EXT-2 | streams | 302 | DECLINED — non-christian-apologetics — 2026-08-25 |
++| `Aih3leHqWxc` | Why Marxism is Incompatible with Christianity | 2026-06-30 | 2233 | EXT-2 | streams | 205 |  |
++| `TbvJY-sb-Ew` | What About the Thief on the Cross? | 2026-06-19 | 598 | EXT-2 | streams | 177 |  |
++| `EX1BiEWuV3s` | Baptismal Regeneration: Can We Convince JC Dirks? | 2026-06-10 | 9063 | EXT-2 | streams | 298 |  |
++| `mfty5D0PAF0` | Livestream Gaming: Sea of Stars | unresolved | 3521 | EXT-2 | streams | unresolved | DECLINED — gaming — 2026-08-25 |
++| `xwi4PczXO-c` | White House Releases More UFO Videos! w/ The Other Paul | 2026-05-09 | 8832 | EXT-2 | streams | 679 | DECLINED — ufo — 2026-08-25 |
++| `4bRprH5rvKE` | What is the Polish National Catholic Church? an Interview w/ Dcn David Dudzinski | 2026-05-07 | 2937 | EXT-2 | streams | 557 |  |
++| `RxLMLyekZdA` | An Interview with Joshua Carr: Kirk, Candace, and the LDS | 2026-04-10 | 2661 | EXT-2 | streams | 581 |  |
++| `lLjyoa0D_B8` | Eucharistic Miracles? | 2026-04-03 | 1292 | EXT-2 | streams | 546 |  |
++| `dSWva3tZUFs` | Book Review: Strange New World | 2026-03-26 | 474 | EXT-2 | streams | 89 |  |
++| `ZZC_XzQBxYU` | Israeli Jew Turns to Christ: an Interview with Jan Orlov | 2026-03-09 | 4814 | EXT-2 | streams | 198 |  |
++| `FdVntGYXIJA` | Baptismal Regeneration is Biblical (Response Video) | 2026-02-17 | 3951 | EXT-2 | streams | 647 |  |
++| `bSIP6j7h-Kc` | Am I a Christian Zionist? | 2026-01-22 | 2099 | EXT-2 | streams | 507 |  |
++| `ensgVeP4q1o` | Fuentes and GenZ w/ The Other Paul | 2025-12-19 | 4991 | EXT-2 | streams | 1023 | DECLINED — politics — 2026-08-25 |
++| `7V4xw_qt8DM` | Responding to Anglican Aesthetics on Eternal Conscious Torment | 2025-12-19 | 3129 | EXT-2 | streams | 609 | DECLINED — hell-annihilationism — 2026-08-25 |
++| `80Cat8bJJuA` | Kirk Cameron, Annihilationism, and...Heresy? | 2025-12-12 | 2713 | EXT-2 | streams | 504 | DECLINED — hell-annihilationism — 2026-08-25 |
++| `rBkD5FJEDJU` | On Archbishop Steve Wood | 2025-11-11 | 5202 | EXT-2 | streams | 817 |  |
++| `5p05X5ntGSs` | King James Only-ism?!?!? A Talk with Gian the Baptist | 2025-11-11 | 4397 | EXT-2 | streams | 723 |  |
++| `fghoOff5Mbs` | Is "Semper Reformanda" the Right Approach? | 2025-10-31 | 1790 | EXT-2 | streams | 485 |  |
++| `gqcnwLrFUwI` | Second Try! Trouble-Shooting | 2025-10-18 | 2780 | EXT-2 | streams | 205 | DECLINED — channel-admin — 2026-08-25 |
++| `ibGve30IE9o` | Mass Effect Playthrough: Shepard Creation | 2025-10-18 | 1288 | EXT-2 | streams | 111 | DECLINED — gaming — 2026-08-25 |
++| `leko8O_v7h0` | The Official Fall of Canterbury | 2025-10-04 | 2757 | EXT-2 | streams | 3175 |  |
++| `qSllGih7gBQ` | Perverting the Words of Charlie Kirk | 2025-09-19 | 2273 | EXT-2 | streams | 640 | DECLINED — politics — 2026-08-25 |
++| `H3vL6f6Gnvg` | Cleave to Antiquity Lied to You | 2025-09-18 | 3336 | EXT-2 | streams | 4892 | DECLINED — scandal — 2026-08-25 |
++| `h2VcL2deI3Y` | Charlie Kirk Assassin Reportedly in Relationship with Transgender | 2025-09-14 | 2133 | EXT-2 | streams | 366 | DECLINED — politics — 2026-08-25 |
++| `beQvp63CUoQ` | The Killings of Charlie Kirk and Iryna Zarutska | 2025-09-12 | 2387 | EXT-2 | streams | 744 | DECLINED — politics — 2026-08-25 |
++| `3kLPnh3dvK8` | Pride Pilgrimage at the Vatican? a Talk with Dr Stephen Boyce of FACTS | 2025-09-08 | 6359 | EXT-2 | streams | 691 |  |
++| `tjEfxXO0_LA` | Responding to Jack Hibbs' Defense of Dispensationalism | 2025-08-30 | 2192 | EXT-2 | streams | 747 | DECLINED — dispensationalism — 2026-08-25 |
++| `8w2LnCb3XXk` | Did Hitler Hate Christ? (Spoiler: He Did) | 2025-08-23 | 6093 | EXT-2 | streams | 812 |  |
++| `uSHi3Fqgerg` | Are Holy Orders Within Anglicanism Valid? A Response Video | 2025-08-21 | 3579 | EXT-2 | streams | 796 | INGESTED — File 32, LS-111–LS-120 (batch) |
++| `QuQgaUOOjUA` | Responding to Dispensationalist Claims | 2025-08-20 | 3749 | EXT-2 | streams | 335 | DECLINED — dispensationalism — 2026-08-25 |
++| `VaCat-ZcqpA` | "Why Not Grandparents?" A Response to Dr Gavin Ortlund | 2025-08-14 | 4323 | EXT-2 | streams | 755 |  |
++| `SPIMaZUVeJw` | Responding to Matthew Everhard on the Regulative Principle | 2025-08-07 | 4529 | EXT-2 | streams | 1240 | INGESTED (inexact title match) — File 3, BP-39 |
++| `KvF8MK_0uyc` | Muhammadans Worship the Same God? A Talk w/ Allan Ruhl | 2025-07-11 | 3456 | EXT-2 | streams | 425 | DECLINED — non-christian-apologetics — 2026-08-25 |
++| `Kobs8kp7D1M` | Responding to Mike Gendron on the Eucharist | 2025-07-05 | 1437 | EXT-2 | streams | 488 |  |
++| `LZmUps-lCQA` | Can the Episcopal Church Be Saved? Response to @redeemedzoomer6053  , w/ Fr Matt Kennedy & Others | 2025-06-08 | 3930 | EXT-2 | streams | 1689 |  |
++| `uYg5u5R-_is` | Discussion with Chris Date and James Harding on the Real Presence | 2025-06-07 | 9685 | EXT-2 | streams | 756 |  |
++| `pdT7Uh1BAwU` | NT Wright's Worship of Moloch | 2025-06-05 | 2784 | EXT-2 | streams | 1262 |  |
++| `JSJmuuLarCY` | White vs Mahler Debate Talk, w/ The Other Paul and Dcn River Devereux | 2025-05-24 | 9609 | EXT-2 | streams | 2787 |  |
++| `oA2eCi3snws` | Dr Michael Brown, Mike Bickle, and Clergy Abuse: an Interview w/ Joshua Lewis of Remnant Radio | 2025-05-21 | 3421 | EXT-2 | streams | 881 |  |
++| `HqdN0tZc09s` | Thoughts on the Mahler/White Debate, w/ The Reformed Catholic | 2025-05-20 | 6028 | EXT-2 | streams | 886 |  |
++| `qZ4XfQ5IZf0` | Pope Leo XIV: Who is He? | 2025-05-09 | 5435 | EXT-2 | streams | 1161 |  |
++| `L-E_Gfu7xaY` | Are We too Hard on Evangelicals? Responding to Dr Gavin Ortlund @TruthUnites | 2025-05-08 | 5593 | EXT-2 | streams | 1080 |  |
++| `zRAHKxeClog` | Interview with Ben, from Cleave to Antiquity | 2025-05-06 | 3385 | EXT-2 | streams | 775 |  |
++| `wGUi88XaCy0` | Concerning the Death of Pope Francis, w/ Dr Stephen Boyce | 2025-04-23 | 3732 | EXT-2 | streams | 573 |  |
++| `zoFshW9ogOs` | Did St Ignatius Really Exist? an Interview with Dr Stephen Boyce | 2025-04-12 | 4060 | EXT-2 | streams | 506 |  |
++| `nvpE6qLtVn8` | Reacting to the Cliffe and Stuart vs Oriental Orthodox Video | 2025-04-11 | 3565 | EXT-2 | streams | 2128 |  |
++| `XV7JR6GFF3w` | Saved from "Transitioning": an Interview with Savannah Joy | 2025-03-28 | 3597 | EXT-2 | streams | 726 |  |
++| `3h7MIO4srEs` | Evaluating the White/Heschmeyer Debate on the Sacrifice of the Mass | 2025-03-18 | 3754 | EXT-2 | streams | 654 | INGESTED — File 30, LS-111–LS-120 (batch) |
++| `za5oJoqVpqY` | When Truth Doesn't Matter in Apologetics | 2025-03-13 | 4574 | EXT-2 | streams | 1931 |  |
++| `X7dbnzqAnnk` | Discussion with a Mere Memorialist | 2025-02-26 | 5806 | EXT-2 | streams | 596 |  |
++| `Eh41q36RZoI` | Mere Memorialism: Why It is False | 2025-02-15 | 3762 | EXT-2 | streams | 958 |  |
++| `tiiiwGKhW2M` | Problems with Evangelicalism | 2025-02-08 | 2185 | EXT-2 | streams | 733 |  |
++| `muiAsaGXVFM` | Reason #5,726 Why Women Shouldn't (and Can't) Be Ordained | 2025-01-24 | 3323 | EXT-2 | streams | 1647 |  |
++| `7Soe9HYF7i8` | Review of the Ubi Petras and Erick Ybarra Debate on the Papacy, with Allan Ruhl | 2024-12-19 | 7249 | EXT-2 | streams | 646 | INGESTED (inexact title match) — File 17, LS-39–LS-49 (batch) |
++| `-O-venpY-PE` | Discussion with an Atheist | 2024-12-11 | 8152 | EXT-2 | streams | 355 |  |
++| `SQIS_NjsUQM` | Problems with Dispensationalism | 2024-11-16 | 3062 | EXT-2 | streams | 467 | DECLINED — dispensationalism — 2026-08-25 |
++| `b6hTPg50R9Q` | Impromptu Gaming Stream | unresolved | 1282 | EXT-2 | streams | unresolved | DECLINED — gaming — 2026-08-25 |
++| `uJIYRal3Qnc` | How to Use the 1928 (US) Book of Common Prayer for Matins/Evensong | 2024-10-30 | 2818 | EXT-2 | streams | 202 |  |
++| `_bHTc9KjyWc` | Perseus Men's Conference, 2024: Panel Discussion | 2024-10-31 | 5002 | EXT-2 | streams | 103 | DECLINED — guest-conference — 2026-08-25 |
++| `rPg4G3u_l-Q` | Perseus Men's Conference, 2024: Fr James Gadomski | 2024-10-27 | 1732 | EXT-2 | streams | 262 | DECLINED — guest-conference — 2026-08-25 |
++| `uHPuex5FSh8` | Perseus Men's Conference, 2024: Tripp Parker | 2024-10-31 | 2433 | EXT-2 | streams | 44 | DECLINED — guest-conference — 2026-08-25 |
++| `egHdlotth9c` | Perseus Men's Conference, 2024: Friday Evensong and Holy Communion | 2024-10-31 | 5672 | EXT-2 | streams | 63 | DECLINED — guest-conference — 2026-08-25 |
++| `z3WkXpjzkB4` | Perseus Men's Conference, 2024: the Rev Matt Kennedy | 2024-10-31 | 2677 | EXT-2 | streams | 102 | DECLINED — guest-conference — 2026-08-25 |
++| `uscibHQQGxI` | Perseus Men's Conference, 2024: Dr Stephen Boyce | 2024-10-29 | 1653 | EXT-2 | streams | 105 | DECLINED — guest-conference — 2026-08-25 |
++| `T_R7AQQ9nsQ` | Perseus Men's Conference: Fr Calvin Robinson | 2024-10-29 | 2242 | EXT-2 | streams | 216 | DECLINED — guest-conference — 2026-08-25 |
++| `layuF4wDDMI` | Perseus Men's Conference, 2024: Mighty Men of Valour (Evensong and Holy Communion) | 2024-10-31 | 5785 | EXT-2 | streams | 81 | DECLINED — guest-conference — 2026-08-25 |
++| `rH3unprZ0iE` | Why Women Can't Consecrate the Eucharist | 2024-10-15 | 4063 | EXT-2 | streams | 1554 | INGESTED — File 31, LS-111–LS-120 (batch) |
++| `kBVLPXupaZ0` | Andrew Lowen and Deliverance: Council of the Fallen Expansion/Reprint | 2024-10-01 | 3033 | EXT-2 | streams | 173 |  |
++| `A2JI_p52Tyo` | Book Review: Which Rite is Right? by Peter Toon | 2024-09-25 | 1822 | EXT-2 | streams | 286 | INGESTED — File 27, LS-100–LS-110 (batch) |
++| `GufowkP_hFI` | Ember Days, Steve Lawson, and Prayers for Clergy | 2024-09-20 | 2792 | EXT-2 | streams | 520 |  |
++| `Pf1cKIB-HtU` | Must Prayer Be Directed ONLY to the Father? | 2024-09-18 | 1549 | EXT-2 | streams | 427 |  |
++| `21KYEzx7L78` | Responding to "Professor Dave Explains" | 2024-09-15 | 1863 | EXT-2 | streams | 1534 |  |
++| `TePiEoY1N1o` | Responding to Dr White on St Justin Martyr and the Eucharist | 2024-08-31 | 3463 | EXT-2 | streams | 1025 |  |
++| `EPaAHNi-KMs` | Defending Sola Scriptura from Trent Horn and Craig Truglia (w/ The Other Paul) (Part 1) | 2024-08-19 | 9545 | EXT-2 | streams | 3744 |  |
++| `onz8m-ZdhBg` | Classical Theism and Molinism, with Anglican Aesthetics | 2024-08-19 | 6023 | EXT-2 | streams | 684 |  |
++| `0EJQGoyvKqQ` | Debate: Does God Exist? | 2024-08-18 | 7529 | EXT-2 | streams | 380 |  |
++| `6pPk4EZlaFA` | Let's Claim an Island for Christ! with Fr Calvin Robinson | 2024-08-05 | 691 | EXT-2 | streams | 803 |  |
++| `L2aekVl3sH8` | From Mormonism to Eastern Orthodoxy: an Interview with Priscilla Destiny | 2024-07-30 | 4925 | EXT-2 | streams | 954 |  |
++| `m2skLdJOtv0` | Perseus Men's Conference Tickets Available Now! (and Other News) | 2024-07-25 | 542 | EXT-2 | streams | 120 |  |
++| `Vqncpg6U7q8` | How American Christians Can Win 2024 | 2024-07-21 | 241 | EXT-2 | streams | 170 | DECLINED — politics — 2026-08-25 |
++| `fxONcJ65250` | Prayers in Response to the Assassination Attempt on Trump | 2024-07-14 | 251 | EXT-2 | streams | 205 | DECLINED — politics — 2026-08-25 |
++| `2Q_MC-OdC68` | Rebutting a Common Roman Argument: When Roman Catholics Argue Like Liberals (Part 2) | 2024-06-21 | 1839 | EXT-2 | streams | 1826 |  |
++| `rsHEy-WVVto` | Rebutting a Common Roman Argument: When Roman Catholics Argue Like Liberals (Part 1) | 2024-06-21 | 1222 | EXT-2 | streams | 1214 |  |
++| `q7bVsJs-e60` | Announcing the Perseus Men's Conference! | 2024-05-31 | 2774 | EXT-2 | streams | 897 |  |
++| `PpHCImxd6Zo` | Are We "Fundamentally Good"? | 2024-05-22 | 993 | EXT-2 | streams | 442 |  |
++| `OjD6PMVutEM` | Responding to Right Response's Joel Webbon on the Reformation | 2024-05-17 | 2012 | EXT-2 | streams | 819 |  |
++| `Yhgv8JIe7pM` | My Cancer Diagnosis | 2024-05-09 | 522 | EXT-2 | streams | 1119 |  |
++| `G7ZX_ShUlt8` | My Health | 2024-05-03 | 631 | EXT-2 | streams | 499 |  |
++| `Ypvgdx4SwTs` | Mark Driscoll, Justin Peters, and the "Sword Swallower" Controversy | 2024-04-17 | 4734 | EXT-2 | streams | 793 | DECLINED — scandal — 2026-08-25 |
++| `5B4r_NgCfJM` | Interview with a Non-Trinitarian Restorationst | 2024-04-10 | 6464 | EXT-2 | streams | 677 |  |
++| `77-ffHDZzfY` | Trying New "Live Vertical Streaming" | 2024-04-02 | 31 | EXT-2 | streams | 244 | DECLINED — channel-admin — 2026-08-25 |
++| `DyrpuuxF8i0` | Helping Baptists Become Anglican | 2024-03-24 | 6309 | EXT-2 | streams | 2219 |  |
++| `HUX_lRl-p-0` | DON'T CALL IT A COMEBACK: the Return of Reader Stefan | 2024-03-13 | 12259 | EXT-2 | streams | 718 |  |
++| `EovJFqMqH8o` | The Apocrypha in the Books of Homilies | 2024-03-07 | 1972 | EXT-2 | streams | 329 |  |
++| `qvGNfMOv7Ug` | What Led Us to Eastern Orthodoxy and Anglicanism: a Talk with Reader Stefan | 2024-03-06 | 13476 | EXT-2 | streams | 1817 |  |
++| `1WYQWX8pKh4` | Book Review: Redeeming the Feminine Soul, by Julie Roys | 2024-02-24 | 1207 | EXT-2 | streams | 158 |  |
++| `84CmFZqH8_w` | Responding to a Baptist (London Lyceum) | 2024-02-23 | 5525 | EXT-2 | streams | 672 |  |
++| `O0gYB2sE5mY` | Thoughts on Dr James White and Trent Horn Debate (Sola Scriptura, 2024) | 2024-02-18 | 2260 | EXT-2 | streams | 2628 |  |
++| `Jp6d9a5ziFA` | Impromptu Livestream Gaming | 2024-02-11 | 3004 | EXT-2 | streams | 134 | DECLINED — gaming — 2026-08-25 |
++| `3J9Yk2gQ840` | Becoming Orthodox: a Conversation with Luigi | 2024-02-10 | 5184 | EXT-2 | streams | 3038 |  |
++| `x1NR-8xqt9c` | Matins: The Purification of St Mary the Virign (1928) | 2024-02-03 | 1657 | EXT-2 | streams | 146 |  |
++| `Twr20PGzT78` | The Affirmation of St Louis | 2024-02-01 | 2167 | EXT-2 | streams | 449 |  |
++| `93_uEJYu64Q` | Matins for the Feast Day of St Charles the Martyr (1928 Book of Common Prayer) | 2024-01-31 | 1197 | EXT-2 | streams | 170 |  |
++| `kMWAGIZuWkg` | Fr Calvin Robinson Interview: What Happened at the Mere Anglicanism Conference? | 2024-01-25 | 3713 | EXT-2 | streams | 18600 |  |
++| `sUz8AJ0A7mw` | Fr Calvin Robinson Canceled at the Mere Anglicanism Conference | 2024-01-21 | 3762 | EXT-2 | streams | 6013 |  |
++| `Wujr1mcaslI` | Responding to a "Biblical Defense" of Transgenderism | 2024-01-03 | 6503 | EXT-2 | streams | 335 |  |
++| `1jsKcLjvmQs` | Church of England, Rome, and Blessing Sin | 2023-12-22 | 6525 | EXT-2 | streams | 789 | INGESTED (inexact title match) — File 16, LS-23–LS-38 (batch) |
++| `qiY_-16GMrs` | Anglican Identity (Adult Formation Class) | 2023-11-20 | 3081 | EXT-2 | streams | 550 |  |
++| `L48pckukJ0w` | Divorce and Remarriage: a Conversation with Fr Jack Shannon | 2023-11-07 | 5208 | EXT-2 | streams | 601 |  |
++| `FxfcMl_kA0Q` | Is Anglicanism too Theologically Diverse? | 2023-11-05 | 2617 | EXT-2 | streams | 2086 | INGESTED (inexact title match) — File 26, LS-74–LS-99 (batch) |
++| `7TPjb16JukU` | Presuppositionalism: Good or Bad? Interview with Dcn River Devereux, New Kingdom Media | 2023-10-25 | 3531 | EXT-2 | streams | 651 |  |
++| `56oMJX1l4q0` | Thoughts on the Recent Debate on Sola Scriptura | 2023-10-20 | 2085 | EXT-2 | streams | 690 |  |
++| `cH5Xs5EvVJ4` | Predictions on the Synod on Synodality | 2023-10-18 | 1741 | EXT-2 | streams | 397 |  |
++| `m1lMxd3hgA0` | Interview with Anglican Aesthetics (Sean Luke) | 2023-10-10 | 5346 | EXT-2 | streams | 1219 |  |
++| `uAGinckBwsA` | Jonah M Saller and Mere Catholicity | 2023-09-20 | 4288 | EXT-2 | streams | 858 | INGESTED (inexact title match) — File 20, LS-50–LS-73 (batch) |
++| `Q16wTDm0w0s` | Can We Reconquer the Mainline Denominations? A Talk with @Redeemed Zoomer | 2023-09-12 | 4112 | EXT-2 | streams | 984 |  |
++| `DSe99JJCUrU` | The Nature of Hell: a Conversation with Chris Date (Rethinking Hell) | 2023-09-04 | 8030 | EXT-2 | streams | 968 | DECLINED — hell-annihilationism — 2026-08-25 |
++| `8PlefB7Tv4c` | Playing Sea of Stars (a Retro-JRPG) | 2023-09-03 | 2973 | EXT-2 | streams | 128 | DECLINED — gaming — 2026-08-25 |
++| `Y91_5DfoXkg` | Livestream Gaming Test Run | 2023-09-02 | 130 | EXT-2 | streams | 42 | DECLINED — gaming — 2026-08-25 |
++| `o2J8XMD6vTQ` | Short&Sweet Response to @RulesForRetrogrades on Sola Scriptura | 2023-08-26 | 856 | EXT-2 | streams | 530 |  |
++| `X6ejfjDh8nA` | Responding to Timothy Gordon's Argument Against Sola Scriptura | 2023-08-25 | 747 | EXT-2 | streams | 569 |  |
++| `-ltOyw2B5mM` | Should Aliens Get Baptized? and Other Questions: UFO Roundtable | 2023-08-02 | 7820 | EXT-2 | streams | 974 | DECLINED — ufo — 2026-08-25 |
++| `eG5y_WfTVPc` | Quick Thoughts on the UFO Hearings in Congress | 2023-07-28 | 1340 | EXT-2 | streams | 440 | DECLINED — ufo — 2026-08-25 |
++| `8JvkIfBh5mI` | Responding to Brian Holdsworth's Video on Protestantism | 2023-07-22 | 6439 | EXT-2 | streams | 1221 |  |
++| `vyQTkEthPtg` | Why Women Can't Be Ordained | 2023-06-22 | 317 | EXT-2 | streams | 492 |  |
++| `RBkgXuUT_jw` | One Thing I Like About the Roman Tradition, That Anglicans Should Emulate | 2023-06-17 | 2498 | EXT-2 | streams | 630 |  |
++| `Zn1xD4d357M` | Part II: Candace Owens' Videos on Protestant/Roman Catholic Dialogue | 2023-05-27 | 4445 | EXT-2 | streams | 1218 |  |
++| `eYg1sUA28xk` | Candace Owens' Roman/Protestant Debate Review | 2023-05-10 | 3955 | EXT-2 | streams | 1595 |  |
++| `50vuZyFV9BI` | Coming Home too Rome | 2023-04-02 | 241 | EXT-2 | streams | 1020 |  |
++| `_P07_O__2aM` | For Fun: Asking ChatGPT Questions! | 2023-03-20 | 1048 | EXT-2 | streams | 205 |  |
++| `vhOYa2eZFzE` | Does Trent Horn Argue Like an Atheist? Roman Apologetics and Sola Scriptura | 2023-03-16 | 5404 | EXT-2 | streams | 1666 |  |
++| `SBo4tzyaMCE` | The Importance of a Confessional Standard | 2023-03-05 | 2797 | EXT-2 | streams | 565 | INGESTED (inexact title match) — File 25, LS-74–LS-99 (batch) |
++| `q7E9oNfzuI0` | Asbury Revival, Conversations that Matter, and Principles in Argumentation | 2023-02-21 | 5759 | EXT-2 | streams | 598 |  |
++| `m--jRqg2VWA` | Every Star Wars Movie Ranked: with Allan Ruhl | 2023-02-13 | 9315 | EXT-2 | streams | 311 | DECLINED — book-film-review — 2026-08-25 |
++| `q7Oww_7TAWA` | Thoughts on the Death of Pope Benedict XVI | 2023-01-04 | 1131 | EXT-2 | streams | 630 |  |
++| `YBA2ZrSnTSs` | Why I Am Not Eastern Orthodox | 2022-12-22 | 2336 | EXT-2 | streams | 3205 |  |
++| `YjgeKw2ls4E` | Are Roman Catholics in Violation of the Galatian Heresy? | 2022-12-12 | 575 | EXT-2 | streams | 1245 | INGESTED (inexact title match) — File 23, LS-50–LS-73 (batch) |
++| `A-B4fLmVxvE` | What is "Mere Christianity"? | 2022-11-28 | 1754 | EXT-2 | streams | 651 |  |
++| `U401lfNxEIQ` | Dealing with Assurance of Salvation and Doubt | 2022-11-26 | 552 | EXT-2 | streams | 469 |  |
++| `4Sc4vauObXM` | What is Protestantism? | 2022-10-28 | 3849 | EXT-2 | streams | 1400 |  |
++| `eeDBo9jLurQ` | An Example of Bad Roman Apologetics | 2022-10-12 | 3370 | EXT-2 | streams | 990 |  |
++| `tbtGL2JsIl4` | The Problem of the Theoretical Theologian | 2022-09-29 | 983 | EXT-2 | streams | 470 |  |
++| `b-kYswm3DCI` | So You Want an Anglican Parish Near You... | 2022-09-23 | 1172 | EXT-2 | streams | 926 |  |
++| `o16AGiyq2k8` | Can a True Christian Fall Away from the Faith? | 2022-09-10 | 1875 | EXT-2 | streams | 578 |  |
++| `2Bqmt20rWsM` | The Death of Queen Elizabeth II, and the Importance of a Monarchy | 2022-09-09 | 490 | EXT-2 | streams | 420 |  |
++| `udkyU2wM-aA` | What I Love About Lutheranism (and Why I'm not Lutheran) | 2022-09-03 | 1474 | EXT-2 | streams | 2481 | INGESTED (inexact title match) — File 5, LS-1–LS-22 (batch) |
++| `V0_LVgoL7DY` | Introduction to the 2019 Book of Common Prayer, Traditional Language Edition | 2022-08-23 | 1146 | EXT-2 | streams | 1490 |  |
++| `i6EOj8iJx88` | Update! Debates, Discussions, etc. | 2022-07-24 | 1530 | EXT-2 | streams | 456 | DECLINED — channel-admin — 2026-08-25 |
++| `KfVn6qb1cJc` | Book Review: Melchizedek and the Last Supper, by Erick Ybarra | 2022-06-19 | 1244 | EXT-2 | streams | 884 |  |
++| `FuHw5pjpgRg` | Much-Needed Update! | 2022-06-02 | 1638 | EXT-2 | streams | 609 | DECLINED — channel-admin — 2026-08-25 |
++| `Is6DYhCVYZE` | The Overturning of Roe v Wade? | 2022-05-03 | 1010 | EXT-2 | streams | 514 | DECLINED — politics — 2026-08-25 |
++| `FaWyhA4iB3U` | Feast Day of Sts Philip and James (1928 BCP) | 2022-05-02 | 3555 | EXT-2 | streams | 409 |  |
++| `jWJvFbsa3P8` | Dear Trent Horn...a Response and an Invitation | 2022-04-22 | 4529 | EXT-2 | streams | 1589 |  |
++| `BXqUAK9Mxg0` | Is the Eucharist Valid in a Lutheran Church? | 2022-04-21 | 2853 | EXT-2 | streams | 2122 | INGESTED — File 34, LS-111–LS-120 (batch) |
++| `sjdr3FY1mXQ` | Interview with an Atheist: Benjamin Blake Speed Watkins | 2022-03-24 | 5631 | EXT-2 | streams | 682 |  |
++| `WhXVNz4jvwg` | Responding to Pastor Spencer Smith's Video about Denominations | 2022-03-18 | 2738 | EXT-2 | streams | 1548 |  |
++| `s6oOBWaFpYM` | Response to Jordan Cooper's "Why I'm not Anglican", with Fr Gingerich (Faith & Honor Podcast) | 2022-03-16 | 5946 | EXT-2 | streams | 2108 | INGESTED (inexact title match) — File 7, LS-1–LS-22 (batch) |
++| `3RVtLcpUdZI` | The Problem with Pointing Out (Alleged) Informal Fallacies | 2022-03-10 | 1006 | EXT-2 | streams | 392 |  |
++| `-0pGk3YBQsE` | "We Baptize" vs. "I Baptize": Why It's Important | 2022-02-26 | 601 | EXT-2 | streams | 386 |  |
++| `HuCYtci27NE` | Live Q&A to Celebrate 1,000 Subscribers!!!! | 2022-01-27 | 4863 | EXT-2 | streams | 527 | DECLINED — channel-admin — 2026-08-25 |
++| `pFhOFC5W5v4` | Interview with Jesse Nigro, Editor-in-Chief at The North American Anglican | 2022-01-18 | 3077 | EXT-2 | streams | 644 |  |
++| `0lnmlb6M37M` | Talk with (the New) Apologia Anglicana | 2022-01-12 | 6124 | EXT-2 | streams | 1609 |  |
++| `aY_4JL5x0EE` | Questions for Dr Nemes: Concerning the Eucharist | 2022-01-10 | 1630 | EXT-2 | streams | 589 |  |
++| `gtiy3gMQ_do` | Truth Unites: an Interview with Dr Gavin Ortlund | 2022-01-04 | 4138 | EXT-2 | streams | 1675 |  |
++| `wR2BKVIsuE4` | Responding to Dr Steven Nemes on the Eucharist (with Apologia Anglicana) | 2021-12-08 | 10678 | EXT-2 | streams | 1416 |  |
++| `MHXAJonT8eQ` | Discussion with a Roman Catholic | 2021-11-30 | 7814 | EXT-2 | streams | 1106 |  |
++| `5sfXxCPx05M` | Growing as a Liturgical Church: an Interview with Fr Chris Findley | 2021-11-24 | 4020 | EXT-2 | streams | 882 | INGESTED — File 28, LS-100–LS-110 (batch) |
++| `Ik2qtKM93Ew` | You Should Read "Till We Have Faces" | 2021-11-12 | 1257 | EXT-2 | streams | 325 |  |
++| `ZGntccYaUn0` | Can (Should) We Pray to the Saints? | 2021-10-26 | 2280 | EXT-2 | streams | 1680 |  |
++| `xPZYUtfOG28` | Debate with Richard Carrier, and Patreon Launch! | 2021-10-12 | 348 | EXT-2 | streams | 461 |  |
++| `ZDIvk9ERoWg` | Should Women Be Ordained? | 2021-09-19 | 3710 | EXT-2 | streams | 1424 |  |
++| `FTMqLpKTFaM` | In Search for Catholicity: a Talk with Christian Idealism (Kyle Alander) | 2021-09-08 | 3651 | EXT-2 | streams | 959 | INGESTED (inexact title match) — File 21, LS-50–LS-73 (batch) |
++| `jEBzUZ1cZLI` | Balancing our Reformed and Catholic Heritage: A Conversation with River Devereux | 2021-08-18 | 5282 | EXT-2 | streams | 1821 | INGESTED (inexact title match) — File 22, LS-50–LS-73 (batch) |
++| `nVX30nceG8A` | Why I'm not Roman Catholic | 2021-08-06 | 4192 | EXT-2 | streams | 3831 | INGESTED (inexact title match) — File 15, LS-23–LS-38 (batch) |
++| `q7XR5CJrzM4` | Anglican and Orthodox Dialogue, with Craig Truglia | 2021-07-31 | 3879 | EXT-2 | streams | 2930 | INGESTED — File 29, LS-100–LS-110 (batch) |
++| `uAVqPNKUxns` | Baptism in the Bible | 2021-07-04 | 2217 | EXT-2 | streams | 637 |  |
++| `RMYA11VgMmk` | Responding to, "Yes, Kink Belongs at Pride. And I Want My Kids to See it." | 2021-07-02 | 1066 | EXT-2 | streams | 594 | DECLINED — politics — 2026-08-25 |
++| `IGgVZMCUlKs` | Responding to Pas. Mike Winger on the Eucharist | 2021-06-23 | 3824 | EXT-2 | streams | 1230 |  |
++| `NZ5o8F4lDdc` | Response to Trent Horn's "The Church Father Protestants Fear the Most..." | 2021-06-16 | 4408 | EXT-2 | streams | 2060 |  |
++| `i0eVfCmmoIk` | Livestream Playthrough of Deliverance (on Tabletop Simulator) | 2021-05-26 | 12890 | EXT-2 | streams | 212 | DECLINED — gaming — 2026-08-25 |
++| `MO_TYnmuKNo` | Conservative AND Episcopalian? A Conversation with High-Church Memes for Anglo-Catholic Teens | 2021-05-23 | 4558 | EXT-2 | streams | 2915 | INGESTED (inexact title match) — File 14, LS-23–LS-38 (batch) |
++| `9Qx6wORLD6Y` | UFOs, Aliens, and Christianity (with John Fisher 2.0) | 2021-05-22 | 5511 | EXT-2 | streams | 385 | DECLINED — ufo — 2026-08-25 |
++| `lA81luR2myM` | Always Reforming: a Conversation on Justification, with Samson Covatch | 2021-05-16 | 8251 | EXT-2 | streams | 568 |  |
++| `zrLxnQiMMEw` | Deliverance Board Game: an Interview with Designer Andrew Lowen | 2021-05-12 | 5308 | EXT-2 | streams | 474 |  |
++| `edFjnm7mYfM` | The Eucharist and the Anglican Formularies: A Conversation with River Devereux | 2021-05-08 | 7417 | EXT-2 | streams | 2174 | INGESTED (inexact title match) — File 24, LS-74–LS-99 (batch) |
++| `B31nCMihgUk` | Anglicanism and Monarchy: an Interview with Dr. Andre Gazal | 2021-04-18 | 7206 | EXT-2 | streams | 495 |  |
++| `HXAmsvI0Elc` | Response to Fr. Mitch Pacwa's Critique of Sola Scriptura | 2021-04-07 | 4098 | EXT-2 | streams | 872 |  |
++| `aHpxLSCAPpY` | Interview with Authentically Anglican | 2021-03-29 | 5931 | EXT-2 | streams | 626 |  |
++| `SAEYOHNxKes` | Interview with Pieter Valk on the "Dear Gay Anglicans" Letter | 2021-03-17 | 4401 | EXT-2 | streams | 1277 |  |
++| `GeDyr28Db1I` | Review of the Papacy Debate, with John Fisher 2.0 (Original Win Productions) | 2021-03-10 | 4553 | EXT-2 | streams | 486 |  |
++| `qLEIqt2NiIc` | What NOT to Do When Trying to Convert People, w/ John Fisher 2.0 (Roman Catholic) | 2021-03-05 | 4401 | EXT-2 | streams | 729 |  |
++| `Kxq17fak-Gg` | (Not Quite the) Talk with Gospel Simplicity's Austin (See Pinned Comment for Link) | 2021-03-03 | 25 | EXT-2 | streams | 182 |  |
++| `RxwkLXzNGyA` | Fr. Matt Kennedy Concerning That "Dear Gay Anglicans" Letter | 2021-02-26 | 3279 | EXT-2 | streams | 1503 |  |
++| `XkKwg1UWd7o` | Thoughts on the Ravi Zacharias Scandal with Apologist Evan Minton of Cerebral Faith | 2021-02-24 | 2435 | EXT-2 | streams | 339 | DECLINED — scandal — 2026-08-25 |
++| `bqtfK-jLipk` | Becoming Sacramental and Liturgical | 2021-02-07 | 5589 | EXT-2 | streams | 748 | INGESTED (inexact title match) — File 6, LS-1–LS-22 (batch) |
++| `QehwAdO1MCo` | Interview with Matt Kennedy on Reformed Anglicanism and the Church's Current Challenges | 2021-01-31 | 3737 | EXT-2 | streams | 3326 |  |
++| `JTHTYamekyA` | Response (Pt. 2) to Trent Horn's Rebuttal to Dr. Jerry Walls' Argument Against the Papacy | 2020-10-07 | 4837 | EXT-2 | streams | 684 | INGESTED (inexact title match) — File 19, LS-39–LS-49 (batch) |
++| `n9xY1AR0U4o` | Response (Pt. 1) to Trent Horn's Rebuttal to Dr. Jerry Walls' Argument Against the Papacy | 2020-09-25 | 4786 | EXT-2 | streams | 1572 | INGESTED (inexact title match) — File 18, LS-39–LS-49 (batch) |
++| `zttSS3u2qIE` | Why I Don't Simply Call Them "Catholic" | 2020-09-20 | 617 | EXT-2 | streams | 580 | INGESTED (inexact title match) — File 13, LS-23–LS-38 (batch) |
++| `5-oS0Sl6Hto` | Why Theology Matters | 2020-09-14 | 1045 | EXT-2 | streams | 196 |  |
++| `msPgIHKC9aI` | "Is God a Moral Monster?" Book Review | 2020-09-04 | 475 | EXT-2 | streams | 607 |  |
++| `_AroQ7StWCU` | The "Cuties" Movie and People Trying to Justify It | 2020-08-21 | 299 | EXT-2 | streams | 336 |  |
++| `X_mY0kyE0tc` | Finally a Priest in God's One Holy Catholic and Apostolic Church | 2020-08-20 | 141 | EXT-2 | streams | 392 |  |
++| `udDhNqXX7-g` | Settled in California! | 2020-08-07 | 360 | EXT-2 | streams | 111 | DECLINED — channel-admin — 2026-08-25 |
++| `LjUqSb39T_A` | Livestream with Fr. Steve Abbott | 2020-03-20 | 1899 | EXT-2 | streams | 100 |  |
++| `4EFtFKrZhoQ` | Livestream with Fr. Steve Postponed | 2020-03-19 | 58 | EXT-2 | streams | 24 | DECLINED — channel-admin — 2026-08-25 |
++| `Kn0A6cVZpqk` | Question #5: What is the Anglican view of Predestination and Election? | 2020-03-19 | 790 | EXT-2 | streams | 2003 |  |
++| `io-OsOmFXhM` | Praying the Great Litany (2019 Book of Common Prayer) | 2020-03-18 | 663 | EXT-2 | streams | 119 |  |
++| `ErZO1BeCLOs` | Question #4: What About Communion in the Midst of a Pandemic? (Like the Coronavirus) | 2020-03-16 | 934 | EXT-2 | streams | 74 |  |
++| `9w-hBUnnl34` | Question #3: Do Anglicans Have a Specific Bible Translation That They Use? | 2020-03-16 | 772 | EXT-2 | streams | 1206 |  |
++| `-W-lYe1KZVw` | Question #2: What Anglican Seminaries are There? | 2020-03-16 | 553 | EXT-2 | streams | 882 |  |
++| `FIOUAveql4I` | Question #1: Can You Be an Anglican and Love Onions? | 2020-03-16 | 14 | EXT-2 | streams | 142 |  |
++| `vGtzi7TY62w` | Podcast and YouTube Channel Recommendations | 2020-03-16 | 812 | EXT-2 | streams | 179 |  |
++| `VvkxFsykeyc` | 3rd Sunday in Lent, Morning Prayer, According to the (US) 1928 Book of Common Prayer | 2020-03-15 | 1637 | EXT-2 | streams | 38 |  |
++| `H1H9CO8mF8c` | 3rd Sunday in Lent Morning Prayer, According to the 2019 Book of Common Prayer | 2020-03-15 | 2131 | EXT-2 | streams | 42 |  |
++| `KjBFrHvbBVM` | Some Introductory Books for Those Interested in Anglicanism | 2020-03-13 | 1111 | EXT-2 | streams | 1838 |  |
++| `Vfq5b5btlVw` | Thoughts on the Apostolic Succession Debate | 2020-03-08 | 2011 | EXT-2 | streams | 551 | INGESTED — File 33, LS-111–LS-120 (batch) |
++| `fXpoPWugyXI` | Tuesday Evening Prayer, 17th Sunday After Trinity, 1928 BCP (US) | 2019-10-15 | 1276 | EXT-2 | streams | 65 |  |
++| `4B66rgy9-lc` | Testing | 2019-10-15 | 16 | EXT-2 | streams | 49 | DECLINED — channel-admin — 2026-08-25 |
++| `GeWfXTAjFDo` | Revelation Class, Session XVII: The Millennial Reign, Pt 1 (Chapter 20) | 2026-08-17 | 1882 | EXT-3 | videos | 6 |  |
++| `lJo0WgP37rs` | Revelation Class, Session XVI: The Marriage Supper of the Lamb (Chapter 19) | 2026-08-11 | 1547 | EXT-3 | videos | 23 |  |
++| `nGfY6_P5m5o` | Revelation Class, Session XV: The Whore and the Beast (Ch 17-18) | 2026-08-07 | 2133 | EXT-3 | videos | 7 |  |
++| `7yiQQdH_sEI` | Revelation Class, Session XIII: The Last Plagues and the Song of Moses (Chapter 15) | 2026-08-03 | 2147 | EXT-3 | videos | 13 | INGESTED (inexact title match) — File 10, RV-24–RV-32 |
++| `M71-SrYEoEQ` | Revelation Class, Session XI: The Two Beasts and the Mark (Ch 13) | 2026-08-02 | 2454 | EXT-3 | videos | 19 |  |
++| `ADQnOyBaSRk` | Revelation Class, Session X: the Woman, the Child, and the Dragon  | 2026-06-30 | 2256 | EXT-3 | videos | 23 |  |
++| `nOSaF0BWS2Y` | Revelation Class, Session IX: the Beast and the Bottomless Pit (Chapter 11) | 2026-06-21 | 1991 | EXT-3 | videos | 18 |  |
++| `gEDpnwg2tF0` | Classical Theism (for Trinity Sunday) | 2026-06-07 | 2291 | EXT-3 | videos | 32 |  |
++| `6JRvrk-t3e0` | Revelation Class, Session VIII: the Mighty Angel and the Little Scroll | 2026-05-26 | 2195 | EXT-3 | videos | 25 |  |
++| `B7YgZ-o2WU0` | Revelation, Session VII: the Fifth & Sixth Trumpets | 2026-05-19 | 2054 | EXT-3 | videos | 16 |  |
++| `ZbTi1klNlw8` | Revelation, Session VI: the First Four Trumpets | 2026-05-10 | 1981 | EXT-3 | videos | 25 |  |
++| `_8axw8Hog60` | Revelation, Session V: the 144,000 & the Great Multitude | 2026-05-07 | 2246 | EXT-3 | videos | 21 |  |
++| `DACpGVyqqNE` | Revelation, Session IV: the Lamb and the Seals (Pt 2) | 2026-05-07 | 734 | EXT-3 | videos | 4 |  |
++| `RG4AP5vSKrY` | Revelation, Session IV: the Lamb and the Seals (Pt 1) | 2026-05-07 | 1221 | EXT-3 | videos | 9 |  |
++| `FxbVzG0on5I` | Revelation, Session III: The Heavenly Liturgy | 2026-04-16 | 1766 | EXT-3 | videos | 24 |  |
++| `QqQHIrI7-6M` | Revelation, Session II: Chapters 1-3 | 2026-04-02 | 2079 | EXT-3 | videos | 26 |  |
++| `Ac3oAM2trBc` | Revelation, Session I: How We Approach This Book | 2026-03-27 | 2244 | EXT-3 | videos | 49 |  |
++| `6mlLjJIlPqc` | What is Ash Wednesday? What is Lent? | 2026-02-18 | 1060 | EXT-3 | videos | 22 |  |
++| `hlEGpBC3Vj4` | Sir Gawain and the Green Knight: a Study on Its Christian Themes | 2025-12-31 | 2289 | EXT-3 | videos | 69 |  |
++| `C2tCMfq-_hI` | What We Believe About Worship and Holy Communion | 2025-09-23 | 5685 | EXT-3 | videos | 161 |  |
++| `FpoVT7XOGKk` | Ante-Nicene and Nicene Church Fathers, Class IX: Constantine and the Peace of the Church | 2025-07-13 | 1897 | EXT-3 | videos | 48 |  |
++| `IZNvpL6KQqo` | Ante-Nicene and Nicene Church Fathers, Class VIII: Not Quite Saints | 2025-06-24 | 1956 | EXT-3 | videos | 42 |  |
++| `5mU3CdbXjOQ` | The Doctrine of the Trinity | 2025-06-18 | 1515 | EXT-3 | videos | 25 |  |
++| `ZFt7velbg-w` | Ante-Nicene and Nicene Church Fathers, Class VII: Early Liturgical Practice (Tyler West) | 2025-06-09 | 1658 | EXT-3 | videos | 54 |  |
++| `LlZN40u5Q0A` | Ante-Nicene and Nicene Fathers, Class VI | 2025-06-08 | 2026 | EXT-3 | videos | 31 |  |
++| `9lbAPj8cK2M` | Ante-Nicene and Nicene Fathers, Class V: St Athanasius (Kevin Valdes Teaching) | 2025-05-26 | 1611 | EXT-3 | videos | 85 |  |
++| `VMT9wj0y_LU` | Ante-Nicene and Nicene Church Fathers, Class IV: St Ignatius of Antioch (Dr Stephen Boyce) | 2025-05-19 | 2280 | EXT-3 | videos | 100 |  |
++| `yP3OdU7NBrA` | Ante-Nicene and Nicene Church Fathers, Class III: Christians Defending the Faith, Part 1 | 2025-05-12 | 2308 | EXT-3 | videos | 31 |  |
++| `xX2VRLLzYM8` | Ante-Nicene and Nicene Church Fathers, Class II: From Pentecost to Rome | 2025-05-05 | 2062 | EXT-3 | videos | 71 |  |
++| `K58hS3Es2Og` | Ante-Nicene and Nicene Church Fathers, Class I: Introduction | 2025-05-04 | 2149 | EXT-3 | videos | 77 |  |
++| `tPpllG8kWPk` | Christ in the Old Testament, Session IX: Jesus and King David | 2025-02-08 | 1918 | EXT-3 | videos | 30 |  |
++| `jAV5vq2Kw9s` | Christ in the Old Testament, Session VII: Jesus and the Levitical Sacrifices | 2025-01-15 | 2013 | EXT-3 | videos | 29 |  |
++| `WzHEbjQ5Eqc` | Christ in the Old Testament, Class IV | 2025-01-11 | 2530 | EXT-3 | videos | 17 |  |
++| `XRW3zqgJYFM` | Christ in the Old Testament, Session V | 2025-01-11 | 2383 | EXT-3 | videos | 19 |  |
++| `R-GHhWcuH78` | Christ in the Old Testament, Session VI | 2025-01-11 | 1849 | EXT-3 | videos | 17 |  |
++| `SFlXIm1-hK4` | Christ in the Old Testament, Session III: From the Fall to the Flood | 2024-12-03 | 2596 | EXT-3 | videos | 32 |  |
++| `PEGUfE6Y2LA` | Christ in the Old Testament | 2024-12-01 | 1643 | EXT-3 | videos | 45 |  |
++| `IASMAJ6YmSE` | Anglican Worship, Session V: Holy Communion Pt 2: Liturgy of the Sacrament | 2024-11-26 | 1607 | EXT-3 | videos | 41 |  |
++| `9UDQhvMdkNA` | Anglican Worship, Session VI: Seasons and the Liturgical Calendar (Pt 1) | 2024-11-23 | 916 | EXT-3 | videos | 43 |  |
++| `38BYTZzLmxg` | Anglican Worship, Session VI: Seasons and the Liturgical Calendar (Pt 2) | 2024-11-23 | 663 | EXT-3 | videos | 46 |  |
++| `jFEa8HcJslM` | Anglican Worship, Session IV: Holy Communion Pt 1: Liturgy of the Word | 2024-10-22 | 1855 | EXT-3 | videos | 50 |  |
++| `RPujGPqxuew` | Anglican Worship, Session III: Matins and Evensong (1928 US BCP) | 2024-10-08 | 2058 | EXT-3 | videos | 65 |  |
++| `Qd5BXVse74g` | Anglican Worship, Session II: History and Basics of the Book of Common Prayer | 2024-09-23 | 2376 | EXT-3 | videos | 173 |  |
++| `mVXfj_OT8b4` | What are Ember Days? | 2024-09-17 | 458 | EXT-3 | videos | 149 |  |
++| `ZTs6Ru9ZdnI` | Anglican Worship, Session I: Our Approach to Worship | 2024-09-17 | 2146 | EXT-3 | videos | 86 |  |
++| `EkFVZbJxP-k` | Anglican 101, Session VIII: The Ecclesial Sacraments | 2024-07-13 | 2422 | EXT-3 | videos | 125 |  |
++| `vh3JujW09cw` | Anglican 101 Session VII: Salvation and the Dominical Sacraments | 2024-07-02 | 2597 | EXT-3 | videos | 123 |  |
++| `rHM5EqiWfNI` | Anglican 101 Session VI: Scripture (and Tradition) | 2024-06-29 | 2003 | EXT-3 | videos | 133 |  |
++| `Rbe5ua2vt5I` | Anglican 101, Session V: Ecclesiology (Theology of the Church) | 2024-06-17 | 2226 | EXT-3 | videos | 99 |  |
++| `JKtSm6nWg7E` | Anglican 101, Session IV: Christology | 2024-06-15 | 1914 | EXT-3 | videos | 55 |  |
++| `PV4B4bbVFvo` | Anglican 101, Session III: Anglican History | 2024-06-09 | 3011 | EXT-3 | videos | 147 |  |
++| `ksAub_F_67s` | Anglican 101, Session II: The Doctrine of God (Classical Theism) | 2024-05-28 | 2836 | EXT-3 | videos | 238 |  |
++| `OmQEUC34u2g` | Anglican 101, Session I: Anglican Identity | 2024-05-19 | 1889 | EXT-3 | videos | 461 |  |
++| `2jHkSh1ieTo` | Anglican Class, Session VII: The Articles of Religion | 2026-08-24 | 4524 | EXT-3 | streams | 70 |  |
++| `VjK_jbfao-k` | Anglican Class, Session VI: Articles of Religion | 2026-08-17 | 5662 | EXT-3 | streams | 150 |  |
++| `6Z68nITG1Is` | Anglican Class, Session V: Articles of Religion | 2026-08-10 | 5858 | EXT-3 | streams | 117 |  |
++| `hxkQxBSCpNc` | Anglican Class, Session IV: the Articles of Religion (IX-XVI) | 2026-07-29 | 5076 | EXT-3 | streams | 119 |  |
++| `5amf7UHdeLI` | Anglican Class, Session III: the Articles of Religion (I-VIII) | 2026-07-24 | 3852 | EXT-3 | streams | 150 |  |
++| `zXxQwz9s0Ps` | Anglican Class, Session II: History | 2026-06-29 | 3614 | EXT-3 | streams | 90 |  |
++| `pHqKPBpQR7c` | Anglican Class, Session I: Introduction (But Sideways) | 2026-06-29 | 4062 | EXT-3 | streams | 57 |  |
++| `ZkVlWb852NY` | Morning Prayer, Septuagesima, 2026 | 2026-02-02 | 2462 | EXT-3 | streams | 52 |  |
++| `AawVFH69H0E` | Conversion of St Paul, Morning Prayer (Jan 25th, 2026) | 2026-01-26 | 2639 | EXT-3 | streams | 50 |  |
++
++## Cross-reference
++
++See `SRC_Manifest.md` for the full provenance, hash, and finding detail of every `INGESTED` row above (Files 27-34 registered at `260831-3`/`260832-5`; Files 3, 5-7, 10, 13-26 registered across `260722-1` through `260829-4` — see that file's own pass-note history for each batch). This registry does not restate or alter any hash, byte offset, or finding text recorded there.
