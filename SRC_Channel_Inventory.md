@@ -4,7 +4,7 @@
 
 ⛔⛔ **THIS PASS MINTS NO NEW FINDING, `LS`, `IP`, `RV`, `DQ`, `VP`, `DELTA`, `W` OR `File` NUMBER OF ANY KIND.** It is purely a decision-recording pass over sources already known to the project. Every `INGESTED` row below cites a File number and finding range that is **already recorded in `SRC_Manifest.md`** — none is created here. Every `DECLINED` row records a category and the date of this pass's decision. Every other row is left **blank/unjudged** — not a claim of exclusion, only an honest absence of a decision.
 
-**Last updated: 260833-8**
+**Last updated: 260834-8** (decision cells filled for Files 8-9's nine `EXT-3` video rows — the brief describing this pass named ten; nine distinct video IDs are what the eight Session blocks resolve to, Session IV alone carrying two; registered 260833-8)
 
 ## Method
 
@@ -365,15 +365,15 @@
 | `ADQnOyBaSRk` | Revelation Class, Session X: the Woman, the Child, and the Dragon  | 2026-06-30 | 2256 | EXT-3 | videos | 23 |  |
 | `nOSaF0BWS2Y` | Revelation Class, Session IX: the Beast and the Bottomless Pit (Chapter 11) | 2026-06-21 | 1991 | EXT-3 | videos | 18 |  |
 | `gEDpnwg2tF0` | Classical Theism (for Trinity Sunday) | 2026-06-07 | 2291 | EXT-3 | videos | 32 |  |
-| `6JRvrk-t3e0` | Revelation Class, Session VIII: the Mighty Angel and the Little Scroll | 2026-05-26 | 2195 | EXT-3 | videos | 25 |  |
-| `B7YgZ-o2WU0` | Revelation, Session VII: the Fifth & Sixth Trumpets | 2026-05-19 | 2054 | EXT-3 | videos | 16 |  |
-| `ZbTi1klNlw8` | Revelation, Session VI: the First Four Trumpets | 2026-05-10 | 1981 | EXT-3 | videos | 25 |  |
-| `_8axw8Hog60` | Revelation, Session V: the 144,000 & the Great Multitude | 2026-05-07 | 2246 | EXT-3 | videos | 21 |  |
-| `DACpGVyqqNE` | Revelation, Session IV: the Lamb and the Seals (Pt 2) | 2026-05-07 | 734 | EXT-3 | videos | 4 |  |
-| `RG4AP5vSKrY` | Revelation, Session IV: the Lamb and the Seals (Pt 1) | 2026-05-07 | 1221 | EXT-3 | videos | 9 |  |
-| `FxbVzG0on5I` | Revelation, Session III: The Heavenly Liturgy | 2026-04-16 | 1766 | EXT-3 | videos | 24 |  |
-| `QqQHIrI7-6M` | Revelation, Session II: Chapters 1-3 | 2026-04-02 | 2079 | EXT-3 | videos | 26 |  |
-| `Ac3oAM2trBc` | Revelation, Session I: How We Approach This Book | 2026-03-27 | 2244 | EXT-3 | videos | 49 |  |
+| `6JRvrk-t3e0` | Revelation Class, Session VIII: the Mighty Angel and the Little Scroll | 2026-05-26 | 2195 | EXT-3 | videos | 25 | INGESTED — File 8/9, `Rev-8`; `RV-58`, `RV-61` (260834-8) |
+| `B7YgZ-o2WU0` | Revelation, Session VII: the Fifth & Sixth Trumpets | 2026-05-19 | 2054 | EXT-3 | videos | 16 | INGESTED — File 8/9, `Rev-7`; `RV-59` (260834-8) |
+| `ZbTi1klNlw8` | Revelation, Session VI: the First Four Trumpets | 2026-05-10 | 1981 | EXT-3 | videos | 25 | INGESTED — File 8/9, `Rev-6`, ⭐⭐⭐ `Rev-9` (altar/censer passage, strongest internal lever in the corpus; Malachi 1:11 quoted @46,952) (260834-8) |
+| `_8axw8Hog60` | Revelation, Session V: the 144,000 & the Great Multitude | 2026-05-07 | 2246 | EXT-3 | videos | 21 | INGESTED — File 9, `Rev-5`, `Rev-11` (part); `RV-53`, `RV-60` (260834-8) |
+| `DACpGVyqqNE` | Revelation, Session IV: the Lamb and the Seals (Pt 2) | 2026-05-07 | 734 | EXT-3 | videos | 4 | INGESTED — File 9, `Rev-4`, `Rev-10`, `Rev-11` (part); with Pt 1, jointly source Session IV — file/video boundary NOT shown to coincide (260834-8) |
+| `RG4AP5vSKrY` | Revelation, Session IV: the Lamb and the Seals (Pt 1) | 2026-05-07 | 1221 | EXT-3 | videos | 9 | INGESTED — File 8, `Rev-4`, `Rev-10`, `Rev-11` (part); with Pt 2, jointly source Session IV — file/video boundary NOT shown to coincide (260834-8) |
+| `FxbVzG0on5I` | Revelation, Session III: The Heavenly Liturgy | 2026-04-16 | 1766 | EXT-3 | videos | 24 | INGESTED — File 8, `Rev-3`, `Rev-11` (part) — sources part of the §15 "strongest internal lever" cluster; sat blank here (260834-8) |
+| `QqQHIrI7-6M` | Revelation, Session II: Chapters 1-3 | 2026-04-02 | 2079 | EXT-3 | videos | 26 | INGESTED — File 8, `Rev-2`; `RV-56`, `RV-57`, `RV-62` (260834-8) |
+| `Ac3oAM2trBc` | Revelation, Session I: How We Approach This Book | 2026-03-27 | 2244 | EXT-3 | videos | 49 | INGESTED — File 8, `Rev-1`; `RV-54`, `RV-63` (part) — carries the "AD 2026" self-dating passage (260834-8) |
 | `6mlLjJIlPqc` | What is Ash Wednesday? What is Lent? | 2026-02-18 | 1060 | EXT-3 | videos | 22 |  |
 | `hlEGpBC3Vj4` | Sir Gawain and the Green Knight: a Study on Its Christian Themes | 2025-12-31 | 2289 | EXT-3 | videos | 69 |  |
 | `C2tCMfq-_hI` | What We Believe About Worship and Holy Communion | 2025-09-23 | 5685 | EXT-3 | videos | 161 |  |

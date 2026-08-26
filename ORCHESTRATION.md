@@ -1,6 +1,6 @@
 # ORCHESTRATION — how work gets done on this project
 
-**Last updated: 260832-5** (date-stamped, format yymmdd-iteration)
+**Last updated: 260834-7** (date-stamped, format yymmdd-iteration)
 
 > **What this file is.** The durable *working conventions* — how a batch
 > gets from a YouTube URL to a committed finding, and which mistakes keep
@@ -266,6 +266,35 @@ posting before, and only a full comparison catches that.
 
 **Corrections are dated notes beside the original, never silent
 rewrites** — the never-alter rule, project-wide.
+
+⭐⭐ **Every intake or retro-registration pass updates the coverage
+registries for whatever it covers, in the same pass — BOTH of them**
+(added `260834-7`):
+
+1. **`SRC_Coverage_Register.md`** — the coverage state for the material
+   the pass touched: what was retrieved, what was judged, what was
+   deliberately declined and why, and what remains unreviewed.
+2. **`SRC_Channel_Inventory.md`** — the decision cell for each video the
+   pass covered, set to **`INGESTED`** and carrying **the File number and
+   the finding range**, so the inventory never drifts behind the corpus.
+
+⚠️⚠️ **`SRC_Coverage_Register.md` DOES NOT EXIST YET AND IS NOT CREATED BY
+THE PASS THAT WROTE THIS INSTRUCTION.** It is forthcoming: a later pass
+will build it as the single place recording coverage for **every source
+universe this project draws on** — both YouTube channels (`EXT-2`
+`@barelyprotestant5365` and `EXT-3` `@StFrancisAnglicanSpartanburg`), the
+`BLOG` written corpus, the `POD` podcast corpus, the Discord threads, the
+in-person class recordings, and the pre-manifest `aNNN` transcript files.
+⛔ **A reader who meets this convention before the file exists is not
+looking at an error and should not go hunting for it** — until that pass
+runs, clause 1 is owed rather than actionable, and clause 2 stands on its
+own and is enforceable now.
+
+⭐ **Why both and not one.** They answer different questions.
+`SRC_Channel_Inventory.md` is video-keyed and channel-scoped: it says
+what happened to *this video*. The coverage register is universe-scoped:
+it says what is left. A pass that updates only the inventory leaves every
+non-YouTube universe — and every *unretrieved* item — invisible.
 
 ---
 
