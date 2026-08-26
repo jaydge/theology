@@ -1,6 +1,6 @@
 # St Francis EMC Research
 
-**Last updated: 260828-2**
+**Last updated: 260835-8**
 
 A structured theological research project on the public teaching of Rev. James Gadomski ("RJ"), rector of St. Francis Anglican Church (Episcopal Missionary Church) in Spartanburg, SC. The goal is to understand RJ's positions through his own teaching, identify genuine tensions with the Anglican formularies he holds (the Thirty-Nine Articles and 1662 BCP), and develop friendship-preserving questions for in-person and Discord-mediated conversation.
 
@@ -55,9 +55,10 @@ A two-mode workflow keeps live documents stable. **Append mode** intake threads 
 ## Conventions
 
 - RJ is always **"Rev. James"** or **"RJ,"** never "Fr. James."
-- No em-dashes or en-dashes in written output. Use commas, parentheses, periods, or restructured sentences.
+- Minimize em-dashes and en-dashes in fresh conversational output. Prefer commas, parentheses, periods, restructured sentences, or an occasional semicolon. The objection is to heavy, characteristically-AI dash use, not to the mark itself, so occasional intentional use is fine. Dash-policing is skipped during complex reconciliation work, with a single cleanup pass afterward if needed. The full statement lives in `CLAUDE.md` and `Project_Bootstrap_Prompt.md` under "Voice and drafting."
 
 ## Changelog
 
+- **260835-8:** Softened the em-dash convention under `## Conventions`. The superseded wording was *"No em-dashes or en-dashes in written output. Use commas, parentheses, periods, or restructured sentences,"* an absolute ban that had gone stale against the reconciled standard carried in `CLAUDE.md` and `Project_Bootstrap_Prompt.md` under "Voice and drafting," which asks for minimization and names heavy, characteristically-AI dash use as the actual objection rather than the mark itself. Recorded here rather than rewritten without trace. ⚠️ **Two items were examined this pass and deliberately NOT changed.** (1) The Files table carries a live per-row **Share status** value directly above a note stating that handling policy lives in `PROJECT_STATE.md` §0, which is two owners for one fact; reported for JD's decision, not resolved. (2) The source-handling rules (the `SRC_` prefix rationale, verify sha256 against `SRC_Manifest.md` before trusting a logged offset, transcripts stay unmodified and out of any AI project-knowledge store) were searched for and **found already present in the repo** at `CLAUDE.md` §Source handling and `Project_Bootstrap_Prompt.md` §Source handling, both registered in §4 and guarded by C0/C3, so no new section was drafted and none is needed.
 - **260828-2:** Added `RJ_Open_Questions_and_Divergences.md` to the files table and the repo-layout block, on the pass that created and registered it. No other change; version state still lives only in `PROJECT_STATE.md` §4.
 - **260727-1 (2026-07-27):** Fixed stale content flagged since 260725-1: removed the duplicated baselines line (now points at `PROJECT_STATE.md` §4, the single source of truth for version state, rather than restating numbers here); corrected `On_Incense_and_the_Altar.md`'s share status from "Relay-clean (shareable)" to "Internal (relay-clean suspended, recoverable)" per the 260725-1 policy change, and added the same correction and a missing files-table row for `Incense_Conversational_Outline.md`; added the `QA-*` label-series note; added a repo-layout block showing `src/`. Added this file's first `**Last updated:**` stamp.
