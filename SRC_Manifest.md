@@ -1,6 +1,6 @@
 # SRC_Manifest — Transcript Source Manifest
 
-**Last updated: 260835-7** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-10** (date-stamped, format yymmdd-iteration) ⭐ **260835-10 — dated note added at "THE OFFICES — BINDING HANDLING RULE (W39, W41, W42)" below, flagging a possible parallel rule; no row in this file changed. See that note for detail.**
 
 > ⛔⛔⛔ **DATED NOTE, 260835-4 — `File 45` AND `File 46` ARE NOT UNMINED, AND EVERY `WHOLLY UNMINED` / `REGISTERED BUT UNMINED` MARKER IN THIS FILE FOR THEM IS FALSE. ⛔ NOT ONE MARKER IS EDITED, OVERWRITTEN OR DELETED — they stand, and this note stands beside them, per the never-alter rule.**
 >
@@ -3645,6 +3645,8 @@ All five upload dates are read from `source_video.upload_date` in the respective
 - **Office-text garbles, W41/W42** (recited liturgy — attributed to the 2019 BCP, so these affect only searchability): **"Continuant to Benedictus"** (canticle rubric spoken aloud); **"The on from on high"** for *the dawn from on high* (Benedictus); **"your measurable love"** for *immeasurable love* (General Thanksgiving, W41 only); **"the Soni rock"** for *the stony rock*, **"the shiloh"** for *Shiloh* (Ps 78, W42); **"imagination of their arts"** for *imagination of their hearts* (Magnificat, W42)
 
 ### ⛔ THE OFFICES — BINDING HANDLING RULE (W39, W41, W42)
+
+⚠️ **FLAG, 260835-10 — A PARALLEL RULE MAY BE OWED FOR `EXT-3`'S VIDEO OFFICE RECORDINGS, NOT YET ESTABLISHED.** This rule governs three *audio* transcripts already ingested and sets their *evidential weight* (recited liturgy attributed to the prayer book, never to him). It is a different question from the one raised at `SRC_Channel_Inventory.md` `260835-10`: whether a parish-channel (`EXT-3`) *video* recording of a liturgical office (Morning Prayer, Evensong, feast-day readings) should be triaged into the corpus **at all**, at the subject-matter-filter stage, before any ingestion or evidential-weight question arises. That pass introduced `EXCLUDE-office` and applied it to two `EXT-3` rows (`ZkVlWb852NY`, `AawVFH69H0E`) on JD's instruction, flagged there as possibly needing a formal parallel rule rather than a one-pass verdict. ⛔ **Not resolved here — this is a flag for a future pass or JD's ruling, not a rule extension.** No row above changed.
 
 **These three transcripts are mostly the 2019 BCP's own text, not his words. Recited liturgy is attributed to the prayer book and NEVER to him** — exactly as the corpus attributes his Cranmer, Trent and Hooker quotations. **The evidential content is: which office, which edition, which propers he selects, what he includes or omits, anything extempore, and any audible ceremonial** — all of it logged at `POD-13`, and there was nothing extempore. ⛔ **One man at a microphone, months before his diaconate, is NEVER evidence of parish practice.** ⚠️ **False-positive trap: W42 opens with Psalm 141:2 ("…as incense…") — the batch's single "incense" hit is scripture inside recited liturgy** (`POD-13`).
 
