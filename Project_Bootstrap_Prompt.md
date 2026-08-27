@@ -14,15 +14,18 @@ reminder of the conventions already in force.
 - Raw, unedited source material (transcripts, chat exports, external texts)
   uses the `SRC_` filename prefix. Canonical analysis/synthesis documents do
   not use this prefix.
-- Full transcripts stay OUT of Claude Project knowledge. They live in a
-  stable local folder, unmodified from their original uploaded form, and are
-  attached to a chat message only for the session that needs them. Do not
-  split a multi-item transcript file into smaller files, re-download,
-  re-encode, or normalize line endings — any of these changes invalidates
-  previously-logged byte offsets.
-- A `SRC_Manifest.md` lives in project knowledge: for each transcript file,
-  it records the sha256 hash and the byte range covering each distinct
-  item (video, session, etc.) within that file.
+- Full transcripts stay OUT of git and out of Claude Project knowledge. They
+  live in a stable local folder, unmodified from their original uploaded
+  form, and are attached to a chat message only for the session that needs
+  them. Do not split a multi-item transcript file into smaller files,
+  re-download, re-encode, or normalize line endings — any of these changes
+  invalidates previously-logged byte offsets.
+- A `SRC_Manifest.md` is the source registry: for each transcript file, it
+  records the sha256 hash and the byte range covering each distinct item
+  (video, session, etc.) within that file, plus a sessions-ingested table
+  (session + date + coverage) — the identity layer a hash check cannot
+  provide, since a hash check catches re-uploads of the same file, not a
+  second capture of the same event.
 - Before trusting any previously-logged byte offset, verify the source
   file's current hash against `SRC_Manifest.md`.
 - Before deploying any verbatim quote in outward-facing material, stop and
@@ -158,14 +161,15 @@ logged in the quirk register and left standing in the transcript.**
 
 ## Numbering and versioning
 
-- Source-tag numbering (e.g. IP, DQ, GV, RC, BP, EXT, and other batch-
+- Source-tag numbering (e.g. IP, DQ, GV, RC, BP, RV, EXT, and other batch-
   specific prefixes) is cumulative and unbroken across all intake batches,
   never restarted per-document.
 - Question-list-style documents use integer version increments (v12 → v13).
 - Ledger/findings documents use date-based versioning: `yymmdd-[iteration]`.
 - Every canonical document carries a permanent, prepended changelog. Once
   written, changelog entries are historical record and are never altered,
-  only added to.
+  only added to. If a past entry turns out to be wrong, correct it in a
+  new entry that says so — don't rewrite history.
 
 ## Strategic/dialogue discipline (where applicable)
 
@@ -202,6 +206,25 @@ recurring conventions emerge that should apply project-wide.*
 
 ## Changelog
 
+- **260835-13 (2026-08-27):** Applied resolutions from the `260835-12`
+  CLAUDE.md/Bootstrap divergence audit
+  (`passes/260835-12_claude-md-bootstrap-divergence-audit_read-and-report_close-out.md`).
+  **Source handling:** the transcript-exclusion line now matches
+  `CLAUDE.md`'s stricter wording — transcripts stay OUT of **git** and out
+  of Claude Project knowledge (audit item 1; `CLAUDE.md` was correct, this
+  file was silent on git). **`SRC_Manifest.md` description:** dropped the
+  stale "lives in project knowledge" location claim, which was false under
+  this project's git-repo-centric architecture (audit item 5), and added
+  the sessions-ingested-table concept with its rationale — a hash check
+  catches re-uploads of the same file, not a second capture of the same
+  event (audit item 6). **Numbering and versioning:** added the
+  changelog-correction corollary — if a past entry turns out to be wrong,
+  correct it in a new entry that says so, don't rewrite history (audit item
+  8) — and added `RV` to the illustrative prefix list (audit item 10).
+  **Not acted on:** the three `260726-1` `CLAUDE.md`-local standing-rule
+  blocks (audit item 7). JD's ruling: they stay local to `CLAUDE.md` and
+  are not promoted here. Considered and explicitly declined, recorded so a
+  future audit doesn't re-raise it as unresolved.
 - **260816-1 (2026-08-16):** Two conventions added to Source handling, both from the `A101-2026-08-09` intake. **(1) A trimmed or replaced original is recorded and the survivor is marked not-the-original** — adopted after that session's as-recorded file was truncated by stream copy, the untrimmed original deleted, and the trimmed file left carrying the original's name; the reasoning is recorded with the rule because a filename is a provenance claim and no hash check can detect that it has become false (the `W17` stamp-defect shape). **(2) The dual-independent-ASR verification protocol**, registered as a standing convention on its second use (first: the 06-28 `[SW]`/`[SY]` pair, `260812-1`) — agreement gives provisional confidence against transcription error only, divergence enters an ear-verification queue, neither transcript is authoritative on wording alone, and diarization is navigation only and never attribution of record. Records that where the audio survives verification goes to the audio rather than to a second rendering (the `260810-1` pattern), that two renderings of one capture are silent about what the capture itself missed, and that a tuned key-terms list is repo tooling and **not** a correction map.
 - **260801-3 (2026-08-01):** Added the Discord capture-method rules to the Discord/live-dialogue section, after a divergence between the archive and the live client was traced and resolved. Records that captures are manual full-thread copy/paste and never came from an export tool, retracting a false provenance claim carried in `src/SRC_Discord_RPW.md` and `SRC_Manifest.md`; requires full-thread recapture on every reply so that `git diff` surfaces edits; requires dated corrections for edited messages; records the tested limits of copy/paste (no `(edited)` marker, bare same-day timestamps, paragraph breaks preserved); and forbids re-typing archive text from a summarised paste.
 - **260727-1 (2026-07-27):** Added this file's first `**Last updated:**` stamp (it carried no version marker before this pass). Registered in `PROJECT_STATE.md` §4 at the same value.

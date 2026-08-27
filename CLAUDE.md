@@ -71,6 +71,27 @@ tradition Reformed vs. Anglican disagreement).
   divergence-report patch, not a promotion. Audio verification is required
   for both captures regardless of which is primary. See `SRC_Manifest.md`
   §Note 2a for the full procedure and its two branches.
+- **Trimmed/replaced originals: record and mark together, not just replace
+  (adopted 260816-1; ported in from `Project_Bootstrap_Prompt.md` §Source
+  handling 260835-13, per the `260835-12` audit — the most serious gap it
+  found).** When an as-recorded original is trimmed, re-encoded, split, or
+  replaced, record the event in `SRC_Manifest.md` **and** mark the
+  surviving file as NOT the as-recorded original — even, especially, when
+  it inherited the original's filename. A filename is a provenance claim a
+  hash check cannot verify; the record and the marking are both required,
+  or the rule fails.
+- **Dual independent ASR of one capture — verification protocol (adopted
+  260816-1; ported in 260835-13, same audit).** Where two ASR systems
+  transcribe one capture, agreement gives only PROVISIONAL confidence
+  against transcription error; divergence goes to a verification queue
+  resolved **by ear against the audio**, never against the second
+  transcript. Neither transcript is authoritative on wording alone.
+  Diarization is a navigation layer only, never attribution of record. A
+  tuned key-terms list is repo tooling that improves future runs — it is
+  **not** a correction map for text already captured.
+- **Discord capture method and copy/paste limits (added 260835-13, per the
+  `260835-12` audit):** see `ORCHESTRATION.md` §8 and
+  `Project_Bootstrap_Prompt.md` §Discord / live dialogue logs.
 
 ## Document modes
 
