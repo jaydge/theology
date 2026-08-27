@@ -1,6 +1,6 @@
 # ORCHESTRATION — how work gets done on this project
 
-**Last updated: 260834-7** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-15** (date-stamped, format yymmdd-iteration) ⭐ **260835-15 — new §8 standing instruction: the SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE speaker-warrant class. See §8 for the rule and its two known instances.**
 
 > **What this file is.** The durable *working conventions* — how a batch
 > gets from a YouTube URL to a committed finding, and which mistakes keep
@@ -295,6 +295,31 @@ own and is enforceable now.
 what happened to *this video*. The coverage register is universe-scoped:
 it says what is left. A pass that updates only the inventory leaves every
 non-YouTube universe — and every *unretrieved* item — invisible.
+
+⭐⭐⭐ **NEW (260835-15) — SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE: a
+weaker speaker-warrant class, for use going forward wherever this pattern
+recurs.** Automatic diarization returning exactly one label
+(`speakers_detected: ['A']` or equivalent) is **not by itself** a
+confirmed single-voice recording — the software under-detects real
+speaker count, and any live-class, Q&A, or audience-address format can
+have every participant turn collapsed into the teacher's own label.
+⛔ **Before a single-label file is used as a speaker warrant, check its
+own content for participant-address markers**: a name spoken to, an
+answer that doesn't fit the teacher's own voice, a call-response
+liturgical exchange, a closing address to someone else. **None found →
+the file stands as SINGLE-VOICE, CONFIRMED, the strongest tier. Attendee
+turns found inside the one label → the file drops to SINGLE-LABEL, NOT
+CONFIRMED SINGLE-VOICE**, usable only where the specific cited byte range
+has been individually checked against the located attendee-turn list and
+does not intersect it — never as a blanket warrant for the file as a
+whole. ⭐ **Two independent instances already on file, found separately
+and only now named as one class: `File 49`/`TeachingTheMass`** (attendee
+turns including the file's own final line, *"Thanks, Frank."* —
+`SRC_Manifest.md`, `260835-11`) **and `File 63`/`GeWfXTAjFDo`**
+(participant turns swallowed into label `A`, `260835-12`). Both are
+excluded from any blanket single-speaker warrant; `File 49`'s six-file
+warrant narrowing is recorded at `SRC_Manifest.md` beside the warrant
+itself.
 
 ---
 
