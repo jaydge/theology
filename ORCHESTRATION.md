@@ -1,6 +1,6 @@
 # ORCHESTRATION — how work gets done on this project
 
-**Last updated: 260835-22** (date-stamped, format yymmdd-iteration) ⭐⭐⭐ **260835-22 — TWO NEW §8 STANDING INSTRUCTIONS, both long-owed and both previously homeless. (1) CHANNEL OWNERSHIP IS NOT A SPEAKER WARRANT** — owed since `260835-14`, whose Fr. Ray result established it (two "Fr. Ray Teaching About…" videos on Rev. James's own `EXT-2` channel are entirely another priest's teaching, predating his diaconate); `260835-18` supplied the mechanism (Fr. Ray was his own rector) but expressly did not write the amendment. **Speaker identity must be established from content in every case**, with the non-warrants enumerated (ownership, title, uploader, diarization label, speaking duration, folder location, registration itself). **(2) PROGRESS REPORTING FOR DELEGATED SESSIONS** — a brief status line roughly every ten minutes or at each major task boundary, naming task, progress and blockers. ⚠️ **`260835-21` grepped the repo and found this convention written down NOWHERE, despite every delegated prompt carrying it.** ⛔ **Status lines are instrumentation, never deliverables, and never abbreviate the close-out.** *Previous header summary retained:* ⭐ **260835-15 — new §8 standing instruction: the SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE speaker-warrant class. See §8 for the rule and its two known instances.**
+**Last updated: 260835-24** (date-stamped, format yymmdd-iteration) ⭐⭐⭐ **260835-24 — ONE NEW §8 STANDING INSTRUCTION: THE OFFICE RULE. CHANNEL IS NOT THE AXIS; ORIGINAL TEACHING CONTENT IS, AND THE RULE APPLIES UNIFORMLY TO BOTH CHANNELS.** ⛔⛔ **It replaces the incoherent channel-scoped handling flagged as owing a ruling at `260835-23`** — offices `EXCLUDE`d on `EXT-3` per an earlier JD instruction, `INCLUDE`d on `EXT-2`, with seven more `EXT-2` office rows added on that precedent. **Three cases: pure office with no original teaching → `DECLINED-office`; office containing a homily, sermon or other original teaching → `INCLUDE`; title and description do not settle it → `UNCERTAIN`, never a guess either way.** ⭐⭐⭐ **The governing case is `IGNmKMXhL1Q` (`File 60`), a Morning Prayer WITH a homily — a blanket office exclusion would have lost it — and the hard part is that this uploader records Sunday Morning Prayer both with and without a homily and does not reliably flag which in the title, so title silence is not evidence of absence.** ⛔⛔⛔ **The rule's other half: a READ-ALOUD ATTRIBUTION LAYER IS REQUIRED for any office row that is `INCLUDE`d — the liturgical text is not his own words even when the homily is (`File 60`/`File 68`/`File 69` precedent, `File 69` being read-aloud 100% and carrying first-person eucharistic-presence language that is the Prayer Book's and not his).** *Previous header summary retained:* ⭐⭐⭐ **260835-22 — TWO NEW §8 STANDING INSTRUCTIONS, both long-owed and both previously homeless. (1) CHANNEL OWNERSHIP IS NOT A SPEAKER WARRANT** — owed since `260835-14`, whose Fr. Ray result established it (two "Fr. Ray Teaching About…" videos on Rev. James's own `EXT-2` channel are entirely another priest's teaching, predating his diaconate); `260835-18` supplied the mechanism (Fr. Ray was his own rector) but expressly did not write the amendment. **Speaker identity must be established from content in every case**, with the non-warrants enumerated (ownership, title, uploader, diarization label, speaking duration, folder location, registration itself). **(2) PROGRESS REPORTING FOR DELEGATED SESSIONS** — a brief status line roughly every ten minutes or at each major task boundary, naming task, progress and blockers. ⚠️ **`260835-21` grepped the repo and found this convention written down NOWHERE, despite every delegated prompt carrying it.** ⛔ **Status lines are instrumentation, never deliverables, and never abbreviate the close-out.** *Previous header summary retained:* ⭐ **260835-15 — new §8 standing instruction: the SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE speaker-warrant class. See §8 for the rule and its two known instances.**
 
 > **What this file is.** The durable *working conventions* — how a batch
 > gets from a YouTube URL to a committed finding, and which mistakes keep
@@ -370,6 +370,63 @@ reportable state — ⛔ **it is never closed by defaulting to the channel
 owner**, and a pass that cannot resolve it says so and stops rather than
 assuming. *(Live instance: ear-check `E1`, `hDRmWM5Nkgw`, blocking on
 exactly this question.)*
+
+⭐⭐⭐ **NEW (260835-24) — THE OFFICE RULE: CHANNEL IS NOT THE AXIS,
+ORIGINAL TEACHING CONTENT IS. APPLIES UNIFORMLY TO BOTH CHANNELS.**
+
+⛔⛔ **This replaces the channel-scoped handling that stood until now,
+which was incoherent and known to be:** office recordings were
+`EXCLUDE-office` on `EXT-3` per an earlier JD instruction, `INCLUDE`d on
+`EXT-2`, and `260835-23` added seven more `EXT-2` office rows on that
+precedent while flagging the asymmetry as owing a ruling. **The ruling is
+that the axis was wrong, not that one channel's answer was.**
+
+**THE RULE, in three cases:**
+
+1. **A pure office recording with no original teaching → `DECLINED-office`.**
+2. **An office containing a homily, sermon, or other original teaching → `INCLUDE`.**
+3. ⭐ **Where the title and description do not settle which it is →
+   `UNCERTAIN`. Do NOT guess either way.** An `UNCERTAIN` row stays on the
+   board; a decline is silent and permanent.
+
+⭐⭐⭐ **THE GOVERNING CASE, AND WHY A BLANKET OFFICE EXCLUSION IS WRONG:
+`IGNmKMXhL1Q` (`File 60`) — *"Morning Prayer, 5th Sunday in Lent…
+(with a Homily)."*** The office around it is read-aloud liturgy; **the
+homily is his own words.** ⛔ **A blanket office exclusion would have lost
+it.** ⚠️ **And note what makes the case hard rather than easy: this
+uploader records Sunday Morning Prayer both WITH and WITHOUT a homily and
+does not reliably flag which in the title — so title silence is NOT
+evidence of absence, which is exactly what case 3 exists to handle.**
+
+⛔⛔⛔ **THE READ-ALOUD ATTRIBUTION LAYER IS REQUIRED FOR ANY OFFICE ROW
+THAT IS `INCLUDE`D — THIS IS NOT OPTIONAL AND IT IS THE OTHER HALF OF THE
+RULE.** An office that earns `INCLUDE` earns it **for its homily**, not
+for its liturgy. **The liturgical text is not his own words even when the
+homily is.** Before any such recording is mined, the read-aloud spans must
+be separated from the original-teaching spans, and nothing inside a
+read-aloud span may be attributed to him.
+
+⭐ **The precedent is established and load-bearing, not hypothetical:**
+`File 60` (`IGNmKMXhL1Q`, registered ATTRIBUTION OPEN) · `File 68`
+(`xcNz2wdI2P8`, Stations of the Cross) · `File 69` (`M7iSL5mznTk`, A
+Liturgy for Spiritual Communion — **`260835-18` recorded it READ-ALOUD
+100%, ZERO own-voice content, and flagged it as a `GV-50`-class trap: it
+contains first-person *"I believe that Thou art truly present in the Holy
+Sacrament"* and *"Body and Blood are being offered to the Father"* —
+⛔ THE PRAYER BOOK'S WORDS, NOT HIS — sitting exactly on the
+eucharistic-presence and eucharistic-sacrifice questions**). ⚠️ **That is
+the whole danger in one example: the read-aloud layer of an office lands
+precisely on the corpus's live questions, in the first person, and reads
+as testimony if the layer is not separated first.**
+
+⚠️ **A decline under this rule is cheap and should be recognised as such.**
+Most of what an office row is worth evidentially — which book he used,
+which feast he kept, on what date, at what length — is legible from the
+inventory row's own title and metadata and needs no pull at all.
+⛔ **What a decline costs is only the homily, which is why case 3 exists.**
+
+⛔ **Any `DECLINED-office` verdict is conditional in one respect, and each
+cell says so: if content later shows a homily, the decline does not hold.**
 
 ⭐⭐ **NEW (260835-22) — PROGRESS REPORTING: A DELEGATED SESSION EMITS A
 BRIEF STATUS LINE ROUGHLY EVERY TEN MINUTES OR AT EACH MAJOR TASK
