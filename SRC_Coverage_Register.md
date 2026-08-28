@@ -1,6 +1,6 @@
 # SRC_Coverage_Register — has this been looked at, and by whom, with what result?
 
-**Last updated: 260835-21** (created 260835-9, discharging the `260834-7` standing instruction in `ORCHESTRATION.md` §8, which named this file as forthcoming)
+**Last updated: 260835-26** (created 260835-9, discharging the `260834-7` standing instruction in `ORCHESTRATION.md` §8, which named this file as forthcoming) ⭐⭐⭐ **260835-26 — THE UPDATE RECORDED AS OWED AT `260835-25` IS DISCHARGED. TWO DATED NOTES, AT §2 AND §3; ⛔ NO EXISTING FIGURE, TABLE OR SENTENCE REWRITTEN.** ⭐⭐⭐ **HEADLINE: EXT-3 HAS NO BLANK ROWS LEFT — `15 → 0`, re-derived directly from all 368 inventory rows rather than carried from any brief. EXT-3 is fully triaged (52 `INGESTED` / 6 `INCLUDE` / 2 `REGISTERED` / 2 `UNCERTAIN`).** ⭐⭐ **The five Revelation rows that moved `INCLUDE` → `INGESTED` at `260835-25` are named individually at §3.** ⚠️⚠️ **TWO LIMITS CARRIED RATHER THAN DROPPED: a fully-triaged channel is not a fully-mined one — Revelation 14 and 16 are covered by NO video and NO transcript (a permanent gap, not a pending item), and `RV-S15` cannot be completed by a re-pull because the video itself is truncated (`260835-25` correcting `260835-24`).** ⭐ **§2 gains the office-row consequence of this pass's `ORCHESTRATION.md` §8 amendment: five rows returned `DECLINED-office` → `INCLUDE`, ten office rows now await a pull, expected yield recorded as LOW in advance, read-aloud layer required and NOT waived.** ⭐ **Prior stamp text retained above per the never-alter rule.**
 
 > **What this file is, and is not.** This is a coverage index, one section per source universe, answering one question per universe: *has this been looked at, and by whom, with what result?* It does **not** duplicate `SRC_Manifest.md`'s hashes, byte offsets or per-file registration detail, and it does **not** restate finding text — both stay single-sourced where they already live (`SRC_Manifest.md` for registration, `St_Francis_EMC_Distinctives.md` for findings). Where a coverage state is itself uncertain, that uncertainty is stated as the finding, not resolved by this pass. ⛔ **No coverage classification below was re-derived** — each is cited to the pass that established it. Where this pass found a *later* pass had already corrected or superseded an earlier claim, the later, current state is reported and both are cited, on the project's own dated-note convention.
 >
@@ -24,6 +24,14 @@
 
 **These 82 are flagged as awaiting a first triage sweep** (JD's working-list label: **batch 8** — not yet a repo pass; no such pass exists on disk as of this register).
 
+> ⭐⭐ **DATED NOTE, 260835-26 (2026-08-28) — THE OFFICE ROWS ON THIS CHANNEL MOVED, AND THE COVERAGE CONSEQUENCE IS RECORDED HERE SO IT IS NOT DISCOVERED LATER AS A SURPRISE.** ⛔ **Neither §1 nor §2's figures above change — this is a VERDICT change on rows already counted, not new rows.**
+>
+> **JD ruled on the `260835-25` office-rule flag: the `DECLINED-office` class rested on the premise that a pure office carries no original teaching, and his reasoning is that commentary around the liturgy is original teaching even with no homily.** `ORCHESTRATION.md` §8 case 1 is amended accordingly this pass, and **five of the six `DECLINED-office` rows returned to `INCLUDE` (T3)** — all six are `EXT-2`: `V-K-iLT9OH4` (`/videos`), `x1NR-8xqt9c`, `93_uEJYu64Q`, `io-OsOmFXhM`, `fXpoPWugyXI` (`/streams`). ⛔ **`8gb4BXlfLO4` stays declined on grounds independent of the premise that moved** — a 31-second fragment whose description names another parish and another priest. **The class now holds exactly ONE row, re-derived directly against the inventory this pass.**
+>
+> ⚠️⚠️ **WHAT THIS ADDS TO THE PULL QUEUE, WITH ITS EXPECTED YIELD STATED IN ADVANCE:** five office recordings, **plus** the five `UNCERTAIN` office rows pull-marked at `260835-25` (`FaWyhA4iB3U`, `VvkxFsykeyc`, `H1H9CO8mF8c`, `ZkVlWb852NY`, `AawVFH69H0E`) — **ten office rows awaiting a pull.** ⛔⛔ **EXPECTED YIELD IS LOW AND IS RECORDED AS LOW HERE RATHER THAN DISCOVERED LATER: `File 69` (`M7iSL5mznTk`) is 100% read-aloud with ZERO own-voice content (`260835-18`), so at least one pure office in this corpus demonstrably contains no commentary at all. A NIL RETURN ON ANY OF THE TEN IS A REAL AND EXPECTED OUTCOME, NOT A COVERAGE MISS.** ⛔ **`INCLUDE` on an office row means PULL AND CHECK, not a prediction that content exists.**
+>
+> ⛔⛔⛔ **AND THE ATTRIBUTION CONDITION TRAVELS WITH THEM: the read-aloud layer is REQUIRED on every one of the ten and is NOT waived by the softening — under JD's own reasoning it matters MORE, not less, because the commentary being sought sits interleaved with the liturgical text rather than in a separable homily block.** ⛔ **Nothing was downloaded or transcribed by this pass.**
+
 ## 3. EXT-3 (`@StFrancisAnglicanSpartanburg`, the parish channel)
 
 **62** videos total (`SRC_Channel_Inventory.md`, header count). No pass has run a systematic triage sweep dedicated to this channel as such; its coverage to date is entirely a byproduct of other registrations landing on channel videos it happens to hold.
@@ -37,6 +45,33 @@ Cross-referencing the decision cells directly (not re-deriving them) against the
 | EXT-3 rows with **no decision cell of any kind** | **15** | six Revelation-class 2026 sessions not yet reached by any registration (Sessions IX-XI, XV-XVII), seven "Anglican Class" 2026 stream sessions (Articles of Religion I-VII), two Morning Prayer stream captures |
 
 47 + 15 = 62. **So: of the 62, 20 carry a decision specifically traceable to the Revelation/Anglican-Worship registrations this section was asked to cross-reference; 47 of the 62 carry a decision from some registration; 15 remain genuinely blank.**
+
+> ⭐⭐⭐ **DATED NOTE, 260835-26 (2026-08-28) — THE TABLE AND THE ARITHMETIC ABOVE ARE SUPERSEDED BY EVENTS. THIS FILE HAD NOT BEEN UPDATED SINCE `260835-21` AND ITS UPDATE WAS RECORDED AS OWED AT `260835-25`; THAT DEBT IS DISCHARGED HERE.** ⛔ **The block above is NOT rewritten, per the never-alter rule — it was accurate when written. This note is the correction.**
+>
+> ⭐⭐⭐ **THE HEADLINE: THERE ARE NO LONGER ANY BLANK EXT-3 ROWS. `15 → 0`.** Re-derived directly from `SRC_Channel_Inventory.md` this pass rather than carried from any brief or prior close-out — all 368 data rows parsed, all 8 columns present on every row, decision cell taken as the eighth field:
+>
+> | | Count at `260835-21` | ⭐ **Count now (`260835-26`)** | Basis |
+> |---|---:|---:|---|
+> | EXT-3 rows total | 62 | **62** | unchanged |
+> | EXT-3 rows carrying a decision from Files 8-9 / 10-12 / 41 specifically | 20 | **22** | re-counted directly against the table |
+> | EXT-3 rows carrying *any* decision | 47 | **62** | re-counted directly against the table |
+> | EXT-3 rows with **no decision cell of any kind** | 15 | ⭐⭐⭐ **0** | **zero blank cells found across all 62 rows** |
+>
+> **62 + 0 = 62.** ⭐ **EXT-3 is now fully triaged: every row on the parish channel carries a decision.** Current verdict distribution across the 62: **52 `INGESTED`, 6 `INCLUDE`, 2 `REGISTERED`, 2 `UNCERTAIN`** (the last two being `ZkVlWb852NY` and `AawVFH69H0E`, pull-marked at `260835-25` with `UNCERTAIN` deliberately retained).
+>
+> ⭐⭐ **WHAT CLOSED THE 15, AND IT WAS NOT ONE PASS.** The blanks were consumed across `260835-23` (broadened re-triage), `260835-24` (the four `EXCLUDE` rows and the office rule) and `260835-25` (the Revelation mapping). ⛔ **The `260835-21` cell's specific claim that *"six Revelation-class 2026 sessions"* were *"not yet reached by any registration"* is the part most decisively overtaken:** `260835-25` mapped the whole Revelation block video-by-video to its transcripts on **chapter content** — establishing that the channel renumbered its sessions after posting, so session number is not a reliable index — and moved **five** rows `INCLUDE` → `INGESTED`. ⭐ **Those five, named here because `260835-25` recorded this file's update as owed precisely for them:**
+>
+> | Row | Video ID | Session as titled | Line |
+> |---|---|---|---:|
+> | 1 | `nOSaF0BWS2Y` | Session IX: the Beast and the Bottomless Pit | L389 |
+> | 2 | `ADQnOyBaSRk` | Session X: the Woman, the Child, and the Dragon | L388 |
+> | 3 | `M71-SrYEoEQ` | Session XI: The Two Beasts and the Mark | L387 |
+> | 4 | `nGfY6_P5m5o` | Session XV: The Whore and the Beast (Ch 17-18) | L385 |
+> | 5 | `lJo0WgP37rs` | Session XVI: The Marriage Supper of the Lamb | L384 |
+>
+> ⚠️⚠️ **TWO LIMITS CARRIED FORWARD RATHER THAN QUIETLY DROPPED, BECAUSE A FULLY-TRIAGED CHANNEL IS NOT A FULLY-MINED ONE.** **(1)** `INGESTED` on these five means **the source is registered and mapped**, not that findings have been mined from it — `260835-25` also confirmed **Revelation 14 and 16 are covered by NO video and NO transcript** (the channel's missing Sessions XII and XIV), which is a permanent corpus gap and not a pending item. **(2)** `260835-24`'s claim that re-pulling completes `RV-S15` was **corrected at `260835-25`: the video itself is truncated**, so that row cannot be completed by a re-pull. ⛔ **Neither limit is a coverage failure and neither should be re-opened as owed work.**
+>
+> ⚠️ **`GeWfXTAjFDo` (`File 63`, chapter 20) remains REGISTERED but UNMINED — no `RV` findings exist for chapter 20.** Carried unchanged from `260835-12`/`260835-14`; it is a decision cell, so it counts toward the 62, but it is not coverage of the chapter.
 
 ## 4. BLOG — closed at `260804-1`
 
@@ -134,4 +169,5 @@ This section is built from the actual pass chain (`260834-9` → `260835-1` → 
 
 ## Changelog
 
+- **v1.1 — 260835-26.** ⚠️⚠️ **NUMBERING NOTE, RECORDED RATHER THAN PAPERED OVER: this entry is `v1.1` and NOT `v1.2`, because there is no `v1.1` on record and there should be.** This file's header stamp read `260835-21` at this pass's gate, but the changelog below runs `v1.0 — 260835-9` and stops — **the `260835-21` update bumped the stamp without writing a changelog entry.** ⛔ **That gap is NOT retro-filled here: this pass did not perform the `260835-21` work and will not reconstruct its account of itself.** ⏳ **Flagged for JD; the missing entry is `260835-21`'s to write or to be written from its own close-out.** ⭐⭐⭐ **The `260835-25`-recorded debt on this file is DISCHARGED, and the headline is that EXT-3 has no blank rows left.** Two dated notes added — **§3** (the EXT-3 arithmetic: `15 → 0` blanks, `47 → 62` with a decision, `20 → 22` traceable to Files 8-9/10-12/41; the five `260835-25` Revelation rows named individually with their line numbers; the verdict distribution given; and two limits carried forward — Rev 14/16 covered by nothing at all, and `RV-S15` not completable by re-pull) and **§2** (the `DECLINED-office` class falling from six rows to one on JD's office-rule ruling, ten office rows now queued for a pull, expected yield recorded as LOW in advance on `File 69`'s 100%-read-aloud precedent, read-aloud attribution layer required and not waived). ⛔⛔ **Every figure re-derived directly from `SRC_Channel_Inventory.md` this pass — all 368 data rows parsed, 8 columns confirmed present on every row — and NOT carried from the brief, which supplied none.** ⛔ **No existing figure, table, sentence or section rewritten; both notes sit beside the text they supersede, per the never-alter rule.** ⛔ **Nothing downloaded or transcribed.**
 - **v1.0 — 260835-9.** File created, discharging the `260834-7` standing instruction. Sections 1-11 built from the cited passes without re-deriving any coverage classification; §8 (verification layer) is fresh work by this pass: 46/46 registered `File` numbers checked against disk, present and hash-matched, zero mismatches, zero absences; one related, non-`File`-numbered absence (the `A101-2026-07-26` `[R]` primary) re-confirmed still missing. Registered in `PROJECT_STATE.md` §4.
