@@ -25,7 +25,29 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260812-1** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-22** (date-stamped, format yymmdd-iteration)
+
+⚠️⚠️ 260835-22: C3's STAMP COMPARISON WAS TRUNCATING THE ITERATION NUMBER AND
+PASSING REAL DRIFT SILENTLY. The comparison regex was r'\d{6}-\d' -- six
+digits, a dash, and exactly ONE digit -- so every iteration past 9 was cut to
+its first digit before comparison. '260835-16' and '260835-18' both reduced to
+'260835-1' and compared EQUAL, and C3 reported "version agrees with registry."
+
+Found and evidenced at 260835-19, which observed the §4 registry cells for
+PROJECT_STATE.md and SRC_Manifest.md reading 260835-16 while both documents
+were stamped 260835-18, with C3 passing both. Fixed here to r'\b\d{6}-\d+\b'.
+
+The fix immediately surfaced a third live instance the truncation had been
+hiding: SRC_Channel_Inventory.md, registry 260835-16 vs document 260835-18.
+Corrected in the same pass (the registry cell was never updated when 260835-18
+touched that file; the document's stamp was the correct side). Validator
+result is unchanged at 82 ok / 9 warnings / 0 errors -- the newly-visible
+drift was found and fixed within the pass rather than left to fire.
+
+⚠️ This is the same defect SHAPE as the 260725-1 glob defect documented above:
+a check that ran, reported "ok," and was not actually comparing what it
+claimed to compare. Both were silent false passes, which are worse than
+noisy failures.
 
 ⚠️⚠️ 260812-1: C12's CAPTURE-CODE VOCABULARY IS NO LONGER HARDCODED. The row
 parser read r'\[([RS?])\]' -- a second copy of the vocabulary defined in
@@ -369,8 +391,26 @@ for regpath, ver_cell in REGISTRY:
         warn(f"[C3] {regpath}: no parseable 'Last updated' stamp; registry says "
              f"'{rv}'")
     else:
-        rtok = re.search(r'\d{6}-\d', rv)
-        dtok = re.search(r'\d{6}-\d', dv)
+        # ⚠️ DEFECT FIXED 260835-22 (found and evidenced at 260835-19):
+        # this pattern was r'\d{6}-\d' -- SIX digits, a dash, and exactly ONE
+        # digit. Every iteration number past 9 was TRUNCATED to its first
+        # digit before comparison, so '260835-16' and '260835-18' both reduced
+        # to '260835-1' and compared EQUAL. C3 then reported "version agrees
+        # with registry" over real, live drift.
+        #
+        # This was not hypothetical. At 260835-19 the §4 registry cells for
+        # PROJECT_STATE.md and SRC_Manifest.md read 260835-16 while both
+        # documents were stamped 260835-18, and C3 passed both silently.
+        # Fixing the pattern at 260835-22 immediately surfaced a third
+        # instance the truncation had been hiding: SRC_Channel_Inventory.md,
+        # registry 260835-16 vs document 260835-18 (corrected in the same
+        # pass -- the registry cell was simply never updated when 260835-18
+        # touched that file).
+        #
+        # \d+ matches the whole iteration number; \b on both ends stops a
+        # stamp from matching inside a longer digit run.
+        rtok = re.search(r'\b\d{6}-\d+\b', rv)
+        dtok = re.search(r'\b\d{6}-\d+\b', dv)
         if rtok and dtok and rtok.group(0) == dtok.group(0):
             ok(f"[C3] {regpath}: version agrees with registry ({dv})")
         else:

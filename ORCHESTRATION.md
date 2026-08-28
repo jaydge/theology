@@ -1,6 +1,6 @@
 # ORCHESTRATION — how work gets done on this project
 
-**Last updated: 260835-15** (date-stamped, format yymmdd-iteration) ⭐ **260835-15 — new §8 standing instruction: the SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE speaker-warrant class. See §8 for the rule and its two known instances.**
+**Last updated: 260835-22** (date-stamped, format yymmdd-iteration) ⭐⭐⭐ **260835-22 — TWO NEW §8 STANDING INSTRUCTIONS, both long-owed and both previously homeless. (1) CHANNEL OWNERSHIP IS NOT A SPEAKER WARRANT** — owed since `260835-14`, whose Fr. Ray result established it (two "Fr. Ray Teaching About…" videos on Rev. James's own `EXT-2` channel are entirely another priest's teaching, predating his diaconate); `260835-18` supplied the mechanism (Fr. Ray was his own rector) but expressly did not write the amendment. **Speaker identity must be established from content in every case**, with the non-warrants enumerated (ownership, title, uploader, diarization label, speaking duration, folder location, registration itself). **(2) PROGRESS REPORTING FOR DELEGATED SESSIONS** — a brief status line roughly every ten minutes or at each major task boundary, naming task, progress and blockers. ⚠️ **`260835-21` grepped the repo and found this convention written down NOWHERE, despite every delegated prompt carrying it.** ⛔ **Status lines are instrumentation, never deliverables, and never abbreviate the close-out.** *Previous header summary retained:* ⭐ **260835-15 — new §8 standing instruction: the SINGLE-LABEL, NOT CONFIRMED SINGLE-VOICE speaker-warrant class. See §8 for the rule and its two known instances.**
 
 > **What this file is.** The durable *working conventions* — how a batch
 > gets from a YouTube URL to a committed finding, and which mistakes keep
@@ -320,6 +320,85 @@ turns including the file's own final line, *"Thanks, Frank."* —
 excluded from any blanket single-speaker warrant; `File 49`'s six-file
 warrant narrowing is recorded at `SRC_Manifest.md` beside the warrant
 itself.
+
+⭐⭐⭐ **NEW (260835-22) — CHANNEL OWNERSHIP IS NOT A SPEAKER WARRANT.
+SPEAKER IDENTITY MUST BE ESTABLISHED FROM CONTENT, IN EVERY CASE, WITHOUT
+EXCEPTION.** Owed since `260835-14`, whose evidence established it;
+`260835-18` supplied its mechanism but expressly did not write it. Written
+here now.
+
+⛔⛔⛔ **That a recording sits on a channel belonging to, named for, or
+operated by a person does NOT establish that the person is the one
+speaking on it** — not for `EXT-2` (`@barelyprotestant5365`), not for
+`EXT-3` (`@StFrancisAnglicanSpartanburg`), and not for any channel, feed,
+blog, or archive this project draws on. **Ownership is a fact about who
+published; it is not a fact about who talked.**
+
+⭐ **The instance that forced the rule.** Two videos titled *"Fr. Ray
+Teaching About…"* (`8nRhmD4w-Wg`, `9Fezj9WMh3A`), sitting on Rev. James's
+own `EXT-2` channel, are **entirely another priest's teaching** — Fr.
+Ray's, narrating his own ordination in the first person, uploaded 2017,
+**predating Rev. James's 2020 diaconate**. Registered as `File 58`/`File
+59` at `260835-12` and given a formal `EXCLUDED — confirmed not Rev.
+James` disposition at `260835-18`. ⚠️ **The title said so plainly and the
+channel still nearly carried them into the corpus as his** — which is the
+whole lesson: had they been mined on ownership, findings in another
+priest's voice would have entered the corpus under Rev. James's name, and
+the corpus has no mechanism that would have caught it downstream.
+⭐ **The mechanism, found later (`260835-18`) and worth keeping because it
+generalises:** Fr. Ray was Rev. James's own first priest and mentor
+(`St_Francis_EMC_Distinctives.md` L430). **A channel hosts a mentor's,
+a colleague's, a guest's, or a played-back third party's material as a
+matter of course, and nothing about that is anomalous** — so a
+same-channel recording in someone else's voice is a NORMAL case to be
+expected, not a freak one to be treated as unlikely.
+
+✅ **WHAT DOES ESTABLISH SPEAKER IDENTITY — from the recording's OWN
+CONTENT, and nothing else:** self-identification; direct address by name;
+role self-identification; first-person biography unique to the person;
+or elimination against a located, content-derived speaker set.
+⛔ **WHAT NEVER ESTABLISHES IT:** channel ownership · the title · the
+uploader · the diarization label (the `260835-7` label-flip hazard) ·
+speaking duration (the `File 52` inversion) · the file's folder location ·
+or the fact of registration itself — **registration is not a speaker
+warrant** (`File 60`/`File 61`, `260835-12`).
+
+⛔ **A recording whose speaker cannot be established from its own content
+is registered with ATTRIBUTION OPEN and is NOT MINED for anyone's
+positions until it is resolved.** Open attribution is a normal, stable,
+reportable state — ⛔ **it is never closed by defaulting to the channel
+owner**, and a pass that cannot resolve it says so and stops rather than
+assuming. *(Live instance: ear-check `E1`, `hDRmWM5Nkgw`, blocking on
+exactly this question.)*
+
+⭐⭐ **NEW (260835-22) — PROGRESS REPORTING: A DELEGATED SESSION EMITS A
+BRIEF STATUS LINE ROUGHLY EVERY TEN MINUTES OR AT EACH MAJOR TASK
+BOUNDARY, WHICHEVER COMES FIRST.** ⚠️ **This convention has been carried
+in the text of every delegated prompt for some time, but `260835-21`
+grepped the repo and found it written down NOWHERE. It was a convention
+with no home. This is its home.**
+
+**Each status line states three things and nothing more:**
+
+1. **which task** — the item number or task name currently in hand;
+2. **rough progress** — what is done, what is in flight;
+3. **whether anything is blocking** — and if so, what, named plainly.
+
+⭐ **Keep them short. One or two sentences.** They exist so the
+orchestrator can tell a long-running pass from a stalled one, and can
+intervene early when a pass is heading somewhere wrong — **the whole
+value is in arriving DURING the work, not after it.**
+
+⛔⛔ **STATUS LINES ARE INSTRUMENTATION, NOT DELIVERABLES. THEY NEVER
+REPLACE, ABBREVIATE, SUBSTITUTE FOR, OR EXCUSE ANY PART OF THE FULL
+CLOSE-OUT.** A pass that reported diligently throughout still owes its
+complete close-out — every gate value, every firing code, the full
+accounting, the diff, and the pass artifact in `passes/` (§4). ⛔ **"I
+already said that in a status update" is not a reason to leave anything
+out of the close-out**, which must stand alone and be readable by someone
+who never saw a single status line. **Nothing is ever established by a
+status line**: they are progress signals, and they carry no findings, no
+verifications, and no decisions.
 
 ---
 
