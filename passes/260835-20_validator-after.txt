@@ -1,0 +1,215 @@
+========================================================================
+PROJECT INTEGRITY VALIDATION   root: /sessions/optimistic-eager-dirac/mnt/EMC/theology
+========================================================================
+  ok    [C0] PROJECT_STATE.md: resolved at registered path
+  ok    [C0] ORCHESTRATION.md: resolved at registered path
+  ok    [C0] passes/README.md: resolved at registered path
+  ok    [C0] St_Francis_EMC_Distinctives.md: resolved at registered path
+  ok    [C0] RJ_Final_Question_List.md: resolved at registered path
+  ok    [C0] RJ_Open_Questions_and_Divergences.md: resolved at registered path
+  ok    [C0] Calvin_Luther_and_Anglican_Formularies_on_Iconography.md: resolved at registered path
+  ok    [C0] RJ_Incense_Analysis.md: resolved at registered path
+  ok    [C0] On_Incense_and_the_Altar.md: resolved at registered path
+  ok    [C0] Incense_Conversational_Outline.md: resolved at registered path
+  ok    [C0] SRC_Manifest.md: resolved at registered path
+  ok    [C0] SRC_Channel_Inventory.md: resolved at registered path
+  ok    [C0] SRC_Coverage_Register.md: resolved at registered path
+  ok    [C0] asr_keyterms_A101.md: resolved at registered path
+  ok    [C0] src/SRC_Discord_RPW.md: resolved at registered path
+  ok    [C0] src/SRC_Discord_Assurance.md: resolved at registered path
+  ok    [C0] src/SRC_Discord_Assurance-raw.txt: resolved at registered path
+  ok    [C0] src/SRC_Discord_39ArticlesFormularies.md: resolved at registered path
+  ok    [C0] src/SRC_Discord_SevenSacraments.md: resolved at registered path
+  ok    [C0] src/SRC_Discord_BaptismConfirmation.md: resolved at registered path
+  ok    [C0] README.md: resolved at registered path
+  ok    [C0] Project_Bootstrap_Prompt.md: resolved at registered path
+  ok    [C0] tools/transcribe_yt.py: resolved at registered path
+  ok    [C0] validate_project.py: resolved at registered path
+  ok    [C0] CLAUDE.md: resolved at registered path
+  ok    [C1] src/SRC_Discord_39ArticlesFormularies.md: no unresolved relative timestamps
+  ok    [C1] src/SRC_Discord_Assurance.md: no unresolved relative timestamps
+  ok    [C1] src/SRC_Discord_BaptismConfirmation.md: no unresolved relative timestamps
+  ok    [C1] src/SRC_Discord_SevenSacraments.md: no unresolved relative timestamps
+  ok    [C2] DQ-1..24 unbroken, no duplicates
+  ok    [C2] IP-1..108 unbroken, no duplicates
+  ok    [C2] RV-1..63 unbroken, no duplicates
+  ok    [C2] LS-1..129 unbroken, no duplicates
+  ok    [C2] BLOG-1..158 unbroken, no duplicates
+  ok    [C2] POD-1..16 unbroken, no duplicates
+  ok    [C3] PROJECT_STATE.md: version agrees with registry (260835-20)
+  ok    [C3] ORCHESTRATION.md: version agrees with registry (260835-15)
+  ok    [C3] passes/README.md: version agrees with registry (260832-3)
+  ok    [C3] St_Francis_EMC_Distinctives.md: version agrees with registry (260835-20)
+  ok    [C3] RJ_Final_Question_List.md: version agrees with registry (260835-16 (v22))
+  ok    [C3] RJ_Open_Questions_and_Divergences.md: version agrees with registry (260833-2)
+  ok    [C3] RJ_Incense_Analysis.md: version agrees with registry (260835-20)
+  ok    [C3] On_Incense_and_the_Altar.md: version agrees with registry (260833-2)
+  ok    [C3] Incense_Conversational_Outline.md: version agrees with registry (260835-3)
+  ok    [C3] SRC_Manifest.md: version agrees with registry (260835-19)
+  ok    [C3] SRC_Channel_Inventory.md: version agrees with registry (260835-18)
+  ok    [C3] SRC_Coverage_Register.md: version agrees with registry (260835-9)
+  ok    [C3] asr_keyterms_A101.md: version agrees with registry (260830-2)
+  ok    [C3] README.md: version agrees with registry (260835-8)
+  ok    [C3] Project_Bootstrap_Prompt.md: version agrees with registry (260816-1)
+  ok    [C3] validate_project.py: version agrees with registry (260812-1)
+  ok    [C3] CLAUDE.md: version agrees with registry (260728-2)
+  ok    [C4] RJ_Final_Question_List.md: no unmarked stale-status passages for answered questions
+  ok    [C4] RJ_Incense_Analysis.md: no unmarked stale-status passages for answered questions
+  ok    [C5] total volatile-state assertions outside PROJECT_STATE: 34
+  ok    [C6] src/SRC_Discord_39ArticlesFormularies.md: hash matches manifest
+  ok    [C6] src/SRC_Discord_Assurance.md: hash matches manifest
+  ok    [C6] src/SRC_Discord_BaptismConfirmation.md: hash matches manifest
+  ok    [C6] src/SRC_Discord_RPW.md: hash matches manifest
+  ok    [C6] src/SRC_Discord_SevenSacraments.md: hash matches manifest
+  ok    [C7] On_Incense_and_the_Altar.md: relay-clean firewall intact (class suspended; no cleanup owed)
+  ok    [C7] Incense_Conversational_Outline.md: relay-clean firewall intact (class suspended; no cleanup owed)
+  ok    [C8] all 4 QA-* citations resolve in the question list
+  ok    [C8] all 7 VP- label(s) defined in the distinctives; 7 cited, none dangling
+  ok    [C9] item 7: carries a retirement marker, consistent with the register
+  ok    [C9] item 20: carries a retirement marker, consistent with the register
+  ok    [C9] item 14: carries a retirement marker, consistent with the register
+  ok    [C9] item 9: carries a retirement marker, consistent with the register
+  ok    [C10] every finding flagged as common ground is credited in §15
+  ok    [C10] §15 is within 0 finding(s) of the DQ ledger head (DQ-24)
+  ok    [C10] §15 is within 0 finding(s) of the IP ledger head (IP-108)
+  ok    [C10] §15 is within 1 finding(s) of the RV ledger head (RV-63)
+  ok    [C10] §15 is within 0 finding(s) of the BLOG ledger head (BLOG-158)
+  ok    [C10] §15 is within 0 finding(s) of the POD ledger head (POD-16)
+  ok    [C11] DQ current in the outline pointer (DQ-24 @ 260835-2, ledger at DQ-24)
+  ok    [C11] RV current in the outline pointer (RV-63 @ 260830-1, ledger at RV-63)
+  ok    [C12] session registry parsed: 74 capture row(s) across 64 session(s)
+  ok    [C12] 27 standalone recording row(s) parsed and correctly EXCLUDED from the session count (manifest rule: a standalone recording gets no session row)
+  ok    [C12] no capture is stuck in SECONDARY -- SWEEP PENDING
+  ok    [C12] retrofit rule present: bare pre-260725 offsets resolve to their session's PRIMARY capture
+  ok    [C12] no session row is awaiting completion
+  ok    [C12] no finding is under the wording-critical quoting freeze
+  WARN  [C1] src/SRC_Discord_RPW.md: 2 relative timestamp(s) outside message headers ('Yesterday at …'). Not caught by the header rule; check whether they are quoted text or unresolved captures.
+  WARN  [C3] Calvin_Luther_and_Anglican_Formularies_on_Iconography.md: no parseable 'Last updated' stamp; registry says '260832-2'
+  WARN  [C3] tools/transcribe_yt.py: no parseable 'Last updated' stamp; registry says '260833-7'
+  WARN  [C4] St_Francis_EMC_Distinctives.md: 2 passage(s) describe an ANSWERED question as pending with no supersede marker nearby. Review manually.
+  WARN  [C5] RJ_Final_Question_List.md: 17 volatile-state assertions. Consider replacing with a pointer to PROJECT_STATE.
+  WARN  [C5] RJ_Incense_Analysis.md: 9 volatile-state assertions. Consider replacing with a pointer to PROJECT_STATE.
+  WARN  [C5] St_Francis_EMC_Distinctives.md: 7 volatile-state assertions. Consider replacing with a pointer to PROJECT_STATE.
+  WARN  [C10] §15's newest LS citation is 9 findings behind the ledger (LS-120 vs LS-129). Sweep the interval for creditable material.
+  WARN  [C11] outline last checked against IP-97 (260833-5); the IP ledger now runs to IP-108. 11 finding(s) unreviewed against the outline's logical flow. REPORT drift; do not rewrite JD's reasoning without asking.
+------------------------------------------------------------------------
+COVERAGE SUMMARY — files examined per check
+------------------------------------------------------------------------
+  check  files  name                                         status
+  C0        25  registry resolution                          OK
+         └─ PROJECT_STATE.md
+         └─ ORCHESTRATION.md
+         └─ passes/README.md
+         └─ St_Francis_EMC_Distinctives.md
+         └─ RJ_Final_Question_List.md
+         └─ RJ_Open_Questions_and_Divergences.md
+         └─ Calvin_Luther_and_Anglican_Formularies_on_Iconography.md
+         └─ RJ_Incense_Analysis.md
+         └─ On_Incense_and_the_Altar.md
+         └─ Incense_Conversational_Outline.md
+         └─ SRC_Manifest.md
+         └─ SRC_Channel_Inventory.md
+         └─ SRC_Coverage_Register.md
+         └─ asr_keyterms_A101.md
+         └─ src/SRC_Discord_RPW.md
+         └─ src/SRC_Discord_Assurance.md
+         └─ src/SRC_Discord_Assurance-raw.txt
+         └─ src/SRC_Discord_39ArticlesFormularies.md
+         └─ src/SRC_Discord_SevenSacraments.md
+         └─ src/SRC_Discord_BaptismConfirmation.md
+         └─ README.md
+         └─ Project_Bootstrap_Prompt.md
+         └─ tools/transcribe_yt.py
+         └─ validate_project.py
+         └─ CLAUDE.md
+  C1         5  relative timestamps in archives              OK
+         └─ src/SRC_Discord_39ArticlesFormularies.md
+         └─ src/SRC_Discord_Assurance.md
+         └─ src/SRC_Discord_BaptismConfirmation.md
+         └─ src/SRC_Discord_RPW.md
+         └─ src/SRC_Discord_SevenSacraments.md
+  C2         1  source-tag numbering                         OK
+         └─ St_Francis_EMC_Distinctives.md
+  C3        19  version stamps vs registry                   OK
+         └─ PROJECT_STATE.md
+         └─ ORCHESTRATION.md
+         └─ passes/README.md
+         └─ St_Francis_EMC_Distinctives.md
+         └─ RJ_Final_Question_List.md
+         └─ RJ_Open_Questions_and_Divergences.md
+         └─ Calvin_Luther_and_Anglican_Formularies_on_Iconography.md
+         └─ RJ_Incense_Analysis.md
+         └─ On_Incense_and_the_Altar.md
+         └─ Incense_Conversational_Outline.md
+         └─ SRC_Manifest.md
+         └─ SRC_Channel_Inventory.md
+         └─ SRC_Coverage_Register.md
+         └─ asr_keyterms_A101.md
+         └─ README.md
+         └─ Project_Bootstrap_Prompt.md
+         └─ tools/transcribe_yt.py
+         └─ validate_project.py
+         └─ CLAUDE.md
+  C4         3  stale answered-question status               OK
+         └─ St_Francis_EMC_Distinctives.md
+         └─ RJ_Final_Question_List.md
+         └─ RJ_Incense_Analysis.md
+  C5        13  volatile-state duplication                   OK
+         └─ CLAUDE.md
+         └─ Calvin_Luther_and_Anglican_Formularies_on_Iconography.md
+         └─ Incense_Conversational_Outline.md
+         └─ ORCHESTRATION.md
+         └─ On_Incense_and_the_Altar.md
+         └─ Project_Bootstrap_Prompt.md
+         └─ README.md
+         └─ RJ_Final_Question_List.md
+         └─ RJ_Incense_Analysis.md
+         └─ RJ_Open_Questions_and_Divergences.md
+         └─ St_Francis_EMC_Distinctives.md
+         └─ asr_keyterms_A101.md
+         └─ passes/README.md
+  C6         5  archive hash integrity                       OK
+         └─ src/SRC_Discord_39ArticlesFormularies.md
+         └─ src/SRC_Discord_Assurance.md
+         └─ src/SRC_Discord_BaptismConfirmation.md
+         └─ src/SRC_Discord_RPW.md
+         └─ src/SRC_Discord_SevenSacraments.md
+  C7         2  relay-clean firewall (WARN-only, suspended)  OK
+         └─ On_Incense_and_the_Altar.md
+         └─ Incense_Conversational_Outline.md
+  C8        22  dangling question-ID cross-references        OK
+         └─ St_Francis_EMC_Distinctives.md
+         └─ RJ_Final_Question_List.md
+         └─ CLAUDE.md
+         └─ Calvin_Luther_and_Anglican_Formularies_on_Iconography.md
+         └─ Incense_Conversational_Outline.md
+         └─ ORCHESTRATION.md
+         └─ On_Incense_and_the_Altar.md
+         └─ PROJECT_STATE.md
+         └─ Project_Bootstrap_Prompt.md
+         └─ README.md
+         └─ RJ_Incense_Analysis.md
+         └─ RJ_Open_Questions_and_Divergences.md
+         └─ SRC_Channel_Inventory.md
+         └─ SRC_Coverage_Register.md
+         └─ SRC_Manifest.md
+         └─ asr_keyterms_A101.md
+         └─ passes/README.md
+         └─ src/SRC_Discord_39ArticlesFormularies.md
+         └─ src/SRC_Discord_Assurance.md
+         └─ src/SRC_Discord_BaptismConfirmation.md
+         └─ src/SRC_Discord_RPW.md
+         └─ src/SRC_Discord_SevenSacraments.md
+  C9         1  do-not-deploy consistency                    OK
+         └─ RJ_Final_Question_List.md
+  C10        1  section 15 staleness                         OK
+         └─ St_Francis_EMC_Distinctives.md
+  C11        2  outline-vs-findings drift                    OK
+         └─ Incense_Conversational_Outline.md
+         └─ St_Francis_EMC_Distinctives.md
+  C12        2  session-registry integrity / dual capture    OK
+         └─ SRC_Manifest.md
+         └─ St_Francis_EMC_Distinctives.md
+------------------------------------------------------------------------
+82 ok · 9 warnings · 0 errors
+Read the coverage summary before trusting the error count.
