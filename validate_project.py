@@ -25,7 +25,19 @@ Three structural changes prevent a recurrence:
   3. A COVERAGE ASSERTION fails the run if any check contributes zero results.
      A skipped check must never look like a clean pass.
 
-**Last updated: 260835-22** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-39** (date-stamped, format yymmdd-iteration)
+
+⭐⭐ 260835-39: C11's POINTER-REGEX CARRIED THE IDENTICAL TRUNCATION DEFECT C3
+CARRIED UNTIL 260835-22, IN THIS SAME FILE, AND IT WAS STILL LIVE. The stamp
+group was (\d{6}-\d) -- one digit after the dash. ⛔ Confined to REPORTING, not
+to the drift comparison: the finding number was always (\d+), so `head > cnum`
+was correct throughout and no drift was ever missed. ⚠️ But not cosmetic --
+the outline pointer reads `DQ-26 @ 260835-31 · IP-108 @ 260835-32` and C11
+printed BOTH as '260835-3', rendering two review stamps a month apart as
+identical. Fixed to (\b\d{6}-\d+\b), the same fix as C3's. See the note at the
+C11 block. ⚠️ Worth stating for whoever reads this next: fixing one instance of
+a defect class did not find its siblings, and nothing in the tooling looks for
+them -- a third instance elsewhere in this file would not be caught today.
 
 ⚠️⚠️ 260835-22: C3's STAMP COMPARISON WAS TRUNCATING THE ITERATION NUMBER AND
 PASSING REAL DRIFT SILENTLY. The comparison regex was r'\d{6}-\d' -- six
@@ -812,7 +824,27 @@ if OUT_KEY and DIST:
             head = ledger_head_c11(pfx)
             if not head:
                 continue                       # series not in the corpus yet
-            m = re.search(rf'\b{pfx}-(\d+)[a-z]?\s*@\s*(\d{{6}}-\d)', ptr)
+            # ⚠️ DEFECT FIXED 260835-39: the stamp group was r'(\d{6}-\d)' --
+            # SIX digits, a dash, and exactly ONE digit. This is the IDENTICAL
+            # truncation defect C3 carried until 260835-22 (see the long note at
+            # C3 above), in the same file, and it was still live here.
+            #
+            # The effect was confined to REPORTING rather than to the drift
+            # comparison -- the finding number is (\d+) and was always parsed in
+            # full, so `head > cnum` was correct throughout and no drift was
+            # ever missed. But the stamp printed in every C11 ok()/warn() line
+            # was truncated to its first digit, which is not cosmetic: at the
+            # time of this fix the outline pointer read
+            #   DQ-26 @ 260835-31 · IP-108 @ 260835-32 · RV-63 @ 260830-1
+            # and C11 printed BOTH of the first two as '260835-3'. Two review
+            # stamps a month apart rendered identically, which is exactly the
+            # "compared EQUAL / reported agreement" failure mode C3's truncation
+            # produced -- here surfacing as a reader being told two series were
+            # reviewed together when they were not.
+            #
+            # \d+ matches the whole iteration number; \b on both ends stops a
+            # stamp from matching inside a longer digit run. Same fix as C3's.
+            m = re.search(rf'\b{pfx}-(\d+)[a-z]?\s*@\s*(\b\d{{6}}-\d+\b)', ptr)
             if m:
                 parsed_any = True
                 cnum, stamp = int(m.group(1)), m.group(2)
