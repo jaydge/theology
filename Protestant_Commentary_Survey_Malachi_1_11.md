@@ -1,6 +1,8 @@
 # The Protestant Commentary Survey on Malachi 1:11 — Verification
 
-**Last updated: 260835-44** (created 260835-44; date-stamped, format yymmdd-iteration)
+**Last updated: 260835-45** (created 260835-44; date-stamped, format yymmdd-iteration)
+
+> ⭐ **260835-45 — APPENDIX ADDED BY DATED NOTE: JD'S ORIGINAL SUBMITTED SOURCE TABLE, UNVERIFIED SECTIONS, REPRODUCED FOR LINK-PRESERVATION ONLY.** ⛔ **No re-verification claimed; no source in the appendix was opened by this pass.** ⛔ **No finding altered, no number of any prefix consumed, no other document's content touched.** The verified body of this document (§0–§10) is exactly as `260835-44` left it.
 
 > ⭐⭐⭐ **260835-44 — THE SUBMITTED SURVEY IS VERIFIED AGAINST SOURCES FOR THE FIRST TIME. ALL SEVENTEEN PRE-1900 COMMENTATORS WERE INDEPENDENTLY OPENED AND READ; THE HEADLINE `0 of 17` HOLDS.** ⛔⛔ **BUT IT HOLDS ON DIFFERENT AND PARTLY WEAKER GROUND THAN THE SUBMITTED TABLE CLAIMED, AND FOUR MATERIAL DIVERGENCES ARE RECORDED RATHER THAN SMOOTHED OVER — see §4.** ⭐⭐ **THE SINGLE MOST IMPORTANT CORRECTION IS TO THE MODERN CONTROL GROUP, NOT THE SEVENTEEN: three of the four verifiable 20th-century commentators DO read Malachi 1:11 as predicting LITERAL incense — in a future millennial temple, not in the church — which the submitted table's flat "0% / 100%" concealed (§5).** ⚠️ **A second correction cuts against the survey at Revelation 8:3: the Cambridge Bible expressly distinguishes Rev 8 from Rev 5:8 on the identity question, in the ritualists' favour, and says the angel "censes the holy things" (§6c).** ⛔ **THE 1559 "OUTLAWED INCENSE" CLAIM IS NOT SUPPORTED AS FRAMED (§7); the repository's own `Ritualist_Case_For_Incense_and_the_1899_Opinion.md` already holds better evidence on it than the open web returned, including evidence pointing the OPPOSITE way.** ⛔⛔⛔ **NOTHING MINTED. NO `File`, `W`, `LS`, `IP`, `DQ`, `GV`, `RC`, `BP`, `RV`, `EXT` OR ANY OTHER LEDGER NUMBER CONSUMED.**
 
@@ -314,3 +316,72 @@ The tactical memo flagged this claim as the higher-risk one: *"the 1559 claim es
 **Internal cross-references (not re-researched here)**
 - `Ritualist_Case_For_Incense_and_the_1899_Opinion.md` — the 1899 Opinion, the Westall submission, the 1559 proviso, the Poole and Bodmin censer evidence, Lacey on Ridley's Injunction, Frere's and Darwell Stone's concessions.
 - `passes/TACTICAL_STATE_260830_handoff.md` §2 — the reserve-list entry this pass discharges.
+
+---
+
+## Appendix (added 260835-45) — JD's original submitted source table, unverified sections
+
+⛔⛔ **THE SECTIONS BELOW ARE REPRODUCED FROM JD'S ORIGINAL SUBMITTED SOURCE TABLE FOR REFERENCE AND LINK-PRESERVATION ONLY.** Only the pre-1900 Protestant commentators and the 20th-century control group were independently verified at `260835-44` (§2 and §5 above). ⛔ **Every source in this appendix is UNVERIFIED — not opened, not checked against its own text, not adjudicated for reading.** Presence here is not a claim about accuracy, about what any listed author holds, or about whether any URL still resolves. Nothing in this appendix may be cited, deployed outward, or treated as establishing a reading until it is verified in a later pass.
+
+⚠️ **This appendix is a verbatim reproduction, not a finding.** It was added by dated note at `260835-45`; that pass performed **no** verification, altered **no** finding above, and consumed **no** ledger number of any prefix.
+
+### A1. Hub
+
+| Source | URL |
+| --- | --- |
+| StudyLight verse page (many commentators on Malachi 1:11) | https://www.studylight.org/commentary/malachi/1-11.html |
+| BibleHub / parallel commentaries (used as a second aggregator) | https://biblehub.com/commentaries/malachi/1-11.htm |
+
+### A2. Anglican / High-Church names requested later
+
+| Author | Note | URL |
+| --- | --- | --- |
+| E. B. Pusey | High-Church Anglican; incense treated via patristic quotes as prayers; *minchah* often read eucharistically | Search via StudyLight hub and Ellicott's footnote pointing to Pusey. Printed set: *The Minor Prophets*, commonly on Archive.org under "Pusey Minor Prophets Malachi." |
+| Christopher Wordsworth | Anglican; incense as emblem of prayer, heavenly censer | Usually found in *The Holy Bible with Notes* (1870s). Cited from secondary Anglican notes rather than a clean public page. |
+| Edward Pococke | 17th-c. Anglican Hebraist | Quoted in later Anglican compilations; prayers / praise / alms, not a command to burn incense. |
+
+### A3. Short 20th-century control group (submitted table, pre-verification)
+
+| Author | URL |
+| --- | --- |
+| Arno Gaebelein | via StudyLight hub |
+| H. A. Ironside | via StudyLight hub |
+| Thomas Constable | https://studylight.org/commentaries/dcc/malachi-1.html |
+| James Burton Coffman | via StudyLight hub |
+| Chuck Smith (later popular) | via StudyLight hub |
+
+### A4. Ante-Nicene / historical survey
+
+| Source | URL |
+| --- | --- |
+| David W. T. Brattston, "Incense in Ante-Nicene Christianity," *Churchman* 117.3 (2003) | https://www.biblicalstudies.org.uk/pdf/churchman/117-03_225.pdf |
+| Orthodox-Reformed Bridge reply to Brattston | https://orthodoxbridge.com/2013/01/25/defending-incense/ |
+| E. G. Cuthbert F. Atchley, *A History of the Use of Incense in Divine Worship* | https://archive.org/details/AHistoryOfTheUseOfIncense |
+
+### A5. Roman Catholic official / popular justifications
+
+| Source | URL |
+| --- | --- |
+| GIRM 75 and 276 (incense as reverence and prayer; cites Ps 141:2 and Rev 8:3) | https://adoremus.org/2012/02/holy-smoke-the-use-of-incense-in-the-catholic-church/ |
+| Catholic Answers, "Why Have Incense at Mass?" | https://catholic.com/magazine/online-edition/why-have-incense-at-mass |
+| Adoremus, "Holy Smoke" | https://adoremus.org/2012/02/holy-smoke-the-use-of-incense-in-the-catholic-church/ |
+| EWTN / Fr. Saunders | https://www.ewtn.com/catholicism/library/why-is-incense-used-during-mass-1041 |
+| National Catholic Register | https://www.ncregister.com/features/incense-heavenly-fragrance-for-worship |
+| Adoremus, Jewish roots of the altar of incense (Malachi used for the pure offering / Eucharist) | https://adoremus.org/2025/08/the-jewish-roots-of-the-catholic-altar-the-altar-of-incense-part-iii/ |
+
+### A6. Eastern Orthodox / ritualist-leaning uses of Malachi 1:11
+
+| Source | URL |
+| --- | --- |
+| Fr. John Peck, "Worship With Incense" | https://frjohnpeck.com/worship-with-incense/ |
+| Orthodox Answers, "Why does the Church use incense?" | https://www.orthodoxanswers.net/post/why-does-the-church-use-incense |
+| Coptic Orthodox Metropolis, "Incense" | https://www.suscopts.org/resources/literature/church-worship/incense |
+| St. Michael Antiochian, "Why is there incense in Orthodox services?" | https://stmichaeltx.org/orthodox-101/what-is-orthodoxy/why-is-there-incense-in-orthodox-services/ |
+| OMHKSEA on Malachi (Eucharistic reading of the pure offering) | https://omhksea.org/archives/21913 |
+
+### A7. Anglo-Catholic / ritualist background
+
+| Source | URL |
+| --- | --- |
+| New Directions / Forward in Faith, "Holy Smoke" | https://ndarchive.forwardinfaith.com/2021/07/20/holy-smoke/ |
+| Anglican History, "What is Anglo-Catholicism? Part Two" | https://anglicanhistory.org/alexander/alexander2.html |
