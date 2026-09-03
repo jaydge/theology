@@ -1,6 +1,8 @@
 # American Episcopal Reception of the 1899 Archbishops' Opinion
 
-**Last updated: 260835-54** (created 260835-53; date-stamped, format yymmdd-iteration)
+**Last updated: 260835-55** (created 260835-53; date-stamped, format yymmdd-iteration)
+
+⭐⭐⭐ **260835-55 — HOPKINS vs DeKOVEN ON MALACHI 1:11 WORKED, IN A NEW §10; NOTHING ABOVE §10 IS ALTERED, and the two corrections are dated notes placed beside their originals at §9.3(c) and §9.7.** ⛔ **NO LEDGER NUMBER CONSUMED. `Malachi_1_11_Lexical_Analysis.md` OPENED AND READ (the `260835-54` omission, now discharged) but NOT edited and the lexical question NOT re-opened.** **(1) TASK 1 — Hopkins's argument read in full in BOTH the 1866 New York and 1867 London settings, which agree word-for-word. He does take Malachi 1:11 as express prophecy of literal Gentile incense, so `260835-54` did not overstate that; ⛔ but §9.3's headline that he "rests the lawfulness of Christian incense" on it is imprecise — the book runs TWO arguments in two chapters, and its LEGAL conclusion (numbered point 7) rests on the Ornaments Rubric and the second year of Edward VI, with Malachi 1:11 appearing nowhere in it.** ⛔⛔⛔ **AND THE HARD FINDING: he never addresses the *minchah* clause. "Pure offering" occurs EXACTLY ONCE in each edition, inside his own quotation of the verse; "meat offering" zero. He extracts the incense half and never returns to the other. ⭐⭐ Three pages earlier he attacks Bingham for treating one member of a scene as real and the other as mystical — the symmetry principle in his own mouth, and `260835-52`'s finding that the two clauses are coordinate subjects of ONE Hophal participle makes the omission worse, not better. ⭐ The one point in his favour: `260835-52` verdict (a) means his lexical premise is sound.** **(2) TASK 2 — DeKoven's refusal classified (c) INDETERMINATE, but (b) TACTICAL is the reading the evidence positively DISFAVOURS, and a fourth option neither the brief nor `260835-54` listed is the likeliest: the proposed canon's test was SYMBOLIC, so the literal-prophecy question was out of scope by the canon's own terms.** ⛔⛔ **`260835-54`'s reason for weakening the tactical explanation RUNS BACKWARDS and is corrected: Hopkins's 1866 precedent is a precedent for provoking an episcopal censure within a year, which makes the 1874 chamber more hostile, not less. What actually defeats the tactical reading is internal — DeKoven had already told the House, to recorded laughter, that he is the only clerical Ritualist in it, so the later "I am afraid they are Ritualists" is self-deprecating irony, not distance.** ⛔⛔ **TWO SELF-CORRECTIONS RECORDED AT §10.2(c) AND §10.2(e) RATHER THAN QUIETLY FIXED: this pass's first draft claimed both that self-description and DeKoven's "never present at a service using incense" as data `260835-54` did not have. BOTH ARE ALREADY AT §9.6, the second as its anchor datum. `260835-55` adds NOTHING to §9.6 and only the CONNECTION to §9.7's reading of the tone is new. ⭐ The near-duplication is itself an argument for the §10.0 split.** **(3) TASK 3 — ⛔⛔ NO CONNECTION ESTABLISHED AND NONE CONSTRUCTED. Zero occurrences of Hopkins, Vermont, Presiding, 1866 or Revelation in the speech; zero Hopkins and zero Malachi in the 1874 *Theological Defence*. ⭐ Hopkins's second prop, Revelation 8:3–4, is also absent, which is better evidence of non-engagement than the bare absence of the name. ⚠️ The one real link is to the SON — Hopkins Jr., who entered the 1866 copyright, walked with DeKoven at the 1877 Convention — and it is proximity, three years after the speech, not engagement.** **(4) TASK 4 — VERDICT: an ISOLATED INSTANCE WITH UNUSUALLY HIGH PROVENANCE, not a current; high provenance is not currency. ⭐⭐⭐ Strongest counter-argument to that verdict stated at full strength at §10.4(c): the search was for engagement, not repetition, and periodicals — above all *The Church Journal*, edited by the copyright-holder — were not opened.** ⛔ **NOT COMMITTED, per the brief. `SRC_Manifest.md` NOT touched. Source-capture debt restated, not discharged.**
 
 ⭐⭐⭐ **260835-54 — FOUR REGISTRATIONS AND THREE CORRECTIONS TO 260835-53, ALL IN A NEW §9; NOTHING ABOVE §9 IS ALTERED, ONLY POINTED AT BY DATED NOTE.** (i) The 1868 Committee-on-Ritual report and the 1874 draft-and-enacted canon texts are registered from the primary sources. (ii) ⛔ **CORRECTION — the Bishops' striking of incense from the 1874 canon was NOT an affirmative permission**; DeKoven said so from the floor on 31 October 1874, in terms, and 260835-53's §2c "passes the American test comfortably" overstates it. (iii) ⛔ **CORRECTION — the Hopkins/1866 claim at §5a and §7b is SUBSTANTIATED IN ITS PUBLICATION FACTS, STRENGTHENED ON INCENSE, AND MATERIALLY OVERSTATED IN ITS FRAMING**: Hopkins argues lawfulness and expressly disclaims recommending, practising, or pronouncing on the expediency of any of it, and his title page reads "Bishop of Vermont," not "Presiding Bishop." (iv) ⛔⛔ **CORRECTION, AND IT IS THE ONE THAT MOST DAMAGES §3a — within a year of Hopkins's book, 28 bishops (Perry says 24) signed a Declaration censuring "the use of incense" BY NAME AND FIRST IN ITS LIST.** ⭐ **That same Declaration also supplies the strongest American-side statement of §5a's jurisdictional half, from 1866, in the American bishops' own words.** (v) ⭐ **§6 gap 6 CLOSED — Hopkins on incense read and quoted, and he rests it on Malachi 1:11.** (vi) ⭐ **AMERICAN INCENSE CHRONOLOGY established as far as the sources permit: earliest securely dated use is Christmas 1877, three years AFTER DeKoven's speech; the answer is rare and late.** ⛔ **NOTHING MINTED. NO LEDGER NUMBER OF ANY PREFIX CONSUMED. Not committed by this pass.**
 
@@ -432,6 +434,8 @@ The lawfulness claim, in the chapter §2c's gap register pointed at (Am. p. 85 [
 
 ⚠️⚠️ **A LIVE FLANK, FLAGGED AND NOT WORKED, BECAUSE IT IS OUT OF THIS PASS'S SCOPE AND BELONGS TO A DIFFERENT FILE.** Hopkins's argument is **the same Malachi 1:11 argument in the same shape** that `Malachi_1_11_Lexical_Analysis.md` (`260835-52`) and `Protestant_Commentary_Survey_Malachi_1_11.md` (`260835-44`) examine, and it is put by a Presiding Bishop of the American church eight years before DeKoven put a *narrower* version of it on the Convention floor (§9.7). ⛔⛔ **NO FINDING IS MINTED FROM THIS AND NEITHER FILE IS TOUCHED. It is registered here as a pointer for orchestration to schedule or decline, exactly as §8's items are.** ⭐ **Note in particular that Hopkins DOES take Malachi 1:11 as express prophecy of literal Gentile incense — which is precisely the reading DeKoven declined to make in 1874 (§9.7). That divergence between the two best-placed American advocates is the interesting datum, and it is not worked here.**
 
+> ⛔⛔ **DATED NOTE ADDED `260835-55` — THIS SUBSECTION'S HEADLINE IS IMPRECISE AND THE IMPRECISION RUNS IN JD's FAVOUR. NOTHING ABOVE IS ALTERED.** (c)'s heading says Hopkins "RESTS THE LAWFULNESS OF CHRISTIAN INCENSE ON MALACHI 1:11." ⛔ **The book makes two separate arguments in two chapters: Malachi 1:11 + Revelation 8:3–4 carry the SCRIPTURAL warrant (Am. pp. 38–40), while the LEGAL conclusion at numbered point 7 (Am. p. 85, quoted above) rests on the Ornaments Rubric — "the second year of Edward VI." — and on omission-not-being-prohibition. Malachi 1:11 appears nowhere in the legal summary.** ⭐ **See §10.1(b). ⭐⭐ AND §10.1(c) adds the finding this subsection did not have: "pure offering" occurs EXACTLY ONCE in each edition, inside Hopkins's own quotation of the verse, and he never returns to it — he does not address the *minchah* symmetry problem anywhere in the book.**
+
 **(d) Does he say he would use incense?** ⛔ **No. Nowhere. The strongest personal statement in the book about incense is "I have no doubt on the subject," and its subject is whether the primitive Gentile Church used incense — not whether he would.**
 
 ⭐⭐ **HOW `260835-53`'s CLAIM SHOULD NOW BE STATED, AND THE DIFFERENCE IS NOT COSMETIC.** ⛔ **Not:** "a Presiding Bishop was in print for permissiveness from 1866." ✅ **But:** *"The Presiding Bishop, John Henry Hopkins of Vermont, published a book in 1866 arguing that incense and a range of other disused ceremonies were lawful in the American church because the church had never prohibited them — while expressly declining to recommend them, to adopt them himself, or to say whether they were expedient. Within a year, twenty-eight of his brother bishops signed a declaration censuring the use of incense by name."* ⭐ **The second version survives contact with an informed interlocutor. The first does not.**
@@ -531,6 +535,8 @@ He describes himself in the same speech as "**the only clerical Ritualist in thi
 
 ⛔⛔ **HALF ONE — AND IT IS THE ONE JD MUST SEE. America's foremost ritualist, defending incense at the top of his form, in the highest-stakes setting available to him, WOULD NOT MAKE THE LITERAL-FULFILMENT ARGUMENT. He set it aside in a sentence, and the distance is audible: "Some people say it was, but I am afraid they are Ritualists" — said by a self-described Ritualist, about Ritualists, to put space between himself and the reading.** ⚠️ **He was arguing to a hostile House and had tactical reason not to press it. ⛔ That is a possible explanation and it is NOT evidence; he did not say it, and nothing here may be attributed to a motive he did not state.** ⭐⭐ **And the tactical explanation is weakened by §9.3: Hopkins, a Presiding Bishop writing eight years earlier in a book rather than a floor fight, DID take Malachi 1:11 as express prophecy of literal Gentile incense. The literal reading was available in American print, from the highest office in the church, and DeKoven still declined it.**
 
+> ⛔⛔⛔ **DATED NOTE ADDED `260835-55` — THE LAST SENTENCE ABOVE IS AN INFERENCE THAT RUNS BACKWARDS, AND IT IS CORRECTED AT §10.2(b) RATHER THAN REWRITTEN HERE.** Hopkins's precedent does **not** weaken the tactical explanation; on the `260835-55` reading it mildly strengthens it, because §9.4 records that the one American attempt to make this argument in print provoked twenty-eight bishops to censure incense by name within a year. ⭐ **What DOES defeat the tactical explanation is internal to the speech: about 2,700 words before the "I am afraid they are Ritualists" line, DeKoven tells the House, to recorded laughter, that "everybody knows that I am the only clerical Ritualist in this House." ⛔ The later line is self-deprecating irony from a man who has already claimed the label, not distance from it — so "the distance is audible" above should not be relied on.** ⛔⛔ **AND `260835-55` CORRECTS ITSELF HERE RATHER THAN CLAIMING A FIND: `260835-54` ALREADY REGISTERED that self-description, at §9.6, and this pass's first draft wrongly said it did not. What `260835-54` did not do is connect it to THIS subsection's reading of the tone. Only the connection is new. See §10.2(c).** ⭐ **§10.2 also finds a fourth explanation the brief and this subsection both missed: the proposed canon's test was SYMBOLIC, so the literal-prophecy question was out of scope by the canon's own terms and declining it conceded nothing. ⚠️ §10.2(d) holds the line that DeKoven nowhere says the literal reading is WRONG.**
+
 ⭐⭐ **HALF TWO — AND IT IS REGISTERED WITH EQUAL WEIGHT, AS THE BRIEF REQUIRED. He DID read the pure offering as the Eucharistic offering** ("The prophet Malachi holds that incense symbolizes the pure offering,—I suppose the Eucharistic offering… **though I do not think so**," the last clause refusing the concession he had just offered for argument's sake) — **and he DID use an Aaron-with-the-censer typology, at length:**
 
 > "Or again—and this is something more awful—when Aaron stood between the dead and the living with the censer in his hands, and the smoke of the incense was wafted to heaven; the people were saved. What did he typify but that Eternal Son of God who alone stands between the dead and the living, and whose mediation for the souls of men forever ascends to the right hand of God? and what did the ascending incense symbolize but the atoning Sacrifice and the everlasting Mediation?"
@@ -553,7 +559,211 @@ He describes himself in the same speech as "**the only clerical Ritualist in thi
 
 ---
 
+## 10. `260835-55` — HOPKINS vs DeKOVEN ON MALACHI 1:11 AS LITERAL PROPHECY
+
+### 10.0 What this section is, how it was sourced, and what it did not do
+
+⛔⛔ **EXTERNAL RESEARCH ONLY — NOT A FINDING ABOUT REV. JAMES.** He is not quoted, characterised or attributed anywhere in this section. ⛔ **No `IP`/`DQ`/`LS` or any other ledger number is consumed.**
+
+⭐ **WHY IT EXISTS.** `260835-54` flagged the Hopkins/DeKoven divergence at §9.3's live flank as its highest-value unworked item and expressly declined to work it. This section works it.
+
+**Sourcing — all read in full this pass, live over the web, ⛔ NONE captured to `src/`, so none is hash-verifiable (the `260835-53`/`260835-54` source-capture debt is restated here, not discharged):**
+
+| Source | What was done with it |
+|---|---|
+| Hopkins, *The Law of Ritualism*, **New York: Hurd and Houghton, 1866** (Internet Archive `lawofritualismex0000hopk`, School of Theology at Claremont copy) | **Full OCR text machine-searched and the incense chapter read in context.** This is the edition the brief named |
+| Hopkins, *The Law of Ritualism*, **London: Joseph Masters / New York: Hurd and Houghton, 1867** (Internet Archive `lawofritualismex00hopk`, Univ. of Illinois copy) | **Full OCR text machine-searched independently**, as a second witness against OCR failure. ⭐ **The two settings agree word-for-word in the passages at issue** |
+| DeKoven, *The Canon on Ritual, and the Holy Eucharist*, **26 October 1874** (Project Canterbury transcription) | **Read in full and machine-searched** |
+| DeKoven, *A Theological Defence*, **Milwaukee, February 1874** (Internet Archive `theologicaldefen00dekoiala`) | **Full text machine-searched** for any Hopkins reference — §10.3 |
+| Pope, *Life of the Reverend James de Koven* (1899), Internet Archive `lifereverendjam00unkngoog` | **Machine-searched. ⚠️ THIS SCAN IS PARTIAL — 106,524 characters, and it returns ZERO occurrences of "incense," which a complete life of DeKoven cannot do.** Treated as a fragment, and no negative is rested on it |
+| `Malachi_1_11_Lexical_Analysis.md` (`260835-52`) | **OPENED AND READ IN FULL this pass** — `260835-54` recorded that it had not been opened. ⛔ **Not touched, not edited, and the lexical question is NOT re-opened.** Its verdict is used at §10.1(d) |
+
+⛔⛔ **WHAT THIS SECTION DID NOT DO.** ⛔ **`Malachi_1_11_Lexical_Analysis.md`, `Protestant_Commentary_Survey_Malachi_1_11.md`, `RJ_Incense_Analysis.md` §4.6/§4.8/§4.10, `Incense_Conversational_Outline.md` and the Discord draft NOT TOUCHED and none opened for edit.** ⛔ **Nothing above §10 in this file is altered — the two corrections below are placed as dated notes beside their originals, per never-alter.** ⛔ **NOT COMMITTED, per the brief.** ⛔ **`SRC_Manifest.md` NOT touched — no new file created.**
+
+⭐ **WHY THIS IS A §10 AND NOT A NEW FILE, STATED AS A JUDGMENT WITH REASONS.** The material corrects and extends §9.3 and §9.7 of this same file and is unintelligible apart from them; a standalone file would separate the Hopkins material from itself, would need its own `SRC_Manifest.md` registration for no gain, and would give a reader two places to look for one argument. ⛔ **The countervailing consideration is real and is recorded: this file's subject is the 1899 Opinion, and §§9–10 have now grown a 1866–1874 American ritual-controversy annexe that is only loosely attached to that subject. If §11 arrives, the annexe should be lifted out into its own file and this file left with a pointer.**
+
+---
+
+### 10.1 TASK 1 — WHAT HOPKINS ACTUALLY CLAIMS, AND THE TWO THINGS §9.3 GOT SLIGHTLY WRONG
+
+⭐⭐⭐ **VERDICT FIRST. Hopkins DOES read Malachi 1:11 as a prediction of literal Gentile incense — §9.3 is right about that, and `260835-54` did not overstate it. ⛔ But §9.3's headline that he "RESTS THE LAWFULNESS OF CHRISTIAN INCENSE ON MALACHI 1:11" is imprecise in a way that matters, and the imprecision runs in JD's favour, so it is corrected here rather than left standing.**
+
+**(a) The claim itself, and its exact logical shape.**
+
+The argument occupies **one paragraph**, at Am. pp. 39–40 [London p. 34], inside the chapter answering Bingham on the primitive Church. Hopkins quotes Malachi 1:11 entire, then draws the inference in one sentence — under fifteen words of him:
+
+> "Here we have express mention of incense which should be offered in every place"
+
+He then adds Revelation 8:3–4 as a second prop ("St. John saw the angel offering incense"), and closes with a question, not an assertion: on what ground should it be unlawful to offer it on earth?
+
+⭐⭐ **So the shape is: LITERAL PROPHECY IN THE PREMISE, LAWFULNESS IN THE CONCLUSION.** He does not argue that the verse *requires* incense, *commands* it, or is *fulfilled only* by material incense. He argues that the verse expressly predicts Gentiles offering incense, that Scripture elsewhere shows incense offered in heaven, and that a thing so predicted and so pictured cannot be *unlawful* on earth. ⛔ **A reader who reports Hopkins as holding that Malachi 1:11 mandates liturgical incense has overstated him, and an informed interlocutor with the page open will say so.**
+
+**(b) ⛔⛔ THE CORRECTION TO §9.3, AND IT RUNS AGAINST THE PROJECT'S USE OF HOPKINS.** The book makes **two separate arguments for incense, in two different chapters, doing two different jobs, and Malachi 1:11 carries only the first:**
+
+| | Where | What carries it |
+|---|---|---|
+| **The Scriptural / primitive warrant** | Am. pp. 38–40 [London pp. 32–34] | **Malachi 1:11 + Revelation 8:3–4**, against Bingham |
+| **The LEGAL conclusion — the one the book is titled for** | Am. p. 85 [London p. 72], numbered point **7** | ⛔ **The Ornaments Rubric.** Incense is lawful because it and the other listed uses were "established by usage in the second year of Edward VI." and the American church has never prohibited them |
+
+⛔⛔⛔ **MALACHI 1:11 DOES NOT APPEAR ANYWHERE IN THE BOOK'S LEGAL SUMMARY, AND THE LEGAL SUMMARY IS THE BOOK'S CONCLUSION.** When Hopkins states, in his own numbered enumeration, why incense is lawful in the Protestant Episcopal Church, he reaches for the second year of Edward VI — **the exact instrument `260835-53` §1b established has never had force in the United States, and the exact instrument the 1899 Opinion construes.** ⭐ **This is not a small point. It means Hopkins's *legal* case for American incense is the English-ceremonial-law case, and it means the strongest American authority the project has for the *literal prophecy* reading is not the same argument as the strongest American authority it has for *lawfulness*. §9.3 fuses them; they are not fused in the book.**
+
+**(c) ⛔⛔⛔ THE *MINCHAH* CLAUSE — AND THIS IS THE HARD FINDING OF THE TASK. HE DOES NOT ADDRESS IT. AT ALL. ANYWHERE.**
+
+⭐⭐ **This is a machine-checkable negative over the complete text of both editions, not an impression from reading:**
+
+- The string **"pure offering" occurs EXACTLY ONCE in the entire 1866 New York edition, and EXACTLY ONCE in the entire 1867 London edition** — and in both cases it is **inside the Malachi quotation itself**, in Hopkins's own transcription of the verse.
+- **"meat offering" / "meat-offering": ZERO occurrences in both editions.**
+- The word **"Malachi" occurs exactly once in the whole book.**
+
+⛔⛔ **He quotes the second clause and then never returns to it.** He extracts "express mention of incense" from the first half of the verse, says nothing whatever about the pure offering standing beside it, and moves directly to Revelation. **He does not answer the symmetry problem, does not concede it, and gives no sign of having seen it.**
+
+**(d) ⭐⭐⭐ AND THIS IS THE PART THAT CUTS HARDEST, BECAUSE IT IS HOPKINS'S OWN PRINCIPLE TURNED AROUND — REGISTERED EVEN THOUGH IT RUNS AGAINST JD's LIKELIEST USE OF HOPKINS.**
+
+Three pages earlier, attacking Bingham for reading St Ambrose's incensed altar as merely mystical, Hopkins demands **consistency of register within a single scene** — eleven words of him:
+
+> "Why is not the incensing of that altar equally real?"
+
+⭐⭐ **His objection to Bingham is precisely that you may not spiritualise one member of a pair while leaving the other literal.** That is the Keil/Perowne "no sound canon" rule in Hopkins's own mouth, deployed by him, offensively, as his best move against his opponent — and **two pages later he quotes a verse in which incense and a pure offering are joined, takes the first literally, and leaves the second untouched.**
+
+⛔⛔ **`Malachi_1_11_Lexical_Analysis.md` (`260835-52`) makes that worse rather than better, and it was opened this pass precisely to check.** Its Task 1 finding is that מֻקְטָר and וּמִנְחָה טְהוֹרָה are **not a loose thematic parallel but the two coordinate grammatical subjects of a single Hophal participle, מֻגָּשׁ** — "two nouns sharing one verb in one clause." ⭐ **So the two clauses Hopkins treats differently are not adjacent sentences he might reasonably have handled separately; they are one predication. On his own stated principle, they take the same register.**
+
+⭐ **The one place `260835-52` HELPS Hopkins, recorded so this is not one-sided:** its summary verdict is **(a)** — that the word in Malachi 1:11 most plausibly denotes **incense specifically**, not sacrificial smoke generally. ⛔ **So Hopkins is NOT making a lexical error. His premise about the word is the better-supported reading, and an attack on him at the level of "that does not really mean incense" would be attacking the half of his argument that is sound.** ⚠️ **`260835-52`'s own hapax/parsing caveat (Task 5) stands and must travel with that concession.**
+
+---
+
+### 10.2 TASK 2 — DeKOVEN'S REFUSAL: NOT TACTICAL, AND `260835-54`'s REASON FOR SAYING SO RUNS BACKWARDS
+
+⭐⭐⭐ **VERDICT: (c) INDETERMINATE AS BETWEEN (a) AND A FOURTH OPTION THE BRIEF DID NOT LIST — but (b), the tactical concession, is the one reading the evidence positively DISFAVOURS.** The fourth option is that the literal-prophecy question was **argumentatively out of scope by the proposed canon's own terms**, so declining it cost DeKoven nothing and conceded nothing.
+
+**(a) ⭐⭐ THE CANON'S TEST IS SYMBOLIC, AND DeKOVEN SAYS SO IN TERMS BEFORE HE STARTS.** The clause he is attacking condemns practices "setting forth or symbolizing erroneous or doubtful doctrines." He tells the House, before the Scripture, that to feel the force of the argument "you will have to follow the Canon" — and then runs a reductio whose every step is of one form: *incense symbolises X; is this House prepared to say X is false doctrine?* Psalm 141 gives him prayer; Malachi gives him the pure offering; Numbers 16 gives him Aaron between the dead and the living; Leviticus 16 gives him the Day of Atonement.
+
+⭐⭐⭐ **Whether the prophecy was also literally fulfilled is IRRELEVANT to that argument, and his own next sentence says exactly that** — nine words:
+
+> "My only question is as to its symbolical meaning."
+
+⛔ **A man declining a point that would not have helped him is not making a concession. §9.7's "he set it aside in a sentence" is right about the fact and, read alone, invites a reader to hear a retreat where the structure of the speech supplies a simpler explanation.**
+
+**(b) ⛔⛔⛔ THE CORRECTION TO `260835-54`, AND THE BRIEF WAS RIGHT TO SAY TEST IT RATHER THAN ASSUME IT. THE INFERENCE RUNS BACKWARDS.**
+
+`260835-54` argued (§9.7, and its own pass note item 6) that Hopkins's having made the literal argument in American print eight years earlier **weakens** the tactical explanation. ⛔ **It does not, and on this pass's reading it mildly STRENGTHENS it.** Two reasons, both from material already in this file:
+
+1. **It requires DeKoven to have known the argument was in American print, and §10.3 finds no evidence he did.** Availability in a library is not availability to a speaker's mind.
+2. ⛔⛔ **More seriously: §9.4 records what happened to Hopkins's book. Within a year of it, twenty-eight bishops signed a Declaration censuring the use of incense BY NAME, and §9.2 records the same men putting incense first on a prohibition list in 1868.** ⭐ **So the one American precedent for making this argument in print is a precedent for PROVOKING A COLLECTIVE EPISCOPAL CENSURE. That makes the 1874 chamber more hostile to the literal reading, not less — which is what a tactical explanation predicts, not what it struggles with.**
+
+⭐ **`260835-54`'s underlying observation is still worth keeping: the argument existed in American print and DeKoven did not use it. That is a fact. ⛔ What does not follow is the inference it was made to carry.**
+
+**(c) ⭐⭐⭐ WHAT ACTUALLY DEFEATS THE TACTICAL READING IS INTERNAL TO THE SPEECH — AND ⛔⛔ `260835-54` ALREADY HAD THE DATUM AND DID NOT CONNECT IT.**
+
+⛔⛔⛔ **A CORRECTION TO THIS PASS'S OWN FIRST DRAFT, MADE BEFORE PUBLICATION AND RECORDED RATHER THAN QUIETLY FIXED, BECAUSE IT IS EXACTLY THE ERROR THIS FILE'S DISCIPLINE EXISTS TO CATCH.** This subsection was first written asserting that `260835-54` "did not have" the self-identification. **That is false.** ⭐ **§9.6 records it in terms** — *"He describes himself in the same speech as 'the only clerical Ritualist in this House'"* — where it sits as a supporting detail in the incense-chronology argument. ⛔ **What `260835-54` did not do is bring it to bear on §9.7's reading of the tone, four subsections later. The datum was in the file; the connection was not. Only the connection is new here, and the claim is stated at that strength and no higher.**
+
+§9.7 reads *"Some people say it was, but I am afraid they are Ritualists"* as DeKoven putting space between himself and the reading. ⛔ **About 2,700 words earlier in the same speech he has already said this, to laughter recorded in the transcript** — twelve words:
+
+> "everybody knows that I am the only clerical Ritualist in this House"
+
+⭐⭐ **He claims the label, publicly, as a self-description, before he uses it.** So the later line is **self-deprecating irony from the House's self-declared only Ritualist**, not distancing from a party he is at pains not to belong to. ⛔ **A man performing tactical distance from Ritualists does not, minutes earlier, volunteer that he is the only one in the room.** ⚠️ **§9.7's "said by a self-described Ritualist" is correct and is not being contradicted; what is corrected is the reading of the tone as distance, which the earlier passage will not support.**
+
+⭐ **And the same fact cuts the other way too, which is why the verdict is (c) and not (a): a speaker who has already accepted the label and been laughed with has LOW tactical cost in also asserting the literal reading — and he still did not assert it. That is a point for a substantive or scope explanation and against a tactical one, and it is the strongest thing in this subsection.**
+
+**(d) ⛔ WHY NOT (a), SUBSTANTIVE DISAGREEMENT — THE LIMIT ON THIS PASS'S OWN VERDICT.** DeKoven says he **is not going to enter into** the question. **He nowhere says the literal reading is wrong.** ⛔ **A refusal to adjudicate is not a denial, and nothing in the speech licenses reporting DeKoven as holding that Malachi 1:11 is not a literal prophecy.** That is why the verdict is indeterminate rather than (a), and any deployment that firms it up to (a) is overstating the record.
+
+**(e) ⛔⛔ A SECOND SELF-CORRECTION, IN THE SAME PLACE AND FOR THE SAME REASON.** This subsection was first written registering DeKoven's *"I never was in any church in connection with the Protestant Episcopal Church at a time when incense was used"* as a first-person datum corroborating §9.6 **"and not registered there."** ⛔ **That is flatly false. It is §9.6's ANCHOR DATUM, quoted verbatim at the head of that subsection, with its own two limits already attached** (that *"incense is and has been used"* is grammatically ambiguous between England and America, and that legislatures do not usually legislate against nothing).
+
+⭐ **`260835-55` ADDS NOTHING TO §9.6 ON THIS POINT AND SAYS SO RATHER THAN CLAIMING A FIND.** ⭐⭐ **The correction is recorded rather than deleted because it is a live hazard for this file specifically: §§9–10 now run to some two hundred paragraphs on one controversy, and a later pass reading §10 without §9 will re-discover §9's material and register it twice. That is a structural argument for the split flagged at §10.0, and it has now produced two errors in one pass.**
+
+---
+
+### 10.3 TASK 3 — DID THEY ENGAGE EACH OTHER? ⛔ NO CONNECTION CAN BE ESTABLISHED, AND NONE IS CONSTRUCTED
+
+⭐⭐⭐ **THE BRIEF SAID TO SAY SO PLAINLY IF NOTHING WAS FOUND. NOTHING WAS FOUND.**
+
+**(a) The 26 October 1874 speech, machine-searched over its complete text:**
+
+| Term | Occurrences |
+|---|---|
+| "Hopkins" | **0** |
+| "Vermont" | **0** |
+| "Presiding" | **0** |
+| "1866" | **0** |
+| "Revelation" / "Apocalypse" | **0** |
+
+⛔ **DeKoven cites no American authority of any kind for incense.** His props are Scripture and the English ritual situation.
+
+⭐⭐ **AND ONE NEGATIVE THAT IS BETTER EVIDENCE THAN THE BARE ABSENCE OF THE NAME: Hopkins's SECOND prop, Revelation 8:3–4, is also absent from the speech.** Hopkins's two supports travel together in one paragraph. **If DeKoven were answering, echoing, or working from Hopkins, one would expect the pair to appear together, or at least the more vivid of the two to appear.** Neither does. ⭐ **The single verse they share is the single verse that any defender of incense would reach for independently — it is the standard proof-text, surveyed across seventeen commentators at `260835-44` — so the overlap is what common stock predicts, not what influence predicts.**
+
+**(b) DeKoven's *Theological Defence* (February 1874), full text machine-searched:** "Hopkins" **0**, "Malachi" **0**, "Vermont" **0**.
+
+**(c) ⚠️ THE ONE REAL CONNECTION FOUND — AND IT IS TO THE SON, NOT THE BISHOP, AND IT IS PROXIMITY, NOT ENGAGEMENT.** The 1866 title page's copyright line reads that the work was entered in 1866 by **John Henry Hopkins, JR., M.A.** — the Bishop's son, himself a ritualist, hymn-writer and editor. ⭐ **And the accessible fragment of Pope's 1899 *Life of DeKoven* records "Dr. John Henry Hopkins" as a friend who walked with DeKoven to the sessions of the 1877 Convention, arm in arm, and to whom DeKoven spoke about his health — necessarily the son, since the Bishop died in 1868.**
+
+⛔⛔ **THIS ESTABLISHES THAT DeKOVEN WAS PERSONALLY CLOSE TO THE MAN WHO ENTERED THE BOOK'S COPYRIGHT. IT ESTABLISHES NOTHING ABOUT MALACHI 1:11, AND IT IS RECORDED HERE SPECIFICALLY SO THAT NOBODY LATER MISTAKES IT FOR A LINK.** ⚠️ **It is also three years AFTER the speech.** ⛔ **Any argument of the form "DeKoven must have known the book, therefore his silence is a rejection of it" is inference stacked on inference and is not available on this record.**
+
+**(d) ⚠️⚠️ HOW FAR THE NEGATIVE EXTENDS, BOUNDED HONESTLY.** ⛔ **It extends over the sources named at §10.0 and no further.** Specifically **NOT** searched or not obtainable: American church periodicals 1866–1880 (**⭐ and the most likely place of all is *The Church Journal*, which Hopkins Jr. edited**); the *Journals of the General Convention* for 1868, 1871 and 1874; the pamphlet literature of the 1866–67 controversy that the Declaration of Bishops answered; Pope's *Life* in a complete scan (**the fragment read is demonstrably incomplete — §10.0**); and any modern scholarly treatment of DeKoven's exegesis. ⛔ **Chronicling America and HathiTrust remain unreachable per §9.6 and NO attempt was made to bypass their bot-detection.** ⭐ **"No connection established" is a statement about this pass's sources, not about the record.**
+
+---
+
+### 10.4 TASK 4 — ASSESSMENT, AND WHAT THIS PAIR WILL AND WILL NOT BEAR
+
+⭐⭐⭐ **VERDICT: an ISOLATED INSTANCE WITH UNUSUALLY HIGH PROVENANCE — not a current. High provenance is not currency, and the two must not be traded for one another.**
+
+**(a) What the pair DOES establish, and it is more than nothing:**
+
+- ✅ **The literal-prophecy reading of Malachi 1:11 existed in American print in 1866**, in a book by the sitting Presiding Bishop, which reached at least four printings across two countries and provoked a collective response from twenty-eight of his colleagues. ⛔ **It is not an obscure or private instance, and anyone who says the reading has no American footprint at all is wrong.**
+- ✅ **The reading is lexically respectable, not eccentric** — `260835-52` verdict (a), §10.1(d).
+- ✅ **Rev. James's argument therefore HAS an American antecedent**, and `260835-54` was right to call this the pass's most valuable find.
+
+**(b) What it does NOT establish, and this is the load-bearing half:**
+
+- ⛔ **One author. One paragraph.** The argument occupies a single paragraph of a ninety-page book and **does no work in that book's own legal conclusion (§10.1(b))** — Hopkins himself did not treat it as his best argument for American lawfulness; he treated the Ornaments Rubric as that.
+- ⛔⛔ **The leading American ritualist declined to use it eight years later, in the one American forum where it would have counted most**, and §10.2 finds no tactical explanation that survives contact with the speech.
+- ⛔ **No American repetition of the argument has been located** — not in DeKoven, not in the 1874 debate, not anywhere reached this pass.
+- ⛔ **§9.6's chronology stands behind all of it: American incense use was rare and late, the debate substantially preemptive, and there was no American promotional literature in the period.** An argument for a practice almost nobody was performing is unlikely to have had a current to travel in.
+
+⭐⭐ **THE HONEST FORMULATION: the literal reading had an American ADVOCATE of the highest possible rank, and no demonstrated American CURRENCY. Those are different claims and only the first is established.**
+
+**(c) ⭐⭐⭐ THE STRONGEST COUNTER-ARGUMENT TO MY OWN VERDICT, STATED AT FULL STRENGTH RATHER THAN GESTURED AT.**
+
+**The negative at §10.3 was a search for ENGAGEMENT, and I have quietly used it as a search for REPETITION. Those are not the same search, and the sources I read were not built to answer the second one.** A book, a defence pamphlet, one convention speech and a partial biography are exactly the wrong instruments for detecting whether an argument was circulating: arguments circulate in periodicals, sermons, parish tracts and diocesan convention addresses, and I opened none of those. **The one place the argument would most likely be repeated — *The Church Journal*, edited by the copyright-holder of the very book, who was also DeKoven's friend — I did not open, and could not.** Meanwhile the affirmative evidence that *something* was circulating is already in this file and is not weak: **twenty-eight bishops do not censure a practice by name, and a convention committee does not put it first on a prohibition list, unless somebody is making a case for it that they think needs answering (§§9.2, 9.4).** On that reading, Hopkins's paragraph is not an isolated outcropping but the one visible piece of a discussion conducted where I could not look, and my "isolated instance" is an artefact of my source set rather than a finding about America.
+
+⛔ **I do not think that is the better reading, for the reason at (b) — DeKoven's silence is a positive datum from inside the period and is not explained away by unread periodicals. ⭐ But it is a serious argument, it would be made by a well-read interlocutor, and it is not answerable on this pass's sources. It should be conceded early rather than defended.**
+
+**(d) ⚠️ AND THE SECOND-STRONGEST, WHICH RUNS THE OTHER WAY AND IS ALSO CONCEDED.** §10.1(c)–(d) is the sharpest material in this section and it is **my own synthesis, not anything said by Hopkins, by DeKoven, or by any source consulted.** ⛔ **Nobody in the period accused Hopkins of inconsistency between his Bingham argument and his Malachi argument. That connection is drawn here for the first time so far as this pass can tell, which means it has never been tested against a defender of Hopkins, and a defender would have obvious moves available** (that the Bingham passage is about one scene rather than a rule of construction; that Hopkins's conclusion is only lawfulness, so he never needed the second clause). ⭐ **It should be deployed as an argument, never as a finding about what Hopkins conceded.**
+
+---
+
+### 10.5 ⭐ WHAT CAN AND CANNOT BE SAFELY CLAIMED FROM §10
+
+**Can be claimed:**
+
+- The sitting American Presiding Bishop argued in print in 1866 that Malachi 1:11 expressly predicts Gentiles offering incense, and inferred from that, with Revelation 8:3–4, that incense cannot be unlawful in Christian worship.
+- **He never addresses the "pure offering" clause of the same verse** — verified as a zero-result search over the complete text of both the 1866 New York and 1867 London editions.
+- Three pages earlier he attacks Bingham for treating one member of a scene as real and the other as mystical.
+- DeKoven, in 1874, expressly declined to enter the question whether the verse was a literal prophecy and rested on symbolic meaning only.
+- DeKoven told the 1874 General Convention that he had never been present at an American Episcopal service at which incense was used.
+
+**Cannot be safely claimed:**
+
+- ⛔ That Hopkins held Malachi 1:11 to **require** or **command** liturgical incense. He argued lawfulness, and disclaimed the practice three times (§9.3(b)).
+- ⛔ That Hopkins **rested the lawfulness of American incense** on Malachi 1:11 — his own legal enumeration rests it on the second year of Edward VI (§10.1(b)).
+- ⛔ That Hopkins **conceded** or **evaded** the symmetry problem. He shows no sign of having seen it; silence is not concession.
+- ⛔ That DeKoven **rejected** the literal reading. He declined to adjudicate it (§10.2(d)).
+- ⛔ That DeKoven was **answering, echoing, or aware of** Hopkins on this verse. ⛔⛔ **No connection is established and none may be asserted (§10.3).**
+- ⛔ That the literal reading **had currency** in American Anglicanism. One advocate is not a current — and ⚠️ the counter-argument at §10.4(c) should be conceded in the same breath.
+
+---
+
 ## Sources
+
+**⭐ ADDED AT `260835-55` — §10's sources. ⛔ ALL read live over the web; NONE captured to `src/`; none hash-verifiable.**
+
+- John Henry Hopkins, *The Law of Ritualism*, **New York: Hurd and Houghton, 1866** — [full text, Internet Archive `lawofritualismex0000hopk`](https://archive.org/details/lawofritualismex0000hopk) (School of Theology at Claremont copy). ⭐ **The edition the brief named; complete OCR text machine-searched and the incense chapter read in context**
+- John Henry Hopkins, *The Law of Ritualism*, **London: Joseph Masters / New York: Hurd and Houghton, 1867** — [full text, Internet Archive `lawofritualismex00hopk`](https://archive.org/details/lawofritualismex00hopk) (University of Illinois copy). ⭐ **Second independent witness against OCR failure; agrees word-for-word with the 1866 setting in every passage relied on**
+- James DeKoven, [*The Canon on Ritual, and the Holy Eucharist*, a speech delivered in the General Convention, 26 October 1874](https://anglicanhistory.org/dekoven/canon.html) (New York: T. Whittaker, 1874), Project Canterbury — **re-read in full and machine-searched**
+- James DeKoven, *A Theological Defence*, Council held at Milwaukee, February 1874 — [Internet Archive `theologicaldefen00dekoiala`](https://archive.org/details/theologicaldefen00dekoiala). **Machine-searched for any Hopkins reference; zero**
+- [*Project Canterbury: James DeKoven* — works index](https://anglicanhistory.org/dekoven/), used to establish what of DeKoven is transcribed and what is not
+- ⚠️ **William C. Pope, *Life of the Reverend James de Koven, D.D.* (New York: James Pott, 1899) — [Internet Archive `lifereverendjam00unkngoog`](https://archive.org/details/lifereverendjam00unkngoog). ⛔ THIS SCAN IS PARTIAL (106,524 characters; zero occurrences of "incense"). Used ONLY for the 1877 Convention detail at §10.3(c); NO negative is rested on it, and the complete edition (`lifeofreverendja0000will`) was NOT opened**
+
+**Internal — opened and read this pass, ⛔ not edited, question not re-opened**
+
+- `Malachi_1_11_Lexical_Analysis.md` (`260835-52`) — **read in full**, per the brief; its verdict (a) and its Task 1 syntactic finding are used at §10.1(d). ⭐ **`260835-54` recorded that this file had not been opened; that is now discharged**
 
 **Primary — read in full this pass**
 
