@@ -1,0 +1,312 @@
+CAPTURE HEADER — added by pass 260835-59, not part of the source.
+
+SUBJECT: Article XXXV "Of the Homilies" in four witnesses, plus the Prayer Book
+  rubrics and the 1604 Canons that direct the Homilies to be read. Assembled
+  for ITEM 4 of the 260835-59 brief (the authority question).
+
+CAPTURED: 2026-09-06.
+
+WITNESSES AND THEIR STATUS:
+  [W1] 1571, English. Secondary transcription: "The Thirty-Nine Articles of
+       Religion of 1571 in the original English and Latin [with a contemporary
+       version]", PDF at holycommunionri.org, retrieved 2026-09-06 from
+       https://holycommunionri.org/wp-content/uploads/2021/01/articles-of-religion-1571.pdf
+       ⚠ CAUTION ON THIS WITNESS. It is unattributed — no editor, no copy-text,
+       no collation — and it is internally inconsistent: its "contemporary
+       version" of ARTICLE XXXVII is not a paraphrase of the 1571 English it
+       prints above it but the AMERICAN Article 37 ("The Power of the Civil
+       Magistrate extendeth to all men, as well Clergy as Laity..."). A
+       document that silently splices American text into an English article is
+       not a document to rest a reading on alone. Its Article 35 is used here
+       only because it agrees word for word with [W4], the Church of England's
+       own current text, which is the independent check.
+  [W2] 1662, as printed in the repository's own copy:
+       `src/the-book-of-common-prayer-1662.pdf` (PDF metadata: "Microsoft Word
+       - intro.doc", author Charles Wohlers — a modern typeset transcription
+       with long-s, NOT a facsimile). Extracted with `pdftotext -layout`;
+       long-s and the dropped "ct" ligature are artefacts of that file and are
+       normalised in the reading below, which is marked as a reading.
+  [W3] 1801 American, as printed in the repository's own copy:
+       `src/the-book-of-common-prayer-1928.pdf`, "Articles of Religion As
+       established by the Bishops, the Clergy, and the Laity of the Protestant
+       Episcopal Church in the United States of America, in Convention, on the
+       twelfth day of September, in the Year of our Lord, 1801." Extracted with
+       `pdftotext -layout`.
+  [W4] Church of England, current official text of the Articles as annexed to
+       the Book of Common Prayer, https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion
+       Read in-browser 2026-09-06.
+
+  [W5] Canons Ecclesiastical of 1604, from the transcription at
+       https://orthodoxanglican.us/wp-content/uploads/2017/08/1604-Canons.pdf
+       retrieved 2026-09-06. Secondary transcription; canon numbers and text
+       agree with the standard printed numbering.
+
+
+=====================================================================
+1. ARTICLE XXXV — THE FOUR WITNESSES SIDE BY SIDE
+=====================================================================
+
+[W1] 1571
+------------------------------------------------------------------
+ARTICLE XXXV
+Of Homilies
+
+The second Book of Homilies, the several titles whereof we have joined under
+this Article, doth contain a godly and wholesome Doctrine, and necessary for
+these times, as doth the former Book of Homilies, which were set forth in the
+time of Edward the Sixth; and therefore we judge them to be read in Churches
+by the Ministers, diligently and distinctly, that they may be understanded of
+the people.
+
+  [then "Of the Names of the Homilies", 1-21, ending "21. Against Rebellion."]
+
+
+[W4] Church of England, current official text (1662 as annexed)
+------------------------------------------------------------------
+XXXV. OF THE HOMILIES
+
+THE second Book of Homilies, the several titles whereof we have joined under
+this Article, doth contain a godly and wholesome Doctrine, and necessary for
+these times, as doth the former Book of Homilies, which were set forth in the
+time of Edward the Sixth; and therefore we judge them to be read in Churches
+by the Ministers, diligently and distinctly, that they may be understanded of
+the people.
+
+  Of the Names of the Homilies
+  1. Of the right Use of the Church.
+  2. Against peril of Idolatry.
+  3. Of repairing and keeping clean of Churches.
+  4. Of good Works: first of Fasting.
+  5. Against Gluttony and Drunkenness.
+  6. Against Excess of Apparel.
+  7. Of Prayer.
+  8. Of the Place and Time of Prayer.
+  9. That Common Prayers and Sacraments ought to be ministered in a known tongue.
+  10. Of the reverend estimation of God's Word.
+  11. Of Alms-doing.
+  12. Of the Nativity of Christ.
+  13. Of the Passion of Christ.
+  14. Of the Resurrection of Christ.
+  15. Of the worthy receiving of the Sacrament of the Body and Blood of Christ.
+  16. Of the Gifts of the Holy Ghost.
+  17. For the Rogation-days.
+  18. Of the State of Matrimony.
+  19. Of Repentance.
+  20. Against Idleness.
+  21. Against Rebellion.
+
+  ⭐ [W1] AND [W4] AGREE WORD FOR WORD IN THE ARTICLE'S BODY. On the wording
+  that matters for the authority question, the 1571 text and the text the
+  Church of England prints today are the same text. There is no drift to
+  argue about.
+
+
+[W2] 1662 as printed in the repository's PDF
+------------------------------------------------------------------
+  As extracted, uncorrected (long-s and the dropped "ct" ligature are
+  artefacts of that PDF):
+
+    XXXV. Of the Homilies.
+
+    T H E ſecond Book of Homilies, the ſeveral titles where-
+    of we have joined under this Article, doth contain a
+    godly and wholeſome Dorine, and neceſſary for theſe times,
+    as doth the former Book of Homilies, which were ſet forth
+    in the time of Edward the Sixth; and therefore we judge
+    them to be read in the Churches by the Miniﬅers, diligently
+    and diﬅinly, that they may be underﬅanded by the people.
+
+  Reading, restorations bracketed: "...doth contain a godly and wholesome
+  Do[ctr]ine, and necessary for these times, as doth the former Book of
+  Homilies, which were set forth in the time of Edward the Sixth; and therefore
+  we judge them to be read in the Churches by the Ministers, diligently and
+  dis[tinct]ly, that they may be understanded by the people."
+
+  ⚠⚠ TWO DIVERGENCES IN THIS FILE FROM EVERY OTHER WITNESS, AND THEY ARE IN
+  THE REPOSITORY'S OWN COPY. It reads "in THE Churches" where [W1], [W3] and
+  [W4] all read "in Churches"; and "understanded BY the people" where [W1],
+  [W3] and [W4] all read "understanded OF the people". Neither changes the
+  sense. Both matter for quotation discipline: a verbatim quotation of Article
+  35 taken from `src/the-book-of-common-prayer-1662.pdf` will not match the
+  text the Church of England prints, and will not match the American text
+  either. ⛔ DO NOT DEPLOY A VERBATIM ARTICLE 35 FROM THAT PDF. Quote [W4] for
+  the English article and [W3] for the American one. This is an observation
+  about a registered repository file and is reported to JD in the close-out;
+  this pass is read-only and has changed nothing.
+
+
+[W3] 1801 American, as printed in the 1928 American BCP
+------------------------------------------------------------------
+XXXV. Of the Homilies.
+
+The Second Book of Homilies, the several titles whereof we have joined un-
+der this Article, doth contain a godly and wholesome Doctrine, and neces-
+sary for these times, as doth the former Book of Homilies, which were set
+forth in the time of Edward the Sixth; and therefore we judge them to be read
+in Churches by the Ministers, diligently and distinctly, that they may be un-
+derstanded of the people.
+
+                              Of the Names of the Homilies
+ 1 Of the right Use of the Church.                 11 Of Alms-doing.
+ 2 Against Peril of Idolatry.                      12 Of the Nativity of Christ.
+ 3 Of repairing and keeping clean of Churches. 13 Of the Passion of Christ.
+ 4 Of good Works: first of Fasting.                14 Of the Resurrection of Christ.
+ 5 Against Gluttony and Drunkenness.               15 Of the worthy receiving of the Sacra-
+ 6 Against Excess of Apparel.                           ment of the Body and Blood of Christ.
+ 7 Of Prayer.                                      16 Of the Gifts of the Holy Ghost.
+ 8 Of the Place and Time of Prayer.                17 For the Rogation-days.
+ 9 That Common Prayers and Sacraments              18 Of the State of Matrimony.
+      ought to be ministered in a known            19 Of Repentance.
+      tongue.                                      20 Against Idleness.
+10 Of the reverend Estimation of God's             21 Against Rebellion.
+      Word.
+
+⭐⭐ AND THEN, IN BRACKETS IN THE TEXT, THE AMERICAN LIMITING CLAUSE:
+
+[This Article is received in this Church, so far as it declares the Book of Homilies to be
+an explication of Christian doctrine, and instructive in piety and morals. But all references
+to the constitution and laws of England are considered as inapplicable to the circumstances
+of this Church; which also suspends the order for the reading of said Homilies in churches,
+until a revision of them may be conveniently made, for the clearing of them, as well from
+obsolete words and phrases, as from the local references.]
+
+  SO: THE AMERICAN CHURCH RETAINED ARTICLE 35 WITH ITS TEXT INTACT AND ITS
+  TITLE-LIST INTACT, AND THEN QUALIFIED IT IN TWO MOVES.
+    (i) A RECEPTION LIMIT ON WHAT THE ARTICLE DECLARES: received "so far as it
+        declares the Book of Homilies to be an explication of Christian
+        doctrine, and instructive in piety and morals."
+    (ii) A SUSPENSION OF THE DUTY: "which also suspends the order for the
+        reading of said Homilies in churches, until a revision of them may be
+        conveniently made".
+  Note the shape of (i) with care. It limits reception TO the Homilies' being
+  an explication of Christian DOCTRINE and instructive in PIETY AND MORALS. It
+  does not say the Homilies are of low authority; it says the Article is
+  received in respect of what the Homilies teach. And note what it does NOT
+  reach: it says nothing about ritual, ceremonial, or the ornaments of the
+  church, one way or the other.
+
+
+=====================================================================
+2. THE PRAYER BOOK RUBRICS DIRECTING A HOMILY TO BE READ
+=====================================================================
+
+From `src/the-book-of-common-prayer-1662.pdf`, extracted with
+`pdftotext -layout`, as extracted (long-s artefacts left uncorrected):
+
+[2a] THE ORDER OF THE ADMINISTRATION OF THE LORD'S SUPPER — the standing
+     rubric, immediately before the Offertory:
+
+  ¶ Then ſhall follow the Sermon, or one of the Homilies already ſet
+    forth, or hereafter to be ſet forth, by Authority.
+
+  ⭐ THIS IS THE LOAD-BEARING ONE. The Homilies stand in the 1662 Communion
+  office as the appointed ALTERNATIVE TO THE SERMON, by rubric, in the body of
+  the service.
+
+[2b] The following rubric, on giving warning of the Communion, treats sermon
+     and homily as interchangeable in the same breath:
+
+  ¶ When the Miniﬅer giveth warning for the Celebration of the holy
+    Communion, ... after the Sermon or Homily
+    ended, he ſhall read this Exhortation following.
+
+[2c] In the State Service for the Fifth of November:
+
+  ¶ After the Creed, if there be no Sermon, ſhall be read one of the ſix
+                        homilies againﬅ Rebellion.
+
+[2d] In the State Service for the Thirtieth of January (King Charles the
+     Martyr):
+
+  ¶ After the Nicene Creed, ſhall be read, inﬅead of the Sermon for that
+    Day, the firﬅ and ſecond parts of the Homily againﬅ Diſobedience
+    and willful Rebellion, ſet forth by Authority; or the Miniﬅer, who
+    officiates, ſhall preach a Sermon of his own compoſing upion the
+    ſame argument.
+
+  In [2c] and [2d] a named homily is not merely permitted but COMMANDED where
+  no sermon is preached, and in [2d] a minister who preaches instead is
+  required to preach on the homily's own argument.
+
+
+=====================================================================
+3. THE CANONS OF 1604
+=====================================================================
+
+[W5], as transcribed at the source named above.
+
+CANON 46. Beneficed Men, not Preachers, to procure monthly Sermons.
+  "EVERY beneficed man, not allowed to be a Preacher, shall procure Sermons to
+  be preached in his Cure once in every month at the least, by Preachers
+  lawfully licensed, if his living, in the judgment of the Ordinary, will be
+  able to bear it. And upon every Sunday, when there shall not be a Sermon
+  preached in his Cure, he or his Curate shall read some one of the Homilies
+  prescribed or to be prescribed by authority, to the intents aforesaid."
+
+CANON 49. Ministers, not allowed Preachers, may not expound.
+  "NO person whatsoever not examined and approved by the Bishop of the diocese,
+  or not licensed, as is aforesaid, for a sufficient or convenient Preacher,
+  shall take upon him to expound in his own Cure, or elsewhere, any Scripture
+  or matter of Doctrine; but shall only study to read plainly and aptly
+  (without glossing or adding) the Homilies already set forth, or hereafter to
+  be published by lawful authority, for the confirmation of the true faith, and
+  for the good instruction and edification of the people."
+
+CANON 80. The great Bible, and Book of Common Prayer, to be had in every Church.
+  "...And if any parishes be yet unfurnished of the Bible of the largest volume,
+  or of the Books of Homilies allowed by authority, the said Church-wardens
+  shall within convenient time provide the same at the like charge of the
+  parish."
+
+CANON 85. Churches to be kept in sufficient Reparations.
+  "THE Church-wardens or Quest-men shall take care and provide that the
+  Churches be well and sufficiently repaired, and so from time to time kept and
+  maintained, that the windows be well glazed, and that the floors be kept
+  paved, plain, and even, and all things there in such an orderly and decent
+  sort, without dust or any thing that may be either noisome or unseemly, as
+  best becometh the House of God, AND IS PRESCRIBED IN AN HOMILY TO THAT
+  EFFECT." [emphasis added by this capture]
+
+  ⭐⭐ CANON 85 IS THE ONE TO NOTICE. A canon of the Church of England makes the
+  churchwardens' duty about the fabric and furnishing of the church conform to
+  what "IS PRESCRIBED IN AN HOMILY" — i.e. to Book II Homily 3, "Of repairing
+  and keeping clean of Churches". That is a homily operating PRESCRIPTIVELY, by
+  canon, on a question of the ordering of the church building. Its bearing on
+  the Archbishops' phrase "never been taken as having high authority on points
+  of doctrine or of ritual" is argued in §4 of `Homilies_On_Incense.md`, where
+  the case is put on both sides.
+
+  ⚠ AND THE CONVERSE MUST BE RECORDED TOO. Canon 49 confines the non-preaching
+  minister to reading the Homilies "without glossing or adding" — which is a
+  canon treating them as MATTER TO BE READ ALOUD in place of a sermon, not as a
+  code of law. Canon 46 likewise makes a homily the fallback where there is no
+  sermon. Both cut toward "hortatory". Neither side of this has been resolved
+  here.
+
+
+=====================================================================
+4. ARTICLE XXXIV, FOR COMPARISON (the ceremonies article that stands
+   immediately before Article 35 in every witness)
+=====================================================================
+
+[W1] 1571 / [W4] agree; the 1662 repo PDF agrees in substance:
+
+  Of the Traditions of the Church
+
+  It is not necessary that Traditions and Ceremonies be in all places one, or
+  utterly alike; for at all times they have been diverse, and may be changed
+  according to the diversity of countries, times, and men's manners, so that
+  nothing be ordained against God's Word. Whosoever through his private
+  judgement, willingly and purposely, doth openly break the traditions and
+  ceremonies of the Church, which be not repugnant to the Word of God, and be
+  ordained and approved by common authority, ought to be rebuked openly, (that
+  other may fear to do the like), as he that offendeth against common order of
+  the Church, and hurteth the authority of the Magistrate, and woundeth the
+  consciences of the weak brethren.
+  Every particular or national Church hath authority to ordain, change, and
+  abolish ceremonies, or rites of the Church ordained only by man's authority,
+  so that all things be done to edifying.
+
+  Captured because §3 of `Homilies_On_Incense.md` turns on whether the
+  Homilies' language sits inside or outside the category that Article 34 and
+  "Of Ceremonies" jointly define.

@@ -1,0 +1,281 @@
+CAPTURE HEADER — added by pass 260835-59, not part of the source.
+
+SOURCE: "Homily Against the Peril of Idolatry", Reformed Anglican Fellowship,
+  blog post dated 2014-10-23, at
+  https://www.reformedanglican.us/blog/2014/10/23/homily-against-the-peril-of-idolatry
+  Retrieved 2026-09-06.
+
+STATUS: SECOND WITNESS ONLY. This is JD's candidate source, supplied in the
+  260835-59 brief and treated there as a lead, not as an authority. It is an
+  unattributed web transcription: the page names no edition, no editor, and no
+  copy-text, and gives no collation. It is captured here because (a) it is a
+  clean, unmangled text where the Griffiths OCR is corrupt, so it is useful for
+  checking readings, and (b) the brief requires that material differences
+  between the two texts be recorded, which requires holding both.
+
+  ⛔ DO NOT DEPLOY A VERBATIM QUOTATION FROM THIS FILE IN OUTWARD-FACING
+  MATERIAL. It is a web transcription of unstated provenance. The edition of
+  record for this pass is Griffiths 1859, captured in
+  `SRC_PRIMARY_1859_Griffiths_Books-of-Homilies-Incense-and-Censing-Passages.txt`.
+  If a quotation is to be deployed, it must be taken from a clean copy of a
+  named edition, obtained for that purpose.
+
+COVERAGE AND ITS LIMITS: this page carries "An Homily against Peril of
+  Idolatry" ONLY — all three Parts, complete, ending at the doxology
+  ("...thanksgiving, and glory, world without end. Amen."). Body text as
+  rendered in the browser: 206,623 characters. It therefore CANNOT cover the
+  two `censing` occurrences in Book I's "Sermon of Good Works annexed unto
+  Faith", and it cannot be used to check the negative finding that the other
+  thirty-one homilies contain nothing. Griffiths carries both Books; this does
+  not.
+
+  ⚠ AN EARLIER, TRUNCATED RETRIEVAL OF THIS SAME PAGE PRODUCED A FALSE
+  NEGATIVE AND IS RECORDED SO THE ERROR IS NOT REPEATED. A plain HTTP fetch of
+  the page returned 119,439 characters — cut off mid-sentence in the early
+  Third Part, at "Where is God's providence an[d power...]" — and a search of
+  that truncated capture returned ZERO occurrences of "incense". Had that been
+  reported, the pass would have recorded a falsified premise: that JD's
+  candidate source does not mention incense. It does, thirteen times. The full
+  page had to be loaded in a browser and searched in the DOM to get the true
+  result.
+
+CAPTURE METHOD: page loaded in a browser tab; `document.body.innerText`
+  searched in-page with JavaScript regular expressions; only matched passages
+  extracted. Spelling and punctuation are reproduced as the page renders them,
+  including its evident transcription errors ("Churchers" for "Churches",
+  "despite" for "despise", "and example" for "an example", "cap ping" and "be
+  fore" broken across a space). NOTHING CORRECTED.
+
+CAPTURED: 2026-09-06.
+
+
+=====================================================================
+COUNT AND CONCORDANCE WITH GRIFFITHS
+=====================================================================
+
+Occurrences on this page: 14 matches of the search set, comprising
+  - incense x 9
+  - odours x 3
+  - sensing x 1  (= Griffiths' "censing")
+  - and one match counted twice where "odours and incense" adjoin.
+
+Distinct textual occurrences: 13. EVERY ONE HAS A GRIFFITHS COUNTERPART, and
+Griffiths has no Third-Part occurrence that this page lacks. The two witnesses
+agree on the inventory. They differ at two points, both recorded below.
+
+  frankincense: 0.  sweet savour: 0.  censer: 0.  perfume: 0.
+  (Same negatives as Griffiths.)
+
+
+=====================================================================
+THE TWO MATERIAL DIFFERENCES
+=====================================================================
+
+DIFFERENCE 1 — WORD DIVISION AT GRIFFITHS p. 258, AND IT CHANGES THE SENSE.
+
+  Griffiths 1859:      "the table, candlesticks, incense-ships, platters,
+                        cups, mortars, and other things all of gold"
+  This page:           "the table, candlesticks, incense, ships, platters,
+                        cups, mortars, and other things all of gold"
+
+  Griffiths reads a single compound noun, "incense-ships" — vessels, the
+  incense-boats of the Temple furniture, rendering Jerome's "thuribula". This
+  page splits it into two list items, "incense" and "ships", which produces a
+  free-standing mention of incense as a substance among the Temple's golden
+  furnishings, and a nonsensical "ships".
+
+  ⭐ THIS MATTERS FOR DEPLOYMENT. On this page's reading, the sentence appears
+  to name incense in its own right in a list of things "allowed of the Lord"
+  under the old covenant but superseded. On Griffiths' reading it names a
+  vessel, and Griffiths' own footnote goes further and says the translator got
+  even that wrong — that "thuribula" means censers, not incense-ships. Anyone
+  building an argument on a free-standing "incense" at this place is building
+  on the weaker witness, against the scholarly edition, against that edition's
+  express note, and against the Latin.
+
+DIFFERENCE 2 — SPELLING AT GRIFFITHS p. 270, line 8.
+
+  Griffiths 1859:      "in censing of them"
+  This page:           "in sensing of them"
+
+  Not a substantive difference; recorded because a search of this page for
+  "censing" returns nothing, and a searcher who did not also try "sensing"
+  would wrongly conclude the passage is absent.
+
+
+=====================================================================
+PASSAGES, AS THE PAGE RENDERS THEM
+=====================================================================
+
+--- A. Corresponds to Griffiths passages 3-7, pp. 232-234.
+
+  write, of candle lighting in Temples before images and Idols for religion:
+  whereby appeareth both the foolishness thereof, and also, that in opinion
+  and act, we do agree altogether in our candle religion, with the Gentiles
+  idolaters. What meaneth it that they, after the example of the Gentiles
+  idolaters, burn incense offer up gold to images, hang up crouches, chains,
+  and ships, leg, arms, and whole men and women of wax, before images, as
+  though by them, or Saints (as they say) they were delivered from lameness,
+  sickness, captivity, or shipwreck? Is not this Colere imagines, to worship
+  images, so earnestly forbidden in God's word? If they deny it, let them read
+  the 11 Chapter of Daniel the Prophet, who saith of Antichrist: He shall
+  worship God whom his fathers knew not, with gold, silver, and with precious
+  stone, and other things of pleasure. in which place the Latin word is Colet.
+  And in the second of Paralipomenon the xxix. Chapter, all the outward rites
+  and ceremonies, as burning of incense, and such other, wherewith God in the
+  Temple was honoured, is called Cultus (to say) worshipping, which is
+  forbidden straitly by God's word to be given to images. Do not all stories
+  Ecclesiastical declare, that our holy Martyrs, rather then they would bow
+  and kneel, or offer up one crumb of incense before an image or idol, have
+  suffered a thousand kinds of most horrible and dreadful death?
+
+  And what excuses soever they make, yet that all this running on pilgrimage,
+  burning of incense and candles, hanging up of crouches, chains, ships, arms,
+  legs, and whole men and women of wax, kneeling and holding up of hands, is
+  done to the images, appeareth by this, that where no images be, or where
+  they have been, and be taken away, they do no such things at all. But all
+  the places frequented when the images were there, now they be taken away,
+  be forsaken and left desert, nay, now they hate and abhor the place deadly,
+  which is an evident proof, that that which they did before, was done in
+  respect of the images. Wherefore, when we see men and women on heaps to go
+  on pilgrimage to images, kneel before them, hold up their hands before them,
+  set up candles, burn incense before them, offer up gold and silver unto
+  them, hang up ships, crutches, chains, men and women of wax before them,
+  attributing health and safeguard, the gifts of God, to them, or the Saints
+  whom they represent, as they rather would have it: who I say, who can doubt,
+  but that our Image maintainers, agreeing in all idolatrous opinions, outward
+  rites, and ceremonies with the Gentiles idolaters, agree also with them in
+
+  [This witness confirms the reading of the load-bearing clause that the
+  Griffiths OCR mangles: "all the outward rites and ceremonies, as burning of
+  incense, and such other, wherewith God in the Temple was honoured, is called
+  Cultus (to say) worshipping, which is forbidden straitly by God's word to be
+  given to images." The two texts agree. The clause is secure.]
+
+
+--- B. Corresponds to Griffiths passage 8, p. 258. SEE DIFFERENCE 1.
+
+  erks to Nepotian, saying thus, Many build walls, and erect pillars of
+  Churchers, the smooth Marbles do glister, the roof shineth with gold, the
+  altar is set with precious stones: But of the ministers of Christ, there is
+  no election or choice. Neither let any man object and alleadge against me
+  the rich Temple that was in Jewry, the table, candlesticks, incense, ships,
+  platters, cups, mortars, and other things all of gold. Then were these
+  things allowed of the Lord, when the Priests offered sacrifices, and the
+  blood of beasts was accounted the redemption of sins. Howbeit all these
+  things went be fore in figure, and they were written for us, upon whom the
+  end of the world is come. And now when that our Lord being poor, hath
+  dedicate the poverty of his house, let us remember his cross, and we shall
+  esteem riches as mire and dung. What do we marvel at that which Christ
+  calleth wicked Mammon?
+
+
+--- C. Corresponds to Griffiths passages 9-10, pp. 264-265. Establishes the
+    attribution: the "spices and odours" sentence is LACTANTIUS; the
+    "ointments, incense, and odours" sentence is SENECA. The Griffiths OCR
+    does not make the break legible; this witness does.
+
+  ory, and precious stone, as though they could take any pleasure in those
+  things. For what use have they of precious gifts, which understand nor feel
+  nothing? Even the same that dead men have. For with like rea son do they
+  bury dead bodies, farced with spices and odours, and clothed with precious
+  vestures, and deck images, which neither felt or knew when they were made,
+  nor understand when they be honoured, for they get no sense and
+  understanding by their consecration. Thus far Lactantius, and much more, too
+  long here to rehearse, declaring, that as little girls play with little
+  puppets, so be these decked images great pup pets for old fools to play
+  with.
+
+  And that we may know what, not only men of our religion, but Ethnicks also,
+  judge of such decking of dead images, it is not unprofitable to hear what
+  Seneca, a wise and excellent learned Senator of Rome, and Philosopher, saith
+  concerning the foolishness of ancient and grave men, used in his time in
+  worship ping and decking of images: Wee (saith Seneca) be not twice children
+  (as the common saying is) but always children: but this is the difference,
+  that we being elder, play the children: and in these plays they bring in
+  before great and well decked puppets (for so he calleth images) ointments,
+  incense, and odours. To these puppets they offer up sacrifice, which have a
+  mouth, but not the use of teeth. Upon these they put attiring and precious
+  apparel, which have no use of clothes. To these they give gold and silver,
+  which they who receive it (meaning the images) lack, as well as they that
+  have given it from them.
+
+
+--- D-pre. Context immediately preceding Griffiths passages 11-12, p. 266.
+    ⭐ CAPTURED BECAUSE IT IDENTIFIES THE ACTORS. This is the only stretch in
+    either Book where the censing described is done by Christian clergy.
+
+  d adorned, Garlands and Coronets be set on their heads, precious pearls
+  hanging about their necks, their fingers shine with rings, set with precious
+  stones, their dead and stiff bodies are clothed with garments stiff with
+  gold. You would believe that the images of our men Saints, were some Princes
+  of Persia land with their proud apparel, and the idols of our women Saints,
+  were nice and well trimmed harlots, tempting their paramours to wantonness:
+  Whereby the Saints of God are not honoured, but most dishonoured, and their
+  godliness, soberness, chastity, contempt of riches, and of the vanity of the
+  world, defaced and brought in doubt by such monstrous decking, most
+  differing from their sober and godly lives. And because the whole pageant
+  must thoroughly be plaid, it is not enough thus to deck idols, but at the
+  last come in the Priests themselves, likewise decked with gold and pearl,
+  that they may be meet servants for such Lords and Ladies, and fit
+  worshippers of such gods and goddesses.
+
+
+--- D. Corresponds to Griffiths passages 11-12, p. 266.
+
+  hey may be meet servants for such Lords and Ladies, and fit worshippers of
+  such gods and goddesses. And with a solemn pace they pass forth before these
+  golden puppets, and fall down to the ground on their marrow bones before
+  these honourable idols, and then rising up again, offer up odours and
+  incense unto them, to give the people and example of double idolatry, by
+  worshipping not only the idol, but the gold also, and riches wherewith it is
+  garnished. Which things, the most part of our old Martyrs rather then they
+  would doe, or once kneel, or offer up one crumb of incense before an image,
+  suffered most cruell and terrible deaths, as the histories of them at large
+  do declare.
+
+  And here again their allegation out of Gregory the first and Damascen, that
+  images be the Lay-mens Books, and that pictures are the Scripture of idiotes
+  and simple persons, is worthy to be considered.
+
+
+--- E. Corresponds to Griffiths passage 13, p. 267. The reductio.
+
+  s at home with them, run on pilgrimage to seek like books at Rome,
+  Compostella, or Jerusalem, to be taught by them, when they have the like to
+  learn at home? Do men reverence some books, and despite and set light by
+  other of the same sort? Do men kneel before their books, light candles at
+  noon time, burn incense, offer up gold and silver, and other gifts to their
+  books? Do men either feign or believe miracles to be wrought by their books?
+  I am sure that the new Testament of our Saviour Jesus Christ, containing the
+  word of life, is a more lively, express, and true Image of our Saviour, then
+
+
+--- F. Corresponds to Griffiths passage 14, p. 270. SEE DIFFERENCE 2.
+
+  ren, and widows in their affliction, and to keep himself undefiled from this
+  world.
+
+  True Religion then and pleasing of God, standeth not in making, setting up,
+  painting, gilding, clothing and decking of dumb and dead images (which be
+  but great puppets and babies for old fooles in dotage, and wicked idolatry,
+  to dally and play with) nor in kissing of them, cap ping, kneeling, offering
+  to them, in sensing of them, setting up of candles, hanging up of legs,
+  arms, or whole bodies of wax before them, or praying, and asking of them or
+  of Saints, things belonging only to God to give. But all these things be
+  vain and abominable, and most damnable before God. Wherefore all such do not
+  only bestow their money and labour in vain: but with their pains and cost
+  purchase to themselves God's wrath and u[tter...]
+
+
+--- G. Corresponds to Griffiths passage 15, p. 271. The closing exhortation.
+
+  d worship for Religions sake none but him, and him let us worship and honour
+  as he will himself, and hath declared by his word, that he will be honoured
+  and worshipped, not in, nor by images or idols, which he hath most
+  straightly forbidden, neither in kneeling, lighting of candles, burning of
+  incense, offering up of gifts unto images and idols, to believe that we
+  shall please him, for all these be abomination before God: but let us honour
+  and worship God in spirit and truth (Jn 4), fearing and loving him above all
+  things, trusting in him only, calling upon him, and praying to him only,
+  praising and lauding of him only, and all other in him, and for him.

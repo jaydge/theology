@@ -1,0 +1,427 @@
+CAPTURE HEADER — added by pass 260835-59, not part of the source.
+
+SOURCE: John Griffiths, ed., "The Two Books of Homilies Appointed to be Read in
+  Churches" (Oxford: at the University Press, 1859). Retrieved as the Internet
+  Archive OCR text layer of the Google scan, item `twobookshomilie00grifgoog`,
+  file `twobookshomilie00grifgoog_djvu.txt`, at
+  https://archive.org/download/twobookshomilie00grifgoog/twobookshomilie00grifgoog_djvu.txt
+  (served from ia800906.us.archive.org). Retrieved 2026-09-06.
+
+WHY THIS EDITION: Griffiths 1859 is the standard scholarly edition of the two
+  Books of Homilies — it prints the text with collated variants from the
+  sixteenth-century editions in the footnotes, supplies the sources of the
+  patristic and classical quotations in Latin/Greek footnotes, and carries a
+  full index and a glossary of archaic words. The glossary and index are used
+  below as INTERNAL FINDING AIDS: they independently confirm page-and-line
+  locations for `censing` and for `incense-ships`, which is how the OCR-derived
+  locations below were checked.
+
+CAPTURE METHOD: the full 2,323,646-character text layer was loaded into a
+  browser tab and searched in-page with JavaScript regular expressions; only
+  matched passages were extracted. Two search passes were run:
+    (1) literal terms — incense, censing, censer, cense, perfume, odour,
+        frankincense, sweet savour, savour, thurib-, sensing;
+    (2) a de-hyphenated pass, in which the whole text was normalised by
+        `.replace(/-\s*\n\s*/g,'').replace(/\s+/g,' ')` before searching, plus
+        OCR-tolerant patterns for the common confusions (n/u, c/e, i/l, s/f,
+        rn/m, sh/sb).
+  PASS 2 WAS NECESSARY AND IT CHANGED THE RESULT. Pass 1 alone missed two real
+  occurrences: `iucense-sbipa` (OCR of "incense-ships", p. 258) and "one crumb
+  of in-\ncense" (hyphenated across a line break, p. 266). Any count derived
+  from a naive grep of this OCR file will therefore be WRONG AND LOW. The
+  figures in `Homilies_On_Incense.md` §1 are the pass-2 figures.
+
+KNOWN EXTRACTION DEFECTS, ALL LEFT UNCORRECTED BELOW: the OCR is poor. Common
+  substitutions observed: n->u ("roeaueth" = "meaneth", "iucense" = "incense"),
+  c->e, l->i, m->rn, sh->sb ("sbipa" = "ships"), j for comma ("platterSj" =
+  "platters,"). Marginal scripture references, Griffiths' Latin footnotes, and
+  his line-numbers (5, 10, 15 ... printed in the margin every fifth line) are
+  interleaved into the text stream by the extractor and appear below as stray
+  digits and fragments. NOTHING HAS BEEN CORRECTED OR SUPPLIED. No reading
+  transcription is offered here. Quote from this file only with restorations
+  marked in brackets, or quote from the second witness captured in
+  `SRC_SECONDARY_2014_ReformedAnglicanFellowship_Peril-of-Idolatry-Incense-Passages.txt`
+  and say which witness you are quoting.
+
+PAGE NUMBERS: derived by scanning backwards from each hit to the nearest
+  running-head page marker in the OCR. Where Griffiths' own glossary or index
+  supplies a page-and-line reference, that reference is authoritative and is
+  marked [GLOSSARY] or [INDEX]. One conflict is recorded at passage 1.
+
+CAPTURED: 2026-09-06.
+
+
+=====================================================================
+SUMMARY OF WHAT THE SEARCH FOUND (detail and analysis in
+Homilies_On_Incense.md; this file holds the text only)
+=====================================================================
+
+Relevant occurrences in the BODY of the two Books: 15, in exactly TWO homilies.
+  - Book I, Homily IV, "A Sermon of Good Works annexed unto Faith",
+    THIRD PART: 2 occurrences, both the word "censing".
+  - Book II, Homily II, "An Homily against Peril of Idolatry",
+    THIRD PART: 13 occurrences.
+  - Book II, Homily II, Parts ONE and TWO: ZERO.
+  - Every other homily in both Books: ZERO.
+
+Terms returning ZERO in the body of either Book: frankincense; sweet savour;
+censer (occurs only in Griffiths' own editorial footnote, not in the homily
+text); thurible/thuribulum (Latin footnote only).
+
+Non-relevant hits excluded, with reason:
+  - "perfumest thyself" / "smells and savours", Book II Homily VI, "Against
+    Excess of Apparel", Griffiths p. 315 — personal cosmetic perfume worn on
+    the body, in a passage rebuking bodily vanity. NOT incense, NOT ceremonial.
+  - "being incensed against this realm by the Bishop of Rome", Book II Homily
+    XXI, "Against Wilful Rebellion", Fifth Part, Griffiths p. c. 593 —
+    "incensed" = provoked to anger. Homonym, not the substance.
+  - All other "savour" hits (11) are figurative — "savour of death unto death",
+    "sweet savouriness", "savouring and tasting not of the flesh but of the
+    Spirit", "they neither savour God nor any godliness". None is the sacrificial
+    "sweet savour" of Leviticus/Ephesians. Recorded here so the absence is on
+    the record rather than merely unmentioned.
+
+
+=====================================================================
+BOOK I, HOMILY IV — "A SERMON OF GOOD WORKS ANNEXED UNTO FAITH",
+THIRD PART
+=====================================================================
+
+--- PASSAGE 1. Griffiths p. 54, line 29 [GLOSSARY: "censing 54, 29"].
+    OCR page-marker before this hit reads "64"; the glossary reading 54 is
+    preferred and the conflict is recorded. Raw offset 393231.
+
+  [as extracted, uncorrected]
+
+  orshipped Beelphegor ws
+  ^ the Moabites' god. Kead the book of Judges, the books'" of the i
+
+  Kings, and the Prophets ; and there you shall findi^ how un-
+  steadfastf the people were, how full of inventions, and more
+  ready to mn after tlicir own phantasies than God's most holy J
+  TijudK. ii. commandments. There shall you read* of Baal, Moloch, Cha- ij
+  iV: fKt'nJ" ^^^>  Melchomg, Baalpeor, Astaroth, Bel, the Dragon, Priapus'*,
+  »!.s,j.H! the Brazen Serpent, the Twelve Signs, and many other; unto "I
+  3 Kings iviii, whose images the people with great devotion invented pilgrim-
+  '!•" '^' »gcSi preciously '> decking and censing them, kneeling down
+  and offering to them, thinking that an high merit before God, jt
+  and to be esteemed above the precepts and eommandments of
+  God. And, where at that time God commanded no saerifice to
+  be made but in Jerusalem only, they did clean contrary ; making
+  altars and sacrifices every where, in hills, in woods, and in I
+  houses ; not regarding God's commandments, but esteeming ^
+
+  [reading of the load-bearing clause, restorations bracketed:
+   "unto whose images the people with great devotion invented pilgrim[a]ges,
+   preciously decking and censing them, kneeling down and offering to them"]
+
+  WHAT IS BEING CENSED: the images of Baal, Moloch, Chamos, Melchom,
+  Baalpeor, Astaroth, Bel, the Dragon, Priapus, the Brazen Serpent, the
+  Twelve Signs. Old Testament idols. The subject is Israel's apostasy.
+
+
+--- PASSAGE 2. Griffiths p. 58, line 25 [GLOSSARY: "censing 58, 25"].
+    OCR page-marker agrees: 58. Raw offset 406116.
+
+  [as extracted, uncorrected]
+
+  What man, having any judgment or learning joined with a
+  true zeal unto God, doth not see and lament to have entered
+  into Christ's rchgion such false doctrine, superstition, idolatry,
+  hypocrisy, and other enormities and abuses ; so as by little and
+  little, through the sour leaven thereof, the sweet bread of God's
+  holy word hath been much hindered and laid apart? Never bad
+  the Jews in their most bhndness so many pilgrimages unto
+  images, nor used so much kneeling, kissing, and censing of them
+  as hath been used in our time. Sects and feigned religions
+  were neither the forty^ part so many among the Jews, nor more
+  superstitiously and ungodly abused than of late days they have
+  been among us.
+
+  WHAT IS BEING CENSED: "them" = images, resumed from "so many pilgrimages
+  unto images". The comparison is with the Jews at their most blind. The
+  charge is quantitative excess of image-cultus, not the use of a substance.
+
+
+=====================================================================
+BOOK II, HOMILY II — "AN HOMILY AGAINST PERIL OF IDOLATRY",
+THIRD PART
+=====================================================================
+
+--- PASSAGES 3-7. Griffiths pp. 232-234 (OCR page markers). Raw offsets
+    967564, 968450, 968817, 969048, 969959. Five occurrences in one
+    continuous stretch of argument. Captured whole because the argument,
+    not the individual word, is what carries the meaning.
+
+  [as extracted, uncorrected]
+
+  ht, that we may see."
+
+  10 Thus far Lactantiua, and much more, too long here to write, of
+  candle liglitiug in temples before images and idols for religion ;
+  whereby appeareth both the fooUshneas thereof, and also that
+  iu opinion and act we do agree altogether in our candle religion
+  with the Gentiles idolaters.
+
+  IS What roeaueth it, that they, after the example of the Gen-
+  tiles idolaters, burn incense, offer up gold to images, hang up
+  crutches, chains, and ships, legs, arms, and whole men and wo-
+  men of wax before images, as though by them or Saints (as they
+  say) they were delivered from lameness, sickness, captivity, or
+
+  *o shipwrack ? Is not this Colere hnaglnes, to worship images, ao f't^
+  earnestly forbidden in God's word? If they deny it, let them
+  read the eleventh chapter of Daniel the Prophet ; who saith of |
+
+  Antichrist, He shall worship god ithom his fathers knew not with [Di»o-ii,j8.J^
+  gold, silver, and with precious stone, and other things of pleasure •
+
+  15 in which place the Latin word is Colct. And in the second of ['•^'"'^ ,
+  Paralipomenon, the twenty-ninth chapter, all the outward ntes
+  and ceremonies, as burning of incense and such other, where-
+  with God in the temple was honoured, is called Cult us, to say cuuui.
+  worshipping ; which is forbidden straitly by God's word to be
+
+  30 given to images. Do not all stories ecclesiastical declare, that
+  our holy Martyrs, rather than they would bow and kneel or
+  offer up one crumb of incense before an image or idol, have suf-
+  fered a thousand kinds of most horrible and dreadful death?
+  And, what excuse •" soever they make, yet, that all this running
+
+  35 on pilgrimage, burning of incense and candles, hanging up of
+  crutches, chains, ships, arms, legs, and whole men and women
+  of wax, kneeling, and holdiug up of hands, is done to the images,
+  appeareth by this, that where no images be, or where they have
+  been and be taken away, tliey do no such things at all ; but
+
+  40 the S places frequented when the images were there, now they
+
+  [running head] 234 THE TEIEO PART OP THE HOMILY
+
+  be taken away^ be forsaken and left desert ; na.y, now they hate
+  and abhor the place deadly : which is an endeot proof, that that
+  which they did before was done in respect of the images.
+
+  Wherefore, when we see men and women on heaps to go on
+  pilgrimage to images, kneel before them, hold Tip their hands
+  before them, set up candles, burn incense before them, ofler up
+  gold and silver uuto them, hang up ships, crotches, chains, men
+  and women of wax before them, attributing health and safe-
+  guard, the gifts of God, to them or the Saints whom they re-
+  present (as they rather would have it) ; who, I say, who can
+  doubtj but that our image maintainers, agreeing in all idola-
+  trious'i opinions, outward rites and cer[emonies ...]
+
+  ⭐ NOTE THE SECOND OCCURRENCE IN THIS BLOCK — IT IS THE ONE THAT MATTERS
+  MOST AND IT CUTS THE OTHER WAY. "And in the second of Paralipomenon, the
+  twenty-ninth chapter, all the outward rites and ceremonies, as burning of
+  incense and such other, wherewith God in the temple was honoured, is called
+  Cultus, to say worshipping; which is forbidden straitly by God's word to be
+  given to images." The homily's premise here is that burning incense IS an
+  act by which God was honoured in the Temple, i.e. an act of worship (Cultus).
+  Its conclusion is that such worship must not be given to images. The
+  argument requires incense to be a legitimate honour paid to God; the fault
+  located is in the RECIPIENT, not in the act or the substance.
+
+
+--- PASSAGE 8. Griffiths p. 258, line 7 [INDEX: "Incense-ships, 258, 7"; the
+    OCR of the index reads "358" but the page-marker scan places the text on
+    p. 258 and no incense text exists at p. 358 — see §1 of the canonical file].
+    Raw offset 1051800. This occurrence is inside the homily's quotation of
+    ST JEROME, Epistle to Nepotian.
+
+  [as extracted, uncorrected]
+
+  g thua *" : " Many baild walls, and
+  erect pillars of churches; the smooth marbles do glister, the
+  roof sbineth with gold, the altar is set with precious stonC^j bat
+  of the ministers of Christ there is no election or choice. Nei- $
+  ther let any man object and allege against me the rich temple
+  that was in Jeviij, the table, candlesticks, iucense-sbipa *", plat-
+  terSj cupSj mortars, and other things all of gold. Then were
+  these things allowed of the Lord, when the priests offered sacri-
+  fices, and the blood of beasts was accounted the redemption of n
+  sins. Howbeit all these things' went before in figure, and they
+  were iDritten for us, npon whom the end of the world is come.
+
+  [reading of the load-bearing clause, restorations bracketed:
+   "Neither let any man object and allege against me the rich temple that was
+   in Jewry, the table, candlesticks, incense-ships, platters, cups, mortars,
+   and other things all of gold. Then were these things allowed of the Lord,
+   when the priests offered sacrifices ... Howbeit all these things went before
+   in figure"]
+
+  GRIFFITHS' OWN FOOTNOTE ON THIS WORD (his note 88, as extracted, uncorrected
+  — the OCR here is at its worst and the note is reproduced only to show that
+  it exists and what it is about):
+
+    PS The word tkvrihvlit w not
+    rightly rendered by incmtt-thip*.
+    ribitlnm wan a veswl in whicli in
+    waa bnmt, a c^n4ser: the ineenjif~»hip or
+    {as we should now «sy) inecrnt-baat, hat-
+    ing ita name from ila shape, waa (»ll«d
+    in lAtifi narieula or aati'i, and wi
+    for supplying the censer with ii
+    See Du Cavffe on the words . * 'The 1
+    monger . . . hath also . . . oengeia,
+    fronkincensej ■ ■ ■ and tnatiy other
+    like ornaments, more meet for the privnt.
+    hood of Aharon than for the
+    of the new testament," Bffvn,
+    ton brtwfm the Lord't Supprr
+    Pope't Mau, 11. "A paire of S
+    and "a Stuppe for frankenBenoe
+    epone," ape two items in the InTeatoi^
+    of the Duke of Rir hnnond'H Gao<l< taken
+    July JJ, 1536, edited by John G«nj^
+    Nicholjs, Esq., iu Vol. n( of the On*
+
+  [substance of the note, restorations bracketed and marked as reconstruction,
+   NOT as a verbatim quotation: the word "thuribul[a]" is not rightly rendered
+   by "incense-ships"; a thuribulum was a vessel in which incense was burnt, a
+   censer; the incense-ship, or as we should now say incense-boat, having its
+   name from its shape, was called in Latin navicula or acerra, and [served]
+   for supplying the censer with [incense]. See Du Cange on the words. The note
+   then quotes Becon, "Comparison between the Lord's Supper and the Pope's
+   Mass", and two items from the 1536 inventory of the Duke of Richmond's
+   goods, one of which is "a Stuppe for frankenBenoe" — i.e. a stoup for
+   frankincense.]
+
+  The Latin of Jerome that the homily is translating, as Griffiths prints it
+  (extracted, uncorrected):
+
+    Neque Yero mihi aliquie oppnnat divea in Judaen templum, uietiuam,
+    Incernas, thuribula, patellfts, BojrphoB, inortariula, et caster* ex aurD
+    fabrtsfecta.
+
+  [i.e. "... mensam, lucernas, thuribula, patellas, scyphos, mortariola, et
+  cetera ex auro fabrefacta" — the table, lamps, censers, dishes, cups, small
+  mortars, and the rest wrought of gold.]
+
+
+--- PASSAGE 9. Griffiths p. 264. Raw offset 1073836. Inside the homily's
+    quotation of LACTANTIUS. "Odours", not incense; captured because the
+    brief's search terms include odours and because the absence of a
+    ceremonial sense here is itself the finding.
+
+  [as extracted, uncorrected]
+
+  ake any pleasure of these' things. For wliat use have they of
+  precious gifts, which understand nor feel no- thing? Even the same
+  that dead men have. For with like reason do they bury dead bodies
+  farced'"^ with spices and odours and clothed with precious vestures,
+  nnd deck images, which nei- is ther felt or knew when they were made,
+  nor understand when tliey be lionoured, for they get no sense and
+  understanding by their consecration,
+
+  SENSE: spices and odours packed round a CORPSE at burial. The comparison is
+  that decking an image is as pointless as perfuming a dead body. No
+  ceremonial or liturgical sense.
+
+
+--- PASSAGE 10. Griffiths p. 265. Raw offset 1076792. Inside the homily's
+    quotation of SENECA (not Lactantius — the Lactantius quotation closes just
+    before, at "Thus far Lactantius", and Seneca is then introduced by name).
+
+  [as extracted, uncorrected]
+
+  mmon saying is, but always children : but this is the difference,
+  that we being elder play the children.' And in these plays they bring
+  in before great and well decked puppets," for so he calleth images,
+  " oint- 5 ments, incense, and odours. To these puppets they offer up
+  sacrifice, which have a mouth, but not the use of teeth. Upon these
+  they put attiring and precious apparel, which have no use of clothes.
+  To these they give gold and si[lver ...]
+
+  WHOSE PRACTICE: pagan Roman image-cultus, described by a pagan Roman
+  (Seneca) mocking it. The homily deploys it as a heathen's own testimony
+  against image-worship.
+
+
+--- PASSAGES 11-12. Griffiths p. 266. Raw offsets 1080347 and c. 1080660.
+    THIS IS THE HOMILY SPEAKING IN ITS OWN VOICE, NOT QUOTING. Passage 12
+    ("one crumb of in-\ncense") is the occurrence that a naive grep of this
+    file misses because of the line-break hyphen.
+
+  [as extracted, uncorrected]
+
+  nhippers of such gods and goddesses. And with a solemn pace they pan s
+  forth before these golden puppets, and down" to the gronnd on their
+  marrowbones before these honourable idols, and then, ris- ing up again,
+  offer up odours and incense unto them, to give the people an example of
+  double idolatry by worshipping not only the idol, but the gold also and
+  riches wherewith it is gar- lo nished. Which things the most part of our
+  old Martyrs rather than they would do, or once kneel or offer up one crumb
+  of in-
+  cense before an image, suffered most cruel and terrible deaths,
+  as the histories of them at large do declare.
+
+  WHO IS DOING IT: the immediately preceding sentences (see the second witness
+  file, passage D-pre) identify the actors as "the Priests themselves, likewise
+  decked with gold and pearl". This is the homily describing CONTEMPORARY
+  CHRISTIAN CLERGY censing images — the only place in either Book where the
+  censing described is performed by Christian ministers in a Christian church
+  rather than by Jews, pagans, or lay pilgrims. It is still censing OF IMAGES.
+
+
+--- PASSAGE 13. Griffiths p. 267. Raw offset 1085075. Homily's own voice, in
+    the argument against the "images are the books of the laity" defence.
+
+  [as extracted, uncorrected]
+
+  taught by them, when they have the like to learn of atx home ? Do men
+  reverence some books, aud despise and set light by other of the same sort?
+  Do men kneel before their books, light candles at noon time', 30 bum
+  incense, offer up gold and silver and other gifts, to their books ? Do men
+  either feign or believe miracles to be wrought by their books?
+
+  FORM: rhetorical question inside a reductio. The homily is arguing that if
+  images were really books, men would not treat them as they do. ⚠ This is
+  the passage most likely to be misquoted as a flat declarative condemnation
+  of burning incense. It is not one. It is a question, inside an argument
+  whose conclusion is about images, not about incense.
+
+
+--- PASSAGE 14. Griffiths p. 270, line 8 [GLOSSARY: "censing 270, 8"].
+    Raw offset 1093419. Homily's own voice, in the peroration.
+
+  [as extracted, uncorrected]
+
+  decking of dumb and dead images, which be but great puppets and man- 5
+  ments' i"" for old fools in dotage and wicked idolatry to dally and play
+  with ; nor in kissing of them, capping, kneeling, offer- ing to them, in
+  censing'' of thom, setting up of candlca, hang- ing up of legs, arms, or
+  whole bodies of wax before them, or praying and asking of them or of Saints
+  things belonging only 10 to God to give : but all these things be vaiu
+  [and abominable ...]
+
+  SYNTAX MATTERS HERE. The governing construction is "True religion ...
+  standeth not in ... nor in kissing of them, capping, kneeling, offering to
+  them, in censing of them, setting up of candles, hanging up of legs ..." —
+  a list of acts DIRECTED AT IMAGES ("of them", "before them"), every member
+  of which takes the images as its object. Censing appears inside the list,
+  not in its own right.
+
+
+--- PASSAGE 15. Griffiths p. 271. Raw offset 1097768. Homily's own voice, in
+    the closing exhortation. The strongest-sounding of the fifteen.
+
+  [as extracted, uncorrected]
+
+  15 as he will himself, and hath declared by his word that he will be
+  honoured and worshipped ; not in nor by images or idols, which he hath most
+  straitly forbidden, neither in kneeling, lighting of candles, burning of
+  incense, offering up of gifts unto images and idols, to believe that we
+  shall please him ; for aU to these be abomination before God ; but let us
+  honour and wor- ship Gtod in spirit and truth*^, fearing and loving him
+  ab[ove all things ...]
+
+  ⚠ READ THE PREPOSITIONS. "not in nor BY IMAGES OR IDOLS, which he hath most
+  straitly forbidden, neither in kneeling, lighting of candles, burning of
+  incense, offering up of gifts UNTO IMAGES AND IDOLS". The phrase "unto
+  images and idols" governs the whole series. What is called "abomination
+  before God" is the series-as-directed-to-images. Whether the sentence will
+  also bear a reading on which the listed acts are themselves abominable
+  irrespective of object is treated in §2 of the canonical file; BOTH readings
+  are recorded there and neither is resolved here.
