@@ -1,0 +1,147 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: archive.org item holysacrificeofm00gihriala (and, for the Canon, the
+  lending scan holysacrificeofm0000drni), retrieved via the Internet Archive
+  search-inside OCR index at
+  https://<server>.us.archive.org/fulltext/inside.php?item_id=…&doc=…&path=…&q=…
+Retrieved 2026-09-05 by pass 260835-56
+Edition: Nicholas Gihr, "The Holy Sacrifice of the Mass: Dogmatically,
+  Liturgically and Ascetically Explained." "Translated from the sixth German
+  edition" (translator not named on the title page). Freiburg im Breisgau /
+  St. Louis: B. Herder, 1902. Latin and English in facing columns.
+Copyright: PUBLIC DOMAIN (pre-1929 US publication).
+METHOD CAVEAT: these readings are OCR transcriptions from the search-inside
+  index; page images were NOT inspected. Obvious OCR corruptions are flagged in
+  square brackets and have NOT been silently cleaned up. Printed page = scan
+  leaf minus 4 (verified at leaves 380 and 529-534).
+=============================================================================
+
+(1) BLESSING OF THE INCENSE AT THE OFFERTORY — p. 535 (leaf 539)
+
+Latin as printed:
+    "Per intercessionem beati Michaelis Archangeli stantis a dextris altaris
+    incensi, et omnium electorum suorum, incensum istud dignetur Dominus
+    bene✠dicere, et in odorem suavitatis accipere. Per Christum Dominum
+    nostrum. Amen."
+    [OCR reads "Archangel! stands a dextris" for "Archangeli stantis a dextris";
+     NO comma after "Archangeli" in this printing; "bene✠dicere" appears as
+     "benefdicere", the OCR's rendering of the cross.]
+
+English as printed:
+    "By the intercession of blessed Michael the Archangel, standing at the right
+    hand of the Altar of Incense, and of all His elect, may the Lord vouchsafe
+    to bless✠ this incense, and receive it as an odor of sweetness. Through
+    Christ our Lord. Amen."
+    [OCR gives "blesst" for "bless✠" and "au" for "an"; these two are artifacts.]
+
+Gihr's footnote 2, same page:
+    "On account of the addition *stantis a dextris altaris incensi*, which in
+    St. Luke, 1, 11—19 is stated literally of the Archangel Gabriel, there is to
+    be found in many of the more ancient Missals the name of Gabriel instead of
+    Michael; therefore, many liturgists would have this prayer thus changed. But
+    they are mistaken. For well established reasons the Church adheres to the
+    name of Michael… (cf. S. R. C. 25. Sept. 1705)."
+
+-----------------------------------------------------------------------------
+(2) CENSING THE OBLATA — p. 536 (leaf 540)
+
+Latin as printed:
+    "Incensum istud, a te benedictum, ascendat ad te, Domine: et descendat
+    super nos misericordia tua."
+    [Note the comma after "istud", absent from most modern citations.
+     OCR of the first word is "Iiicensurn".]
+
+English as printed:
+    "May this incense which Thou hast blessed, O Lord, ascend to Thee, and may
+    Thy mercy descend upon us."
+    [Doubly confirmed: this English appears both in the parallel column and, in
+     quotation marks, in Gihr's running commentary on the same page.]
+
+Gihr, p. 373 (leaf 377) n. 3, on the Missal/Breviary parallel:
+    "*Incensum istud a te benedictum, ascendat ad te, Domine: et descendat super
+    nos misericordia tua* (Miss. Rom.). — *Vespertina oratio ascendat ad te,
+    Domine — et descendat super nos misericordia tua* (Breviar. Roman.)."
+
+-----------------------------------------------------------------------------
+(3) CENSING THE ALTAR, Ps 140:2-4 — pp. 537-538 (leaves 541-542)
+
+Latin as printed (breaking across the page turn):
+    "Dirigatur, Domine, oratio mea, sicut incensum, in conspectu tuo: elevatio
+    manuum mearum sacrificium vespertinum. Pone, Domine, custodiam ori meo, et
+    ostium circumstantiae labiis meis: ut non declinet cor meum…"
+    [Note the comma after "incensum". The continuation "in verba malitiae, ad
+     excusandas excusationes in peccatis" falls on p. 538 and could NOT be
+     captured verbatim from the OCR index — treat that clause as UNVERIFIED in
+     Gihr's printing.]
+
+English as printed:
+    "Let my prayer, O Lord, be directed as incense in Thy sight: and the lifting
+    up of my hands as the evening sacrifice. Set a watch, O Lord, before my
+    mouth, and a door round about my lips. That my heart may not incline to evil
+    words, to make excuses…"
+    [The words on p. 538 recovered separately read "to evil words, to make
+     excuses". The closing "in sins." was NOT captured verbatim — do not present
+     the last two words as verified Gihr.]
+
+Gihr's footnote (p. 538, quoting Dionysius the Carthusian) records a variant:
+    "'Non declines' (Missale: 'ut non declinet')".
+
+-----------------------------------------------------------------------------
+(4) RETURNING THE THURIBLE — p. 540 (leaf 544)
+
+Gihr gives this in running text, not in a column:
+    "When the priest returns the censer to the deacon, he says: *Accendat in
+    nobis Dominus ignem sui amoris, et flammam aeternae caritatis. Amen.* —
+    'May the Lord enkindle within us the fire of His love and the flame of
+    eternal charity. Amen.'"
+
+-----------------------------------------------------------------------------
+(5) "AB ILLO BENEDICARIS" — p. 376 (leaf 380)
+
+Gihr treats this at the FIRST incensing at High Mass (after the prayers at the
+foot of the altar), where the formula is the ordinary one:
+
+    "The celebrant places incense three times on the glowing coals, while
+    saying: *Ab illo benedicaris — in cujus honore — cremaberis. — Amen.* —
+    'Be thou blessed by Him in whose honor thou wilt be consumed. Amen.' Only
+    after these words does he make the sign of the Cross over the burning grains
+    of incense."
+    [The em-dashes mark the three spoonfuls.]
+
+Gihr's footnote 1, same page, on the wording variants:
+    "In former editions of the Ceremon. Episcop. we read *in honorem* (l. 1,
+    c. 23, n. 1); but the new editio typica (Ratisbonae 1886) has *in honore*.
+    The original and correct mode of reading is without doubt *in cujus honore*.
+    … The Ord. Rom. XIV, c. 71, has the formula: *Ab ipso sanctificeris, in
+    cujus honore cremaberis.*"
+
+-----------------------------------------------------------------------------
+(6) "SUPPLICES TE ROGAMUS" — Roman Canon. Latin at scan leaf 653; English at
+    scan leaf 653; commentary at printed p. 667. (Leaf numbers are scan leaves,
+    not printed pages, for this item.)
+
+Latin as Gihr prints it:
+    "Supplices te rogamus, omnipotens Deus: jube haec perferri per manus sancti
+    Angeli tui in sublime altare tuum, in conspectu divinae majestatis tuae: ut
+    quotquot ex hac altaris participatione sacrosanctum Filii tui Cor✠pus et
+    San✠guinem sumpserimus, omni benedictione coelesti et gratia repleamur. Per
+    eundem Christum Dominum nostrum. Amen."
+
+English as printed:
+    "3. We humbly beseech Thee, Almighty God, command these to be carried by the
+    hands of Thy holy Angel to Thine Altar on high, in the presence of Thy
+    divine Majesty, that as many of us as shall, by partaking at this Altar,
+    receive the most sacred Body✝ and Blood✝ of Thy Son, may be filled with all
+    heavenly blessing and grace. Through [the same Christ our Lord. Amen.]"
+    [The OCR snippet breaks after "Through"; Gihr's commentary at leaf 673
+     confirms "the petition concludes with the words: 'Through the same Christ
+     our Lord. Amen.'"]
+
+-----------------------------------------------------------------------------
+COULD NOT CONFIRM IN GIHR:
+  - the exact printed tail of item (3) in both columns
+  - Gihr's SECTION HEADING for the offertory incensation (searched "Incensing of
+    the Oblata", "Incensing of the Oblation", "Incensing of the Gifts", "The
+    Incensation" — all 0 hits); he can be cited only by page, not section title
+  - phrase-quoted searches that returned 0 because the OCR splits words:
+    "intercessionem beati Michaelis", "excuses in sins", "words of malice",
+    "blessed by Thee"

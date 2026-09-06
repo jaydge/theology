@@ -1,0 +1,74 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+NOTE ON FILENAME: this file uses the SRC_SECONDARY_ prefix, not SRC_PRIMARY_.
+  Roberts (1895) is a primary source for the English Church Union's own acts and
+  resolutions, but a SECONDARY source for the Ritual Commission's Second Report,
+  which it summarises and part-quotes. It is captured here solely to document
+  the provenance of a misquotation now circulating.
+Source: The Rev. G. Bayfield Roberts, The History of the English Church Union
+  1859-1894. London: Church Printing, 1895. Chapter "1867--68".
+URL: https://anglicanhistory.org/england/ecu/roberts/1867.html (Project Canterbury)
+Retrieved 2026-09-05 by pass 260835-56 via web_fetch.
+WHY CAPTURED: the rendering of the 1868 Ritual Commission's recommendation on
+  incense that circulates in secondary literature traces to this paragraph.
+  Roberts's quoted words are NOT the Report's words. Compare the primary text,
+  captured in this directory as
+  SRC_PRIMARY_1868_RoyalCommission_Ritual_Second-Report-Lights-Incense.txt,
+  paragraph 7, which reads:
+    "Under these circumstances, and in conformity with the principles which
+    guided us in our First Report, we are of opinion that it is expedient to
+    restrain in the public services of the Church all variations from
+    established usage in respect of Lighted Candles and of Incense."
+  Roberts reorders the clause, writes "in respect to" for "in respect of",
+  inserts "the use of", and de-capitalises. Roberts's summary of the remedy
+  (paras 8-9) and of the dissents is, however, substantially accurate.
+  On the dissents: Roberts says "One third of the Commissioners dissented from
+  the Report." The Report itself shows six who withheld signature (Beauchamp,
+  Phillimore, Beresford Hope, Hubbard, Gregory, Perry) plus four signatories who
+  dissented or reserved in part (Wilberforce of Oxford, Goodwin, Coleridge,
+  Stanley) — 10 of 29, so Roberts's "one third" counts the partial dissenters.
+=====================================================================
+
+[From the section headed "1867--68", following the account of the resignation of
+the President, the Hon. Colin Lindsay, and the election of the Hon. Charles
+Lindley Wood.]
+
+The second Report of the Royal Commission on Ritual was discussed
+at the Annual Meeting. In their Report the Commissioners proposed
+"to restrain all variations from established usage in respect
+to the use of lighted candles and incense in the public services
+of the Church." With a view to providing a "speedy
+and inexpensive remedy" for aggrieved parishioners, the
+Commissioners proposed (1) that the use of the Church of England
+and Ireland for the last 300 years should be deemed to be the
+law of the Church with regard to vestments, lights, and incense;
+(2) that aggrieved parishioners might make formal application
+to the Bishop *in camera*, by whom, the immediate discontinuance
+of any variation should be summarily enforced. An appeal was
+to lie to the Archbishop in camera, whose decision should be
+final, save in cases in which the decision might be open to question
+on legal grounds, under which circumstances, a case might be
+stated for the decision of the Archbishop's Court, without pleading
+or evidence, with the right of appeal to the Queen in Council.
+To avoid frivolous applications, the right of application to
+the Bishop was to be restricted to one or more of the Wardens,
+or at least five resident householders, declaring themselves
+to be members of the Church of England, the number five, however,
+being reduced to at least three where the population should be
+less than one thousand. One third of the Commissioners dissented
+from the Report, and the dissentients were just those members
+who were most competent to express a weighty judgment. Mr. Gambier
+Parry and the Rev. James Skinner cut the report to pieces in
+singularly incisive speeches, and a lengthy resolution was adopted,
+in which the Union, "while expressing its absolute repudiation
+of any desire to force unaccustomed ceremonial on unwilling congregations,
+and its wish to meet in a spirit of conciliation and good will
+any suggestions arising from the conscientious objections of
+others," declared that it "regards with the gravest
+concern the recommendations" of the majority of the Commissioners
+....."believing that the principle upon which they were
+founded would in past times have prevented reforms now universally
+acquiesced in, and in the present would inevitably produce disorganization
+and strife throughout the country." The resolution also
+denounced the Report as one-sided, unjust, oppressive, and inexpedient.
+
+[END OF CAPTURE]

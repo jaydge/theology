@@ -1,0 +1,24 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: archive.org item bim_eighteenth-century_some-account-of-the-pres_covel-john_1722, leaf n96 (page image)
+Retrieved 2026-09-05 by pass 260835-56
+Edition: John Covel, "Some Account of the Present Greek Church, with Reflections
+  on their Present Doctrine and Discipline." Cambridge, 1722.
+Copyright: PUBLIC DOMAIN.
+Note: the long s (ſ) is reproduced as printed.
+=============================================================================
+
+p. 17:
+
+    "And the Prieſt ſays the Prayer of Incenſe;
+
+        We offer unto Thee, O Chriſt our God, Incenſe for a Savour of Spiritual
+        Sweetneſs; which Thou having received up to thy Altar above the
+        Heavens, ſend down, as a return, to us the Grace of thy All-holy
+        Spirit."
+
+ALTAR CLAUSE: "up to thy Altar above the Heavens" — this is the earliest English
+  rendering located, and it renders the ὑπερουράνιον idea literally.
+  The verb is participial ("having received").
+
+Related, same volume, p. 133 — the post-consecration litany petition:
+    "Holy, and Supercelestial, and Intellectual Altar"

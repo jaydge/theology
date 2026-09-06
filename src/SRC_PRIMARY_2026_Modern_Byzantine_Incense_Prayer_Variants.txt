@@ -1,0 +1,172 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Retrieved 2026-09-05 by pass 260835-56.
+This file collates MODERN (mostly IN-COPYRIGHT) published English renderings of
+the one short Byzantine Prayer of the Incense, for comparison of wording only.
+Each entry gives its own source URL and copyright status. Filename year 2026 =
+year of capture, since the entries span 1984-2025.
+=============================================================================
+
+[1] Nicon D. Patrinacos, "A Dictionary of Greek Orthodoxy — Λεξικον Ελληνικης
+    Ορθοδοξιας." Minnesota: Light & Life Publishing, 1984, p. 205, s.v.
+    "Incense (Greek: θυμίαμα)". Quoted at https://orthodoxwiki.org/Incense
+    (retrieved 2026-09-05). UNDER COPYRIGHT.
+
+    "We offer to Thee, Christ our God, this incense as a spiritual fragrance;
+    receive it, we pray, to Thy heavenly altar and send down to us, in return,
+    the grace of Thy Holy Spirit."
+
+    Altar clause: "to Thy heavenly altar". Verb: receive.
+
+-----------------------------------------------------------------------------
+[2] "Service Books of the Orthodox Church," 2nd ed., South Canaan, PA:
+    St. Tikhon's Seminary Press, 2010 (orig. 2 vols., 1984),
+    ISBN 978-1-878997-86-9; The Liturgy of Preparation, pp. 22-23.
+    Seen at https://nativityofchrist.net/wp-content/uploads/2016/03/sluzhebnik_sts_3liturgies.pdf
+    UNDER COPYRIGHT (front matter: "COPYRIGHT © 1984, 2010 ST. TIKHON'S
+    SEMINARY PRESS… Certain texts… taken from The Divine Liturgy according to
+    St. John Chrysostom with appendices, copyright 1967 by the Russian Orthodox
+    Greek Catholic Church of America, and used by permission.")
+
+    "The priest recites the Prayer of Incense:
+     Priest: We offer Thee incense, O Christ our God, as a sweet spiritual
+     fragrance. Receive it upon Thy heavenly altar, and send down upon us in
+     return the grace of Thine All-Holy Spirit."
+
+    Altar clause: "upon Thy heavenly altar" (NOT "most heavenly"). Verb: Receive.
+
+-----------------------------------------------------------------------------
+[3] Archimandrite Ephrem (Lash), "The Office of Preparation for the Divine
+    Liturgy" (Proskomidi), anastasis.org.uk, page last updated 3 November 2008.
+    Lash's introduction states the translation "is the one prepared by the
+    Archbishop's committee" (Archdiocese of Thyateira and Great Britain), with
+    his annotation. The live site is dead; recovered from the GitHub mirror via
+    https://cdn.jsdelivr.net/gh/brianglass/anastasis@master/original/Proskom02%20notes%20diag.pdf
+    UNDER COPYRIGHT — the site index states verbatim "All texts and translations
+    on this page are copyright to Archimandrite Ephrem ©".
+
+    "The Priest blesses the incense, saying:
+     We offer incense to you, Christ our God, as a fragrance of spiritual
+     sweetness. Accept it on your altar above the heavens and send down upon us
+     in return the grace of your all-holy Spirit."
+
+    Altar clause: "on your altar above the heavens". Verb: Accept.
+    Corroborated word-for-word in the OCMC / Orthodox Archdiocese of Kenya AGES
+    library file prayers_en_KE_oak.ares, key Thymiama.text.
+
+-----------------------------------------------------------------------------
+[4] AGES Liturgical Workbench, Greek Orthodox Archdiocese of America library
+    (tr. Fr. Seraphim Dedes), key pr.PrayerOfIncense.text, at
+    https://github.com/AGES-Initiatives/ages-alwb-library-en-us-goa/blob/master/alwb.library_en_US_goa/Constants/prayers_en_US_goa.ares
+    This is the source data behind the GOARCH Digital Chant Stand.
+    UNDER COPYRIGHT (AGES Initiatives / GOA-approved texts).
+
+    "We offer You incense, Christ our God, as a spiritual sweet fragrance. We
+    pray You accept it at Your altar which is above the heavens, and in return
+    send down to us the grace of Your all-holy Spirit. Amen."
+
+    Altar clause: "at Your altar which is above the heavens". Verb: accept.
+
+    CAVEAT: dcs.goarch.org returned empty response bodies to every fetch
+    attempted (HTML and PDF), so this could NOT be verified on a goarch.org-
+    hosted page. The plain goarch.org Divine Liturgy page
+    (https://www.goarch.org/-/the-divine-liturgy-of-saint-john-chrysostom)
+    begins at "Blessed is the Kingdom" and contains no occurrence of "incense"
+    at all.
+
+-----------------------------------------------------------------------------
+[5] "Censing & Covering of Gifts at Proskomedia," Eastern American Diocese
+    (Russian Orthodox Church Outside Russia),
+    https://eadiocese.org/files/resources/liturgical/proskomedia/Proskomedia.pdf
+    No translator named and no copyright notice printed; treat as under copyright.
+
+    "And the priest saith the Prayer of the Censer:
+     Incense do we offer unto Thee, O Christ our God, as an odour of spiritual
+     fragrance; accepting it upon Thy most heavenly altar, do Thou send down
+     upon us the grace of Thy Most-holy Spirit."
+
+    Altar clause: "upon Thy most heavenly altar". Verb: participial "accepting"
+    (the imperative falls on "send down").
+
+    Two unattributed reproductions of the same wording:
+      https://www.stmaryofegypt.org/files/library/hbook/hbook15.htm ("odor",
+        "Thy Most Holy Spirit")
+      https://www.orthodox.net/services/proskomede.pdf (Fr Seraphim Holland's
+        Proskomede booklet; grepped for a source credit — none given).
+
+-----------------------------------------------------------------------------
+[6] https://www.ponomar.net/data/royster/Proskomede.htm ("Royster" Proskomede
+    text). No translator named, no copyright notice. Hapgood-family wording but
+    NOT Hapgood.
+
+    "And the priest says the Prayer of the Incense:
+     Incense do we offer unto thee, O Christ our God, for an odor of spiritual
+     sweetness, which do thou accept upon thy most heavenly altar, sending down
+     upon us in return the grace of thy Holy Spirit."
+
+    Altar clause: "upon thy most heavenly altar". Verb: accept (imperative).
+
+-----------------------------------------------------------------------------
+[7] Melkite Greek Catholic Eparchy of Newton, "An Appreciation of the Divine
+    Liturgy," headed "excerpted from Eyes of the Gospel by Archbishop Joseph M.
+    Raya," https://melkite.org/faith/faith-worship/an-appreciation-of-the-divine-liturgy
+    The page labels the quotation "(Service of the Prothesis)."
+    UNDER COPYRIGHT.
+
+    "We offer You incense, Christ our God, for an odor of spiritual fragrance:
+    receive if on Your altar in heaven, and send down on us in return the grace
+    of Your all-holy Spirit. "
+
+    [Transcribed exactly as printed, including the site's typo "receive if" for
+    "receive it" and the stray space before the closing quotation mark.]
+
+    Altar clause: "on Your altar in heaven" (paraphrastic). Verb: receive.
+
+-----------------------------------------------------------------------------
+[8] "The Divine Liturgy" (Russian Orthodox Church Outside Russia; translation
+    "primarily that of Fr. Lawrence of Jordanville," with Psalms and some
+    prayers © Holy Transfiguration Monastery, Brookline, used by permission),
+    https://www.saintjonah.org/services/liturgydoc.htm
+    UNDER COPYRIGHT. This text has NO Proskomedia and so does NOT contain the
+    Prayer of the Incense. It DOES contain the post-consecration petition:
+
+    "That our God, the Lover of mankind, having accepted them upon His holy and
+     most heavenly and noetic altar as an odor of spiritual fragrance, will send
+     down upon us divine grace and the gift of the Holy Spirit, let us pray."
+
+=============================================================================
+CROSS-EDITION SUMMARY OF THE ALTAR CLAUSE AND VERB
+  Covel 1722, p. 17          "thy Altar above the Heavens"            received (ptcp)   PD
+  Neale 1859, p. 169         "Thy heavenly altar"                      receive (imper.)  PD
+  Robertson 1894, p. 217     "thy heavenly Altar"                      accepting (ptcp)  PD
+  Hapgood 1906 p.75/1922 p.74 "thy most heavenly Altar"                accept (imper.)   PD
+  Patrinacos 1984, p. 205    "Thy heavenly altar"                      receive           ©
+  St Tikhon's 1984/2010      "Thy heavenly altar"                      Receive (imper.)  ©
+  Lash / Thyateira           "your altar above the heavens"            Accept (imper.)   ©
+  AGES / GOA / Dedes         "Your altar which is above the heavens"   accept            ©
+  ROCOR EAD sheet            "Thy most heavenly altar"                 accepting (ptcp)  ©
+  ponomar "Royster"          "thy most heavenly altar"                 accept (imper.)   ©
+  Melkite / Raya             "Your altar in heaven"                    receive           ©
+
+EVERY located rendering, without exception, contains (a) the verb "offer" with
+incense as its direct object, and (b) a petition that God accept/receive that
+incense at a heavenly altar.
+
+PATTERN WORTH LOGGING: the words "noetic," "spiritual," "super-celestial" and
+"supersensual" never appear in THIS prayer in any rendering located. They belong
+to the neighbouring post-consecration litany petition (Hapgood: "holy, and most
+heavenly, and supersensual Altar"; Neale: "holy and super-celestial and
+intellectual altar"; Covel p. 133: "Holy, and Supercelestial, and Intellectual
+Altar"; Jordanville/HTM: "holy and most heavenly and noetic altar"). Anyone
+citing a "noetic altar" for the censer prayer is conflating the two texts.
+
+SOURCES THAT CAME UP EMPTY (see report for the full list): Antiochian Liturgikon
+(Antakya Press, 1994 — archive.org copy lending-restricted, antiochian.org
+serves empty JS shells); Holy Transfiguration Monastery printed books; the
+Jordanville Hieratikon as a NAMED source for the ROCOR wording; Byzantine
+Catholic Metropolia of Pittsburgh clergy volumes (2007, not posted online — the
+2006 people's book has censing rubrics but no prayer); Ukrainian Greek-Catholic
+"Divine Liturgy: An Anthology for Worship" (2004); ACROD online Liturgy (no
+Proskomedia at all); Sokolof's "Manual"; Shann's "Euchology" (1891); Orloff;
+Brett 1720; Bute 1866; Brightman 1896; John Glen King 1772.
+TOOLING FAILURE: web.archive.org is blocked to this session's fetcher (HTTP 403,
+cowork_web_fetch_url_blocked), so no Wayback retrieval was possible.

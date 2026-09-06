@@ -1,0 +1,66 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: archive.org item missal_for_use_of_laity_1853-f_c_husenbeth (CC Public
+  Domain Mark; scan supplied via Google Books), read through the Internet
+  Archive search-inside OCR index.
+Retrieved 2026-09-05 by pass 260835-56
+Edition: F. C. Husenbeth (ed.), "The Missal for the Use of the Laity, with the
+  Masses for all days throughout the year. According to the Roman Missal." 1853.
+  (The Internet Archive record does not carry publisher or place; PUBLISHER AND
+  PLACE ARE UNVERIFIED.)
+Copyright: PUBLIC DOMAIN.
+Location: Ordinary of the Mass, at the Offertory — printed pp. 12-13 (scan
+  leaves 38-39), Latin and English in facing columns.
+METHOD CAVEAT: OCR transcriptions; page images NOT inspected. OCR corruptions
+  flagged in square brackets.
+=============================================================================
+
+(1) Latin:
+    "Per intercessionem beati Michaelis archangeli stantis a dextris altaris
+    incensi, et omnium electorum suorum, incensum istud dignetur Dominus
+    benedicere, et in odorem suavitatis accipere. Per Christum Dominum nostrum.
+    Amen."
+    [OCR runs words together: "Michaelisarchangelistantis", "altarisincensi",
+     "pnostrum".]
+
+    English:
+    "By the intercession of blessed Michael the archangel standing on the right
+    hand of the altar of incense, and of all his elect, may the Lord vouchsafe
+    to bless this incense, and receive it as an odour of sweetness. Through
+    Christ our Lord. Amen."
+
+(2) Latin:
+    "Incensum istud a te benedictum, ascendat ad te Domine, et descendat super
+    nos misericordia tua."
+    [No comma after "istud"; comma after "benedictum"; comma — not colon —
+     after "Domine".]
+
+    English:
+    "May this incense blessed by thee, ascend to thee, O Lord, and may thy mercy
+    descend upon us."
+
+(3) Latin:
+    "Dirigatur, Domine, oratio mea, sicut incensum, in conspectu tuo; elevatio
+    manuum mearum sacrificium vespertinum. Pone, Domine, custodiam ori meo, et
+    ostium circumstantiae labiis meis: ut non declinet cor meum in verba
+    malitiae, ad excusandas excusationes in peccatis."
+    [SEMICOLON after "conspectu tuo", not colon. OCR: "circumstantis",
+     "deelinet", "malitiz".]
+
+    English:
+    "Let my prayer be directed, O Lord, as incense, in thy sight; the lifting up
+    of my hands as even sacrifice. Set a watch, O Lord, before my mouth: and a
+    door round about my lips: that my heart may not incline to evil words: to
+    make excuses in sins."
+
+(4) Latin:
+    "Accendat in nobis Domi[nus]…"   [OCR truncated at the column break.]
+
+    English:
+    "May the Lord enkindle / within us the fire of his love, and the flame of
+    eternal charity. Amen."
+    [RECONSTRUCTED from two adjacent OCR snippets spanning the page turn (leaf
+     38 -> leaf 39); the join is at "enkindle | within us". Confident of the
+     reading, but this is a two-snippet reconstruction, NOT a single verbatim
+     capture.]
+
+(5) "Ab illo benedicaris" — NOT searched, NOT verified in Husenbeth.

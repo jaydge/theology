@@ -1,0 +1,264 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: Project Canterbury, "Report on Ritualism by the Committee of Five Bishops (c. 1868)"
+URL: https://anglicanhistory.org/usa/report_ritualism1868.html
+Retrieved: 2026-09-05 by pass 260835-56 via web_fetch.
+Project Canterbury's own bibliographic line: "No place: no publisher, no date, c. 1868."
+Bracketed numerals such as [1/2] and [4] are Project Canterbury's printed-page
+break markers, reproduced as transcribed.
+CAUTION recorded at capture: the "c. 1868" date is Project Canterbury's conjecture.
+The document's own text says the Committee was appointed at the General Convention
+of 1868 and directed "to report to the next General Convention," and then recommends
+"action by the present General Convention" — i.e. the Convention it is addressing is
+the one AFTER 1868 (1871), not 1868 itself. See §3 of
+Ceremonial_Meaning_Source_Checks.md.
+RESOLVED (added later in pass 260835-56): the conjecture "c. 1868" is WRONG.
+The Committee was appointed by the Presiding Bishop on 29 October 1868 and
+this Report was presented to the House of Bishops by the Bishop of Delaware
+(Alfred Lee) on Thursday 5 October 1871, the second day of the General
+Convention at Baltimore. It is printed as Appendix IX, pp. 598-601, of the
+Journal of the 1871 General Convention, under the title "Report of the Special
+Committee appointed by the House of Bishops, 1868, on Ritual Uniformity."
+The correct date for the document is 1871. See
+SRC_PRIMARY_1871_GeneralConvention_Journal_Five-Bishops-Ritual-Report.txt
+in this directory for the journal evidence.
+=====================================================================
+
+Project Canterbury
+
+Report on Ritualism by the Committee
+of Five Bishops.
+
+No place: no publisher, no date, c. 1868.
+
+---
+
+REPORT
+
+THE Committee of Five Bishops appointed by the House of Bishops,
+at the General Convention of 1868, "To consider whether
+any additional provision for uniformity, by canon or otherwise,
+is practicable and expedient, and to report to the next General
+Convention," having held sundry meetings at several different
+places, at each of which all the members of the Committee were
+present through the entire session; and having, as they believe,
+given to the subject-matter entrusted to them, that careful consideration
+which its importance merits, respectfully ask leave to report.
+
+The Resolution under which the Committee was appointed raises
+several questions for examination and answer. Is any legislation
+touching the performance of Divine Service and "the administration
+of the Sacraments and other Rites and Ceremonies of the Church,"
+practicable? If practicable, is it, at this time, expedient?
+If practicable and expedient, shall it take the shape of a canon
+or canons; or shall it be otherwise provided for? And, finally,
+what shall the actual details of legislation be? Assuredly, these
+are questions that touch the Church, and its ministers and members,
+in many and very vital points, and involve many delicate as well
+as precious relations.
+
+In considering these questions, the Committee have endeavored
+never to forget that substantial uniformity is entirely compatible
+with very considerable individual liberty; that non-essentials
+should never be unduly magnified, and, far less, raised to an
+equality with [1/2] essentials, that many troublesome and objectionable
+things are ephemeral in their nature, and "perish in the
+using"; and that under any circumstances, hasty legislation
+is ever to be avoided. Nor have they omitted to keep in mind
+the wise words of the XXXIVth Article of Religion:
+
+"It is not necessary that Traditions and Ceremonies be
+in all places one or utterly like; for at all times they have
+been divers, and may be changed according to the diversity of
+countries, times, and men's manners, so that nothing be ordained
+against God's Word."
+
+"Every particular or national Church hath authority to
+ordain, change, and abolish, Ceremonies or Rites of the Church
+ordained only by man's authority, so that all things be done
+to edifying."
+
+While, however, the Committee have kept these considerations
+in view, it has been, and is, their unanimous conviction that
+some action of the General Convention, in regard to the important
+matters named in the resolution appointing them, is very desirable,
+if not, indeed, absolutely demanded. Among many reasons for this
+conviction that present themselves, they venture to ask attention
+to the three following:
+
+First. It is obvious to remark that there are among us great
+and growing "diversities of use," in the performance
+of Divine Service and the Offices of the Church. Unless something
+is done, and done soon, in the interests of uniformity, these
+diversities bid fair to equal, if they do not exceed, those which,
+at the period of the Anglican Reformation, were regarded as an
+evil to be removed; and which led to the decision that "the
+whole realm" should have "but one use." They occasion,
+moreover, even now, confusion, trouble, and perplexity, among
+our people; and these evils must increase as their causes are
+multiplied.
+
+Secondly. It is believed that various services over and above
+those provided in the Book of Common Prayer, or set forth in
+accordance with the provisions of Title I, Canon 13, § XIV.,
+of the Digest, and not coming under the denomination of Sunday
+or other [2/3] school services, are publicly used in certain
+churches How fat liberty in this regard is to be allowed, or
+in what respects it is to be restrained, the Committee do not
+undertake to say. It is obvious, however, that any such services
+are sources of disorder and confusion, in proportion as they
+are framed on principles and embody acts, words, or forms--come
+these from what outside quarter they may--that are not in accord
+with the "doctrine, discipline, and worship" of our
+own Church, or are foreign to the genius and spirit of our services.
+
+Thirdly. The Committee have reason to believe, that in some
+instances the Services of the Prayer Book are unlawfully altered
+or mutilated, and in others are so performed as to make it difficult,
+to say the least, to distinguish them, except in the language
+employed, from those of the Church of Rome. Against such wrongs
+our people have a right to demand protection; and whether they
+demand it or not, it would seem to be a plain and bounden duty
+to provide for it.
+
+For these reasons, besides others which it is not necessary
+to rehearse, the Committee unanimously recommend action by the
+present General Convention; and, after maturely weighing the
+different modes in which this recommendation may be carried out,
+they further unanimously recommend, that any action which the
+Convention may take shall be in the form of a canon or canons.
+
+In proceeding to state the various details which they believe
+ought to be made the subjects of such action as has been proposed,
+the Committee desire to say, that while on the great majority
+of the points presented there has been entire unanimity of opinion,
+some things are, nevertheless, proposed, and others are omitted,
+which, had each member's individual wish regulated the final
+result, would have been differently disposed of. They have strongly
+felt that uniformity necessarily involves the giving up of some
+things, and the acceptance of other things which individuals
+may desire, on the one hand, to retain, or, on the other, to
+remove.
+
+The Committee report the following as the matters upon which
+they respectfully recommend legislation:
+
+[4] The recommend that certain acts in the administration
+of the Holy Communion, and on other occasions of public worship,
+hereinafter enumerated, be prohibited by canon; to wit:
+
+(1) The use of Incense
+
+(2) Placing or retaining a Crucifix in any part of the Church
+
+(3) Carrying a Cross in procession in the Church
+
+(4) The use of Lights on or about the Holy Table, except when
+necessary
+
+(5) The Elevation of the Elements in the Holy Communion in
+such manner as to expose them to the view of the people as objects
+toward which adoration is to be made, in or after the prayer
+of Consecration, or in the act of administering them, or in conveying
+them to or from the communicants
+
+(6.) The mixing of water with the wine as part of the service,
+or in presence of the congregation.
+
+(7.) The washing of the Priest's hands, or the ablution of
+the vessels, in the presence of the congregation.
+
+(8.) Bowings, crossings, genuflections, prostrations, reverences,
+bowing down upon or kissing the Holy Table, and kneeling, except
+as allowed, provided for, or directed, by rubric or canon; it
+being provided that reverence at the mention of the name of the
+Lord Jesus is not intended to be disallowed; and it being further
+provided that private personal devotion, before or after official
+ministration, is not to be understood to include or justify any
+of the acts prohibited.
+
+(9.) The celebration or receiving of the Holy Communion by
+any Bishop or Priest when no person receives with him.
+
+(10.) Employing or permitting any person or persons not in
+Holy Orders to assist the Minister in any part of the Order for
+the administration of the Holy Communion.
+
+[5] (11.) Using, at any administration of the Holy Communion,
+any Prayers, Collects, Gospels, or Epistles other than those
+provided in the Book of Common Prayer, or under § XIV. of
+Canon 13 of Title I. of the Digest.
+
+They further recommend here,
+
+(1.) That no Rector of a Parish or other Minister shall be
+allowed to introduce the Choral Service without the consenting
+vote of the Vestry, or contrary to the prohibition of the Bishop.
+
+(2.) That no Surpliced Choir shall be employed except under
+the same limitations; and when such Choirs are employed, the
+only addition to their ordinary attire shall be a surplice reaching
+to the ankles.
+
+(a.) That no Chancel shall be allowed to be so arranged as
+to prevent the Minister from officiating at the right end of
+the Holy Table. It is to be noted that a Credence Table is lawful.
+
+II.
+
+The Committee further recommend that canonical provision be
+made touching the dress appropriate to clergymen ministering
+in the congregation; and that the only vestments declared to
+be appropriate to clergymen so ministering, be:
+
+(1.) For Bishops, the present Episcopal Robes.
+
+(2.) For all Ministers, a white Surplice; a black or white
+Stole; a black Cassock not reaching below the ankles; a black
+Gown; and Bands.
+
+They also recommend that provision be made:
+
+(1.) That on occasions of services, where expediency or necessity
+of health may require it, the University Cap may be used.
+
+(2.) That candidates for Orders, who are licensed to act as
+Lay Readers, may use the academical black Gown.
+
+[6] III.
+
+In addition to the canonical provisions now recommended, and
+in consideration of the fact that "nothing can be so plainly
+set forth but doubts may arise in the use and practice of the
+same," the Committee further unanimously recommend that
+some action be taken to carry out, in such manner as may secure
+its observance, the principle declared in the Second Resolution
+sent to this House by the House of Clerical and Lay Deputies,
+at the General Convention of 1868, to wit: That "In all
+matters doubtful, reference shall be made to the Ordinary, and
+no changes shall be made against the godly counsel and judgment
+of the Bishop."
+
+In conclusion, the Committee recommend the adoption of the
+following Resolutions:
+
+*Resolved*, That this Report be communicated to the House
+of Clerical and Lay Deputies.
+
+*Resolved*, The House of Clerical and Lay Deputies concurring,
+that a Joint Committee, consisting of three Bishops, three Presbyters,
+and three Laymen, be appointed, to whom the subject matter of
+this Report shall be referred, with directions to report to this
+Convention, at as early a day as practicable, such Canons as
+they may deem necessary in the premises.
+
+All which is respectfully submitted.
+
+ALFRED LEE,
+J. WILLIAMS,
+T.M. CLARK,
+W. H. ODENHEIMER,
+J. B. KERFOOT.
+
+---
+
+[Project Canterbury](http://anglicanhistory.org/)

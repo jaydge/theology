@@ -1,0 +1,267 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+PURPOSE: to date the American "Report on Ritualism by the Committee of Five
+  Bishops" (Project Canterbury, https://anglicanhistory.org/usa/report_ritualism1868.html ,
+  captured in this directory as SRC_PRIMARY_1868_Five_Bishops_Report_On_Ritualism.txt
+  under Project Canterbury's conjectural date "c. 1868"). The extracts below
+  show that the Committee was APPOINTED on 29 October 1868 and REPORTED on
+  5 October 1871, and that the report is printed as Appendix IX to the Journal
+  of the 1871 General Convention.
+
+SOURCE 1 — Journal of the Proceedings of the ... Protestant Episcopal Church in
+  the United States, General Convention of 1868, held at New York. Opened
+  "Trinity Church, New York, Wednesday, October 7th, 1868" (First Day's
+  Proceedings); the House of Bishops' Twentieth Day sat at Trinity Chapel,
+  New York, 29 October 1868. [The sine die closing date was not separately
+  verified at capture.]
+  Digitised copy: Internet Archive item "journalofproceed1868phil"
+  URL: https://archive.org/details/journalofproceed1868phil
+  (OCR derivative journalofproceed1868phil_djvu.txt; scanned for University of
+  Florida, George A. Smathers Libraries)
+
+SOURCE 2 — Journal of the Proceedings of the ... Protestant Episcopal Church in
+  the United States, General Convention of 1871, held at Baltimore, Maryland.
+  Opened "Emmanuel Church, Baltimore, Wednesday, October 4, A.D. 1871" (First
+  Day's Proceedings); the last day heading in the House of Bishops is the
+  Twenty-first Day, "Grace Chapel, Baltimore, Md., Friday, October 27, 1871".
+  The 1868 Journal records the House of Bishops concurring that "the next
+  triennial meeting of this Convention be held in the city of Baltimore in the
+  State of Maryland" (Message No. 23, New York, October 20th, 1868) — direct
+  evidence that the Convention met triennially and that 1871 was "the next
+  General Convention" after 1868.
+  Digitised copy: Internet Archive item "journalofproceed1871epis"
+  URL: https://archive.org/details/journalofproceed1871epis
+  (OCR derivative journalofproceed1871epis_djvu.txt; scanned for University of
+  Florida, George A. Smathers Libraries)
+
+Retrieved 2026-09-05 by pass 260835-56.
+OCR NOTE: both derivatives are 19th-century OCR. Obvious misreads are flagged
+  inline in square brackets, e.g. "otherAvise" = "otherwise", "Canon 18" =
+  "Canon 13", "Atkinsoh" = "Atkinson". Runs of whitespace have been normalised
+  for legibility; page-number running heads are retained where they fall.
+=====================================================================
+
+--------------------------------------------------------------------
+[1] APPOINTMENT OF THE COMMITTEE — 1868 JOURNAL
+--------------------------------------------------------------------
+
+(a) The enabling resolution of the House of Bishops (1868 Journal, House of
+Bishops, p. 270 — passed in reply to Message No. 78 of the House of Clerical
+and Lay Deputies):
+
+  "... this House deems it unadvisable to enter upon any alteration of the
+  rubrics of our Book of Common Prayer by the insertion of additional matter ;
+  but that it will appoint a Committee whose duty it shall be to consider
+  whether any additional provision for uniformity by canon or otherwise, is
+  practicable and expedient, and to report to the next General Convention."
+
+(b) The naming of the five bishops (1868 Journal, House of Bishops, p. 273;
+TWENTIETH DAY'S PROCEEDINGS, Trinity Chapel, New York, October 29th, 1868):
+
+  "The Presiding Bishop appointed as the Committee to consider whether any
+  additional provision for uniformity in matters of Ritual, by Canon or
+  otherAvise [otherwise] is practicable and expedient and to report to the next
+  General Convention, the Bishop of Delaware, the Bishop of Connecticut, the
+  Bishop of New Jersey, the Bishop of Rhode Island, the Bishop of Pittsburgh."
+
+  [i.e. Alfred Lee (Delaware), John Williams (Connecticut), William Henry
+  Odenheimer (New Jersey), Thomas March Clark (Rhode Island), John Barrett
+  Kerfoot (Pittsburgh) — exactly the five signatories of the Report.]
+
+--------------------------------------------------------------------
+[2] PRESENTATION OF THE REPORT — 1871 JOURNAL
+--------------------------------------------------------------------
+
+Heading of the sitting (1871 Journal, House of Bishops, p. 262):
+
+  "SECOND DAY'S PROCEEDINGS.
+   Grace Chapel, Baltimore, Md., Thursday, October 5, 1871.
+   The House met pursuant to adjournment, the Presiding Bishop in the chair."
+
+The entry (1871 Journal, House of Bishops, p. 263):
+
+  "The Presiding Bishop called for reports of Special Committees, whereupon
+  The Bishop of Delaware presented the report of the Special Committee of the
+  Five Bishops appointed at the last General Convention, 'to consider whether
+  any additional provision for uniformity, by canon or otherwise, is
+  practicable and expedient, and to report to the next General Convention,'
+  with accompanying resolutions.*  On motion of the Bishop of Pennsylvania it
+  was Resolved, That this report be made the order of the day for 12 o'clock
+  to-morrow."
+    "* Vide Appendix IX."
+
+Index entry for the same sitting (1871 Journal, Index to the Journal of the
+House of Bishops, "Second Day"):
+
+  "That the Report of the Committee of Five Bishops on Ritual Uniformity be
+  made the order of the day, p. 263."
+
+--------------------------------------------------------------------
+[3] THE REPORT AS PRINTED IN THE 1871 JOURNAL
+--------------------------------------------------------------------
+
+Table of appendices (1871 Journal):
+
+  "APPENDIX IX. Report of the Special Committee appointed by the House of
+  Bishops, 1868, on Ritual Uniformity, pp. 598-601"
+
+Opening of Appendix IX (1871 Journal, p. 598):
+
+  "APPENDIX IX.
+   REPORT OF THE SPECIAL COMMITTEE APPOINTED BY THE HOUSE OF BISHOPS, 1868,
+   ON RITUAL UNIFORMITY.
+   REPORT.
+   The Committee of Five Bishops appointed by the House of Bishops, at the
+   General Convention of 1868, 'To consider whether any additional provision
+   for uniformity, by canon or otherwise, is practicable and expedient, and to
+   report to the next General Convention,' having held sundry meetings at
+   several different places, at each of which all the members of the Committee
+   were present through the entire session ; and having, as they believed,
+   given to the subject-matter entrusted to them that careful consideration
+   which its importance merits, respectfully ask leave to report : ..."
+
+The operative recommendation (1871 Journal, Appendix IX, pp. 599-600):
+
+  "The Committee report the following as the matters upon which they
+  respectfully recommend legislation :
+   I. They recommend that certain acts in the administration of the Holy
+   Communion, and on other occasions of public worship, hereinafter enumerated,
+   be prohibited by canon, to wit:
+   (1.) The use of incense.
+   (2.) Placing or retaining a crucifix in any part of the church.
+   (3.) Carrying a cross in procession in the church.
+   (4.) The use of lights on or about the holy table, except when necessary.
+   (5.) The elevation of the elements in the Holy Communion in such manner as
+   to expose them to the view of the people as objects toward which adoration
+   is to be made, in or after the prayer of consecration, or in the act of
+   administering them, or in conveying them to or from the communicants.
+   (6.) The mixing of water with the wine as part of the service, or in
+   presence of the congregation.
+   (7.) The washing of the priest's hands, or the ablution of the vessels, in
+   the presence of the congregation.
+   (8.) Bowings, crossings, genuflections, prostrations, reverences, bowing
+   down upon or kissing the holy table, and kneeling, except as allowed,
+   provided for, or directed, by rubric or canon ; it being provided that
+   reverence at the mention of the name of the Lord Jesus is not intended to be
+   disallowed ; and it being further provided that private personal devotion,
+   before or after official ministration, is not to be understood to include or
+   justify any of the acts prohibited.
+   (9.) The celebration or receiving of the Holy Communion by any bishop or
+   priest when no person receives with him.
+   (10.) Employing or permitting any person or persons not in Holy Orders to
+   assist the minister in any part of the order for the administration of the
+   Holy Communion.
+   (11.) Using, at any administration of the Holy Communion, any prayers,
+   collects, gospels, or epistles, other than those provided in the Book of
+   Common Prayer, or under § XIV. of Canon 18 [13] of Title I. of the Digest."
+
+Close of Appendix IX (1871 Journal, p. 601):
+
+  "In conclusion, the Committee recommend the adoption of the following
+  resolutions:
+   Resolved, That this report be communicated to the House of Clerical and Lay
+   Deputies.
+   Resolved, the House of Clerical and Lay Deputies concurring, That a Joint
+   Committee, consisting of three Bishops, three Presbyters, and three Laymen,
+   be appointed, to whom the subject-matter of this Report shall be referred,
+   with directions to report to this Convention, at as early a day as
+   practicable, such canons as they may deem necessary in the premises.
+   All which is respectfully submitted.
+   ALFRED LEE,
+   J. WILLIAMS,
+   T. M. CLARK,
+   W. H. ODENHEIMER,
+   J. B. KERFOOT."
+
+  [The text of Appendix IX corresponds word for word, allowing for
+  capitalisation and OCR, with the separately printed pamphlet transcribed by
+  Project Canterbury. Project Canterbury's transcription mislabels the third
+  sub-recommendation on choirs and chancels as "(a.)"; the Journal reads "(3.)".]
+
+  [No date line is printed at the foot of Appendix IX in the Journal.]
+
+--------------------------------------------------------------------
+[4] WHAT THE 1871 CONVENTION DID WITH IT
+--------------------------------------------------------------------
+
+The Report's list reappears, with items (2) and (3) collapsed and renumbered,
+in the draft Canon of Ritual debated in the House of Deputies on the sixteenth
+day of the session (1871 Journal, House of Deputies, pp. 156-157):
+
+  "Canon of Ritual.
+   § I. This Church, holding fast its liberty in Christ its Head, recognizes no
+   other law of ritual than such as it shall have itself accepted or provided ;
+   meaning thereby in no wise to prejudice or arraign the differing rites,
+   usages, customs, or laws of other branches of the Church of Christ.
+   § II. The provisions for Ritual in this Church are :
+   1. The Book of Common Prayer, with the Offices and Ordinal thereto appended,
+   as adapted to the use of this Church by additions, omissions, or other
+   alterations from time to time constitutionally made.
+   2. The Canonical or other regular legislative or judicial action or
+   decisions of this Church, in its Conventions, General or Diocesan, or by its
+   duly constituted authorities. And under this head the following acts in the
+   administration of the Holy Communion, and on other occasions of public
+   worship, are prohibited :
+   (1.) The use of Incense.
+   (2.) Placing or retaining a Crucifix in any part of the Church.
+   (3.) The use of Lights on or about the Holy Table, except when necessary.
+   ..."
+
+  [Contextual date fixed by the message printed immediately above this passage:
+  "In General Convention, Baltimore, Md., 16th day of the Session,
+  October 21, 1871."]
+
+No canon on ritual was enacted in 1871; a Canon on Ritual was passed at the
+General Convention of 1874. (Secondary: Don S. Armentrout and Robert Boak
+Slocum, eds., An Episcopal Dictionary of the Church, s.v. "Ritualism",
+https://www.episcopalchurch.org/glossary/ritualism/ .)
+
+--------------------------------------------------------------------
+[5] RELATED: THE ORIGIN OF THE "DECLARATION OF BISHOPS" OF 5 OCTOBER 1866
+--------------------------------------------------------------------
+Captured here because the same 1868 Journal prints the minutes of the special
+sessions of the House of Bishops, and because the 1866 Declaration is the other
+document sometimes meant by "the bishops' ritualism report".
+
+Heading (1868 Journal, appended minutes):
+
+  "MINUTES OF SPECIAL SESSIONS OF THE HOUSE OF BISHOPS OF THE PROTESTANT
+  EPISCOPAL CHURCH, HELD IN THE CITY OF NEW YORK, October 3d—5th, 1866, and
+  February 6th [recte 5th], 1868."
+
+Sitting of 5 October 1866 (1868 Journal, p. 284, "MINUTES OF A SPECIAL
+SESSION", St. John's Chapel, New York, October 5th, 1866):
+
+  "Bishop Kemper having submitted a preamble and certain resolutions, on motion
+  of Bishop Kerfoot, it was
+  Resolved, That the Preamble and Resolutions offered by Rt. Rev. Bishop Kemper,
+  and the subject to which they relate, be referred to the Rt. Rev. Bishops
+  Kemper, Williams, of Connecticut, and Coxe, and that they be requested to
+  prepare a statement of the views of the Bishops present and concurring in this
+  action, and to forward such statement to all the Bishops of this Church for
+  examination and signature, and to publish the statement as the individual
+  judgment and counsel of such Bishops as may sign it."
+
+  [The House then adjourned sine die. NOTE: on the Journal's own showing the
+  resulting "Declaration of Bishops" was NOT an act of the House of Bishops.
+  It was a statement drafted by three bishops (Kemper, Williams, Coxe),
+  circulated to all bishops for signature, and published "as the individual
+  judgment and counsel of such Bishops as may sign it." Its authority is that
+  of its signatories severally, not of the House.]
+
+  [UNMATCHED at capture: the verbatim text of the Declaration itself. It is not
+  reproduced in the 1868 Journal and I did not locate a full text online.
+  Searches run: Project Canterbury American Texts index; web searches on
+  "Declaration of Bishops 1866 ritualism", '"usages hitherto unknown"',
+  Kemper/Williams/Coxe. What is available is A. Cleveland Coxe, Ritualism: A
+  Pastoral Letter, Including an Exposition of the Declaration of Bishops
+  (New-York: H. B. Durand; Buffalo: Martin Taylor, 1867),
+  https://anglicanhistory.org/usa/accoxe/ritualism1867.html , which quotes only
+  fragments of the Declaration ("such", "hitherto unknown") and then supplies
+  twelve numbered propositions of Coxe's own. Incense appears in Coxe's
+  proposition 12 — "Incense, Symbolic lights, gratuitous reverences to the
+  altar, vestments unknown in our American history and unauthorized by
+  Ordinaries ... are such innovations as no priest or deacon may introduce, of
+  his private judgment, in the public worship of the Church" — i.e. in Coxe's
+  exposition, NOT demonstrably in the Declaration's own words.]
+
+[END OF CAPTURE]

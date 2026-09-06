@@ -1,0 +1,60 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: archive.org item ceremoniesofrom00fort, read through the Internet
+  Archive search-inside OCR index.
+Retrieved 2026-09-05 by pass 260835-56
+Edition: Adrian Fortescue, "The Ceremonies of the Roman Rite Described."
+  London: Burns Oates and Washbourne, 1920.
+Copyright: PUBLIC DOMAIN.
+IMPORTANT: Fortescue gives the RUBRIC and the LATIN but NO ENGLISH TRANSLATION
+  of any of these formulae. He is cited here as a rubrical witness only.
+=============================================================================
+
+p. 25 (leaf 65), general chapter on ceremonial actions, "putting on incense":
+
+    "While putting on the incense the celebrant says *Ab illo benedicaris in
+    cuius honore cremaberis. Amen.* Only on one occasion, at the offertory in
+    Mass, is there another formula, *Per intercessionem beati Michaelis
+    archangeli*, etc., as in the missal. Then he hands the spoon back to the
+    deacon or M.C. … The celebrant makes the sign of the cross over the thurible,
+    saying nothing."
+
+p. 121 (leaf 161), Solemn Mass, the incensing at the beginning:
+
+    "…then puts incense into the thurible three times with the spoon, saying
+    *Ab illo benedicaris in cuius honore cremaberis. Amen*, after the deacon has
+    said *Benedicite pater reverende*. … This is the invariable way in which
+    incense is blessed."
+
+SPELLING/PUNCTUATION VARIANT WORTH LOGGING: Fortescue prints "cuius"; Gihr and
+  the 19th-century missals print "cujus". Fortescue prints the formula with NO
+  comma after "benedicaris".
+
+SEARCH THAT CAME UP EMPTY: "altaris incensi" — 0 hits in Fortescue, confirming
+  he never prints the offertory formula in full.
+
+-----------------------------------------------------------------------------
+PUBLISHED ENGLISH FOR "AB ILLO BENEDICARIS" — use Gihr, not Fortescue:
+
+Nicholas Gihr, "The Holy Sacrifice of the Mass," B. Herder, 1902, p. 376
+(PUBLIC DOMAIN):
+    "Be thou blessed by Him in whose honor thou wilt be consumed. Amen."
+
+An unattributed modern congregational booklet, "Traditional Latin Mass MISSAL —
+Latin-English Ordinary of the Mass of the Roman Rite, 1962"
+(https://maternalheart.org/library/missal.pdf), renders it:
+    "Be blessed by Him in whose honour thou art burnt. Amen."
+    — NO translator, publisher, or date appears on the file. Cite only as an
+    unattributed modern rendering, never as a published translation. Its
+    Ordinary does NOT contain the four offertory incensation prayers (no match
+    for "Michaelis", "Accendat", "Dirigatur", "Incensum istud").
+
+-----------------------------------------------------------------------------
+PRE-TRIDENTINE WITNESS FOR "PER INTERCESSIONEM":
+archive.org item missaleromanumme01cath (Henry Bradshaw Society edition of the
+Milan 1474 Missale Romanum) prints it with a COLON where later books have a
+comma:
+    "Per intercessionem beati michaelis archangeli stantis a dextris altaris
+    incensi : et omnium electorum suorum incensum istud dignetur dominus
+    bene(✠)dicere. et in odorem suauitatis accipere. Per christum dominum
+    nostrum. amen."
+    [Note the "." (not ":") after "benedicere".]

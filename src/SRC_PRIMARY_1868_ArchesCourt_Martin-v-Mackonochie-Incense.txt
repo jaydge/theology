@@ -1,0 +1,166 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+=====================================================================
+SUBJECT: The incense charge and holding in Martin v. Mackonochie,
+         Arches Court of Canterbury, judgment 28 March 1868,
+         Sir Robert Phillimore, Dean of the Arches / Official
+         Principal. Reported: (1868) L.R. 2 A. & E. 116; the
+         incense portion at pp. 211-215.
+
+THIS FILE CARRIES TWO CAPTURES:
+
+  [A] The HEADS OF CHARGE as printed in the official contemporaneous
+      edition of the judgment:
+      "Judgment delivered by the Right Hon. Sir Robert Phillimore,
+      D.C.L., Official Principal of the Court of Arches, in the cases
+      of Martin v Mackonochie and Flamank v Simpson. Edited by
+      Walter G. F. Phillimore, B.A., of the Middle Temple, Fellow of
+      All Souls College, and Vinerian Scholar, Oxford."
+      London: Butterworths, 7 Fleet Street, 1868.
+      Source URL: https://archive.org/download/judgmentdelivere00phil/judgmentdelivere00phil_djvu.txt
+      (Internet Archive item "judgmentdelivere00phil", University of
+      Illinois copy; a second scan of the same edition is
+      "judgmentdeliver00philgoog" and reads identically at these points.)
+      Retrieved 2026-09-05 by pass 260835-56.
+      NOTE ON COMPLETENESS: the retrieval tool truncated both OCR
+      streams at approximately printed p. 30 of the pamphlet. The
+      incense holding itself (printed pp. c. 55-58 = L.R. 2 A. & E.
+      211-215) was NOT reachable in this scan. See [B].
+
+  [B] The INCENSE HOLDING, quoted verbatim (with the Court
+      Association's own ellipses) in:
+      Church Association Tract 259, "Illegal Ritual in the Church of
+      England: being a list of unlawful practices, with extracts from
+      the judgments relating to them; and an index" (London: Church
+      Association, n.d.; internally dated after The Times of
+      30 January 1899), pp. 6-7 of 36.
+      Source URL: https://www.churchsociety.org/wp-content/uploads/2021/05/c_a_tract_259.pdf
+      Retrieved 2026-09-05 by pass 260835-56.
+      The Church Association was the prosecuting body in this very
+      suit; the tract's purpose is to reproduce the operative words
+      of the judgments verbatim.
+
+CORROBORATION OF [B] FROM TWO INDEPENDENT AND MUTUALLY HOSTILE SOURCES:
+  (i)  Henry Westall (ed.), "The Case for Incense" (London: Longmans,
+       Green & Co., 1899), printed p. 22 [OCR p. 749-751 of the
+       rec-dcs.org text], quoting the same judgment at L.R. 2 A. & E.
+       p. 215: Phillimore "says of incense, 'It certainly was in use
+       in the Church of England in the time of King Edward the Sixth's
+       First Prayer Book.'"  (Pro-incense ritualist submission.)
+  (ii) Philip Jones, "Smells and Bells: Services and Ceremonies",
+       ecclesiasticallaw.wordpress.com, 26 April 2019, quoting
+       (1868) L.R. 2 A. & E. 116 at p. 215 in identical words.
+=====================================================================
+
+
+[A] HEADS OF CHARGE — Butterworths ed. 1868, printed pp. 7-8
+    (OCR lines 336-355 of the Internet Archive text; long-s / spacing
+     artefacts of the OCR preserved as found, marked [sic])
+
+"The proceedings taken in this case are of a criminal character, and
+the sound of them, so to speak, is harsher than that of those in the
+cases to which I have referred, but substantially the same end is
+sought, and the same remedy pursued; and, with an exception to be
+hereafter stated, I am not prepared to say, — inasmuch as not only
+certain ornaments, but also the use of them in the services of the
+Church, are complained of, — that it would have been competent to the
+promoters to have brought before me in a civil form all the matters
+contained in these criminal articles.
+
+They are comprised under the following heads: —
+
+  (1.) The elevation of the Blessed Sacrament of the Lord's Supper,
+       accompanied in Mr. Mackonochie's case by kneeling "or
+       excessive kneeling" at times not prescribed by the Rubrics.
+
+  (2.) The use of incense during the celebration of the Eucharist.
+
+  (3.) The mixing of water with wine at the time of the
+       administration of the Lord's Supper.
+
+  (4.) The use of lighted candles upon the Holy Table.
+
+It will be necessary presently to enter into a fuller and more
+detailed statement of each of these charges, and of the answers to
+them. I will only observe that, with one exception to be noticed
+hereafter, there is no dispute in the case as to the facts to which
+the law is to be applied."
+
+    Further, at printed p. 13 (OCR lines 579-586), summarising the
+    defendants' contention:
+
+"That the elevation of the Blessed Sacrament, excessive kneeling, the
+use of incense, the mixing water with the wine, the lighting of
+candles, are elements or ingredients of a rite or ceremony, and not a
+rite or a ceremony per se."
+
+
+[B] THE INCENSE HOLDING — as reproduced in Church Association
+    Tract 259, pp. 6-7, under the running head "INCENSE."
+
+"SIR R. PHILLIMORE, Dean of the Arches, in delivering Judgment,
+March 28th, 1868, said—
+
+The charge against the Rev. A. H. Mackonochie as to the use of
+incense is twofold; and is as follows:—
+
+(a.) That he "used incense for censing persons and things in and
+during the celebration of the Holy Communion, and permitted and
+sanctioned such use of incense."
+
+This mode of using incense had been discontinued before the
+institution of the suit.
+
+(b.) That he "unlawfully used incense in and during the celebration
+of the Holy Communion, and permitted and sanctioned such unlawful use
+of incense."
+
+It certainly was in use in the Church of England in the time of King
+Edward VI.'s First Prayer Book. The visitation articles of Cranmer as
+to forbidding the censing of certain images, &c., supplies one of the
+proofs of this fact. [?] On the other hand, the use of it during the
+celebration of the Eucharist is not directly ordered in any Prayer
+Book, Canon, injunction, formulary, or visitation article of the
+Church of England since the Reformation. . . .
+
+It is not, however, necessarily, subsidiary to the celebration of the
+Holy Communion, and it is not to be found in the Rubrics of the
+present Prayer Book, which describe with considerable minuteness
+every outward act, which is to be done at that time.
+
+To bring in incense at the beginning or during the celebration, and
+remove it at the close of the celebration of the Eucharist, appears
+to me a distinct ceremony, additional and not even indirectly
+incident to the ceremonies ordered by the Book of Common Prayer.
+
+Although therefore it be an ancient, innocent, and pleasing custom, I
+am constrained to pronounce that the use of it by Mr. Mackonochie, in
+the manner specified in both charges, is illegal and must be
+discontinued.—Martin v. Mackonochie, Law Reports, Eccl. Cases,
+Vol. II., 1867-9, pp. 211-215."
+
+[The "[?]" is the Church Association tract's own editorial mark, or
+an OCR artefact of the churchsociety.org PDF; it is reproduced as
+found. The ". . ." are the tract's ellipses.]
+
+
+=====================================================================
+CAPTURE FOOTER — added by pass 260835-56, not part of the source.
+
+WHAT THIS ESTABLISHES:
+ 1. Incense WAS one of the four heads of charge in Martin v.
+    Mackonochie at the Arches (1868). It was not incidental.
+ 2. Phillimore decided it AGAINST Mackonochie: the ceremonial use of
+    incense during the celebration of the Eucharist is "illegal and
+    must be discontinued."
+ 3. His concession — that incense "certainly was in use in the Church
+    of England in the time of King Edward VI.'s First Prayer Book" —
+    is a finding of historical fact made en route to a holding of
+    ILLEGALITY, not a holding of legality. The ritualist use of this
+    sentence in 1899 quotes it out of its adverse conclusion.
+ 4. Phillimore was decided against on this point at first instance,
+    so Mackonochie's opponents had no reason to appeal it. Incense
+    accordingly did NOT go up to the Judicial Committee in this suit.
+    See the companion capture
+    SRC_PRIMARY_1906_RoyalCommission_Ecclesiastical-Discipline-Incense.txt
+=====================================================================

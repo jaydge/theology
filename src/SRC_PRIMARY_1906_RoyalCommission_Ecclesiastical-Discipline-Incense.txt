@@ -1,0 +1,158 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+=====================================================================
+SUBJECT: Official statement of the state of the incense case law as
+         of 1906 — including the decisive sentence that the incense
+         question had NEVER been before the Judicial Committee.
+SOURCE:  Report of the Royal Commission on Ecclesiastical Discipline.
+         Presented to both Houses of Parliament by Command of His
+         Majesty, 1906. Chapter IV, "Present Breaches and Neglects of
+         the Law", paragraphs (9) Incense, (10) Portable Lights,
+         (11) Lights upon the Holy Table.
+SOURCE URL: https://anglicanhistory.org/pwra/rced4/section4.html
+         (Project Canterbury transcription by Thomas J. W. Mason,
+         AD 2001, of the 1906 Command Paper.)
+RETRIEVED: 2026-09-05 by pass 260835-56.
+EDITION NOTE: the Project Canterbury transcription renders curly
+         quotation marks and dashes as mojibake (O`, O�L, N, O^, O').
+         In the excerpt below these have been silently normalised to
+         ordinary quotation marks, dashes and apostrophes; NO WORDS
+         have been changed. The obvious typos of the transcription
+         ("of not" for "or not"; "191" for "1901"; "Tempe" for
+         "Temple"; "point out" for "pointed out") are left as found
+         and marked [sic].
+=====================================================================
+
+
+(9) Incense.
+
+"The evidence given before us appears to show that incense is used
+ceremonially in ninety-nine, and non-ceremonially in ten, out of the
+559 churches as to which reports were made. It is doubtless used in
+many more. In the 'Tourist's Church Guide,' 1902, the number is given
+as 393 in the whole of England and Wales.
+
+The prominence which has been given to this practice makes it
+necessary to treat it with a fullness which might otherwise seem
+disproportionate.
+
+By the 'ceremonial use' of incense is here intended a use of incense
+in and as part of public worship, whether there is any censing of
+persons and things in a technical sense of [sic] not. By a
+'non-ceremonial use' of incense is meant the fumigation of the church
+either before service, or, if during service, outside of worship
+altogether. IT HAS BEEN HELD IN THE COURT OF ARCHES THAT THE
+CEREMONIAL USE OF INCENSE IS ILLEGAL. THE QUESTION HAS NEVER BEEN
+BEFORE THE JUDICIAL COMMITTEE. At the Lambeth Hearing in 1899 on the
+lawfulness of the liturgical use of incense and the carrying of lights
+in procession, the Archbishops (Temple and Maclagan) were of opinion
+that the use of incense in public worship and as part of that worship
+is not at present enjoined or permitted by the law of the Church of
+England. They came to the conclusion that incense, 'if used at all,
+must be used, in George Herbert's language, to sweeten the church, and
+outside of worship altogether.'
+
+In 1901 all the Bishops except the Bishop of Sodor and Man signed a
+joint letter to the clergy generally containing these words:—'We
+therefore put before you that we as a body uphold the duty of
+submitting to the decision of the Archbishops lately given on
+questions referred to them, in accordance with the direction in the
+Book of Common Prayer.'"
+
+[The capitalisation of the two load-bearing sentences is added by
+this capture for locating them; the source is in ordinary type.]
+
+...
+
+"The Archbishops' Opinion that incense and portable lights are not
+permitted by law, and where used ought to be discontinued, was dated
+July 31, 1899."
+
+...
+
+"In reference to these terms of compromise it must be pointed [sic]
+out that as already stated, it had been decided by Sir Robert
+Phillimore in the Court of Arches that processions in a church
+immediately before or after the regular services, taking place in the
+presence of the congregation then assembled, constitute a ceremony so
+connected with the regular services as to be bound by the same legal
+restrictions as those services. And in a case where incense was used
+in the short interval between Morning Prayer and the beginning of the
+Communion Service, almost the same congregation being present at both
+services, the same learned judge decided that this use of incense was
+illegal because 'it would be unreasonable and unjudicial not to
+conclude that the burning of incense was intended to be subsidiary and
+preparatory to the celebration of the Holy Communion.'
+
+Archbishop Temple [sic: 'Tempe'], in response to a request for advice
+from the then Bishop of Winchester, wrote on October 28, 1899:—'A
+procession with incense is clearly an additional ceremony not ordered
+in the Book of Common Prayer and clearly neither enjoined nor
+permitted as a part of public worship. Every clergyman has promised to
+use the form in that book prescribed and none other. A procession with
+incense would be an addition to that form. According to our present
+law, incense cannot be used in any way to be a part of public
+worship.'"
+
+...
+
+"The Lambeth Opinion already quoted contains the following
+statement:—
+
+'Further, it must be remembered that the Church has never spoken of
+incense as an evil thing. There are some expressions in the Homilies
+which have that character, but the Homilies are hortatory [rather]
+than imperative—they have never been taken as having high authority on
+points of doctrine or of ritual. Incense was excluded from public
+worship not as an evil thing, but as unsuited to the needs of the
+day.'"
+
+
+(10) Portable Lights.
+
+"In 79 out of the 559 churches lighted candles carried by acolytes or
+other subordinate ministers, were used at various parts of the
+Communion Service, especially in the procession before the beginning
+of the service, at the reading of the Gospel, and at the consecration.
+
+The ceremonial use of portable lights has been condemned by the Court
+of Arches in the same way as the liturgical use of incense. At the
+Lambeth Hearing, already mentioned, the Archbishops expressed the
+opinion that the law of the Church of England does not permit the
+carrying of lights in procession."
+
+
+(11) Lights upon the Holy Table.
+
+"Lighted candles placed on or behind the Holy Table during the
+Communion Service have been declared to be illegal when not required
+for the purpose of giving light. It was, however, held by Archbishop
+Benson in the Lincoln case that two such lights kept burning during
+the Communion Service, but lighted before the service began, were not
+illegal. This decision formed part of the subject of an appeal to the
+Judicial Committee of the Privy Council; but the appeal was disposed
+of without any opinion being expressed on this particular question."
+
+
+=====================================================================
+CAPTURE FOOTER — added by pass 260835-56, not part of the source.
+
+WHAT THIS ESTABLISHES:
+ 1. As of 1906, the settled official understanding was that the
+    ceremonial use of incense had been held illegal IN THE COURT OF
+    ARCHES ONLY, and had NEVER reached the Judicial Committee.
+    This is the single most authoritative confirmation that neither
+    Martin v. Mackonochie (P.C., 1868) nor Hebbert v. Purchas
+    (P.C., 1871) decided an incense point.
+ 2. The unnamed "case where incense was used in the short interval
+    between Morning Prayer and the beginning of the Communion
+    Service" is Sumner v. Wix (1870), Court of Arches, Phillimore —
+    reported at (1870) L.R. 3 A. & E. (exact first page UNMATCHED by
+    pass 260835-56; the 1911 Encyclopaedia Britannica art. "Incense"
+    cites it only as "3 A. & E. L.R.").
+ 3. The Lincoln case (Read v. Bishop of Lincoln) contained NO incense
+    charge. Its six articles were: eastward position; lighted candles
+    on the altar; mixing water with wine; the Agnus Dei; the sign of
+    the cross at absolution and blessing; and the ablution of the
+    vessels. Incense does not appear.
+=====================================================================

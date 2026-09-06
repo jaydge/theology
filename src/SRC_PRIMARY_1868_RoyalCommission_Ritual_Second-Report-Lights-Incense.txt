@@ -1,0 +1,638 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source: SECOND REPORT OF THE COMMISSIONERS APPOINTED TO INQUIRE INTO THE
+  RUBRICS, ORDERS, AND DIRECTIONS FOR REGULATING THE COURSE AND CONDUCT OF
+  PUBLIC WORSHIP, &c. ACCORDING TO THE USE OF THE UNITED CHURCH OF ENGLAND
+  AND IRELAND. WITH MINUTES OF EVIDENCE AND APPENDICES.
+  Presented to both Houses of Parliament by Command of Her Majesty.
+  London: Printed by George Edward Eyre and William Spottiswoode, Printers to
+  the Queen's Most Excellent Majesty, for Her Majesty's Stationery Office, 1868.
+  [Command paper 4016; HC (1867-8) xxxviii. Pagination xxiii + 685.]
+  Commonly called the SECOND REPORT OF THE RITUAL COMMISSION.
+Digitised copy: Internet Archive item
+  "second-report-of-the-commissioners-appointed-to-inquire-into-the-rubrics-orders-"
+  URL: https://archive.org/details/second-report-of-the-commissioners-appointed-to-inquire-into-the-rubrics-orders-
+  (OCR derivative *_djvu.txt; uploaded 2024-05-26; Public Domain Mark 1.0)
+Retrieved 2026-09-05 by pass 260835-56.
+Text below transcribed from the Internet Archive OCR of the printed Report.
+OCR ARTEFACTS: the scan reads "APPENDICKS" for APPENDICES, "Bresented" for
+  Presented, "Connen" for "Connop" (Thirlwall), "J.ights" for "Lights",
+  "forthwitit" for "forthwith", "Meibers" for "Members", "Incerise" for
+  "Incense", "in cameré / camerdé" for "in camera", "torender" for "to render",
+  "agerieved" for "aggrieved", "Kast" for "East", "Karl" for "Earl",
+  "Smitb"/"Humpiry"/"I. Venn" for Smith/Humphry/H. Venn. Stray running-head
+  numerals (192, 197-205, "XV", "3", "4", "5", "6") are printer's page and
+  folio marks reproduced as OCR'd. Obvious OCR noise between sections
+  (e.g. "ak / oe / a / ce", "AR PRI REST CER", "ZU0", "Le") is retained where
+  it fell so the transcription is not silently smoothed.
+SCOPE OF CAPTURE: the Commission (Letters Patent, 3 June 1867), the Second
+  Report proper (paragraphs 1-13), the signatures, and the full dissents and
+  reservations, ending with the Secretary's dating. The Minutes of Proceedings,
+  Minutes of Evidence and Appendices (the bulk of the 685pp volume) are NOT
+  captured here; the opening of the Minutes of Proceedings is included only to
+  document the date and the attendance format.
+LOAD-BEARING POINT (recorded at capture): the operative recommendation on
+  incense is paragraph 7. Its exact wording is
+  "we are of opinion that it is expedient to restrain in the public services of
+  the Church all variations from established usage in respect of Lighted
+  Candles and of Incense."
+  The rendering that circulates in secondary literature — "to restrain all
+  variations from established usage in respect to the use of lighted candles
+  and incense in the public services of the Church" — is NOT the Report's
+  wording. It is G. Bayfield Roberts, The History of the English Church Union
+  1859-1894 (London: Church Printing, 1895), ch. "1867-68", which places it in
+  quotation marks. Roberts reorders the clause, writes "in respect to" for
+  "in respect of", inserts "the use of", and drops the capitalisation. Cite
+  paragraph 7 as above, not Roberts.
+=====================================================================
+
+SECOND REPORT
+
+OF
+
+THE COMMISSIONERS
+
+APPOINTED TO INQUIRE INTO THE
+
+RUBRICS, ORDERS, AND DIRECTIONS FOR REGULATING
+THE COURSE AND CONDUCT OF PUBLIC WORSHIP, &c.
+
+ACCORDING TO THE USE OF THE UNITED CHURCH OF ENGLAND AND IRELAND.
+
+WITH
+
+MINUTES OF EVIDENCE
+
+AND
+
+APPENDICKS.
+
+Bresented to both Mouses of Parliament by Command of Her Majesty,
+
+LONDON:
+
+PRINTED BY GEORGE EDWARD EYRE AND WIULIAM SPOTTISWOODE,
+PRINTERS TO THE QUEEN'S MOST EXCELLENT MAJESTY.
+FOR HER MAJESTY'S STATIONERY OFFICE,
+
+1868.
+
+192
+
+CONTENTS.
+
+COMMISSION - - - - - Page iii
+SECOND REPORT, AND DISSENTS  - - vii
+MINUTES OF PROCEEDINGS - - - xv
+MINUTES OF EVIDENCE - - - 4
+APPENDICES - - - - - - 27
+
+---------------------------------------------------------------------
+COMMISSION.
+
+VICTORIA R.
+
+VICTORIA, by the Grace of God of the United Kingdom of Great Britain and Ireland
+Queen, Defender of the Faith,
+
+To the Most Reverend Father in God, Our right trusty and right entirely-beloved
+Councillor, Charles Thomas, Archbishop of Canterbury; the Most Reverend Father in
+God, Our right trusty and right entirely-beloved Councillor Marcus Gervais, Archbishop
+of Armagh; Our right trusty and right well-beloved Cousin Philip Henry, Earl Stan-
+hope; Our right trusty and right well-beloved Cousin and Councillor Dudley, Earl of
+Harrowby, Knight of Our most Noble Order of the Garter; Our right trusty and right
+well-beloved Cousin Frederick, Earl Beauchamp ; the Right Reverend Father in God, Our
+right trusty and well-beloved Councillor Archibald Campbell, Bishop of London; the
+Right Reverend Father in God Connen [OCR: Connop], Bishop of Saint David's; the Right Reverend
+Father in God Samuel, Bishop of Oxford; the Right Reverend Father in God Charles
+John, Bishop of Gloucester and Bristol; Our right trusty and well-beloved Edward
+Berkeley, Baron Portman; Our right trusty and well-beloved Councillor Robert, Baron
+Ebury ; Our right trusty and well-beloved Councillor Spencer Horatio Walpole; Our
+right trusty and well-beloved Councillor Edward Cardwell; Our right trusty and well-
+beloved Councillor Sir Joseph Napier, Baronet; Cur trusty and well-beloved Sir William
+Page Wood, Knight, a Vice-Chancellor ; Our trusty and well-beloved Sir Robert Joseph
+Phillimore, Knight, Doctor of Civil Law, Our Advocate; Our trusty and well-beloved
+Travers Twiss, Doctor of Civil Law; Our trusty and well-beloved John Duke Coleridge,
+Esquire, One of Our Counsel learned in the Law; Our trusty and well-beloved John
+Abel Smith, Esquire ; Our trusty and well-beloved Alexander James Beresford Beresford-
+Hope, Esquire; Our trusty and well-beloved John Gellibrand Hubbard, Esquire; Our
+trusty and well-beloved Arthur Penrhyn Stanley, Doctor in Divinity, Dean of Our Colle-
+giate Church of Westminster ; Our trusty and well-beloved Harvey Goodwin, Doctor in
+Divinity, Dean of Our Cathedral Church of Ely; Our trusty and well-beloved James
+Amiraux Jeremie, Doctor in Divinity, Dean of Our Cathedral Church of Lincoln, Regius
+Professor of Divinity in Our University of Cambridge; Our trusty and well-beloved
+Robert Payne Smith, Doctor in Divinity, Regius Professor of Divinity in Our University
+of Oxford; Our trusty and well-beloved Henry Venn, Clerk, Bachelor in Divinity ; Our
+trusty and well-beloved William Gilson Humphry, Clerk, Bachelor in Divinity ; Our
+trusty and well-beloved Robert Gregory, Clerk; and Our trusty and well-beloved
+Thomas Walter Perry, Clerk; Greeting.
+
+@hercas [Whereas] it has been represented unto Us that Differences of Practice have arisen
+from varying Interpretations put upon the Rubrics, Orders, and Directions for regulating
+the Course and Conduct of Public Worship, the Administration of the Sacraments, and
+the other Services contained in the Book of Common Prayer, according to the Use of
+the United Church of England and Ireland, and more especially with reference to the
+Ornaments used in the Churches and Chapels of the said United Church and the
+Vestments worn by the Ministers thereof at the tim[e] ...
+
+[Capture note: the intervening text of the Letters Patent was not transcribed in
+this capture. The instrument closes:]
+
+... to use, from time to time, as occasion may require.
+
+Given at Our Court at Saint James's, the third day of June, one thousand eight
+hundred and sixty-seven, in the thirtieth year of Our Reign,
+
+By Her Majesty's Command,
+GATHORNE HARDY.
+
+---------------------------------------------------------------------
+SECOND REPORT.
+
+TO THE QUEEN'S MOST EXCELLENT MAJESTY.
+
+1. Since we made our First Report to Your Majesty in relation to the Vestments worn
+by the ministers of the United Church of England and Ireland at the time of their
+ministration, we have proceeded to consider the other part of the subject pointed out in
+Your Majesty's Commission as the most pressing.
+
+2. The use of Lighted Candles in celebrating the Holy Communion, when they are
+not needed for the purpose of giving light, and the use of Incense in the public services
+of the Church, are the matters connected with this part of the subject to which our
+attention has been mainly directed.
+
+3. We have taken evidence and have availed ourselves of the information furnished by
+the arguments in the recent suits before the Court of Arches of Martin v. Mackonochie
+and Flamank v. Simpson, both in respect of Lights used at the celebration of the Holy
+Communion, and also in respect of the use of Incense as part of the public services of the
+Church.
+
+4. The use of Lighted Candles at the celebration of the Holy Communion has been
+introduced into certain Churches within a period of about the last twenty-five years. It
+is true that there have been Candlesticks with Candles on the Lord's Table during a long
+period in many Cathedral and Collegiate Churches and Chapels, and also in the Chapels
+of some Colleges, and of some Royal and Episcopal Residences, but, the instances that
+have been adduced to prove that Candles have been lighted, as accessories to the Holy
+Communion, are few and much contested.
+
+5. With regard to Parish Churches, whatever evidence there may be as to Candle-
+sticks with Candles being on the Lord's Table, no sufficient evidence has been adduced
+before us to prove that at any time during the last three centuries Lighted Candles
+have been used in any of these Churches as accessories to the celebration of the Holy
+Communion until within about the last twenty-five years.
+
+6. The use of Incense in the public services of the Church during the present century
+is very recent, and the instances of its introduction are very rare; and so far as we have
+any evidence before us, it is at variance with the Church's usage for 300 years.
+
+7. Under these circumstances, and in conformity with the principles which guided us
+in our First Report, we are of opinion that it is expedient to restrain in the public
+services of the Church all variations from established usage in respect of Lighted Candles
+and of Incense.
+
+8. With regard, then, to Lights and Incense, as well as Vestments, we think that a
+speedy and inexpensive remedy should be provided for parishioners aggrieved by their
+introduction ; and the remedy which we recommend is the following : —first, that when-
+soever it shall be found necessary that order be taken concerning the same, the usage of
+the Church of England and Ireland as above stated to have prevailed for the last 300
+years shall be deemed to be the rule of the Church, in respect of Vestments, Lights, and
+Incense; and, secondly, that parishioners may make formal application to the Bishop
+in camerá [in camera], and the Bishop on such application shall be bound to enquire into the matter
+of the complaint, and if it shall thereby appear that there has been a variation from
+established usage, by the introduction of Vestments, Lights, or Incense in the public
+services of the Church, he shall take order forthwith for the discontinuance of such
+variation, and be enabled to enforce the same summarily. We also think that the
+determination of the Bishop on such application should be subject to appeal to the Arch-
+bishop of the Province in camerá, whose decision thereon shall be final: Provided always,
+that if it should appear to either party that the decision of the Bishop or Archbishop is
+open to question on any legal ground, a case may be stated by the party dissatisfied, to
+be certified by the Bishop or Archbishop as correct, and then submitted by the said party
+for the decision of the Court of the Archbishop without pleading or evidence, with a
+right of appeal to Your Majesty in Council, and with power for the Court, if the statement
+of the case should appear to be in any way defective, to refer back such case to the
+Bishop or Archbishop for amendment.
+
+9. Precautions should be taken against frivolous applications being brought before the
+Bishop ; and with this view, we further recommend that the application should be made
+either by one or more of the Church or Chapel Wardens, or by at least five resident
+parishioners, who shall be householders and declare themselves to be members of the
+United Church, in places where the population exceeds 1,000, and by at least three
+such persons where the population is less than that number.
+
+10. Our intention, in making this recommendation, is simply to provide, for parishioners
+aggrieved by the introduction of variations from established usage in respect of Vest-
+ments, Lights, and Incense, a special facility for restraining such variations, without
+interfering in other respects with the general law of the Church as to Ornaments, or the
+ordinary remedies now in force.
+
+11. In submitting these recommendations to Your Majesty, we desire to state that we are
+anxious in no degree to abridge or curtail any of the rightful liberties heretofore enjoyed
+by the Clergy and Laity of the United Church. The National Church may well include
+men of varying shades of opinion, so long as they can combine in a conscientious acceptance
+of her recognized formularies and appointed rites. But this large comprehension seems
+to us to render it most desirable that in the celebration of the Church's rites there shall be
+introduced no novel practices, which are welcome only to some, but are offensive to others.
+All members of the Church being expected to join devoutly in one common form and
+order of service are, as we conceive, entitled to expect that no unaccustomed form be
+used giving to the service a new tendency and significance by which the devotion of many
+is impeded.
+
+12. We have made some progress in the Revision of the Rubrics, Orders, and
+Directions contained in the Book of Common Prayer, and our recommendations on this
+subject will be presented to Your Majesty in our next Report. A Committee of the
+Commission has been for some time engaged in preparing materials for the Revision of
+the Lectionary.
+
+13. In the Appendix to this Report will be found the Evidence taken before us, and
+the Arguments of Counsel as well as the Judgment of the Official Principal of the Court
+of Arches in the cases of Martin v. Mackonochie and Flamank v. Simpson.
+
+C. T. CANTUAR. (L.S.)            [Charles Thomas Longley, Abp of Canterbury]
+MARCUS G. ARMAGH. (L.S.)         [Marcus Gervais Beresford, Abp of Armagh]
+STANHOPE. (L.S.)
+HARROWBY. (L.S.)
+A. C. LONDON. (L.S.)             [Archibald Campbell Tait, Bp of London]
+C. ST. DAVID'S. (L.S.)           [Connop Thirlwall]
++S. OXON. (L.S.)                 [Samuel Wilberforce]
+C. J. GLOUCESTER & BRISTOL. (L.S.)  [Charles John Ellicott]
+PORTMAN. (L.S.)
+EBURY. (L.S.)
+SPENCER H. WALPOLE (L.S.)
+EDWARD CARDWELL. (L.S.)
+JOSEPH NAPIER. (L.S.)
+WILLIAM PAGE WOOD. (L.S.)
+TRAVERS TWISS. (L.S.)
+*JOHN DUKE COLERIDGE. (L.S.)
+JOHN ABEL SMITH. (L.S.)
+*A. P. STANLEY. (L.S.)
++H. GOODWIN. (L.S.)
+J. A. JEREMIE. (L.S.)
+R. PAYNE SMITH. (L.S.)
+HENRY VENN. (L.S.)
+W. G. HUMPHRY. (L.S.)
+
+[Capture note: 23 signatures. The dagger (+) marks the two signatories whose
+partial dissent follows immediately; the asterisk (*) marks the two whose
+reservation follows after that.]
+
+---------------------------------------------------------------------
++ In appending our names to this Report, we the undersigned members of Your Majesty's
+Commission, are compelled to dissent from the recommendations contained in the para-
+graphs 8 and 9.
+
+We are of opinion that continued usage in ordinary circumstances ought in matters
+ceremonial to be so far the rule as to protect unwilling parishioners from arbitrary
+change, even though the change may seem to be within the letter of the law; but we
+cannot approve of any attempt to stereotype by legislation for perpetual observance any
+use not actually enjoined. Such legislation even thirty years ago would have prohibited
+much which is now generally adopted, and all but universally approved. We cannot
+advise the introduction of a new rule of Ornaments for the Established Church.
+We think such a rule unnecessary, and we believe that the attempt to introduce it would
+be dangerous. We deprecate particular enactments on these subjects; and we are
+of opinion that offence, whether caused by excess or defect in divine service, may be
+removed by strengthening the hands of the Bishop, with appeal to the Archbishop.
+
+We are convinced that the Ritual of the Church must be regulated by living authority,
+acting, as such authority always must act, under a strong sense of individual responsibility
+and under public observation, although the complete avoidance of offence must after all
+depend upon the prevalence of good sense and good feeling in each parish ; even if all the
+greater circumstances of ceremonial could be distinctly fixed by law, there must still
+remain questions of gesture and posture which may involve much offence, but which no
+law can completely regulate.
+
+S. OXON.
+H. GOODWIN.
+
+---------------------------------------------------------------------
+We the undersigned members of Your Majesty's Commission, concurring in the
+Opinions above expressed, feel ourselves thereby precluded from appending our signatures
+to the Report.
+
+ROBERT J. PHILLIMORE.
+A. J. B. BERESFORD HOPE.
+J. G. HUBBARD.
+R. GREGORY.
+
+---------------------------------------------------------------------
+* We beg leave, in adding our names to the Report, to lay before Your Majesty the
+following considerations, which we think ought to be embodied in any recommendations
+on the subject to which the Report refers.
+
+The Church of England has always contained within it two parties, one caring much
+for outward observance and ceremonial, the other careless about or even hostile to them ;
+and these two historical parties represent two classes of minds which always have and
+probably always will exist, and proclaim their existence, in a free country. If, therefore, the
+Church of England is to remain the National Establishment of a free country, room for
+both must be found in it, as far as is consistent with general uniformity "in such Matters
+"as may be deemed essential." Within such limits a variety and elasticity of outward
+observance appears to us to be desirable. We will not join in any recommendations
+which have for their single object the attainment in the services of the Church of a rigid
+uniformity in matters not essential.
+
+The present Report to Your Majesty is concerned only with two matters,—the use of
+Incense and of Lighted Candles. We venture to submit that we cannot consider either
+the retention or the suppression of these two articles amongst the matters to be deemed
+essential. They have in themselves, and in their origin, no doctrinal significance ;
+and the interpretations put upon them, as well by those who adopt them as by those who
+object to them, are of the most uncertain and conflicting kinds. We therefore think
+that they should be restrained only when they give offence to the parishioners ; and, so
+far as the recommendation proposed in the Report is intended to secure this object, we
+concur in it, and we believe the remedy suggested to be effectual and sufficient. Any
+further remarks on the mode of securing such other uniformity as may be deemed
+desirable appear to us best reserved for our next Report
+
+JOHN DUKE COLERIDGE.
+ARTHUR P. STANLEY.
+
+---------------------------------------------------------------------
+[DISSENT OF EARL BEAUCHAMP]
+
+Being unable to concur in the above Report, I beg leave humbly to lay before Your
+Majesty the reasons for my dissent therefrom.
+
+In the terms of Your Royal Commission, Your Majesty was graciously pleased to direct
+us to make full and impartial inquiry, so as to secure general uniformity of practice in
+such matters as may be deemed essential.
+
+These words appear to imply, as is indeed obviously the case, that it is not necessary,
+even if desirable, that absolute uniformity should prevail.
+
+It must be remembered that all ceremonies, whether performed in an ornate or
+slovenly manner, must be the expression of doctrine ; and that in the Church of England,
+as in other religious bodies, the two aspects of sacramental belief, briefly described as
+the objective and subjective, have always existed. Each of these aspects may be true,
+but, if exhibited so as to exclude the consideration of the other, the just proportions of
+the truth are obscured. It follows then that neither side should be excluded from
+view, but that the balance should be evenly held. An illustration is found in the two
+varying methods of delivery of the Holy Sacrament to communicants, adopted in the
+Prayer Books of 1549 and 1552 respectively.
+
+By the wisdom of the rulers of the Church in the early days of the reign of Queen
+Elizabeth these two forms were combined into one harmonious whole; and while an
+ornate ceremonial, corresponding to high doctrinal views of the Holy Communion, pre-
+vailed in Cathedral and Collegiate Churches, and in the Chapels of certain Colleges, and
+of some Royal and Episcopal Houses, it is true that in most parish churches the standard
+of ritual conformed to the Prayer Book of 1552, rather than to those forms which, though
+neglected in practice by the people, were prescribed by the wisdom of Queen Elizabeth
+and her counsellors.
+
+Disregard of ceremonial in our services continued almost down to the present day ; and
+the alienation of the population, especially among the lower orders, from regular
+attendance at religious worship, may be fairly attributed to the want of life and heartiness
+which well ordered services promote.
+
+The Arches Court of the Archbishop of Canterbury has recently declared the ceremonial
+use of Incense unlawful. It will not be necessary, therefore, to express an opinion upon a
+practice which, though largely enjoined under the dispensation of the Old Testament,
+and forming no insignificant feature of the worship of Heaven as set forth in the
+Revelation of St. John the Divine, has been disused among us for many years.
+
+The use of Lights as accessory to the Holy Communion has been declared lawful by
+the same high authority; and if the innocent and edifying reason alleged for this
+usage by the Royal Injunctions of King Edward VI. be borne in mind, together with
+the fact that the Church as well of the East as of the West, and some Protestant bodies,
+have invariably followed this custom, the danger of superstition appears so remote, that
+I cannot recommend restraint in a matter upon which an authoritative judgment has
+been now pronounced.
+
+A time when wide latitude in matters of high doctrine is tolerated if not encouraged
+within the Church does not appear suitable for curtailing a ceremonial observance to
+which no superstitious meaning is attached. The only accusation brought against
+Lights is that their use prevails in the Church of Rome; but if the custom be in itself
+harmless, that circumstance affords no more reason for proscribing it than the three
+Creeds, or the Surplice.
+
+In this matter I cannot persuade myself to bring into the category of things
+in which uniformity must be deemed essential a practice which has so largely prevailed
+in Christian communities, and which is judicially declared to be not only innocent in
+itself, but also not contrary to law.
+
+If then in this respect uniformity is found to be not essential, I humbly conceive
+that by the terms of Your Majesty's gracious Commission I am precluded from
+recommending legislation tending to prohibition.
+
+It may be added that many customs now generally accepted have occasioned far
+greater disturbance than has attended the practices to which exception is now taken ;
+and it has been found that a declaration of the law has greatly tended to allay the
+dissatisfaction which was felt when the state of the law and the reason of the customs
+had not been fully considered.
+
+The machinery proposed in the Report to give effect to the grief of parishioners
+in the cases of Vestments and Lights appears calculated to promote disturbance rather
+than peace, and to be incapable of adaptation to the varying circumstances of parishes
+and congregations of a widely different character.
+
+The Commissioners unanimously recommended in their First Report that, to secure
+the peace of congregations, and to prevent breaches of Christian charity, parishioners
+aggrieved by the use of unusual vesture on the part of the ministering clergy should
+have an easy and effectual process of complaint and redress. But assenting to the
+reasonable proposition of the First Report, that the use of Vestments that have been
+long disused should be restrained (by which term I do not understand prohibition)
+where distasteful to parishioners, whether the actual legality of the practice be esta-
+blished or not, I am not prepared to recommend so serious a curtailment of liberty of
+many devout congregations as would follow if the recommendations of my brother
+Commissioners were adopted in their integrity.
+
+BEAUCHAMP.
+
+---------------------------------------------------------------------
+[DISSENT OF THE REV. THOMAS WALTER PERRY]
+
+It is with much regret that I find myself unable to concur in this Second Report,
+agreed to by the majority of the Commissioners, and therefore I humbly beg leave to lay
+before Your Majesty my reasons for not signing the same.
+
+The 4th, 5th, and 6th Clauses (though containing a correct summary of the conclu-
+sions arrived at by most of the Commissioners as to the absence of "sufficient evidence"
+to prove the use, during the last 300 years, of Lighted Candles on the Lord's Table "as
+"Accessories to the Holy Communion," and also with regard to "the use of Incense in
+"the Public Services of the Church") do not afford a complete view of the subject. It
+is important, therefore, to observe that insufficient evidence of usage is no adequate
+proof of non-usage; and, further, that in this case the sources of information known to
+the Commissioners are too few to warrant any positive statement as to the extent of use
+or disuse in the long period of three centuries; nor is it probable, from the nature of the
+case, that any more explicit records should have been kept than those already produced.
+Moreover it would be quite as difficult to prove usage in respect of other Ornaments and
+Practices which the Judicial Committee of Your Majesty's Privy Council in 1857
+decided to be lawful, viz., Altar or other Crosses employed as internal decorations of
+Churches, the use of various coloured Altar Cloths in the same Church, a moveable
+Ledge on the Lord's Table, and the bringing of the Bread and Wine from a Credence
+Table to the Altar at the time of the Offertory.
+
+The 7th Clause proposes to apply to "Lighted Candles" and "Incense" the same
+"principles" of restraint "which guided us in our First Report" as to Vestments. But the
+case of Lighted Candles during the Celebration of the Eucharist is not parallel with the
+other two practices. The Lawfulness of this use of Lighted Candles has just been
+decided in the Arches Court of Canterbury, (though, indeed, an Appeal has since been
+lodged with the Privy Council,) and this Second Report states that "The use of
+"Lighted Candles at the Celebration of the Holy Communion has been introduced into
+"certain Churches within a period of about the last twenty-five years;" whereas one
+ground for complaint of the Vestments is their very recent introduction: while it is also
+alleged that they are of doubtful Legality, because they were not specifically in question
+when the Judicial Committee of the Privy Council declared, in 1857, "that the same
+"Dresses and the same Utensils, or Articles, which were used under the First Prayer
+"Book of Edward the Sixth, may still be used." This latter objection appears to be of
+small importance, for it was necessary that their Lordships should (as they did) interpret
+the Rubric on the "Ornaments of the Church, and of the Ministers thereof," in order to
+adjudicate upon those Ornaments which were actually under their consideration. Incense,
+at present, stands in a different position from both the Vestments and the Lighted Candles ;
+for the Arches Court has decided it to be unlawful "to bring in Incense at the beginning
+"or during the Celebration, and remove it at the close of the Celebration of the
+"Eucharist." It is requisite also to consider that the Vestments, the Lighted Candles,
+and the Incense are not by any means equally disliked, though it is no doubt true that
+by very many persons the whole three are alike the subject of complaint.
+
+The 8th Clause provides the mode of restraint, and is objectionable on the following
+grounds :—
+
+1. Because it makes the practice of a period of very general indifference and even of
+opposition to the plainest and most positive Laws of the Church of England and Ireland
+"the rule of the Church" for the future, "whensoever it shall be found necessary that
+"order be taken concerning" the use of "Vestments, Lights, and Incense ;" whereas no
+such expedient was resorted to when the Judicial Committee of the Privy Council, only
+eleven years ago, declared the Lawfulness of Ornaments, which, to say the least, had been
+quite as much opposed as these, and, among other reasons, on the same ground of long
+continued and general disuse.
+
+2. Because it leaves no discretion whatever to the Bishop, if Parishioners complain to
+him of "a variation from established usage, by the introduction of Vestments, Lights,
+"or Incense in the Public Services of the Church ;" but compels him, without any regard
+to the circumstances of the case, to "take order forthwith for the discontinuance of such
+"variation ;" thus introducing a novel and most arbitrary rule, entirely contradictory of
+the two important principles, upon which the Order in the Book of Common Prayer, for
+appeasing diversity and resolving doubts "concerning the Service of the Church," is
+founded, viz., First, the inherent discretion of the Episcopate ; and, Secondly, the recog-
+nized subjection of that discretion to every Law which binds alike the Bishop and his
+Clergy, in many cases the Laity also.
+
+3. Because it might, and probably would, deprive entire Congregations of their liberty,
+or rather right, to have their Services conducted according to the Laws of the Church
+of England ; notwithstanding that the Judicial Committee of the Privy Council said, in
+1857, "Although their Lordships are not disposed in any case to restrict within nar-
+"rower limits than the Law has imposed the discretion which, within those limits, is
+"justly allowed to Congregations, by the rules, both of the Ecclesiastical and the
+"Common Law Courts, the directions of the Rubric must be complied with ;" [OCR
+defective] Cases already exist, and will probably increase, of a Parish containing several Consecrated
+or Licensed Churches or Chapels, the Ministers of which have no Legally assigned
+Cure of Souls; these places of Divine Worship are more or less available for all the
+Inhabitants ; and the Services, varying as they do in their simplicity or ornateness, are
+adapted to different classes of Parishioners, while not disturbing general Parochial Unity.
+But this Clause, construed as it must be with the next following, would put it in the
+power of any three or five resident Householder Parishioners, who shall "declare them-
+"selves to be Members of the United Church," to prevent the use of Vestments,
+Lights, and Incense (however lawful) in any such Church or Chapel in their Parish ; and
+this, too, wholly irrespective of the fact of their own habitual attendance at, and prefer-
+ence for, the Services of the Mother Church of the Parish, or of some other Church or
+Chapel in their own or even in another Parish.
+
+4. Because (while it would rightly protect a minority or a majority of Parishioners from
+having Vestments, Lights, or Incense introduced, contrary to their wishes, into those
+Services in their own Churches or Chapels which they wish to or do frequent) it affords
+no security whatever to any minority or majority who (being loyal and earnest in their
+desire to have those Services of the Church which they are accustomed to attend
+conducted in conformity with the Rules of the Prayer Book,) would, for the sake of
+others, so far forego their own wishes as to be content with the use of such Ornaments in
+Services held at times and in places which could not interfere with those Services which
+others have been accustomed or desire to attend.
+
+The object of the 9th Clause is to prevent "frivolous applications being brought before
+"the Bishop ;" but it seems inadequate for its purpose, on two grounds :
+
+1. Because it does not require that the Church or Chapel Warden or Wardens should
+act only at the authorized instigation of Parishioners: this is an important consideration,
+in [proposing?] to clothe them with a new power of Official complaint, in addition to their
+present authority to make Presentments.
+
+2. Because as this Report deals chiefly, though not entirely, with Ornaments which are
+accessory to the Celebration of the Holy Communion, so it appears to me to be of primary
+importance that the recognized complainants against such accessories should not merely
+"declare themselves to be Members of the Church of England," but should also be
+known to be bona fide Members and Communicants of the said Church.
+
+The 10th Clause purports to be explanatory of the three previous Clauses, and declares
+that their object "is simply to provide . . . . . a special facility for restraining such
+"variations" as they refer to, "without interfering in other respects with the general Law
+"of the Church as to Ornaments, or the ordinary remedies now in force." This, how-
+ever, is a proposal much to be deprecated for the following reason :—
+
+Because, on the one hand, it involves the hitherto unapplied and objectionable principle
+of exceptional and repressive Legislation in reference to the observance of particular
+points in the Church's Law of Ornaments, which Law nevertheless it is not proposed to
+repeal ; while, on the other hand, it leaves all non-observance of the same Law to the unaided
+power of existing remedies.
+
+The 11th Clause, while professing great toleration, is likely, if acted upon, to prove
+seriously detrimental to the best interests of the Church, by being a bar to all real
+improvement in the conduct of her Services. Hitherto "the rightful liberties" which
+are here recognized as having been "heretofore enjoyed by the Clergy and Laity of the
+"Church of England," have at various times, and especially during the last thirty years,
+broken through stereotyped forms of neglect and disobedience, which custom, or ignorance,
+or prejudice had maintained ; and thus most material changes have been effected which
+are now commonly allowed to be generally beneficial, though at the time when they were
+first attempted, and even long after, they encountered precisely the same objections
+which this Clause sustains ; sometimes, too, in the form of such unreasoning and violent,
+not to say lawless, opposition as it may be hoped will not again be manifested.
+
+But this Clause, though reasonably advocating the inclusion in the "National Church"
+of "men of varying shades of opinion," (a subject, however, which seems scarcely within
+the terms of Your Majesty's Commission,) inconsistently opposes those varieties of
+Ceremonial which are the natural accompaniments of opinions thus allowed to have a
+free development. The condition of "this large comprehension" of "opinion" is stated
+to be, "a conscientious acceptance of" the "recognized formularies and appointed rites"
+of the Church of England. The advocates of a revived Ceremonial themselves claim to
+act upon this very principle in ordering the Public Services. Therefore the conclusion
+would appear to be, either that, as Your Majesty's Commission indicates, "general unifor-
+"mity of practice" must be limited to "such matters as may be deemed essential," or
+it must be extended to the fullest details of all that is required by the Ecclesiastical
+Laws. It is obvious that so rigid a compliance is neither possible nor desirable in the
+existing condition of the Church of England; nor indeed has it ever been maintained
+since the passing of the First Statute of Uniformity in 1549. To "secure," as our
+Commission suggests, "essential" Uniformity, it does not appear to me necessary to
+insist upon that strictness of practice, as opposed to liberty of opinion, which this Clause
+of the Report seems to urge. Unquestionably it is "most desirable that in the celebration
+"of the Church's Rites there shall be introduced no novel practices, which are welcome
+"only to some, but offensive to others;" yet, while it may be hoped that charity
+alone will generally prevent changes calculated to lead to such a result, it cannot be
+concealed that quite as great, perhaps greater, scandal is caused by disregard of positive
+rules in conducting the Services of the Church; and still more, it must be feared,
+by notoriously contradictory teaching, which is complained of as being irreconcileable
+with her "recognized formularies."
+
+For these reasons, and because I fear that the proposals now made, so far from promoting
+peace, tend towards provoking a strife which may seriously risk a disruption in the
+Church of England, I humbly think I shall best discharge my duty to Your Majesty
+by withholding my signature from this Second Report.
+
+THOMAS WALTER PERRY.
+
+W. F. KEMP, Secretary,
+Jerusalem Chamber, Westminster,
+30th April 1868.
+
+---------------------------------------------------------------------
+[Opening of MINUTES OF PROCEEDINGS — captured only to document the meeting
+format and attendance; the remainder is not transcribed here.]
+
+MINUTES OF PROCEEDINGS.
+
+TWENTIETH MEETING.
+
+Jerusalem Chamber, Westminster, Thursday, November 21st, 1867.
+
+PRESENT:
+
+Archbishop of Canterbury.  Sir Robert Joseph Phillimore.
+Earl Stanhope.             Sir Travers Twiss.
+Earl of Harrowby.          Mr. John Abel Smith.
+Earl Beauchamp.            Mr. Beresford Hope.
+Bishop of London.          Mr. J. G. Hubbard.
+Bishop of St. David's.     Dean of Ely.
+Bishop of Oxford.          Dean of Lincoln.
+Bishop of Gloucester and Bristol.  Dr. Payne Smith.
+Lord Portman.              Rev. H. Venn.
+Lord Ebury.                Rev. W. G. Humphry.
+Mr. Cardwell.              Rev. Robert Gregory.
+Sir Joseph Napier.         Rev. T. W. Perry.
+
+The Commissioners arranged the order of their proceedings.
+
+[END OF CAPTURE]

@@ -1,0 +1,123 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+=====================================================================
+SUBJECT: The three passages in Westall's "The Case for Incense" (1899)
+         that invoke Martin v. Mackonochie, captured from a CLEANER
+         OCR than the copy already held at
+         src/SRC_PRIMARY_1899_Westall_Case_For_Incense.txt
+         (which reads "imert" where the true text is "inert",
+         and "gays" where the true text is "says").
+SOURCE:  H. Westall (ed.), THE CASE FOR INCENSE, submitted to His
+         Grace the Archbishop of Canterbury on behalf of the Rev.
+         H. Westall on Monday, May 8, 1899; together with a Legal
+         Argument and the Appendices of the Experts.
+         London: Longmans, Green & Co., 1899. 173 pp.
+SOURCE URL (this capture): https://rec-dcs.org/documents/books/caseforincense.pdf
+RETRIEVED: 2026-09-05 by pass 260835-56.
+NOTE: this second scan is itself imperfect ("gays" for "says",
+      "2 and 3 Ed. I." for "2 and 3 Ed. VI."); errors are marked
+      [sic] and the correct reading given in brackets.
+=====================================================================
+
+
+[1] PRINTED p. 11 (the "inert use" passage; the pass brief's
+    "printed p. 18" and the OCR reading "imert" both resolve here)
+
+"Sir Robert Phillimore categorically affirms [footnote 29] that
+Incense was used under the First Prayer Book, and if he affirms that
+only its "inert use is now legal" it is to be observed (1) that the
+point was not made before him that the censer was an ornament within
+the Ornaments Rubric: if it had been, it is to be presumed from his
+conclusion about Lights that he would have pronounced the accustomed
+use of the censer lawful; (2) that he produces no ecclesiastical
+authority for any use of Incense other than the accustomed use, which
+is the use as prescribed in the old Service Books. Now the use of
+Incense in the accustomed manner is, I submit, not an additional
+ceremony, but an adjunct to the ceremonies prescribed by the Book of
+Common Prayer. [footnote 30] Therefore his negative argument falls,
+while his positive affirmation and argument in favour of Incense
+stand.
+
+In any case it is impossible to prove that Incense was not used, and
+in such a matter the larger rather than the narrower interpretation is
+obviously the just one. I submit that existing liberty should not be
+curtailed, in regard to a practice which can claim such high authority
+as the use of Incense can claim, in Holy Scripture and elsewhere, by a
+narrower interpretation of the rubrics, when a larger one is
+possible."
+
+    Footnote 29 to that passage:
+    "See Martin v. Mackonochie. 2. Law Reports (Adm. and Eccl.) p. 15
+     [sic — read 115 or 116] anno, 1868."
+    Footnote 30: "See the argument in Appendix F."
+
+
+[2] PRINTED p. 22 (the p. 215 quotation; the pass brief's
+    "printed p. 35" resolves here in this scan's pagination)
+
+"But assuming that it is to the First Prayer Book, and the Act which
+gave it legal force, that reference must be made to ascertain what are
+the ornaments of the Church and Ministers intended by the present
+Ornaments Rubric, it is submitted that the use of incense is equally
+in accordance with law. Sir R. Phillimore, in Martin v. Mackonochie
+(L. R. 2 Ad. and Ecc., at p. 215), says [sic: "gays"] of incense, "It
+certainly was in use in the Church of England in the time of King
+Edward the Sixth's First Prayer Book." The Reformers of 1549 intended
+to preserve the continuity of the Church and her Services except so
+far as the latter contained, or seemed to authorize, superstitious
+practices or mediaeval accretions of erroneous doctrine, and except so
+far as was necessary to effect the main purpose of simplifying and
+reducing to order the complex and confused methods of worship which
+had come into use."
+
+
+[3] PRINTED p. 24 (the disuse argument)
+
+"Moreover, the use of incense, if the above argument is correct, has
+statutory authority; for the Ornaments Rubric has the force of a
+Statute, being part of a book prescribed by and incorporated into the
+Act of Uniformity (14, Car. 2, c. 4, s. 1) and annexed thereto. Now a
+Statute loses none of its validity by disuse. A familiar illustration
+of the principle that the effect of a Statute cannot be lost by disuse
+is the case of Wager of Battle. [footnote 10] Long continued
+desuetude of a Statute may be a very cogent, and perhaps a conclusive,
+argument against enforcing obedience to its provisions. It cannot make
+that unlawful which the Statute either enjoins or permits. The Civil
+Wars, and then the Commonwealth, and then the sleep of religious
+feeling under the Georges, account for disuse for a time, but afford
+no reason why, when the sleepers awake, they should be deprived of a
+form or accompaniment of worship which is innocent in itself, and to
+which they are impelled as their forefathers were before them. A very
+exhaustive answer to the argument from disuse is to be found in Sir R.
+Phillimore's judgment in Martin v. Mackonochie, L. R. 2 Ad. and Ecc.,
+pp. 175-190."
+
+    A further footnote elsewhere in the same argument reads:
+    "Sir R. Phillimore, 2 Ad. and Ecc., at p. 198."
+
+
+=====================================================================
+CAPTURE FOOTER — added by pass 260835-56, not part of the source.
+
+CRITICAL READING:
+ 1. The OCR crux is settled: the word is "inert", not "imert". Westall
+    puts it in quotation marks, attributing it to Phillimore. In fact
+    the "things inert and unused" formula belongs to the PRIVY COUNCIL
+    (Lord Cairns) in Martin v. Mackonochie (1868) L.R. 2 P.C. 365 at
+    pp. 386-392 — where incense is named as an example ON THE WRONG
+    SIDE of the line. See
+    src/SRC_PRIMARY_1868_PrivyCouncil_Martin-v-Mackonochie-Incense-Obiter.txt
+ 2. Westall's own text CONCEDES that Phillimore ruled against
+    ceremonial incense: "if he affirms that only its 'inert use is now
+    legal'". His argument is not that Mackonochie supports incense but
+    that Mackonochie was wrongly argued — "that the point was not made
+    before him that the censer was an ornament within the Ornaments
+    Rubric". That is a plea to distinguish an adverse authority, not a
+    citation of a favourable one.
+ 3. Westall's positive use of the case is confined to (a) Phillimore's
+    historical concession at p. 215 that incense was in use under the
+    First Prayer Book, and (b) Phillimore's reasoning at pp. 175-190
+    that disuse does not repeal. Both are lifted out of a judgment
+    whose disposition on incense was "illegal and must be
+    discontinued".
+=====================================================================

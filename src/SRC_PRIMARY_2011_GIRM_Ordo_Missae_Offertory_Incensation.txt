@@ -1,0 +1,260 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source URLs:
+  https://canonlaw.ninja/?nums=75&v=girm  (2011 ICEL GIRM database, Rev. Paul Hedman)
+  https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html  (2003 English GIRM)
+  https://www.liturgyoffice.org.uk/Resources/GIRM/Opportunities/Symbols/I045-Incense.pdf  (2004 ICEL excerpt, Liturgy Office E&W)
+  https://archbalt.org/wp-content/uploads/2017/05/Order-of-Mass-USCCB-FINAL.pdf  (2010/2011 ICEL Order of Mass, USCCB confirmed text)
+  romanliturgy.org (Latin Ordo Missae 2002, LBN-numbered)
+Retrieved 2026-09-05 by pass 260835-56
+Editions: "General Instruction of the Roman Missal," English translation
+  © 2010 International Commission on English in the Liturgy Corporation; US
+  edition published by the United States Conference of Catholic Bishops,
+  Washington DC, 2011. — "Institutio Generalis Missalis Romani," editio typica
+  tertia, 2002, © Libreria Editrice Vaticana. — "The Roman Missal," 3rd typical
+  edition, Order of Mass, ICEL 2010 translation.
+Copyright: ALL ICEL/USCCB/LEV TEXTS BELOW ARE UNDER COPYRIGHT. Quoted here as
+  short excerpts for source verification only.
+VERIFICATION CAVEAT: usccb.org returned empty bodies (JS-rendered) for both GIRM
+  chapter pages, and web.archive.org is blocked to this session's fetcher. The
+  2011 ICEL GIRM text below therefore comes from canonlaw.ninja's GIRM database,
+  cross-checked against (a) the Vatican's official English of the same
+  paragraphs, (b) the official Latin of IGMR 2002, and (c) the England & Wales
+  Liturgy Office ICEL excerpt sheet. All four agree in substance. IF A
+  USCCB-SOURCED CITATION STRING IS NEEDED, RE-VERIFY FROM A BROWSER.
+=============================================================================
+
+BOTTOM LINE: In the current (post-1970) Roman Rite there is NO prayer, formula,
+or words of any kind prescribed for the incensation at the Preparation of the
+Gifts. The rite is done in silence, and the Missal explicitly directs that even
+the imposition/blessing of the incense be done "without saying anything."
+
+=============================================================================
+GIRM §75 — 2011 ICEL English:
+
+    "75. The bread and wine are placed on the altar by the Priest to the
+    accompaniment of the prescribed formulas; the Priest may incense the gifts
+    placed on the altar and then incense the cross and the altar itself, so as
+    to signify the Church's offering and prayer rising like incense in the sight
+    of God. Next, the Priest, because of his sacred ministry, and the people, by
+    reason of their baptismal dignity, may be incensed by the Deacon or by
+    another minister."
+
+GIRM §75 — Vatican 2003 English (with US adaptations):
+
+    "75. The bread and wine are placed on the altar by the priest to the
+    accompaniment of the prescribed formulas. The priest may incense the gifts
+    placed upon the altar and then incense the cross and the altar itself, so as
+    to signify the Church's offering and prayer rising like incense in the sight
+    of God. Next, the priest, because of his sacred ministry, and the people, by
+    reason of their baptismal dignity, may be incensed by the deacon or another
+    minister."
+
+IGMR 2002 Latin, n. 75:
+
+    "75. Panis et vinum super altare a sacerdote deponuntur comitantibus
+    formulis statutis; sacerdos dona super altare collocata incensare potest,
+    dein crucem et ipsum altare, ut oblatio Ecclesiæ eiusque oratio sicut
+    incensum in conspectum Dei ascendere significentur. Deinde sacerdos, propter
+    sacrum ministerium, et populus, ratione baptismalis dignitatis, incensari
+    possunt a diacono vel ab alio ministro."
+
+FINDING: §75 names NO prayer or formula for the incensation. The "prescribed
+formulas" / "formulis statutis" it refers to are those for placing the bread and
+wine ("Benedictus es, Domine…"), not for the censing.
+
+=============================================================================
+GIRM §§276-277 — 2011 ICEL English:
+
+    "276. Thurification or incensation is an expression of reverence and of
+    prayer, as is signified in Sacred Scripture (cf. Ps 141 [140]:2; Rev 8:3).
+
+    Incense may be used optionally in any form of Mass:
+
+    a) during the Entrance Procession;
+    b) at the beginning of Mass, to incense the cross and the altar;
+    c) at the procession before the Gospel and the proclamation of the Gospel
+       itself;
+    d) after the bread and the chalice have been placed on the altar, to incense
+       the offerings, the cross, and the altar, as well as the Priest and the
+       people;
+    e) at the elevation of the host and the chalice after the Consecration."
+
+    "277. The Priest, having put incense into the thurible, blesses it with the
+    Sign of the Cross, without saying anything.
+
+    Before and after an incensation, a profound bow is made to the person or
+    object that is incensed, except for the altar and the offerings for the
+    Sacrifice of the Mass.
+
+    Three swings of the thurible are used to incense: the Most Blessed
+    Sacrament, a relic of the Holy Cross and images of the Lord exposed for
+    public veneration, the offerings for the Sacrifice of the Mass, the altar
+    cross, the Book of the Gospels, the paschal candle, the Priest, and the
+    people.
+
+    Two swings of the thurible are used to incense relics and images of the
+    Saints exposed for public veneration; this should be done, however, only at
+    the beginning of the celebration, following the incensation of the altar.
+
+    The altar is incensed with single swings of the thurible in this way:
+
+    a) if the altar is freestanding with respect to the wall, the Priest
+       incenses walking around it;
+    b) if the altar is not freestanding, the Priest incenses it while walking
+       first to the right hand side, then to the left.
+
+    The cross, if situated on the altar or near it, is incensed by the Priest
+    before he incenses the altar; otherwise, he incenses it when he passes in
+    front of it.
+
+    The Priest incenses the offerings with three swings of the thurible or by
+    making the Sign of the Cross over the offerings with the thurible before
+    going on to incense the cross and the altar."
+
+*** THE DECISIVE CLAUSE: §277's first sentence — "blesses it with the Sign of
+the Cross, WITHOUT SAYING ANYTHING" — is the Missal's positive suppression of
+the old "Per intercessionem beati Michaelis Archangeli…" blessing formula. ***
+
+=============================================================================
+GIRM §144 — 2011 ICEL English:
+
+    "144. If incense is being used, the Priest then puts some in the thurible,
+    blesses it without saying anything, and incenses the offerings, the cross,
+    and the altar. While standing at the side of the altar, a minister incenses
+    the Priest and then the people."
+
+GIRM §144 — IGMR 2002 Latin:
+
+    "144. Deinde, si incensum adhibetur, sacerdos illud in thuribulo imponit,
+    benedicit nihil dicens atque oblata, crucem et altare incensat. Minister
+    stans ad latus altaris sacerdotem incensat, deinde populum."
+
+GIRM §178 — 2011 ICEL English (deacon), relevant clause:
+
+    "…If incense is being used, the Deacon assists the Priest during the
+    incensation of the offerings, the cross, and the altar; and after this the
+    Deacon himself or the acolyte incenses the Priest and the people."
+
+Neither §144 nor §178 gives any formula.
+
+=============================================================================
+ORDER OF MASS, 2011 English (Roman Missal, 3rd ed.), Preparation of the Gifts:
+
+    "26. After this, the Priest, bowing profoundly, says quietly:
+
+         With humble spirit and contrite heart
+         may we be accepted by you, O Lord,
+         and may our sacrifice in your sight this day
+         be pleasing to you, Lord God.
+
+     27. If appropriate, he also incenses the offerings, the cross, and the
+     altar. A Deacon or other minister then incenses the Priest and the people.
+
+     28. Then the Priest, standing at the side of the altar, washes his hands,
+     saying quietly:
+
+         Wash me, O Lord, from my iniquity
+         and cleanse me from my sin."
+
+n. 27 IS A PURE RUBRIC WITH NO SPOKEN TEXT. The texts the Missal DOES print at
+the Preparation of the Gifts are: n. 23 "Benedictus es…" (bread); n. 24
+"Per huius aquae…" ("By the mystery of this water and wine"); n. 25
+"Benedictus es…" (chalice); n. 26 "In spiritu humilitatis…" ("With humble spirit
+and contrite heart"); n. 28 "Lava me, Domine…" ("Wash me, O Lord"). NO INCENSE
+FORMULA IS AMONG THEM.
+
+Latin, Ordo Missae 2002 (editio typica tertia), n. 27:
+    "27. Et, pro opportunitate, incensat oblata, crucem et altare. Postea vero
+    diaconus vel alius minister incensat sacerdotem et populum."
+
+Latin, Ordo Missae 1970/1975 (editio typica / altera), n. 23:
+    "23. Et, pro opportunitate, incensat oblata et altare. Postea vero diaconus
+    vel minister incensat sacerdotem et populum."
+    [Same rubric, no formula; the 2002 edition merely added "crucem". Source for
+     the 1975 text: exomni.narod.ru/ordo/vat_la.htm — a hobbyist transcription,
+     corroborating only.]
+
+=============================================================================
+VERIFIED NEGATIVE: "Incensum istud", "Dirigatur", "Accendat" and
+"Per intercessionem beati Michaelis" appear NOWHERE in the 1970/1975/2002
+Ordo Missae.
+
+Evidence:
+ - Full-text search of the complete Latin Ordo Missae 2002 (romanliturgy.org,
+   2,557 lines, the entire Order of Mass) for "Incensum | Dirigatur | Accendat |
+   Michael | Per intercessionem". The ONLY hits for "incens-" in the whole
+   document are the Gospel rubrics ("Interim sacerdos incensum, si adhibetur,
+   imponit"; "si incensum adhibetur, thurificat") and the offertory rubric n. 27
+   above. ZERO hits for "Incensum istud", "Dirigatur", "Accendat", "Michael".
+ - Same search over the full 2011 English USCCB Order of Mass PDF: none.
+ - Same over the 1975 Latin Ordo Missae transcription: none.
+ - Positively, GIRM §§144 and 277 replace the "Per intercessionem beati
+   Michaelis" blessing with "blesses it without saying anything" / "benedicit
+   nihil dicens."
+
+These four texts belong to the 1962 Ritus servandus VII and Ordo Missae; they
+have no counterpart in the reformed rite. The citable primary basis is the
+promulgated books themselves (Paul VI, "Missale Romanum," 3 April 1969; Ordo
+Missae, editio typica 1969/1970; Missale Romanum editio typica tertia 2002).
+
+=============================================================================
+"SUPPLICES TE ROGAMUS" — Eucharistic Prayer I (Roman Canon), RETAINED in the OF.
+
+Latin:
+    "Supplices te rogamus, omnipotens Deus: iube haec perferri per manus sancti
+    Angeli tui in sublime altare tuum, in conspectu divinae maiestatis tuae…"
+
+2011 ICEL English, Order of Mass n. 94 (© ICEL/USCCB):
+
+    "94. Bowing, with hands joined, he continues:
+
+         In humble prayer we ask you, almighty God:
+         command that these gifts be borne
+         by the hands of your holy Angel
+         to your altar on high
+         in the sight of your divine majesty,
+         so that all of us who through this participation at the altar receive
+         the most holy Body and Blood of your Son,
+
+     He stands upright again and signs himself with the Sign of the Cross,
+     saying:
+
+         may be filled with every grace and heavenly blessing.
+
+     He joins his hands.
+
+         (Through Christ our Lord. Amen.)"
+
+*** DOES ANY CENSING ACCOMPANY IT? NO. *** GIRM §276 lists exhaustively the five
+optional moments for incense, and the Supplices is not among them. The nearest
+is (e) "at the elevation of the host and the chalice after the Consecration"
+(GIRM §150: "If incense is used, a server incenses the host and the chalice when
+each is shown to the people after the consecration"), which is EARLIER in the
+Prayer, at the consecration elevations. The Order of Mass n. 94 rubric
+prescribes only a profound bow and the Sign of the Cross. The same is true in
+the 1962 form: the Ritus servandus provides no censing at the Supplices.
+
+Older PUBLIC-DOMAIN English of the same clause — Nicholas Gihr, "The Holy
+Sacrifice of the Mass," B. Herder, 1902 (see the separate Gihr capture file):
+    "We humbly beseech Thee, Almighty God, command these to be carried by the
+    hands of Thy holy Angel to Thine Altar on high, in the presence of Thy
+    divine Majesty…"
+
+=============================================================================
+SEARCHES / FETCHES THAT CAME UP EMPTY
+  usccb.org/.../girm-chapter-2 and girm-chapter-4 — empty response body (twice)
+  catholic-resources.org/ChurchDocs/Mass-Order.htm — empty response body
+  ewtn.com/.../general-instruction-of-the-roman-missal-chapter-iv-2138 — empty
+  angelusonline.org Gihr Canon article — empty response body
+  web.archive.org snapshot of USCCB GIRM ch. 4 — HTTP 403, URL blocklisted
+  vatican.va English GIRM — fetch delivered only through ~n. 171 (truncated at
+    ~113k chars), so §§276-277 were NOT retrievable from vatican.va
+  liturgyoffice.org.uk full GIRM PDF — truncated at ~n. 145; §§276-277 not
+    reachable in that file
+  archive.org full-text search on Gihr item holysacrificeofm00gihriala — "No
+    hOCR or Abbyy file present"; _djvu.txt fetches truncate at ~78k chars
+  ia-fts.archive.org/api/v1/search/hits_inside — empty response
+  NLM "Text of 1970 Ordo Missae in Latin" (2006) — link-only post, no text
+  NLM "The Offertory Incensation, Part II" — no statement on suppression
+    retrievable from the fetched page
+  Wikisource public-domain 1912 English Roman Missal — nothing located

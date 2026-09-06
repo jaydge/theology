@@ -1,0 +1,131 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+=====================================================================
+SUBJECT: The "things inert and unused" passage — the Judicial
+         Committee of the Privy Council's OBITER reference to incense
+         in Martin v. Mackonochie, judgment of Lord Chancellor Cairns,
+         23 December 1868.
+         Reported: (1868) L.R. 2 P.C. 365; the lights portion, which
+         contains this passage, at pp. 386-392.
+
+CARRIER: Church Association Tract 259, "Illegal Ritual in the Church
+         of England: being a list of unlawful practices, with extracts
+         from the judgments relating to them; and an index"
+         (London: Church Association, n.d.; internally dated after
+         The Times of 30 January 1899), pp. 4-6 of 36, under the
+         running head "LIGHTED CANDLES."
+SOURCE URL: https://www.churchsociety.org/wp-content/uploads/2021/05/c_a_tract_259.pdf
+RETRIEVED: 2026-09-05 by pass 260835-56.
+EDITION: PDF scan hosted by Church Society (successor body to the
+         Church Association), uploaded May 2021; 36 pp.
+
+NOTE ON DATE: the tract prints "December 23rd, 1868" at the head of
+this extract (p. 4) but "December 28th, 1868" at the head of the
+kneeling/prostration extract (p. 3), which is the same judgment.
+23 December 1868 is the date generally given. One of the two is a
+misprint; UNRESOLVED by this pass.
+=====================================================================
+
+
+"LIGHTED CANDLES.
+
+LORD CHANCELLOR CAIRNS, delivering the Judgment of the Privy Council,
+December 23rd, 1868, said—
+
+The facts, therefore, on this part of the case, appear to be that the
+Respondent uses two lighted candles during, with reference to, and as
+an accompaniment of the Communion Service, and not for the ordinary
+purpose of giving light, and that these candles are placed on a ledge
+of wood which is placed on the Communion table.
+
+The Dean of Arches seems to have considered, that all the practices
+complained of before him, including this use of lighted candles, were
+ceremonies. The Respondent, in the argument of his counsel at the bar,
+appeared to prefer to treat the question as one of ornament, and
+Mr. James said he considered the lighted candles "part of the
+symbolical decoration of the altar."
+
+If it were necessary to decide which of these views is correct, their
+Lordships would feel disposed to agree with the Dean of Arches that,
+however candles and candlesticks may per se be looked upon as a part
+of the furniture or ornaments of the church, taking the word ornaments
+in the larger sense assigned to it by this Committee in Westerton v.
+Liddell (Moore, p. 156), yet the lighting of the candles and the
+consuming them by burning throughout, and with reference to a service
+in which they are to act as symbols and illustrations, is itself
+either a ceremony, or else a ceremonial act forming part of a
+ceremony, and making the whole ceremony a different one from what it
+would have been, had the lights been omitted....
+
+There is a clear and obvious distinction between the presence in the
+church of things inert and unused, and the active use of the same
+things as a part of the administration of a sacrament or of a
+ceremony. Incense, water, a banner, a torch, a candle and candlestick
+may be parts of the furniture or ornaments of a church: but the
+censing of persons and things, or, as was said by the Dean of Arches,
+the bringing in incense at the beginning or during the celebration,
+and removing it at the close of the celebration of the Eucharist, the
+symbolical use of water in baptism, or its ceremonial mixing with the
+sacramental wine; the waving or carrying of the banner; the lighting,
+cremation, and symbolical use of the torch or candle: these acts give
+a life and meaning to what is otherwise inexpressive: and the act must
+be justified, if at all, as part of a ceremonial law.
+
+If the use of lighted candles in the matter complained of be a
+ceremony or ceremonial act, it might be sufficient to say that it is
+not—nor is any ceremony in which it forms a part—among those retained
+in the Prayer Book, and it must therefore be included among those that
+are abolished; for the Prayer Book, in the preface, divides all
+ceremonies into these two classes; those which are retained are
+specified, whereas none are abolished specifically or by name, but it
+is assumed, that all are abolished which are not expressly retained.
+. . .
+
+As to the argument, that the use complained of is at most only part of
+a ceremony, their Lordships are of opinion that, when a part of a
+ceremony is changed, the integrity of the ceremony is broken and it
+ceases to be the same ceremony. . . .
+
+[There follow the four propositions from Westerton v. Liddell on the
+construction of the Ornaments Rubric, and the Committee's holding
+that lighted candles are not "ornaments" within the Rubric, and are
+not subsidiary to the service.]
+
+Their Lordships have not referred to the usage as to lights during the
+last three hundred years; but they are of opinion, that the very
+general disuse of lights after the Reformation (whatever exceptional
+cases to the contrary might be produced), contrasted with their normal
+and prescribed use previously, affords a very strong contemporaneous
+and continuous exposition of the law upon the subject.
+
+Their Lordships will, therefore, humbly advise Her Majesty, that the
+charges as to lights also has been sustained, and that the Respondent
+should be admonished for the future to abstain from the use of them,
+as pleaded in these articles.—Martin v. Mackonochie, Law Reports,
+Privy Council Appeal Cases, 1867-9, pp. 386 to 392."
+
+
+=====================================================================
+CAPTURE FOOTER — added by pass 260835-56, not part of the source.
+
+WHAT THIS ESTABLISHES:
+ 1. The Judicial Committee did NOT decide the incense charge. Incense
+    had gone against Mackonochie below and was not on appeal. The
+    appeal concerned elevation/kneeling and altar lights.
+ 2. But the Committee named incense expressly, OBITER, as an example
+    within the "inert and unused" / "active use" distinction, and it
+    approved the Dean of the Arches' formulation ("as was said by the
+    Dean of Arches, the bringing in incense at the beginning or during
+    the celebration, and removing it at the close of the celebration
+    of the Eucharist"). The censing of persons and things is put on
+    the wrong side of the line.
+ 3. This is the true origin of the "inert use" language which Westall's
+    1899 "The Case for Incense" (printed p. 11) attributes loosely to
+    Phillimore: 'if he affirms that only its "inert use is now legal"'.
+    The words "inert and unused" are the Privy Council's, not
+    Phillimore's; and they are said of things generally, incense among
+    them, and not as a grant of permission.
+ 4. Because it is obiter and adverse, this passage cannot be cited as
+    a Privy Council holding that ceremonial incense is unlawful — but
+    still less can it be cited for the contrary.
+=====================================================================

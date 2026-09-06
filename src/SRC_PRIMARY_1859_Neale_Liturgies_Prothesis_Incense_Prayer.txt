@@ -1,0 +1,39 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source URLs:
+  https://archive.org/download/liturgiesofsmark00nealuoft/page/n208.jpg  (1859, page image of p. 169)
+  https://archive.org/details/liturgiesofssmar00neal  (Neale & Littledale reissue; same text at p. 193)
+Retrieved 2026-09-05 by pass 260835-56
+Edition: J. M. Neale, tr., "The Liturgies of S. Mark, S. James, S. Clement,
+  S. Chrysostom, and the Church of Malabar." London: Joseph Masters / Hayes,
+  1859. — The later reissue, J. M. Neale & R. F. Littledale, "The Liturgies of
+  SS. Mark, James, Clement, Chrysostom and Basil" / "Translations of the
+  Primitive Liturgies" (London: Griffith Farran), carries the identical wording
+  at p. 193.
+Copyright: PUBLIC DOMAIN.
+Note on title: the "…and Basil" title belongs to the later reissue; the 1859
+  first edition reads "…and the Church of Malabar."
+=============================================================================
+
+Neale prints "The Order of the Holy Prothesis, as performed in the Great Church,
+and the Holy Mountain" as a distinct section beginning at p. 161, separate from
+the Liturgy of S. Chrysostom proper.
+
+p. 169, rubric and prayer as printed (small caps as in the original):
+
+    "The Priest saith the Prayer of Incense.
+
+        We offer to Thee incense, O CHRIST our GOD, for a savour of a spiritual
+        perfume: receive it unto Thy heavenly altar, and send down in its stead
+        the grace of Thy most HOLY SPIRIT."
+
+ALTAR CLAUSE: "receive it unto Thy heavenly altar" — lower-case "altar";
+  verb "receive" in the imperative.
+
+Neale's own note states that his Prothesis text is "Slightly altered from my
+Introduction," i.e. from the General Introduction to "A History of the Holy
+Eastern Church." That volume was not separately verified in this pass.
+
+The OCR of the reissue scan (item liturgiesofssmar00neal, leaf 233) is badly
+garbled — "We ofTcr to Tlice inconsn, 0 Ciiiust our (ton. for a savour of a
+spii-itual perfmno : receive it unto Tliy…" — and must NOT be quoted. Quote the
+1859 page image.

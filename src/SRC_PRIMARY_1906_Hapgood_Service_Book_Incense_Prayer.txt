@@ -1,0 +1,140 @@
+CAPTURE HEADER — added by pass 260835-56, not part of the source.
+Source URLs:
+  https://archive.org/download/cu31924029363128/page/n114.jpg   (1906, Cornell scan, page image of p. 75)
+  https://archive.org/stream/ServiceBookOfHolyOrthodoxChurchByHapgood/Service_Book_Orthodox_Church_Hapgood_djvu.txt (1906, OCR)
+  https://archive.org/download/servicebookofhol0000orth/page/n119.jpg  (1922 rev. ed., page image of p. 74)
+  https://www.ponomar.net/data/hapgood.pdf  (reprint; web_fetch truncates ~93,768 chars, front matter + Vespers only — the Liturgy was NOT reachable this way)
+Retrieved 2026-09-05 by pass 260835-56
+Edition: Isabel Florence Hapgood, tr., "Service Book of the Holy Orthodox-Catholic
+  Apostolic (Greco-Russian) Church". 1st ed., Boston/New York: Houghton, Mifflin
+  and Company, 1906 (title page: MDCCCCVI). Revised ed., New York: Association
+  Press, 1922.
+Copyright: PUBLIC DOMAIN (US, 1906 and 1922).
+Method note: readings below were taken from page images of two independent scans
+  per edition, not from OCR alone. OCR of the 1906 corrupts "fragrance" to
+  "fragranpe" and the rubric "Censer" to "Cexsbr"; those are scanner artifacts,
+  NOT the printed text.
+=============================================================================
+
+(1) PRAYER OF THE CENSER — Liturgy of St John Chrysostom, Office of Oblation
+    (Proskomide / Prothesis), immediately after the particles are gathered on
+    the paten and before the covering of the Gifts.
+
+1906 ed., p. 75. Rubric and prayer as printed:
+
+    "Then the Deacon taketh the censer, and having placed incense therein, he
+    saith to the Priest :
+        Bless, Master, the censer.
+    And straightway he saith :
+        Let us pray to the Lord.
+
+    Then the Priest saith the PRAYER OF THE CENSER.
+
+        Unto thee, O Christ our God, do we offer incense for an odour of
+        spiritual fragrance : which do thou accept upon thy most heavenly
+        Altar, and pour forth upon us in return the grace of thine all-holy
+        Spirit."
+
+    [Note: the mark after "fragrance" is a SPACED COLON ( : ) in the 1906
+    printing. "Altar" is capitalised; "heavenly" is not.]
+
+1922 revised ed., p. 74. Same prayer, ONE substantive change:
+
+        "Unto thee, O Christ-God, do we offer incense for an odour of
+        spiritual fragrance: which do thou accept upon thy most heavenly
+        Altar, and pour forth upon us in return the grace of thine all-holy
+        Spirit."
+
+    Differences 1906 -> 1922:
+      a. "O Christ our God" -> "O Christ-God"   (the only wording change)
+      b. spaced colon -> close colon (French spacing dropped)
+      c. p. 75 -> p. 74; the 1922 sets the Liturgy in parallel columns
+      d. Rubric heading unchanged: "Then the Priest saith the PRAYER OF THE CENSER."
+
+Immediately following on the same page (1906, p. 75), the censer is used at once:
+
+    "Then the Priest, having censed the star-cover, placeth it over the Holy
+    Bread, saying : And the Star came and stood over the place where the young
+    Child was."
+    "Then, taking the censer, the Priest censeth the Table of Oblation, saying
+    thrice : Blessed art thou, O our God, who herein art well pleased. Glory to
+    thee."
+
+-----------------------------------------------------------------------------
+(2) PRAYER OF THE CENSER — pontifical form, before the Gospel. 1906 ed., p. 88,
+    right-hand (pontifical) column:
+
+    "If a Bishop be the celebrant, the Proto-Deacon taketh the censer, and a
+    Deacon the incense, and they approach the Bishop. And the Bishop, putting
+    incense into the censer, reciteth the while the Prayer of the Censer.
+
+        We offer unto thee the censer, O Christ our God, for the savour of a
+        sweet spiritual odour; which do thou accept upon thy most heavenly
+        Altar, requiting us with the grace of thy Holy Spirit."
+
+-----------------------------------------------------------------------------
+(3) PRAYER OF OBLATION — 1906 ed., p. 76 (reprinted p. 80 in the pontifical
+    column). Said with the censer in the deacon's hand:
+
+    "Then both make three devout reverences. And the Deacon, taking the censer,
+    saith : For the Precious Gifts now offered up, let us pray to the Lord.
+    Then the Priest maketh the Prayer of Oblation :
+
+        O God our God, who didst send forth the Heavenly Bread, the Nourishment
+        of the whole world, our Lord and God, Jesus Christ, to be our Saviour
+        and Redeemer and Benefactor, blessing and sanctifying us : Do thou, the
+        same Lord, bless also this oblation, and accept it on thy most heavenly
+        Altar. Call to remembrance those who offer it, and those for whom it is
+        offered, inasmuch as thou art good and lovest mankind ; and preserve us
+        blameless in the holy ministry of thy Divine Mysteries."
+
+-----------------------------------------------------------------------------
+(4) POST-CONSECRATION LITANY — 1906 ed., p. 111 (page number reconstructed from
+    the running-head sequence; treat as high-confidence but not directly
+    legible). NO CENSING accompanies this petition:
+
+    "For the Precious Gifts which have been offered and sanctified, let us pray
+    to the Lord.
+    That our God, who loveth mankind, will accept them upon his holy, and most
+    heavenly, and supersensual Altar, for an odour of spiritual fragrance ; and
+    will send down upon us in return his divine grace and the gift of his Holy
+    Spirit, let us pray to the Lord."
+
+    Parallel in the Liturgy of the Presanctified, 1906 ed., p. 140:
+
+    "That our God, who loveth mankind, accepting them upon his holy and most
+    heavenly and supersensual Altar, in the odour of a spiritual sweet savour,
+    will send down upon us in return his divine grace and the gift of the Holy
+    Spirit"
+
+    [Hapgood's word for the noetic / hyper-heavenly altar is "supersensual"
+    (also printed "super-sensual"). The word "noetic" does NOT occur anywhere in
+    the volume.]
+
+-----------------------------------------------------------------------------
+(5) PRAYER OF THE OBLATION after the Great Entrance, ST BASIL alternative,
+    1906 ed., p. 98 (reconstructed page number):
+
+        "...which do thou accept upon thy holy, and heavenly, and supersensual
+        Altar for the savour of a sweet odour."
+
+    The Chrysostom form in the parallel column reads only:
+        "Accept also the prayer of us sinners, and bear it to thy holy Altar".
+
+-----------------------------------------------------------------------------
+SEARCHES RUN AGAINST THE FULL 1,628,766-CHARACTER TEXT THAT RETURNED ZERO:
+  "altar on high" — 0
+  "noetic" — 0
+  "altar above" — 0
+  "altar in heaven" — 0
+  "spiritual altar" — 0
+  "supra-heavenly" — 0
+  "thurible" — 0 (Hapgood always writes "censer", glossed "Kadílo")
+  "Incense do we offer" — 0 (Hapgood's word order is "do we offer incense")
+
+NOTE ON RUBRICS AT VESPERS AND MATINS: Hapgood prints NO prayer over the incense
+at Vespers or Matins — only the censing rubrics and the psalm verse "Let my
+prayer be set forth in thy sight as incense, and let the lifting up of my hands
+be an evening sacrifice." The "most heavenly Altar" language appears ONLY in the
+Liturgy (and, outside the Liturgy, in the Consecration of a Church, p. 497, and
+in two Thanksgiving offices).
