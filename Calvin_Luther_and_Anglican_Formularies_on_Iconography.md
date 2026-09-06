@@ -1,5 +1,9 @@
 # Calvin, Luther, and Anglican Formularies on Iconography
 
+**Last updated: 260832-2** (date-stamped, format yymmdd-iteration)
+
+> ⚠️ **STAMP LINE ADDED 260835-58 AS A FORMAT REPAIR ONLY — THE VALUE IS NOT NEW AND THE FILE IS NOT NEW.** This file has carried no parseable `**Last updated:**` line since it was written, so validator check `C3` reported it as unstamped at every run while `PROJECT_STATE.md` §4 recorded `260832-2`. ⛔ **The stamp above is the registry's own value, not a bump: no sentence, claim, citation or conclusion in this file was read for content, altered, or re-verified by `260835-58`, and the §4 registry cell is unchanged.** ⭐ **The content vintage remains `260832-2`.**
+
 Fact-check of claims made by RJ (Craig Truglia's interlocutor) in the "Anglican and Orthodox Dialogue, with Craig Truglia" video (timestamp 31:57–32:39, [youtube.com/watch?v=q7XR5CJrzM4](https://www.youtube.com/watch?v=q7XR5CJrzM4)).
 
 ## The claims under review

@@ -3,6 +3,16 @@
 transcribe_yt.py — YouTube URL (or a local audio file) in, project-shaped
 transcript files out.
 
+**Last updated: 260833-7** (date-stamped, format yymmdd-iteration)
+
+STAMP LINE ADDED 260835-58 AS A FORMAT REPAIR ONLY. This file has carried no
+parseable "Last updated" line since it was written, so validator check C3
+reported it as unstamped at every run while PROJECT_STATE.md section 4 recorded
+260833-7. The stamp above is the registry's own value, not a bump: no code,
+default, flag or behaviour in this file was altered by 260835-58, the script was
+not run, and the section 4 registry cell is unchanged. The content vintage
+remains 260833-7.
+
 Downloads audio with yt-dlp, encodes to a small mono m4a, submits to
 AssemblyAI (Universal-3.5 Pro) with the project's key-terms list and a
 per-video contextual prompt, then writes the four files this project
