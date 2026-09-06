@@ -1,0 +1,796 @@
+================================================================================
+SOURCE:            Episcopal Missionary Church (EMC) — published governing
+                   instruments: Constitution (1996), Canons (1998), and official
+                   jurisdiction website statements on worship; plus parish-level
+                   official publications of St. Francis Anglican Church
+                   (Spartanburg, SC), and the text of the 1874 American ritual
+                   canon (Canon 20, Title I, Sec. II) for comparison.
+SOURCE URL:        Multiple — each excerpt is labelled with its own URL below.
+                   Primary domain: https://www.emchome.org
+RETRIEVED:         2026-09-06
+CAPTURING PASS:    260835-60
+CAPTURE METHOD:    mcp__workspace__web_fetch and WebSearch only. No curl/wget/
+                   python fetching. No Wayback fallback was needed: the live EMC
+                   site resolved on first attempt.
+TRANSCRIPTION:     Verbatim, copied from rendered page text. Site navigation
+                   chrome, share links, and the SimpleUpdates footer have been
+                   stripped. Body text, headings, section numbering, and
+                   punctuation are unaltered. Where an original used a curly
+                   apostrophe or quotation mark it is preserved.
+COMPLETENESS NOTE: The EMC canon set was enumerated from the site's own sitemap
+                   (https://www.emchome.org/sitemap), which lists ALL 36 canons
+                   across 4 titles. This makes the negative findings below
+                   (no ceremonial canon, no incense canon, no incorporation of a
+                   prior canon set) findings over a KNOWN-COMPLETE index, not
+                   findings over an unbounded search. The full enumeration is
+                   reproduced at §7 so the completeness claim is auditable.
+CAUTION:           Nothing in this file is an inference. Where a question could
+                   not be answered from a published instrument, it is recorded
+                   as UNMATCHED at §9 with the queries and URLs attempted.
+                   The EMC's position has NOT been inferred from The Episcopal
+                   Church's at any point.
+================================================================================
+
+
+================================================================================
+§1. EMC CONSTITUTION — ARTICLE VII (WORSHIP / PRAYER BOOK)
+URL: https://www.emchome.org/about/constitution
+Document header on page: "The Constitution of the Episcopal Missionary Church /
+Adopted May 23, 1996, at Synod in Columbus, Ohio"
+================================================================================
+
+VERBATIM (Article VII, complete):
+
+ARTICLE VII
+
+The 1928 Book of Common Prayer and Administration of the Sacraments and other
+Rites and Ceremonies of the Church, together with the Psalter or Psalms of David,
+the Form and Manner of Making, Ordaining and Consecrating Bishops, Priests, and
+Deacons, the Form of Consecration of a Church or Chapel, the Office of
+Institution of Ministers and Articles of Religion, as now established or
+hereafter amended by the authority of this Church, shall be in use in all
+parishes of this Church. No alteration thereof or addition thereto shall be made
+unless the same shall be proposed in one meeting of the Synod and by a resolve
+thereof sent within six months to the Clerk of the Vestry of every Parish, to be
+made known to the Vestry at its next meeting, and be adopted by the Synod at its
+next succeeding meeting on a vote by orders as provided for in Section 5 of
+Article I. Provided, however, that the Synod at any meeting shall have power to
+amend the Table of Lessons and all Tables and Rubrics relating to the use of the
+Psalms by a two-thirds affirmative vote of the Synod voting by orders. And
+Provided, further, that nothing in this article shall be construed as restricting
+the authority of the Bishops of this Church to take such order as may be
+permitted by the Rubrics of the Book of Common Prayer or by the Canons of this
+Church for the special forms of worship. With the permission of the Bishop
+Ordinary of the Diocese, other formularies in conformity with the theology of the
+1928 Book of Common Prayer may be used.
+
+--- CAPTURE NOTE (not part of the source) ---
+Three load-bearing features of Article VII:
+  (i)   The 1928 BCP is mandated CONSTITUTIONALLY ("shall be in use in all
+        parishes of this Church"), not merely by canon and not merely by custom.
+  (ii)  The saving clause for episcopal discretion is expressly BOUNDED: the
+        Bishops' authority is "to take such order as may be permitted by the
+        Rubrics of the Book of Common Prayer or by the Canons of this Church for
+        the special forms of worship." The bound is the Rubrics and the Canons.
+  (iii) The escape hatch for other liturgical books is vested in the BISHOP
+        ORDINARY, not the rector, and is itself bounded by a doctrinal standard:
+        "other formularies in conformity with the theology of the 1928 Book of
+        Common Prayer may be used."
+Article VII's title phrase "other Rites and Ceremonies of the Church" is part of
+the FULL TITLE of the 1928 Prayer Book itself; it is not a freestanding grant of
+ceremonial authority. This is stated here to prevent misreading, and is a capture
+note, not a claim of the source.
+--- END CAPTURE NOTE ---
+
+
+================================================================================
+§2. EMC CONSTITUTION — ARTICLES V AND VIII (CONFORMITY DECLARATION; RELATION TO
+    OTHER ECCLESIASTICAL BODIES)
+URL: https://www.emchome.org/about/constitution
+================================================================================
+
+VERBATIM (Article V, Section 1, relevant portion):
+
+No man shall be ordained and consecrated Bishop, or ordained Priest or Deacon in
+this Church, unless at the time, in the presence of the ordaining Bishop or
+Bishops, he shall subscribe and make the following declaration: "I do believe the
+Holy Scriptures of the Old and New Testaments to be the Word of God, and to
+contain all things necessary to salvation; and I do solemnly engage to conform to
+the Doctrine, Discipline and Worship of this Church."
+
+VERBATIM (Article VIII, complete):
+
+ARTICLE VIII
+
+SECTION 1. This Church or Diocese shall hold title to its own property, whether
+real or personal, in its own name, under the laws of the civil jurisdiction in
+which it is located; and shall be immune to the temporal claim or jurisdiction of
+any other body, corporation, or person, civil or ecclesiastical.
+
+SECTION 2. Each Parish shall hold title to its own property, whether real or
+personal, in its own name, under the laws of the civil jurisdiction in which it
+is located, and shall be immune to the temporal claim or jurisdiction of any
+other body, corporation, or person, civil or ecclesiastical.
+
+--- CAPTURE NOTE (not part of the source) ---
+Article VIII is the only place in the EMC Constitution that speaks to the EMC's
+relation to another ecclesiastical body's instruments, and it does so only as to
+PROPERTY and TEMPORAL JURISDICTION ("immune to the temporal claim or jurisdiction
+of any other body, corporation, or person, civil or ecclesiastical"). It is
+evidently framed against trust-clause claims of the kind ECUSA asserts. It says
+nothing about continuity or discontinuity with ECUSA's CANONICAL or LITURGICAL
+instruments. The Constitution nowhere names ECUSA, the Protestant Episcopal
+Church, or the Episcopal Synod of America. See §9 UNMATCHED item (a2).
+--- END CAPTURE NOTE ---
+
+
+================================================================================
+§3. EMC CANONS — TITLE II (WORSHIP), COMPLETE
+URL (title index): https://www.emchome.org/about/canons/title2
+Canon-set header (from https://www.emchome.org/about/canons):
+  "The Canons of the Episcopal Missionary Church /
+   Adopted in General Synod, October 9, 1998 /
+   Effective as of November 29, 1998"
+================================================================================
+
+TITLE II OF THE EMC CANONS CONTAINS EXACTLY THREE CANONS. All three are
+reproduced here in full. There is no fourth.
+
+--------------------------------------------------------------------------------
+Canon 12 Of Translations of the Bible
+URL: https://www.emchome.org/about/canons/title2/canon-12-of-translations-of-the-bible
+--------------------------------------------------------------------------------
+VERBATIM (complete):
+
+The Lessons at Morning and Evening Prayer and at the Holy Communion shall be read
+from a translation of the Holy Scriptures approved by this Church, among which
+are the following: The King James or Authorized Version; The New King James
+Version; The Revised Standard Version of 1957; The New International Version; The
+English Version. If the Rector of a congregation desires to use any other
+translation he shall request permission of the Bishop.
+
+--------------------------------------------------------------------------------
+Canon 13 Of the Standard Book of Common Prayer
+URL: https://www.emchome.org/about/canons/title2/canon-13-of-the-standard-book-of-common-prayer
+--------------------------------------------------------------------------------
+VERBATIM (complete — this canon is one sentence):
+
+According to Article VII of the Constitution, the 1928 Book of Common Prayer shall
+be the standard Book of Common Prayer in this Church.
+
+--------------------------------------------------------------------------------
+Canon 14 Of the Music of the Church
+URL: https://www.emchome.org/about/canons/title2/canon-14-of-the-music-of-the-church
+--------------------------------------------------------------------------------
+VERBATIM (complete):
+
+It shall be the duty of every Rector to see that music is used in his
+congregation as an offering for the glory of God and as a help to the people in
+their worship. To this end he shall be the final authority in the administration
+of matters pertaining to music with such assistance as he may see fit to employ
+from persons skilled in music. It shall be his duty to suppress all unseemly
+music and all irreverence in the rendition thereof.
+
+--- CAPTURE NOTE (not part of the source) ---
+Canon 14 is the ONLY canon in the entire EMC canon set that vests a "final
+authority" in the RECTOR over any element of the conduct of worship, and its
+subject-matter is expressly and exclusively MUSIC. Its grant is bounded by a
+duty: "It shall be his duty to suppress all unseemly music and all irreverence in
+the rendition thereof." Note that Canon 12, by contrast, is the pattern the EMC
+uses when it wants to bound a rector's liturgical choice by episcopal permission:
+"If the Rector of a congregation desires to use any other translation he shall
+request permission of the Bishop." The EMC therefore demonstrably knows how to
+write a rector-requires-bishop's-permission clause, and did so for Bible
+translations. It wrote no such clause for ceremonial.
+--- END CAPTURE NOTE ---
+
+
+================================================================================
+§4. EMC CANONS — CANON 07 (PARISHES AND VESTRIES): THE RECTOR'S AUTHORITY
+URL: https://www.emchome.org/about/canons/title1/canon-07-of-parishes-and-vestries
+================================================================================
+
+VERBATIM (Sections 3, 4 and 5; the sections bearing on the rector's authority):
+
+Section 3.
+Every parish shall, if possible, own its own property and have control over it
+and neither the diocese nor this Church shall have any equitable interest or
+trust estate therein. For the purposes of his office, and for the full and free
+discharge of all the functions and duties pertaining thereto, the Rector shall,
+at all times, be entitled to the use and control of the church and parish
+buildings with the appurtenances and furniture thereof.
+
+Section 4.
+The Rector of the parish shall be chosen by the vestry with the consent of the
+congregation and the Bishop and said Rector shall be subject to all the
+provisions of these canons. In every case, the Bishop shall license the
+credentials of the priest chosen to be Rector before he is canonically instituted.
+
+Section 5.
+The vestry of the parish is the governing board chosen in accordance with the
+laws of the state, diocesan canons and its own by-laws. Except as provided by the
+laws of the state or of the diocese, the vestry shall have legal responsibility
+for the temporalities of the parish, serving as the agent and the legal
+representative thereof. The vestry shall be a part of the Board of Directors of
+the parish corporation. The Rector shall always be a member of the vestry and its
+presiding officer, having both voice and vote.
+
+--- CAPTURE NOTE (not part of the source) ---
+Canon 07 §3's grant to the rector is over PROPERTY — "the use and control of the
+church and parish buildings with the appurtenances and furniture thereof" — not
+over ceremonial or liturgical practice. Canon 07 §4 subordinates the rector
+generally: "said Rector shall be subject to all the provisions of these canons."
+--- END CAPTURE NOTE ---
+
+
+================================================================================
+§5. EMC CANONS — CANONS 23, 24, 29, 36: THE SEARCH FOR A CEREMONIAL PROVISION
+================================================================================
+
+Each of the four canons where a ceremonial provision would most plausibly sit was
+retrieved in full. None names incense. None addresses ceremonial generally. The
+operative excerpts are reproduced below.
+
+--------------------------------------------------------------------------------
+Canon 23 Of the Duties of Bishops
+URL: https://www.emchome.org/about/canons/title3/canon-23-of-the-duties-of-bishops
+--------------------------------------------------------------------------------
+VERBATIM (Sections 2 and 4 — the only sections touching worship or doctrine):
+
+Section 2.
+Every Bishop shall visit every congregation in his diocese at least once in every
+three years for the purpose of examining their condition, preaching the Gospel,
+celebrating the Holy Eucharist, and confirming those presented for that purpose.
+
+Section 4.
+Every Bishop shall deliver at the Diocesan Convention a Charge to the clergy of
+his diocese and may, from time to time, address to the people of the diocese
+Pastoral Letters on points of Christian doctrine, worship, or manners, which he
+may require the clergy to read or distribute to their congregations.
+
+CAPTURE NOTE: Canon 23 contains NO visitatorial power over ceremonial, NO power
+of admonition as to ritual, and NO investigative procedure. The bishop's
+worship-related instrument under §4 is hortatory (a Pastoral Letter), not
+coercive. This is the point of sharpest contrast with the 1874 canon at §8 below.
+
+--------------------------------------------------------------------------------
+Canon 24 Of the Duties of Priests
+URL: https://www.emchome.org/about/canons/title3/canon-24-of-the-duties-of-priests
+--------------------------------------------------------------------------------
+Retrieved in full (Sections 1-9). Its subject matter is, in order: the Parish
+Register (§1); catechesis for baptism and confirmation (§2); reporting duties to
+the Bishop, including reading Pastoral Letters (§3); officiating outside one's own
+diocese (§4); Letters Dimissory and canonical residence (§§5-6); officiating
+outside the Church (§7); retired and non-serving priests (§8); military and
+institutional chaplaincy (§9).
+
+CAPTURE NOTE: Canon 24 contains NO provision on ceremonial, ritual, ornaments,
+vesture, or incense. There is no "duties of priests" clause on the conduct of the
+liturgy at all. Full text is at the URL above.
+
+--------------------------------------------------------------------------------
+Canon 29 Of Offenses
+URL: https://www.emchome.org/about/canons/title4/canon-29-of-offenses
+--------------------------------------------------------------------------------
+VERBATIM (Section 1, complete — the enumerated offenses):
+
+Section 1.
+A bishop, priest or deacon of this Church shall be liable to Presentment and
+trial for the following offenses, viz.:
+
+1. Crime or immorality;
+2. Holding or teaching publicly or privately and advisedly, any doctrine contrary
+   to that held by this Church;
+3. Violation of the Canons or the Constitution of this Church;
+4. Violation of the Constitution or Canons of the diocese to which he belongs;
+5. Any act which involves a violation of his ordination vows;
+6. Habitual neglect of public worship, and the Holy Communion, according to the
+   order and use of this Church;
+7. Conduct unbecoming a clergyman.
+
+CAPTURE NOTE: The enumerated offenses reach DOCTRINE (item 2) and NEGLECT of the
+Church's order and use (item 6). They do not reach ceremonial as such. There is
+no offense of introducing unauthorized ceremonies, and no counterpart to the 1874
+canon's category of ceremonies "setting forth or symbolizing erroneous or
+doubtful doctrines." Item 3 makes violation of the Constitution an offense, which
+is the route by which Article VII's mandate is enforceable.
+
+--------------------------------------------------------------------------------
+Canon 36 Of Enactment, Amendment, and Repeal
+URL: https://www.emchome.org/about/canons/title4/canon-36-of-enactment-amendment-and-repeal
+--------------------------------------------------------------------------------
+VERBATIM (Sections 1, 2 and 4):
+
+Section 1.
+No new canon shall be enacted, or existing canon be amended or repealed, except
+by the General Synod by a majority vote in each order.
+
+Section 2.
+Whenever a canon which repealed another canon, or part thereof, shall itself be
+repealed, such previous canon or part thereof shall not thereby be revived or
+re-enacted, without express words to that effect.
+
+Section 4.
+These canons, as well as amendments to these canons, upon adoption, shall become
+effective as of the next following First Sunday of Advent or as otherwise
+provided by the adopting General Synod.
+
+CAPTURE NOTE: Canon 36 is the EMC's own residual/transitional canon. It contains
+NO clause receiving, adopting, continuing, or incorporating by reference any
+prior canon set — not the pre-1979 American canons, not the 1874 Digest, not
+ECUSA's canons at any date. Section 2 is an anti-revival rule, i.e. the opposite
+of an incorporation clause. This is the decisive negative for question (e).
+
+--------------------------------------------------------------------------------
+Canon 04 Of Dioceses (delegation to diocesan canons)
+URL: https://www.emchome.org/about/canons/title1/canon-04-of-dioceses
+--------------------------------------------------------------------------------
+VERBATIM (Sections 3 and 4):
+
+Section 3.
+Each diocese shall have its own canons, a Council of Advice, a Chancellor who
+shall be a practicing attorney licensed by the state in which he/she resides, a
+Treasurer, a Secretary, and a Diocesan Court. The duties of the aforementioned
+shall be defined in the canons of the diocese.
+
+Section 4.
+The diocesan canons shall be in accord with the canons of this Church and with
+civil law.
+
+CAPTURE NOTE: Canon 04 §3 requires each diocese to have its own canons. Those
+diocesan canons could in principle carry a ceremonial provision. NO EMC DIOCESAN
+CANON SET WAS FOUND PUBLISHED ONLINE. See §9 UNMATCHED item (c2)/(d2). Canon 04
+§4 caps them: they "shall be in accord with the canons of this Church."
+
+--------------------------------------------------------------------------------
+Canon 08 Of Congregations and Clergy Seeking Affiliation (rite requirement)
+URL: https://www.emchome.org/about/canons/title1/canon-08-of-congregations-and-clergy-seeking-affiliation
+--------------------------------------------------------------------------------
+VERBATIM (Section 1):
+
+A congregation of Christian people, holding the Christian faith as set forth in
+the catholic creeds and recognizing the Holy Scriptures as containing all things
+necessary for salvation and using a rite approved by this Church or declaring its
+intention to do so, may make application for affiliation with this Church to the
+Bishop of the diocese in whose jurisdiction the congregation is located. The
+Bishop may accept the congregation pending the approval of the Diocesan
+Convention.
+
+
+================================================================================
+§6. EMC OFFICIAL WEBSITE — ORIGIN AND WORSHIP STATEMENTS
+================================================================================
+
+--------------------------------------------------------------------------------
+URL: https://www.emchome.org/about  ("About the EMC")
+--------------------------------------------------------------------------------
+VERBATIM (opening paragraph and the paragraph on liturgical style):
+
+The Episcopal Missionary Church (EMC), incorporated in 1992, is an outgrowth of
+the Episcopal Synod of America (now Forward in Faith, North America), an
+association formed to maintain the traditional faith and practice of The
+Episcopal Church. The Rt. Rev. A. Donald Davies, retired Bishop of Fort Worth,
+Texas, served as its first Presiding Bishop and was succeeded by The Rt. Rev.
+William W. Millsaps, former Chaplain of the University of the South at Sewanee,
+Tennessee. [...]
+
+We acknowledge the Nicene and Apostles' Creeds as definitive statements of the
+Christian faith, emphasize the necessity of the Sacraments of Baptism and Holy
+Communion, and support the historic Episcopate as a means of maintaining
+Apostolic Succession. We embrace a variety of liturgical styles from Evangelical
+to Anglo-Catholic.
+
+CAPTURE NOTE: "We embrace a variety of liturgical styles from Evangelical to
+Anglo-Catholic" is the EMC's only official jurisdiction-level statement on
+ceremonial breadth. It is a WEBSITE statement, not a constitutional or canonical
+provision, and it grants no discretion to any officer; it describes, it does not
+authorize. Its status is accordingly weaker than Article VII.
+
+--------------------------------------------------------------------------------
+URL: https://www.emchome.org/about/about-our-worship  ("About our Worship")
+--------------------------------------------------------------------------------
+VERBATIM (the paragraph bearing on the Prayer Book):
+
+Because the Anglican tradition has its roots in the ancient Church but also
+experienced the Reformation, we have the whole of the Christian heritage
+available to us. There is an inherent integrity in a heritage which acknowledges
+wisdom from all ages of the Church for growth in Christ. This approach, together
+with our liturgies, prayers and devotions, allows us to integrate the rhythms of
+the life of the Church with the rhythms and occasions of our lives. To this end,
+the EMC predominantly uses the *The Book of Common Prayer* (1928) as the basis
+for our worship. The Prayer Book is a document which is best described as being
+orthodox in its expressions of the Christian faith, utilizing liturgies which
+have been a part of catholic worship for centuries.
+
+CAPTURE NOTE: The website hedges ("predominantly uses ... as the basis for our
+worship") where the Constitution does not ("shall be in use in all parishes of
+this Church"). The instruments are the stronger authority; the divergence in
+register is recorded here without being resolved.
+
+--------------------------------------------------------------------------------
+URL: https://christchurchanglican.org/anglican-faith/the-emc/
+(Christ Church Anglican, Westerville OH — an EMC parish listed at
+ https://www.emchome.org/parishes — publishing an account of EMC origins)
+--------------------------------------------------------------------------------
+VERBATIM (the two paragraphs on origin and on worship):
+
+In an attempt to work within the ECUSA, to restore it to its Biblical and
+historical beliefs, the Episcopal Synod of America was formed to provide a voice
+for those not in agreement with breaking from the faith. In 1992, the Episcopal
+Synod of Americas formed a Missionary Diocese to offer pastoral care tot eh
+thousands being excluded from their own church. Faced with ongoing rejection and
+hostility, the Missionary Diocese withdrew from ECUSA in 1992 and formed the
+Episcopal Missionary Church. The Right Reverend A. Donald Davies, retired Bishop
+of Dallas and Fort Worth, was named the first Presiding Bishop.
+
+The Episcopal Missionary Church is a missionary church reaching out to Christians
+from all backgrounds. We worship using liturgy contained in the 1928 edition of
+the Book of Common Prayer. Our motto, "Defend the Historic Faith," is descriptive
+of both the beliefs and practices of the EMC. All of the traditional values and
+doctrines which have made the Christian Church the great witness of our Lord's
+teachings are alive and well.
+
+CAPTURE NOTE: Typographical errors ("Episcopal Synod of Americas", "tot eh") are
+in the original and are reproduced verbatim. This is a PARISH publication of a
+jurisdiction-level narrative, not a jurisdiction instrument. It supplies the
+withdrawal language ("withdrew from ECUSA in 1992") that the EMC's own /about
+page softens to "is an outgrowth of the Episcopal Synod of America."
+
+
+================================================================================
+§7. COMPLETE ENUMERATION OF THE EMC CANON SET
+URL: https://www.emchome.org/sitemap (and the four Title index pages)
+================================================================================
+
+Reproduced so that the negative findings in this file are auditable against a
+known-complete index. 36 canons, 4 titles.
+
+TITLE I - Organization and Administration
+  Canon 01 Of The General Synod
+  Canon 02 Of The Presiding Bishop and the Council of Bishops
+  Canon 03 Of the Synodical Council
+  Canon 04 Of Dioceses
+  Canon 05 Of Missionary Districts
+  Canon 06 Of Councils of Advice
+  Canon 07 Of Parishes and Vestries
+  Canon 08 Of Congregations and Clergy Seeking Affiliation
+  Canon 09 Of Intercommunion Agreements
+  Canon 10 Of the Laity
+  Canon 11 Of Holy Matrimony
+    >>> TITLE I ENDS AT CANON 11. THERE IS NO "CANON 20, TITLE I" IN THE EMC
+        CANON SET. <<<
+
+TITLE II - Worship
+  Canon 12 Of Translations of the Bible
+  Canon 13 Of the Standard Book of Common Prayer
+  Canon 14 Of the Music of the Church
+    >>> THE ENTIRE WORSHIP TITLE IS THREE CANONS: BIBLE TRANSLATION, PRAYER
+        BOOK, AND MUSIC. THERE IS NO CANON ON CEREMONIAL, RITUAL, ORNAMENTS,
+        VESTURE, OR INCENSE. <<<
+
+TITLE III - The Ministry
+  Canon 15 Of Holy Orders in General
+  Canon 16 Of Postulants
+  Canon 17 Of Candidates for Holy Orders
+  Canon 18 Of the Board of Examining Chaplains
+  Canon 19 Of Ordination to the Diaconate
+  Canon 20 Of Ordination to the Priesthood
+  Canon 21 Of Clergy Ordained in Other Churches
+  Canon 22 Of the Election of Bishops
+  Canon 23 Of the Duties of Bishops
+  Canon 24 Of the Duties of Priests
+  Canon 25 Of the Duties of Deacons
+  Canon 26 Of Deaconesses
+  Canon 27 Of Lay Readers
+  Canon 28 Of Religious Communities
+
+TITLE IV - Ecclesiastical Discipline
+  Canon 29 Of Offenses
+  Canon 30 Of Courts and their Membership
+  Canon 31 Of Presentments
+  Canon 32 Of A Clergyman Chargeable with Offense
+  Canon 33 Of Renunciation of the Ministry
+  Canon 34 Of the Dissolution of the Pastoral Relation
+  Canon 35 Of Sentences
+  Canon 36 Of Enactment, Amendment, and Repeal
+
+EMC "Canon 20" IS "Of Ordination to the Priesthood," IN TITLE III.
+URL: https://www.emchome.org/about/canons/title3/canon-20-of-ordination-to-the-priesthood
+VERBATIM (complete):
+
+Section 1.
+A deacon desiring to be ordained to the priesthood, having passed the
+examinations of the Board of Examining Chaplains, shall apply to the Bishop to be
+ordained priest, submitting to him the credentials set forth in Canon 19, Section
+1.
+
+Section 2.
+When all the requirements of' Section 1 have been satisfied, the Bishop shall
+take order for the ordination of the deacon to the priesthood.
+
+Section 3.
+No man shall be ordained to the priesthood without a cure.
+
+("requirements of'" — stray apostrophe is in the original.)
+
+
+================================================================================
+§8. THE 1874 AMERICAN RITUAL CANON (CANON 20, TITLE I, SEC. II) — TEXT AS PASSED
+SOURCE: Speech by the Rev. James De Koven, October 26th, 1874, reproducing the
+        canon as finally passed by the General Convention of 1874.
+URL: https://anglicanhistory.org/dekoven/canon.html
+================================================================================
+
+CAPTURED FOR COMPARISON ONLY. This is NOT an EMC instrument. It is reproduced so
+that the question "does this form part of the EMC's canonical baseline" can be
+answered against the actual text rather than against a description of it.
+
+VERBATIM (as reproduced at the above URL, under the heading "THE CANON AS FINALLY
+PASSED"):
+
+Resolved, That instead of the section as passed by the House of Deputies, and
+proposed to be amended by the House of Bishops, the following additional section
+be added to Canon 20, of Title I., "Of the Use of the Book of Common Prayer":
+
+Sec. II. [i.] If any Bishop have reason to believe, or if complaint be made to
+him in writing by two or more of his Presbyters, that within his jurisdiction,
+ceremonies or practices not ordained or authorized in the Book of Common Prayer,
+and setting forth or symbolizing erroneous or doubtful doctrines, have been
+introduced by any minister during the celebration of the Holy Communion, (such
+as—
+
+a. The Elevation of the Elements in the Holy Communion in such manner as to
+expose them to the view of the people as objects towards which adoration is to be
+made.
+
+b. Any act of adoration of or toward the Elements in the Holy Communion, such as
+bowings, prostrations, or genuflections; and,
+
+c. All other like acts not authorized or allowed by the Rubrics of the Book of
+Common Prayer),
+
+It shall be the duty of such Bishop to summon the Standing Committee as his
+Council of Advice, and with them to investigate the matter.
+
+[2.] If after investigation it shall appear to the Bishop and Standing Committee
+that ceremonies or practices not ordained or authorized as aforesaid, and setting
+forth or symbolizing erroneous or doubtful doctrines, have in fact been
+introduced as aforesaid, it shall be the duty of the Bishop by instrument of
+writing under his hand to admonish the Minister so offending to discontinue such
+practices or ceremonies; and if the minister shall disregard such admonition, it
+shall be the duty of the Standing Committee to cause him to be tried for a breach
+of his ordination vow; provided, that nothing herein contained shall prevent the
+presentment, trial, and punishment of any minister under the provisions of
+Section i, of Canon 2, Title II., of the Digest.
+
+[3.] In all investigations under the provisions of this Canon, the minister whose
+acts or practices are the subject-matter of the investigation shall be notified,
+and have opportunity to be heard in his defense. The charges preferred and the
+findings of the Bishop and Standing Committee shall be in writing, and a record
+shall be kept of the proceedings in the case.
+
+--- CAPTURE NOTES (not part of the source) ---
+1. THE ENACTED 1874 TEXT DOES NOT NAME INCENSE. Its three illustrations are
+   (a) elevation of the elements for adoration, (b) acts of adoration toward the
+   elements, and (c) "All other like acts not authorized or allowed by the
+   Rubrics of the Book of Common Prayer." Incense would have to be brought under
+   (c), and (c) is limited by "like acts," i.e. like acts of adoration of the
+   elements. Any assertion that the 1874 canon names incense would be false to
+   this text. This matters and is easy to get wrong.
+2. STRUCTURAL CONTRAST WITH THE EMC. The 1874 canon vests ceremonial oversight in
+   the BISHOP acting WITH the Standing Committee as Council of Advice, with a
+   defined procedure: investigate, admonish in writing, then try for breach of
+   ordination vow, with notice and a right to be heard and a written record. The
+   EMC canons contain no analogue of any step in that procedure. The EMC does
+   have Councils of Advice (Canon 06) and Diocesan Courts (Canon 04 §3), but they
+   are nowhere connected to ceremonial.
+3. This capture is from De Koven's published speech reproducing the canon, which
+   is a contemporaneous reproduction, not the Digest itself. It should be
+   corroborated against a printed Digest of the Canons before any verbatim
+   deployment. Flagged as a source-strength limitation, not a doubt about
+   substance.
+--- END CAPTURE NOTE ---
+
+
+================================================================================
+§9. UNMATCHED — QUESTIONS NOT ANSWERABLE FROM A PUBLISHED INSTRUMENT
+================================================================================
+
+(a2) UNMATCHED: Any EMC instrument stating the EMC's relation to the CANONICAL OR
+     LITURGICAL INSTRUMENTS of ECUSA (as distinct from its property claims).
+     The Constitution and Canons nowhere name ECUSA, the Protestant Episcopal
+     Church, or the Episcopal Synod of America. Article VIII addresses temporal
+     and property jurisdiction only (§2 above). The origin narrative exists only
+     at website level (§6).
+     Searched:
+       - fetched https://www.emchome.org/about/constitution (full text read)
+       - fetched https://www.emchome.org/about/canons and all four Title indexes
+       - fetched https://www.emchome.org/about
+       - fetched https://www.emchome.org/sitemap (confirms no preamble page, no
+         declaration page, no "history" page exists on the site)
+       - WebSearch: "Episcopal Missionary Church" 1992 Davies "Episcopal Synod of
+         America" founding statement withdrew Episcopal Church canons
+     Result: no founding declaration, preamble, or act of separation is published.
+
+(c2)/(d2) UNMATCHED: EMC DIOCESAN canons. Canon 04 §3 requires every diocese to
+     have its own canons, and Canon 29 §1 item 4 makes their violation an
+     offense, so a diocesan ceremonial provision is possible in principle. None
+     is published online.
+     Searched:
+       - WebSearch: "Episcopal Missionary Church" diocesan canons "Diocese of the
+         South" OR "Diocese of the West" ceremonial incense rubrics
+       - WebSearch: "Episcopal Missionary Church" "Diocese of the South" canons
+         constitution pdf
+       Both returned only mainline Episcopal Church diocesan material (TEC
+       dioceses of South Carolina, Southern Ohio, South Dakota, Texas, West
+       Texas), which is NOT probative of the EMC and has not been used.
+       - https://www.emchome.org/sitemap lists no diocesan-canons page.
+     Result: EMC diocesan canons are not published on any site reached. Whether
+     any EMC diocese has a ceremonial canon is UNKNOWN, not answered in the
+     negative.
+
+(c3) UNMATCHED: Any EMC "book of discipline" as a document distinct from Title IV
+     of the Canons. The EMC's discipline is Title IV of its Canons (Canons 29-36);
+     no separately-titled book of discipline appears in the sitemap or in search.
+     Searched: https://www.emchome.org/sitemap (complete site index); WebSearch
+     "Episcopal Missionary Church" constitution and canons.
+
+(e2) UNMATCHED as to intent: no published EMC instrument states WHY the 1874
+     ritual canon was not carried forward, or whether its omission was
+     deliberate. The omission itself is established (§5 Canon 36, §7); the reason
+     for it is not documented anywhere located.
+
+(f2) NOT A FINDING — RECORDED TO PREVENT A FUTURE ERROR:
+     A search for St. Francis Anglican Church surfaced ST. FRANCIS ANGLICAN
+     CHURCH, AUSTIN, TEXAS (stfrancisaustin.org), which also advertises 1928 BCP
+     use and has an "About our Worship" page whose wording closely tracks the
+     EMC's own. IT IS NOT AN EMC PARISH. Its site links to the Anglican Diocese
+     of Fort Worth (fwepiscopal.org, redirecting to adfw.org), which is ACNA.
+     The EMC parish is ST. FRANCIS ANGLICAN CHURCH, SPARTANBURG, SOUTH CAROLINA
+     (anglican-church.org), per https://www.emchome.org/parishes. Any material
+     from stfrancisaustin.org must NOT be attributed to the EMC parish.
+
+
+================================================================================
+§10. ST. FRANCIS ANGLICAN CHURCH (EMC), SPARTANBURG, SC — OFFICIAL PARISH
+     PUBLICATIONS ON PRAYER BOOK USE
+Confirmed as the EMC parish by https://www.emchome.org/parishes, which lists
+"St. Francis Anglican Church, Spartanburg SC" linking to https://www.anglican-church.org/
+================================================================================
+
+--------------------------------------------------------------------------------
+URL: https://www.anglican-church.org/ (home page)
+--------------------------------------------------------------------------------
+VERBATIM:
+
+We are a traditional Anglican parish that worships with the 1928 Book of Common
+Prayer.
+
+Join us for the receiving of the Word and the breaking of the Bread every Sunday
+at 10:00 am.
+
+(Site footer, appearing on every page, verbatim:)
+St. Francis Anglican Church, Spartanburg, South Carolina uses the 1928 Book of
+Common Prayer
+
+--------------------------------------------------------------------------------
+URL: https://www.anglican-church.org/about
+--------------------------------------------------------------------------------
+VERBATIM (mission/vision/values and service schedule; personnel details omitted
+per the no-individuals constraint, except the parish's own statement of its
+jurisdiction):
+
+Our Mission: To know Christ and to make Christ known through the Anglican
+tradition.
+
+Our Vision: To worship well within and to spread the Gospel throughout our
+Community Mission Field.
+
+Our Values: We are…
+- guided by the Light of Holy Scripture,
+- aligned with the Apostles' Creed, the Nicene Creed, and the Athanasian Creed,
+- presented through the 1928 Book of Common Prayer
+
+SUNDAYS:
+Morning Prayer: 8:40
+Adult Formation Class: the Book of Revelation: 9:05
+Holy Communion (1928 BCP): 10:00
+
+WEDNESDAYS:
+Evening Prayer/Holy Communion: 6:30 PM
+
+Jurisdiction: Episcopal Missionary Church
+
+--------------------------------------------------------------------------------
+URL: https://www.anglican-church.org/what-is-anglicanism  (FAQ)
+--------------------------------------------------------------------------------
+VERBATIM (from the answer to "What do you believe?"):
+
+We are also what is known as a confessional tradition; this means that we have
+authoritative documents detailing our beliefs. We hold to the following as part
+of this tradition: the Book of Common Prayer (US, 1928), the XXXIX Articles, and
+the Books of Homilies (links for each).
+
+VERBATIM (from the answer to "Are you Protestant or Catholic?"):
+
+Anglicanism is a branch of the historic Catholic Church; we trace our roots to
+the English Christian tradition, itself dating back to the first century. [...]
+While we are fundamentally Catholic (again, in that historic "of the whole"
+sense), we did undergo reformation in the 16th century.
+
+VERBATIM (from the answer to "Why do you use liturgy?", the description of the
+Sunday service order):
+
+Within the Anglican Tradition, the Liturgy for Sunday chiefly is Holy Communion.
+The worship can be divided up thusly: first, the Liturgy of the Word. This is
+where we read from the Scriptures, always reading from one of the Gospels last.
+From here, we confess our Faith in the words of the Nicene Creed (a summation of
+what Scripture tells us Who God is), then an homily (a sermon) is given. Second,
+we come to the Offertory and the Prayers for the Whole State of Christ's Church.
+[...] Thirdly and finally, we celebrate the Lord's Supper, giving thanks
+afterwards for the great benefit of being united to Christ in both Word and
+Sacrament. From there we praise God in the Gloria in Excelsis, then are dismissed
+after singing further praises to the Lord.
+
+CAPTURE NOTE: The parish's published FAQ names as its authoritative documents the
+1928 BCP, the XXXIX Articles, and the Books of Homilies. It publishes nothing
+about ceremonial, ornaments, or incense. Its description of the Sunday liturgy
+tracks the 1928 BCP order and mentions no Missal and no supplementary material.
+Note for the project's purposes: the parish names the XXXIX Articles and the
+Homilies as authoritative; the EMC Constitution Article VII likewise carries the
+"Articles of Religion" into the mandated book. Neither names the 1662 BCP.
+
+
+================================================================================
+§11. FULL LOG OF URLs FETCHED IN THIS PASS (all via mcp__workspace__web_fetch)
+================================================================================
+OK  https://www.emchome.org/about/constitution
+OK  https://www.emchome.org/about/canons
+OK  https://www.emchome.org/about/canons/title1
+OK  https://www.emchome.org/about/canons/title2
+OK  https://www.emchome.org/about/canons/title3
+OK  https://www.emchome.org/about/canons/title4
+OK  https://www.emchome.org/about/canons/title1/canon-04-of-dioceses
+OK  https://www.emchome.org/about/canons/title1/canon-07-of-parishes-and-vestries
+OK  https://www.emchome.org/about/canons/title1/canon-08-of-congregations-and-clergy-seeking-affiliation
+OK  https://www.emchome.org/about/canons/title2/canon-12-of-translations-of-the-bible
+OK  https://www.emchome.org/about/canons/title2/canon-13-of-the-standard-book-of-common-prayer
+OK  https://www.emchome.org/about/canons/title2/canon-14-of-the-music-of-the-church
+OK  https://www.emchome.org/about/canons/title3/canon-20-of-ordination-to-the-priesthood
+OK  https://www.emchome.org/about/canons/title3/canon-23-of-the-duties-of-bishops
+OK  https://www.emchome.org/about/canons/title3/canon-24-of-the-duties-of-priests
+OK  https://www.emchome.org/about/canons/title4/canon-29-of-offenses
+OK  https://www.emchome.org/about/canons/title4/canon-36-of-enactment-amendment-and-repeal
+OK  https://www.emchome.org/about
+OK  https://www.emchome.org/about/about-our-worship
+OK  https://www.emchome.org/parishes
+OK  https://www.emchome.org/sitemap
+OK  https://www.anglican-church.org/
+OK  https://www.anglican-church.org/about
+OK  https://www.anglican-church.org/what-is-anglicanism
+OK  https://christchurchanglican.org/anglican-faith/the-emc/
+OK  https://anglicanhistory.org/dekoven/canon.html  (oversized; read from cache)
+OK  http://stfrancisaustin.org/worship.html  (NOT EMC — see §9 item f2)
+OK  https://fwepiscopal.org  (redirects to https://adfw.org — ACNA, not EMC;
+                              fetched only to disambiguate the Austin parish)
+
+WebSearch queries run:
+  1. "Episcopal Missionary Church" constitution and canons
+  2. Episcopal Missionary Church 1992 formed Anglican 1928 Book of Common Prayer
+  3. "St. Francis Anglican Church" "Episcopal Missionary Church" 1928 Book of
+     Common Prayer worship
+  4. 1874 ritual canon "Title I" "Canon 20" Protestant Episcopal Church
+     ceremonies "erroneous or doubtful doctrine"
+  5. "Episcopal Missionary Church" 1992 Davies "Episcopal Synod of America"
+     founding statement withdrew Episcopal Church canons
+  6. "Episcopal Missionary Church" diocesan canons "Diocese of the South" OR
+     "Diocese of the West" ceremonial incense rubrics
+  7. emchome.org "Episcopal Missionary Church" canons incense ceremonial ritual
+     "Anglican Missal"
+  8. "Episcopal Missionary Church" "Diocese of the South" canons constitution pdf
+
+No domain was blocked. No fetch failed. The Wayback Machine was not needed.
+
+================================================================================
+END OF CAPTURE
+================================================================================

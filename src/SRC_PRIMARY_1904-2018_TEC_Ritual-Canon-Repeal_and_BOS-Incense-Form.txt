@@ -1,0 +1,470 @@
+================================================================================
+SRC_PRIMARY_1904-2018_TEC_Ritual-Canon-Repeal_and_BOS-Incense-Form.txt
+================================================================================
+CAPTURING PASS: 260835-60
+RETRIEVED: 2026-09-06
+CAPTURED BY: sourced research pass (web_fetch + WebSearch only; no curl/wget/
+             python fetching; no writes outside /Users/jd/EMC/staging-60/)
+
+SCOPE: two narrow loose ends.
+  (1) The Episcopal Church, Book of Occasional Services, "Dedication of Church
+      Furnishings and Ornaments" — the form for a vessel for incense.
+  (2) The repeal of the American ritual canon of 1874 (the § added to the canon
+      "Of the Use of the Book of Common Prayer" by the 1874 General Convention).
+
+SOURCE(S) OBTAINED
+  A. The Book of Occasional Services 2003 (The Episcopal Church). New York:
+     The Episcopal Church, 2004. Copyright (c) 2004 by the Church Pension Fund.
+     Internet Archive item "occasional-services-2003" (uploader
+     richard.mammana@gmail.com; collection mammana-bcp). Pages cited are the
+     book's own printed page numbers, read off the page footers.
+  B. Edwin A. White and Jackson A. Dykman, ANNOTATED CONSTITUTION AND CANONS
+     FOR THE GOVERNMENT OF THE PROTESTANT EPISCOPAL CHURCH IN THE UNITED STATES
+     OF AMERICA, ADOPTED IN GENERAL CONVENTIONS, 1789-1952, vol. 1. Greenwich,
+     Conn.: Seabury Press, 1954. Internet Archive item "annotatedconstit01epis".
+  C. JOURNAL OF THE GENERAL CONVENTION [of the Protestant Episcopal Church],
+     1904 (41st, Boston). Internet Archive item "journalofgeneral1904unse".
+  D. DIGEST OF THE CANONS FOR THE GOVERNMENT OF THE PROTESTANT EPISCOPAL CHURCH
+     IN THE UNITED STATES OF AMERICA (Internet Archive item
+     "digestofcanonsfo00episuoft"; IA copyright note records "stated date is
+     1887"). Used only to show the ritual section as it stood before 1904.
+  E. The Episcopal Church, An Episcopal Dictionary of the Church, s.v.
+     "Ritualism" (the secondary claim being tested).
+  F. The Book of Occasional Services 2018 (TEC) — front matter Table of
+     Contents only; the body could not be reached (see UNMATCHED).
+
+SOURCE URL(S)
+  A1 https://archive.org/details/occasional-services-2003
+  A2 https://ia903207.us.archive.org/BookReader/BookReaderGetTextWrapper.php?path=/6/items/occasional-services-2003/occasional%20services%202003_djvu.xml&mode=djvu_xml&page=208   [printed p. 209]
+  A3 (same endpoint, page=195)  [printed p. 196]
+  A4 (same endpoint, page=196)  [printed p. 197]
+  A5 https://ia903207.us.archive.org/fulltext/inside.php?item_id=occasional-services-2003&doc=occasional+services+2003&path=/6/items/occasional-services-2003&q=incense
+  B1 https://archive.org/details/annotatedconstit01epis
+  B2 https://ia600505.us.archive.org/BookReader/BookReaderGetTextWrapper.php?path=/35/items/annotatedconstit01epis/annotatedconstit01epis_djvu.xml&mode=djvu_xml&page=426   [printed p. 411]
+  B3 https://ia600505.us.archive.org/fulltext/inside.php?item_id=annotatedconstit01epis&doc=annotatedconstit01epis&path=/35/items/annotatedconstit01epis&q=Ritual
+  C1 https://archive.org/details/journalofgeneral1904unse
+  C2 https://ia600806.us.archive.org/BookReader/BookReaderGetTextWrapper.php?path=/27/items/journalofgeneral1904unse/journalofgeneral1904unse_djvu.xml&mode=djvu_xml&page=177   [printed p. 134]
+  C3 https://ia600806.us.archive.org/fulltext/inside.php?item_id=journalofgeneral1904unse&doc=journalofgeneral1904unse&path=/27/items/journalofgeneral1904unse&q=%22Canon+24%22
+  D1 https://ia600404.us.archive.org/fulltext/inside.php?item_id=digestofcanonsfo00episuoft&doc=digestofcanonsfo00episuoft&path=/0/items/digestofcanonsfo00episuoft&q=Ceremonies
+  D2 (same endpoint, q=%22Use+of+the+Book+of+Common+Prayer%22)
+  E1 https://www.episcopalchurch.org/glossary/ritualism/
+  E2 https://www.episcopalchurch.org/glossary/ornaments-church/   [prior pass]
+  F1 https://www.episcopalchurch.org/wp-content/uploads/2021/01/lm_book_of_occasional_services_2018.pdf
+  G1 https://www.episcopalarchives.org/governance-documents/journals-of-gc/    [locator]
+  G2 https://www.episcopalarchives.org/governance-documents/white-dykman/      [locator]
+  G3 https://www.episcopalarchives.org/governance-documents/constitution-and-canons/  [locator]
+
+EDITION AND TRANSCRIPTION NOTES
+  * The BOS text below is from the 2003 edition, NOT the 2018 edition. The 2018
+    edition's own Table of Contents (F1, verbatim: "Dedication of Church
+    Furnishings and Ornaments 194") confirms the section exists there at p. 194,
+    but the 2018 body text could not be obtained (see UNMATCHED). Whether the
+    2018 revisers altered the wording of form 18 is NOT established here.
+  * All excerpts below were read from Internet Archive OCR (tesseract for item A,
+    tesseract for item C, tesseract for item B), page by page, off the
+    word-level djvu.xml. OCR of these pages ran at 90-96% word confidence and
+    the passages transcribed were clean; nevertheless these are OCR
+    transcriptions, not collations against a physical copy. Treat as
+    HIGH-CONFIDENCE-OCR, not as a proofread edition.
+  * Nothing below is paraphrase. Where a word could not be read it is marked.
+
+================================================================================
+LOOSE END 1 — BOS, "A VESSEL FOR INCENSE"  [FOUND, 2003 edition]
+================================================================================
+
+--- EXCERPT 1.1 -------------------------------------------------------------
+SOURCE: BOS 2003, p. 209 (running foot: "Church Furnishings & Ornaments 209")
+URL: A2 (https://ia903207.us.archive.org/BookReader/BookReaderGetTextWrapper.php?path=/6/items/occasional-services-2003/occasional%20services%202003_djvu.xml&mode=djvu_xml&page=208)
+VERBATIM:
+
+    18. A Vessel for Incense
+
+    Antiphon
+
+    Another angel came and stood at the altar with a golden censer; he was
+    given much incense, and the smoke of the incense rose with the prayers of
+    the saints.
+
+    V. The four living creatures and the four and twenty elders fell down
+       before the Lamb.
+    R. Each held golden vessels full of incense, which are the prayers of the
+       saints.
+
+    Let us pray. (Silence)
+
+    Almighty God, whose only-begotten Son received from the wise men a gift of
+    incense and made for us the pure oblation foretold by the prophet: We
+    dedicate to your worship this vessel, that our prayers may ascend in your
+    sight as the incense, and the pure oblation of our Lord be proclaimed from
+    farthest east to farthest west; through Jesus Christ our Lord. Amen.
+
+[The antiphon is Revelation 8:3; the versicle/response draw on Revelation 5:8.
+ The "pure oblation foretold by the prophet" is Malachi 1:11. Those
+ identifications are this capture's note, not the book's text.]
+--- end EXCERPT 1.1 ----------------------------------------------------------
+
+--- EXCERPT 1.2 (CONDITIONS: the section's general rubrics) -------------------
+SOURCE: BOS 2003, pp. 196-197
+URL: A3 and A4
+VERBATIM (p. 196, section title page, running foot "196 Church Furnishings &
+Ornaments"; the sentence runs over to p. 197):
+
+    Dedication of Church Furnishings and Ornaments
+
+    In accordance with a venerable tradition, church furnishings and ornaments
+    are consecrated by being put to the use for which they were intended. If a
+    rite of dedication is desired, one of the following forms
+
+VERBATIM (p. 197, continuing):
+
+    may be used after the sermon (and Creed) at the Eucharist, or at the Daily
+    Office at the time of the hymn or anthem following the Collects
+
+    It is appropriate, when the object to be dedicated is fixed, that there be
+    a procession to that place. If the procession is to a distant place, an
+    anthem (the text of which may be the appointed antiphon), psalm, or hymn
+    may be sung. When the object is portable, it should be brought to the
+    Altar and presented to the celebrant.
+
+    The appointed antiphons may be read or sung by all, or by the celebrant,
+    or by some other person.
+
+    If a longer form is desired, the presentation, versicles, and prayers on
+    pages 212-213 may be used in connection with the proper form.
+--- end EXCERPT 1.2 ----------------------------------------------------------
+
+--- EXCERPT 1.3 (CONDITIONS: which forms are reserved to a bishop) ------------
+SOURCE: BOS 2003, p. 196, the section's own list of forms
+URL: A3
+VERBATIM (list, with the book's page references):
+
+    . An Altar (Reserved to the Bishop) 197
+    . A Font (Reserved to the Bishop) 198
+    . Chalices and Patens (Traditionally reserved to the Bishop) 200
+    . A Bell (Traditionally reserved to the Bishop) 201
+      A Cross 201
+    . Candlesticks and Lamps 202
+    . Altar Cloths and Hangings 202
+    . A Service Book 203
+    9. A Bible, Lectionary, or Gospel Book 203
+    10. A Repository for the Scriptures 204
+    11. An Aumbry or Tabernacle for the Sacrament 205
+    12. An Aumbry for the Oils 205
+    13. An Ambo (Lectern-Pulpit) 206
+    14. Chairs, Benches, and Prayer Desks 206
+    15. A Stained Glass Window 207
+    16. Pictures and Statues 207
+    17. An Organ or Other Musical Instrument 208
+    18. A Vessel for Incense 209
+    19. Surplices and Albs 209
+    20. Vestments for the Liturgy 210
+    21. A Funeral Pall 210
+    22. Any Church Ornament 211
+
+[OCR note: the leading numerals 1-8 and 10-11 were mis-OCR'd in the scan
+ ("to." for 10, "tr." for 11, bare "." for the single digits); the numbering
+ 1-22 is unambiguous from the sequence and from the item headings on the pages
+ themselves (e.g. p. 209 heads the incense form "18."). Items 5 ("A Cross") is
+ printed without a reservation note.]
+
+CONDITIONS, STATED PLAINLY FROM 1.2 AND 1.3:
+  - Form 18 (a vessel for incense) carries NO reservation to the bishop. Only
+    forms 1 and 2 are "Reserved to the Bishop"; forms 3 and 4 are
+    "Traditionally reserved to the Bishop."
+  - The form is not a free-standing service: it is used "after the sermon (and
+    Creed) at the Eucharist, or at the Daily Office at the time of the hymn or
+    anthem following the Collects."
+  - A censer is portable, so under the p. 197 rubric it "should be brought to
+    the Altar and presented to the celebrant."
+  - A longer form may be built by adding the presentation, versicles and
+    prayers at pp. 212-213.
+  - No rubric anywhere in 1.2/1.3 makes the dedication of an incense vessel
+    conditional on the bishop's presence, permission, or direction.
+
+================================================================================
+LOOSE END 2 — REPEAL OF THE RITUAL CANON  [CORROBORATED; year 1904 confirmed]
+================================================================================
+
+--- EXCERPT 2.1 (the claim being tested) --------------------------------------
+SOURCE: An Episcopal Dictionary of the Church, s.v. "Ritualism"
+URL: E1 (https://www.episcopalchurch.org/glossary/ritualism/)
+VERBATIM (the relevant sentences):
+
+    "The General Convention of 1874 did pass a canon on ritual. ... This canon
+    called for a bishop to investigate any use of ceremonies or practices in
+    the bishop's jurisdiction symbolizing "false or doubtful doctrine." The
+    bishop was empowered first to admonish and then bring to trial any member
+    of the clergy who persisted in these practices. However, this canon did
+    virtually nothing to slow the expansion of ritual practices in the
+    Episcopal Church. Only one trial for ritualism took place. In 1877 Oliver
+    Prescott received episcopal admonishment for his ritual practices. The
+    canon on ritual was quietly repealed at the 1904 General Convention."
+--- end EXCERPT 2.1 -----------------------------------------------------------
+
+--- EXCERPT 2.2 (PRIMARY: the instrument of repeal) ---------------------------
+SOURCE: Journal of the General Convention, 1904, p. 134 (House of Bishops'
+        journal, 15th Day; recording a message received from the House of
+        Deputies). Running head: "134  JOURNAL OF THE GENERAL CONVENTION.
+        [15th Day."
+URL: C2
+VERBATIM (page context, then the operative resolution):
+
+    "The following Message was received from the House of Deputies:
+
+        In GENERAL CONVENTION,
+        Boston, 14th day of the Session,
+        October 21, 1904.
+
+    MESSAGE No. 59.
+
+    The House of Deputies informs the House of Bishops that it has adopted the
+    following resolutions:"
+
+    [several resolutions follow, repealing and re-enacting Title I canons 8,
+    12, 13, 14, 15, 16, 17 ... then:]
+
+    "Resolved, the House of Bishops concurring, That Title I., Canon 24 of the
+    Digest be and is hereby repealed."
+
+[The same resolution is printed a second time in this Journal at leaf 367 of
+ the scan (the parallel record; printed page number not verified in this pass).]
+--- end EXCERPT 2.2 -----------------------------------------------------------
+
+--- EXCERPT 2.3 (PRIMARY-ADJACENT: what Title I, Canon 24 was) ----------------
+SOURCE: White & Dykman, Annotated Constitution and Canons ... 1789-1952,
+        vol. 1 (1954), p. 411, under the running head "CANON 21" and the
+        sub-heading "CONVENTION OF 1904"
+URL: B2
+VERBATIM:
+
+    "CONVENTION OF 1904
+
+    In the revision of the canons by this Convention, Title I, Canon 22, was
+    renumbered as Canon 41, and amended as follows: [...]
+
+    Title I, Canon 24, Of the Use of the Book of Common Prayer with the ritual
+    section, so called, forbidding certain ceremonies and practices in the
+    administration of the Holy Communion, the consideration of which, in the
+    General Convention of 1871 and 1874, had threatened almost the very
+    existence of the Church, was repealed by this Convention, and without a
+    single voice being raised in its defense."
+
+[Context caution: the "Title I, Canon 22 ... renumbered as Canon 41" sentence
+ on the same page concerns a DIFFERENT canon (the canon on the Standard Book of
+ Common Prayer, which is the canon this part of W&D is annotating). The ritual
+ canon is the separate paragraph, Title I, Canon 24.]
+--- end EXCERPT 2.3 -----------------------------------------------------------
+
+--- EXCERPT 2.4 (W&D on the 1874 enactment, for the numbering chain) ----------
+SOURCE: White & Dykman, vol. 1, leaves 423-424 of the scan (printed page not
+        separately verified in this pass)
+URL: B3 (full-text search hits)
+VERBATIM (two consecutive hits):
+
+    "The resolution passed by the Convention of 1871, and the pastoral letter
+    of the House of Bishops having failed, in the opinion of many, to check and
+    suppress the ritual practices complained of, several memorials were
+    presented to the Convention of 1874, praying for some canonical action in
+    the matter. These memorials, together with certain proposed canons on the
+    subject were referred to the Committee on Canons in the House of Deputies,
+    which committee later rec-"
+
+    "ommended to the House for adoption, an amendment to Title I, Canon 20, Of
+    the Use of the Book of Common Prayer, governing certain so-called ritual
+    practices. This amendment to the canon, after an extended debate, was
+    passed by the House of Deputies by a large majority, and concurred in by
+    the House of Bishops, but with certain amendments. The House of Deputies
+    refused to concur in these amendments, and the proposed amendment to Canon
+    20, with the amendments thereto adopted by the House of Bishops, were
+    referred to a Committee of Conference, which committee reported the
+    following amended section to the said canon:"
+--- end EXCERPT 2.4 -----------------------------------------------------------
+
+--- EXCERPT 2.5 (the ritual section as it stood before 1904) ------------------
+SOURCE: Digest of the Canons ... (IA item digestofcanonsfo00episuoft; IA
+        copyright note: "stated date is 1887"), scan leaves 95-96 and the
+        index at leaf 169
+URL: D1, D2
+VERBATIM (full-text search hits):
+
+    "CANON 21. — Of the Use of the Book of Common Prayer."
+    "§ i. — Use of the Book of Common Prayer Required on all [...]"
+    "§ ii. — Introduction of Ceremonies or Practices not ordained"
+
+    "§ ii. [1.] If any Bishop have reason to believe, or if complaint be made
+    to him in writing by two or more of his Presbyters, that within his
+    jurisdiction ceremonies or practices not ordained or authorized in the
+    Book of Common Prayer, and setting forth or symbolizing erroneous or
+    doubtful doctrines, have been introduced by any Minister"
+
+    "[2.] If, after investigation, it shall appear to the Bishop and Standing
+    Committee that ceremonies or practices not ordained or authorized as
+    aforesaid, and setting forth or symbolizing erroneous or doubtful
+    doctrines, have in fact been introduced as aforesaid, it shall be the duty
+    of the Bishop, by instrument of writing under his hand, to admonish the
+    Minister so offending to discontinue such practices or ceremonies; and if
+    the Minister shall disregard such admonition, it shall be the duty of the
+    Standing Committee to cause him to be tried for a breach of his ordination
+    vow."
+
+    "Introduction of ceremonies or practices not ordained or authorized in the
+    Book of Common Prayer." [marginal note]
+--- end EXCERPT 2.5 -----------------------------------------------------------
+
+--- NEGATIVE FINDINGS (searched, deliberately, and absent) --------------------
+Full-text search of the 1904 Journal (item journalofgeneral1904unse):
+  q = "ritual"                 -> {"matches": []}   (URL: C3 endpoint, q=%22ritual%22)
+  q = "ceremonies or practices" -> {"matches": []}  (same endpoint)
+Reading: the ritual canon was struck by number, with no debate text and no
+re-enactment of its language anywhere in the 1904 Journal. This is exactly
+consistent with W&D's "without a single voice being raised in its defense" and
+with the glossary's word "quietly."
+
+--- FINDINGS, LOOSE END 2 -----------------------------------------------------
+  REPEALED (not amended, not left standing). Year: 1904, at the 41st General
+  Convention, Boston.
+  Instrument: House of Deputies resolution, communicated to the House of
+  Bishops as Message No. 59, dated Boston, 14th day of the Session, October 21,
+  1904, printed at Journal of the General Convention 1904, p. 134:
+  "Resolved, the House of Bishops concurring, That Title I., Canon 24 of the
+  Digest be and is hereby repealed."
+  Identification of that canon as the ritual canon rests on White & Dykman,
+  vol. 1, p. 411 (EXCERPT 2.3), which names "Title I, Canon 24, Of the Use of
+  the Book of Common Prayer with the ritual section, so called" and says it
+  "was repealed by this Convention."
+  The repeal was part of the wholesale 1904 revision of the Digest of Canons,
+  in which most Title I canons were repealed and re-enacted under new numbers;
+  Canon 24 was repealed with nothing put in its place.
+
+  CAVEAT ON THE NUMBERING PREMISE: the tasking described the 1874 addition as
+  "§ II added to Canon 20 of Title I ... renumbered Canon 22 in that
+  Convention's Digest." The first half is corroborated (W&D, EXCERPT 2.4:
+  "an amendment to Title I, Canon 20, Of the Use of the Book of Common
+  Prayer"). The "Canon 22" step is NOT corroborated here: the digest at D
+  (stated date 1887) prints the canon as "CANON 21. — Of the Use of the Book of
+  Common Prayer" with the ritual matter as its § ii, and by 1904 the same canon
+  stood as Title I, Canon 24. So the chain evidenced in this pass is
+  20 (1874) -> 21 (1880s digest) -> 24 (1904 digest) -> repealed 1904.
+  Anyone relying on "Canon 22" should re-check it against the 1874 Digest
+  itself before deploying it.
+
+================================================================================
+UNMATCHED
+================================================================================
+
+UNMATCHED ITEM 1: The wording of the incense form in the BOS **2018** edition
+(and in the 2022 edition). NOT OBTAINED. Only the 2003 wording was obtained.
+What is established for 2018: its Table of Contents reads, verbatim,
+"Dedication of Church Furnishings and Ornaments 194" (F1). Nothing about the
+2018 wording of form 18 is established. Do NOT assume the 2003 text is the 2018
+text.
+
+Reason: PDF fetches truncate. Confirmed twice in this pass:
+  - F1 (BOS 2018 PDF, episcopalchurch.org) returned 107,707 characters / 2,155
+    lines and stopped mid-book inside "Rogation Procession" (approx. p. 100 of
+    the book). A grep of the retrieved text for "incense" returned no matches;
+    a grep for "Furnishings" matched only the Table-of-Contents line.
+  - https://www.episcopalcommonprayer.org/uploads/1/2/9/8/129843103/book_of_occasional_services_final.pdf
+    (BOS 2022) returned 105,059 characters / 2,215 lines and stopped mid-book
+    inside "Tenebrae" (p. 91). No "incense" match in the retrieved portion.
+  This confirms the reported ~105,000-character truncation ceiling. Both books
+  place the dedication section far past that ceiling.
+
+Routes tried for the 2018/2022 text and their outcomes:
+  - https://www.episcopalchurch.org/wp-content/uploads/2021/01/lm_book_of_occasional_services_2018.pdf  -> truncated (above)
+  - https://www.episcopalcommonprayer.org/uploads/.../book_of_occasional_services_final.pdf (2022)      -> truncated (above)
+  - https://pdf4pro.com/view/the-book-of-occasional-services-2018-episcopalchurch-org-5b6560.html
+      -> renders only the first ~10 transcription chunks (through the Lenten
+         Prayers over the People, approx. p. 11); the rest is behind a
+         JavaScript "Show more" the fetcher cannot trigger.
+  - https://bcp2019.anglicanchurch.net/wp-content/uploads/2025/03/Dedication-of-Church-Furnishings-and-Ornaments-3-31-2025.docx
+      -> returned "[binary data]"; .docx is not parsed by the fetcher. (This is
+         in any case ACNA's 2026 draft Book of Occasional Offices, not TEC.)
+  - https://api.archivelab.org/books/bookofoccasional0000epis/searchinside?q=incense  -> empty body
+  - https://ia601802.us.archive.org/fulltext/inside.php?...bookofoccasional0000epis...&q=incense
+      -> empty body (that IA item, the 2003 BOS scanned from a library copy, is
+         lending-restricted and its OCR is not publicly searchable)
+  - https://www.googleapis.com/books/v1/volumes?q=%22vessel+for+incense%22       -> empty body
+  - https://www.googleapis.com/books/v1/volumes?q=%22a+vessel+for+incense%22+%22occasional+services%22 -> empty body
+      (Google Books API appears unavailable to this fetcher.)
+  - https://canonbfive.wordpress.com/dedication-of-objects/  -> a Church of
+      England blog's home-made dedication prayers; contains nothing from the
+      TEC BOS and no incense form. Not usable.
+  - Internet Archive search for other BOS copies:
+      https://archive.org/advancedsearch.php?q=title%3A%22occasional+services%22&fl%5B%5D=identifier&rows=40&output=json
+      -> 38 hits; the only openly readable TEC copy is
+         "occasional-services-2003" (used above). "bookofoccasional0000epis",
+         "bookofoccasional0002epis", "bookofoccasional0000epis_d2k2" are
+         lending-restricted. No 2018 or 2022 copy on IA.
+      https://archive.org/advancedsearch.php?q=collection%3Amammana-bcp+AND+occasional&... -> confirms only 2003 and a 1964 volume.
+
+WebSearch queries run for loose end 1 (all of them):
+  - Book of Occasional Services "Dedication of Church Furnishings and Ornaments" "vessel for incense"
+  - "Book of Occasional Services" dedication "For a Vessel for Incense" versicle "Let my prayer"
+  - "vessel for incense" dedication "Blessed are you" OR "Accept, O Lord" liturgy episcopal thurible blessing
+  - "Dedication of Church Furnishings and Ornaments" "vessel for incense" pdf parish liturgy
+  - "For a vessel for incense" versicle response dedication episcopal
+  - "Book of Occasional Services" 2018 "Dedication of Church Furnishings" incense page 194 text
+  None returned the form's text. NOTE: one of these searches returned a
+  search-engine gloss asserting the versicle is "Let my prayer be set forth, O
+  Lord / As incense in your sight." That is NOT the versicle of form 18. In the
+  BOS 2003, "V. Let my prayer be set forth, O Lord: R. As incense in your
+  sight." occurs elsewhere in the book (scan leaf 10, i.e. the Advent/Daily
+  Office material at the front), not in the dedication form. The dedication
+  form's versicle is the Revelation 5:8 pair transcribed in EXCERPT 1.1. This
+  is exactly the sort of plausible-but-wrong reconstruction the pass was told
+  not to make; recorded here so it is not made later.
+
+UNMATCHED ITEM 2: The House of Bishops' recorded concurrence in Message No. 59.
+NOT OBTAINED as a verbatim line. Searched the 1904 Journal for
+  q = "concurred in Message No. 59"  -> {"matches": []}
+The repeal itself is not in doubt (W&D, EXCERPT 2.3, states the canon "was
+repealed by this Convention"), but the specific page recording the Bishops'
+concurrence was not located in this pass.
+
+UNMATCHED ITEM 3: The printed page number of the second occurrence of the
+repeal resolution in the 1904 Journal (scan leaf 367). Not verified.
+
+web.archive.org: NOT ATTEMPTED in this pass. Every source needed was reachable
+live, so the reported Wayback block was neither confirmed nor disconfirmed here.
+
+Other locator pages fetched (no substantive text taken from them):
+  - https://www.episcopalarchives.org/e-archives/acts/ (Acts of Convention
+    database covers 1973-2024 only; useless for 1904)
+  - https://www.episcopalarchives.org/governance-documents/journals-of-gc/
+    (confirms a 1904 Journal PDF exists at
+    http://www.episcopalarchives.org/files/publications/1904_GC_Journal.pdf —
+    NOT fetched, because a General Convention Journal PDF would truncate long
+    before the relevant page, and the Internet Archive copy gave page-level
+    access instead)
+  - https://www.episcopalarchives.org/governance-documents/constitution-and-canons/
+    (its Constitution-and-Canons PDF series begins at 1964; pre-1964 canons are
+    printed inside the Journals)
+  - https://www.episcopalarchives.org/governance-documents/white-dykman/
+    (hosts the 1981/1997 W&D, which post-dates and does not carry the 1904
+    annotation used above; the 1954 edition on the Internet Archive does)
+
+METHOD NOTE, worth keeping for future passes
+  The Internet Archive exposes two endpoints that defeat the ~105k-character
+  fetch ceiling, because they return one page or one search at a time:
+    full-text search inside one item:
+      https://<server>/fulltext/inside.php?item_id=<ID>&doc=<BASENAME>&path=<DIR>&q=<QUERY>
+    one page's OCR:
+      https://<server>/BookReader/BookReaderGetTextWrapper.php?path=<DIR>/<BASENAME>_djvu.xml&mode=djvu_xml&page=<N>
+  <server> comes from https://archive.org/metadata/<ID>/d1 and <DIR> from
+  https://archive.org/metadata/<ID>/dir (both tiny responses). <BASENAME> is the
+  derivative file's base name, which is NOT always the identifier — for
+  "occasional-services-2003" it is "occasional services 2003" (with spaces);
+  passing the identifier instead returns
+  {"error":"No hOCR or Abbyy file present"}.
+  In BookReaderGetTextWrapper, page=N returns the file numbered N+1, and for
+  these three books the printed page number ran one ahead of the page= value
+  (page=208 -> printed 209; page=426 -> printed 411 by that book's own
+  pagination; page=177 -> printed 134). Always read the page number off the
+  header/footer of the returned page rather than computing it.
+  Keep URLs short: the fetcher rejects long URLs with
+  "cowork_web_fetch_url_too_long".
+
+================================================================================
+END OF CAPTURE
+================================================================================

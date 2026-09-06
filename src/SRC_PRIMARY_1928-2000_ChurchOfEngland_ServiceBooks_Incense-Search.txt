@@ -1,0 +1,1005 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-60, not part of the sources.
+=====================================================================
+SUBJECT: Was liturgical incense ever POSITIVELY AUTHORIZED BY NAME in
+         the Church of England after 1900? Three questions:
+         (1) the status of the 1899 Lambeth Opinion of Archbishops
+             Temple and Maclagan — was it ever formally reversed,
+             superseded or set aside, and by what instrument;
+         (2) whether the 1927/1928 Deposited Book named incense, and
+             what legal effect the Commons rejections had;
+         (3) whether incense is named in a rubric or note of the
+             Alternative Service Book 1980 or of Common Worship.
+
+SCOPE NOTE ON THE FILENAME: the filename says "1928-2000". The
+         Common Worship material captured below is 2000-2012, i.e.
+         at and after the terminal date, and the Worship and Doctrine
+         Measure material is 1974. The filename is kept as commissioned
+         by the pass; the date range in it is the *starting* frame, not
+         a claim about the contents.
+
+SOURCE(S) and SOURCE URL(S) — one per excerpt, repeated at each
+         excerpt below. Consolidated list:
+  A. The Archbishops on the Lawfulness of the Liturgical Use of
+     Incense and the Carrying of Lights in Procession, Lambeth
+     Palace, July 31, 1899 (London: Macmillan, 1899). Project
+     Canterbury transcription.
+     https://www.anglicanhistory.org/liturgy/archbishops_incense1899.html
+  B. HL Deb 16 July 1900 vol 86 cc10-36, "Ritualism in the Church"
+     (Hansard 1803-2005, historic-hansard).
+     https://api.parliament.uk/historic-hansard/lords/1900/jul/16/ritualism-in-the-church
+  C. Church of England (Worship and Doctrine) Measure 1974 (No. 3),
+     ss. 1 and 5 and Schedule 2, legislation.gov.uk revised text.
+     https://www.legislation.gov.uk/ukcm/1974/3/section/1
+     https://www.legislation.gov.uk/ukcm/1974/3/section/5/data.xht?view=snippet&wrap=true
+     https://www.legislation.gov.uk/ukcm/1974/3/schedules/data.xht?view=snippet&wrap=true
+  D. Philip Jones, "Smells and Bells: Services and Ceremonies",
+     ecclesiasticallaw (blog), 26 April 2019.
+     https://ecclesiasticallaw.wordpress.com/2019/04/26/smells-and-bells-services-and-ceremonies/
+  E. David Pocklington, "Incense and the Psychoactive Substances
+     Bill", Law & Religion UK, 31 July 2015.
+     https://lawandreligionuk.com/2015/07/31/incense-and-the-psychoactive-substances-bill/
+  F. David Pocklington & Frank Cranmer, "Monstrances in the Church
+     of England: are they legal?", Law & Religion UK, 5 April 2016.
+     https://lawandreligionuk.com/2016/04/05/monstrances-in-the-church-of-england-are-they-legal/
+  G. The Proposed Book of Common Prayer (1928) of the Church of
+     England — full transcription by Charles Wohlers, justus.anglican.org.
+     Index: http://justus.anglican.org/resources/bcp/CofE1928/CofE1928.htm
+     Preface/introductory note page:
+     http://justus.anglican.org/resources/bcp/CofE1928/preface.htm
+  H. Common Worship: Daily Prayer, "The Blessing of the Light".
+     https://daily.commonworship.com/morneve/light.html
+     (mirrors: https://justus.anglican.org/~ss/commonworship/daily/morneve/light.html
+      and https://cwdp.oremus.org/morneve/light.html)
+  I. Common Worship: Daily Prayer, General Introduction, "Deciding How".
+     https://www.churchofengland.org/node/10112/printable/print
+  J. Common Worship: Times and Seasons, The Easter Liturgy.
+     https://www.churchofengland.org/node/3869/printable/bbd_pdf_format
+     (pretty URL, content NOT retrievable there — see digitisation note:
+      https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-6 )
+  K. Common Worship: Times and Seasons, Epiphany.
+     https://www.churchofengland.org/node/3857/printable/bbd_pdf_format
+  L. New Patterns for Worship, "B Penitence".
+     https://www.churchofengland.org/node/4126/printable/print
+  M. New Patterns for Worship, "Space and Colour".
+     http://justus.anglican.org/~ss/commonworship/newpatterns/notes/spacecolour.html
+  N. Common Worship: Additional Eucharistic Prayers, "Guidance on
+     Celebrating the Eucharist with Children" (Liturgical Commission).
+     https://www.churchofengland.org/node/9534/printable/print
+  O. The Alternative Service Book 1980 — oremus mirror.
+     http://www.oremus.org/liturgy/asb/index.html
+     General Notes: http://www.oremus.org/liturgy/asb/common/gnotes.html
+     Rite A Notes: http://www.oremus.org/liturgy/asb/ea/notes.html
+  P. Common Worship, Notes to Holy Communion (complete).
+     https://justus.anglican.org/~ss/commonworship/hc/notes.html
+
+RETRIEVED: 2026-09-06, capturing pass 260835-60.
+
+EDITION / DIGITISATION NOTES:
+ 1. The 1899 Opinion text is the Project Canterbury transcription of
+    the 1899 Macmillan pamphlet. It carries bracketed page-turn marks
+    of the form [5/6]. Its OCR drops some opening quotation marks
+    (e.g. `ministration"` where an opening quote is missing). No words
+    have been altered in the excerpts below; obvious OCR artefacts are
+    reproduced as found and flagged [sic].
+ 2. The 1928 Deposited Book text is the justus.anglican.org
+    transcription (David Griffiths, Bibliography of the BCP, item
+    1928/6, the SPCK printing), collated on that site against the
+    1927 "Green Book" and the 1927 Final Draft. Where the site's
+    typography renders as mojibake it is normalised silently; no
+    words changed. The site also offers page-image PDFs.
+ 3. **Church of England website retrieval defect (important, and
+    recorded so a later pass does not repeat the dead end).** The
+    ordinary Common Worship page URLs on churchofengland.org return
+    ONLY the site navigation to a plain-text fetcher — roughly 92-98k
+    characters of menu, after which the fetch is truncated, so the
+    liturgical body text is never reached. The working route is the
+    printable render, https://www.churchofengland.org/node/<NODEID>/printable/print
+    (or .../printable/bbd_pdf_format for nodes whose /print is empty).
+    web.archive.org is on the fetcher's blocklist and cannot be used
+    as a fallback. Node IDs were discovered through WebSearch queries
+    of the form: "churchofengland.org/node" printable print "<title>".
+ 4. **Provenance flag.** Excerpts 3.2 (Daily Prayer light rubric),
+    2.1, 2.2, 1.1-1.4 were fetched and read directly by the capturing
+    agent. Excerpts 3.3 (Daily Prayer General Introduction / censer),
+    3.4 (Easter Liturgy studs — the capturing agent independently
+    grepped the retrieved node/3869 body and confirmed it), 3.5
+    (Epiphany), 3.6b (Space and Colour) and 3.7 (Eucharist with
+    Children) were retrieved by delegated sub-fetches inside this same
+    pass; the URL is given for each and they are re-verifiable, but the
+    capturing agent did not personally re-read pages 3.3, 3.5, 3.6b and
+    3.7. They are marked [DELEGATED FETCH] below.
+ 5. Nothing in /Users/jd/EMC/theology was read for content beyond
+    SRC_PRIMARY_1906_RoyalCommission_Ecclesiastical-Discipline-Incense.txt,
+    and nothing there was modified.
+=====================================================================
+
+
+=====================================================================
+PART 1 — STATUS OF THE 1899 ARCHBISHOPS' OPINION
+=====================================================================
+
+--- 1.1 ------------------------------------------------------------
+WHAT PROCEDURE THE 1899 OPINION WAS GIVEN UNDER — IN THE OPINION'S
+OWN WORDS (its closing paragraph).
+SOURCE A. URL: https://www.anglicanhistory.org/liturgy/archbishops_incense1899.html
+
+"In conclusion we think it our duty to press not only on the Clergy
+that have appeared before us, but also on all the Clergy alike, to
+submit to Episcopal authority in all such matters as these. All alike
+have consented to the Book of Common Prayer; and the Book of Common
+Prayer requires all persons, not only if they doubt but if they find
+that others disagree with them concerning the meaning of the directions
+contained in the Book, to resort to the Bishop of the Diocese, who may,
+if he think fit, send the question to the Archbishop for his decision.
+In order to give the fullest opportunity to any who diversely take any
+question of this kind to give reasons for their opinion we have
+suspended our decision until we had heard the [15/16] matter fully and
+learnedly argued before us; and we have now given our decision as the
+Prayer Book requires us to do. We entreat the Clergy, for the sake of
+the peace of the Church, which we all so much desire, to accept our
+decision thus conscientiously given in the name of our common Master,
+the Supreme Head of the Church, the Lord whose commission we bear."
+
+[CAPTURE COMMENT — not source. The Opinion locates its own authority
+in the Book of Common Prayer's own provision ("Concerning the Service
+of the Church" — resort to the Bishop, who may send the question to the
+Archbishop), and it closes by *entreating* acceptance, not by ordering
+under any statutory or curial power. Its self-description is a
+"decision" given under a Prayer Book rubric, not a judgment of a court.]
+
+--- 1.2 ------------------------------------------------------------
+THE OPINION'S OWN STATEMENT THAT INCENSE IS NOT PERMANENTLY EXCLUDED,
+AND ITS NAMED ROUTE TO FUTURE AUTHORIZATION.
+SOURCE A. Same URL.
+
+"Yet it is right to observe that even now the liturgical use of incense
+is not by law permanently excluded from the Church's Ritual. The
+Section in Elizabeth's Act which allows the Crown, with the consent of
+the Archbishop of Canterbury, to order new ceremonies does not forbid
+the inclusion of the use of incense in such new ceremonies if such are
+ordered. It would always be possible, if some great occasion made it
+suitable, for the Sovereign with the advice of the Primate to order a
+great ceremonial in which [12/13] the use of incense should form a
+part. The question of probability need not now be raised. Many things
+might become probable when our toleration of one another had risen to a
+higher level, which are not probable at present. But meanwhile the law
+requires that the Clergy should wait for the action of lawful authority
+before bringing any additional ceremonial to form a part of public
+worship."
+
+And the operative conclusion:
+
+"And we are obliged to come to the conclusion that the use of incense
+in the public worship, and as a part of that worship, is not at present
+enjoined nor permitted by the law of the Church of England; and it is
+our duty to request the Clergy who so use it to discontinue that use.
+If used at all, it must be used (in George Herbert's language) to
+sweeten the Church, and outside the worship altogether."
+
+[CAPTURE COMMENT — not source. This matters for the research question:
+the 1899 Opinion itself names the ONE mechanism it regarded as capable
+of positively authorizing incense — an order of the Crown with the
+consent of the Archbishop of Canterbury under the section of the Act of
+Uniformity 1559. No pass has found any such order. And the section
+relied on was itself swept away in 1974 (see 1.4).]
+
+--- 1.3 ------------------------------------------------------------
+CONTEMPORARY PARLIAMENTARY CHARACTERISATION OF THE LAMBETH HEARING AS
+NOT A COURT. Earl of Portsmouth, House of Lords, 16 July 1900.
+SOURCE B. URL: https://api.parliament.uk/historic-hansard/lords/1900/jul/16/ritualism-in-the-church
+
+"...ot call upon me to obey this opinion, therefore I am not bound by
+it." Now, my Lords, what does that mean? It means that, instead of the
+opinions of the two Archbishops being taken and recognised as binding
+morally upon the clergy, the words are practically only a phrase and
+simply carry with them moral authority where and when a particular
+Bishop in a particular diocese chooses to enforce it. I venture to say
+that that entirely and absolutely gives away the whole case and the
+whole reason for this tribunal; it is not a legal tribunal, but it was
+supposed to..."
+
+[TRANSCRIPTION NOTE: the excerpt begins and ends mid-sentence because
+it was extracted by regex window from the Hansard page's single long
+text block; the leading "...ot call upon me" is the tail of "my bishop
+does not call upon me to obey this opinion". The load-bearing clause,
+complete, is: "it is not a legal tribunal".]
+
+Opening of the same speech:
+
+"My Lords, in rising to call attention to the continued lawlessness in
+the Church of England, and to ask the Prime Minister if he is prepared
+to give effect to the Resolution of the House of Commons of Wednesday,
+10th May, 1899, I shall confine my remarks to those particular cases in
+which the clergy have not only revolted against the lawful authority of
+the highest Court, but against the opinions of the two Archbishops and
+the moral authority of their ecclesiastical superiors."
+
+CLASSIFICATION of 1.1-1.3: not an authorization question. These
+establish that the 1899 Opinion was an archiepiscopal Opinion under a
+Prayer Book reference procedure, treated by its critics in Parliament
+within a year as carrying moral, not curial, authority.
+
+--- 1.4 ------------------------------------------------------------
+THE STATUTORY REGIME THE 1899 OPINION RESTED ON, AND ITS REPEAL.
+SOURCE C. Church of England (Worship and Doctrine) Measure 1974 (No. 3).
+
+(a) SCHEDULE 2 — Acts and Measures Repealed (extract of the rows that
+bear on this question).
+URL: https://www.legislation.gov.uk/ukcm/1974/3/schedules/data.xht?view=snippet&wrap=true
+
+  Chapter                | Short Title                      | Extent of Repeal
+  2 & 3 Edw. 6. c. 1.    | The Act of Uniformity 1548.      | The whole Act so far as unrepealed.
+  1 Eliz. 1. c. 2.       | The Act of Uniformity 1558.      | The whole Act so far as unrepealed.
+  14 Cha. 2. c. 4.       | The Act of Uniformity 1662.      | The whole Act except sections 10 and 15.
+
+[CAPTURE COMMENT — not source. "The Act of Uniformity 1558" (1 Eliz. 1
+c. 2) is the statute the 1899 Opinion calls "the Act of 1559" and on
+which its entire reasoning turns — both the "none other or otherwise"
+prohibition it quotes at length, and the Crown-with-the-Archbishop
+power it names as the route to future authorization (1.2). Both were
+repealed, so far as unrepealed, by the 1974 Measure. This is the
+strongest sourced statement available that the 1899 Opinion's legal
+foundation no longer exists. It is NOT a reversal of the Opinion by
+name — see 1.6.]
+
+(b) SECTION 1 — Provision by Canon for worship (extract).
+URL: https://www.legislation.gov.uk/ukcm/1974/3/section/1
+
+"(1) It shall be lawful for the General Synod—
+ (a) to make provision by Canon with respect to worship in the Church
+ of England, including provision for empowering the General Synod to
+ approve, amend, continue or discontinue forms of service;
+ (b) to make provision by Canon or regulations made thereunder for any
+ matter, except the publication of banns of matrimony, to which any of
+ the rubrics contained in the Book of Common Prayer relate;
+ but the powers of the General Synod under this subsection shall be so
+ exercised as to ensure that the forms of service contained in the Book
+ of Common Prayer continue to be available for use in the Church of
+ England.
+ (2) Any Canon making any such provision as is mentioned in subsection
+ (1) of this section, and any regulations made under any such Canon,
+ shall have effect notwithstanding anything inconsistent therewith
+ contained in any of the rubrics in the Book of Common Prayer."
+
+"(5) Without prejudice to the generality of subsection (1) of this
+ section, the General Synod may make provision by Canon—
+ (a) for empowering the Convocations, the archbishops and the bishops
+ of dioceses to approve forms of service for use on occasions for which
+ no provision is made by forms of service contained in the Book of
+ Common Prayer or approved by the General Synod or the Convocations
+ under Canon;
+ (b) for empowering any minister to make and use minor variations in
+ the forms of service contained in the said Book or approved by the
+ General Synod, Convocation, archbishops or bishop under Canon and to
+ use forms of service considered suitable by him on occasions for which
+ no provision is made by any such form of service."
+
+(c) SECTION 5 — Interpretation (extract).
+URL: https://www.legislation.gov.uk/ukcm/1974/3/section/5/data.xht?view=snippet&wrap=true
+
+"'form of service' means any order, service, prayer, rite or ceremony
+whatsoever, including the services for the ordination of priests and
+deacons and the consecration of bishops and the catechism or form of
+instruction before confirmation;"
+
+"'rubrics' of the Book of Common Prayer include all directions and
+instructions contained in the said Book, and all tables, prefaces,
+rules, calendars and other contents thereof."
+
+CLASSIFICATION: the 1974 Measure is not a POSITIVE AUTHORIZATION of
+incense — it does not name incense at any point. It is the instrument
+that removed the statutory regime under which incense was held
+unlawful, and vested the discretion elsewhere (General Synod by Canon;
+minister and bishop under the canons made pursuant to it). On the
+schema supplied, its effect on incense is best described as
+PERMISSION BY SILENCE.
+
+--- 1.5 ------------------------------------------------------------
+THE MODERN COMMENTARY IS DIVIDED. DO NOT REPORT THIS AS SETTLED.
+
+(a) Philip Jones, arguing that the Victorian ceremonial case law is no
+longer law at all. SOURCE D.
+URL: https://ecclesiasticallaw.wordpress.com/2019/04/26/smells-and-bells-services-and-ceremonies/
+
+"The Act of Uniformity was *repealed* by the Worship and Doctrine
+Measure 1974."
+
+"Yet, subject to the narrow exceptions just mentioned, the 1662 regime
+of public worship *is no more. It has ceased to be.* The voluminous
+case law concerning liturgical ceremonies can therefore no longer be
+good law."
+
+"The repeal of the 1662 regime could not, of course, have the effect of
+reviving or reinstating the mediaeval liturgical practices abolished at
+the Reformation. However, it *does* mean that liturgical practices not
+retained or referred to in the Book of Common Prayer are *prima facie*
+permitted, no longer forbidden – subject, of course, to the canons made
+by the General Synod under s.1 of the Worship and Doctrine Measure."
+
+But Jones expressly records that the point is contested, and that the
+leading commentator takes the opposite view:
+
+"Chancellor Bursell considered that the reference to 'forms of
+services' in the liturgical canons does indeed include ceremonies, and
+that therefore ceremonies are regulated by canons B1 to B5 (cf *St
+John's, Chopwell* (1995) 3 Weekly Law Reports 606, p.611 and p.615)."
+
+"If Bursell is right about this (and he may be) then *prima facie* the
+position will be similar to that which obtained in Victorian times.
+Ceremonies will be just as illegal now as they were then, unless they
+are clearly permitted by the rubrics of an official service."
+
+And on the possibility that the canons deliberately say nothing:
+
+"Thus the explicit reference to ceremonies in the 1974 Measure does not
+appear in the liturgical canons, either in canon B1(3) or elsewhere."
+"It is hard to believe that this omission was accidental. There may
+have been a deliberate policy of silence on the subject, to avoid
+reviving old disputes..."
+
+(b) Law & Religion UK, describing the position as settled in practice
+while citing Bursell's reliance on the 1899 Opinion itself.
+SOURCE E. URL: https://lawandreligionuk.com/2015/07/31/incense-and-the-psychoactive-substances-bill/
+
+"At least ecclesiastical law in this area is now settled, following a
+period during which its ceremonial use was held to be illegal,"
+
+"However, Bursell states that in the light of the Archbishops' comments
+in *The Lawfulness of the Liturgical Use of Incense and the Carrying of
+Lights in Procession*, 'it can hardly be suggested that the ceremonial
+use of incense is doctrinally unacceptable'. Nevertheless, a faculty is
+still required for the introduction of the necessary hardware."
+   [footnote 3: R D H Bursell, *Liturgy, Order and the Law*,
+    (Clarendon Press, 1996) 77. footnote 4: Lambeth Palace, July 31, 1899.]
+
+(c) Law & Religion UK on how far ceremonial outside Canon B 5 is
+lawful at all. SOURCE F.
+URL: https://lawandreligionuk.com/2016/04/05/monstrances-in-the-church-of-england-are-they-legal/
+
+"Briden summarizes the current legal position [page 136] like this:
+'any modification in public worship outside the scope of Canon B 5 is
+introduced at the minister's peril. The peril is not great, as
+proceedings are today unlikely to be taken against him or her; but in
+the last century it was real'."
+
+[CAPTURE COMMENT — not source. Note the irony worth preserving: the
+argument that ceremonial incense is now doctrinally unobjectionable is
+made by Bursell *out of the 1899 Opinion's own reasoning* (the Opinion
+said the Church "has never spoken of incense as an evil thing" and that
+it was excluded "not as an evil thing, but as unsuited to the needs of
+the day"). That is a use of the Opinion, not a reversal of it.]
+
+--- 1.6 ------------------------------------------------------------
+UNMATCHED — NO INSTRUMENT FORMALLY REVERSING THE 1899 OPINION WAS FOUND.
+
+Plainly stated: this pass found NO Measure, NO Canon, NO judgment of
+any court (Arches, Chancery Court of York, Court of Ecclesiastical
+Causes Reserved, Judicial Committee), NO synodical act, and NO later
+archiepiscopal opinion that reverses, rescinds, revokes, overrules or
+sets aside the Archbishops' Opinion of 31 July 1899 on incense, or that
+grants liturgical incense by name.
+
+What was found instead is (i) the wholesale repeal in 1974 of the Acts
+of Uniformity 1548, 1558 and (all but ss.10, 15) 1662, i.e. of the
+statutory regime the Opinion construed, and (ii) an unresolved
+scholarly dispute (1.5) about whether that repeal carried the Victorian
+ceremonial case law with it.
+
+Queries run for this (WebSearch unless marked):
+ - "1899 Lambeth Opinion incense Archbishops Temple Maclagan legal status reversed"
+ - "Lambeth Opinion 1899 incense 'not a judicial decision' archbishops opinion legal status no binding force ecclesiastical law"
+ - "'Archbishops' Opinion' 1899 incense rescinded OR revoked OR overruled OR 'set aside' Church of England later opinion"
+ - "General Synod Church of England incense legality 'Archbishops' Opinion' 1899 superseded Worship and Doctrine Measure 1974 no longer good law Bursell"
+URLs opened and read for this question: sources A, B, C, D, E, F above.
+Not obtained: R D H Bursell, *Liturgy, Order and the Law* (Clarendon
+Press, 1996), p. 77 — cited at second hand through source E only; the
+book text is not online. The 1911 Encyclopaedia Britannica art.
+"Incense" on Wikisource
+(https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Incense)
+returned an EMPTY body to the fetcher on this pass and is UNMATCHED as
+a directly-quotable source here.
+
+=====================================================================
+PART 2 — THE 1927/1928 DEPOSITED BOOK
+=====================================================================
+
+--- 2.1 ------------------------------------------------------------
+THE DEPOSITED BOOK'S OWN ACCOUNT OF THE TWO COMMONS DEFEATS, AND ITS
+OWN DENIAL THAT IT IS AUTHORIZED. This is the introductory note printed
+in the 1928 Book immediately before the Table of Contents.
+SOURCE G. URL: http://justus.anglican.org/resources/bcp/CofE1928/preface.htm
+
+"IN July 1927 a Measure was passed in the Church Assembly for the
+purpose of authorizing the use of a Prayer Book which had I [sic] been
+deposited with the Clerk of the Parliaments, and was referred to in the
+Measure as 'The Deposited Book.' The Measure and the Book had been
+previously approved by large majorities in the Convocations of
+Canterbury and York. A Resolution under the Church of England Assembly
+(Powers) Act, 1919, directing that the Measure should be presented to
+His Majesty, was afterwards passed in the House of Lords by a large
+majority. But a similar Resolution in the House of Commons was defeated
+on 15th December, 1927, and the Prayer Book Measree [sic] of 1927,
+therefore, could not be presented for the Royal Assent.
+
+Early in the year 1928 a second Measure (known as the Prayer Book
+Measure, 1928) was introduced in the Church Assembly, proposing to
+authorize the use of the Deposited Book with certain amendments thereto
+which were set out in a Schedule to the Measure. This Measure again was
+approved by large majorities both in the Convocations and the Church
+Assembly; but a Resoluution [sic] directing that it should be presented
+to His Majesty was defeated in the House of Commons on 14th June, 1928.
+
+This Book is a copy of the Deposited Book referred to in the Prayer
+Book Measure of 1927, as amended in accordance with the provisions of
+the Prayer Book Measure, 1928.
+
+**The publication of this Book does not directly or indirectly imply
+that it can be regarded as authorized for use in churches.**
+
+NOTE.—If the Prayer Book Measure, 1928, had received the Royal Assent,
+the following would have been printed as the title of this Book:
+THE BOOK OF COMMON PRAYER AND ADMINISTRATION OF THE SACRAMENTS AND
+OTHER RITES AND CEREMONIES OF THE CHURCH ACCORDING TO THE USE OF THE
+CHURCH OF ENGLAND TOGETHER WITH THE FORM AND MANNER OF MAKING,
+ORDAINING, AND CONSECRATING OF BISHOPS, PRIESTS, AND DEACONS. THE BOOK
+OF 1662 WITH ADDITIONS AND DEVIATIONS APPROVED IN 1928"
+
+[TRANSCRIPTION NOTE: the bolding of "The publication of this Book does
+not directly or indirectly imply that it can be regarded as authorized
+for use in churches." is in the justus transcription; the three [sic]
+marks flag transcription typos ("had I been", "Measree", "Resoluution")
+left as found.]
+
+CLASSIFICATION: this settles Task 2(b) from the book's own front
+matter. The Deposited Book acquired NO legal authorization. It is not a
+POSITIVE AUTHORIZATION of anything, incense included; it is a text that
+disclaims its own authorization.
+
+--- 2.2 ------------------------------------------------------------
+DOES THE DEPOSITED BOOK NAME INCENSE? SWEEP RESULT.
+SOURCE G, thirteen pages of the justus transcription plus the two
+pages read directly by the capturing agent (preface.htm,
+exhortation.htm). Search terms: incense, censer, thurible, thurifer,
+frankincense, case-insensitive.
+
+RESULT: exactly ONE occurrence in the whole transcription, and it is
+Scripture, not a rubric.
+
+VERBATIM — in the seasonal Opening Sentences of "AN INTRODUCTION TO
+MORNING OR EVENING PRAYER" (new in the 1927/1928 book), under the
+rubric "*The Minister shall read with a loud voice some one or more of
+these Sentences of the Scriptures that follow*":
+URL: http://justus.anglican.org/resources/bcp/CofE1928/CofE1928_MP&EP.htm
+
+"*Epiphany.* From the rising of the sun even unto the going down of the
+same my name is great among the nations; and in every place incense is
+offered unto my name, and a pure offering. For my name is great among
+the nations, saith the Lord. *Mat.* 1. 11."
+
+[TRANSCRIPTION NOTE: the citation is printed on the site as "Mat. 1.
+11"; the verse is Malachi 1:11, not Matthew. The abbreviation "Mal."
+has evidently been mis-set or mis-transcribed.]
+
+PAGES SEARCHED WITH NO OCCURRENCE (all under
+http://justus.anglican.org/resources/bcp/CofE1928/):
+  front_matter.htm  (Tables, Calendar, Rules, Tables of Holy-days)
+  CofE1928_Litany&Prayers.htm  (Quicunque Vult, Litany, Occasional
+      Prayers and Thanksgivings)
+  CofE1928_Readings.htm  (Collects, Epistles and Gospels)
+  CofE1928_Communion.htm  (the ALTERNATIVE ORDER of the
+      Administration of Holy Communion, including its General
+      Rubricks on vesture) — NO MATCH
+  CofE1928_Baptism.htm
+  CofE1928_Confirmation&Marriage.htm
+  CofE1928_Visitation_Sick.htm  (including Communion of the Sick and
+      the Reservation rubrics)
+  CofE1928_Burial.htm
+  ordinal.htm  (one false substring hit only: "a faithful Dispenser
+      of the Word of God" — not a target word)
+  CofE1928_Appendix.htm  (Prime, Compline, A Devotion before the
+      celebration of Holy Communion, Lesser Feasts and Fasts, Making
+      of Deaconesses)
+  prayer_book_explained.htm  (SPCK, *The New Prayer Book Explained*)
+  new_prayer_book.html  (Headlam, *The New Prayer Book*)
+  preface.htm  (read directly by the capturing agent)
+  exhortation.htm, including the "Proposed Rules Concerning
+      Reservation" appended to the 1927 Final Draft (read directly by
+      the capturing agent) — NO MATCH
+
+CLASSIFICATION: the Deposited Book contains NO rubric, note, table,
+appendix or preface naming incense. Its single occurrence of the word
+is inside a quoted Scripture Sentence. On the supplied schema that is
+MENTION WITHOUT GRANT at its very weakest — arguably not even that,
+since the mention is Scripture read aloud, not the book speaking.
+
+SWEEP CAVEAT recorded honestly: the sweep covered the thirteen linked
+text pages plus the two the capturing agent read. The justus index
+lists some 1662-unchanged items in grey without links (Commination,
+Catechism, Churching of Women, the Psalter, "Concerning Ceremonies, why
+some be abolished, and some retained", "Concerning the Service of the
+Church"). Those are unchanged 1662 text and are not part of the 1928
+additions; they were NOT separately fetched on this pass. The 1662
+"Concerning Ceremonies" does not name incense, but that is not verified
+from a fetched page in this pass — treat as UNVERIFIED, not as a
+finding.
+
+--- 2.3 ------------------------------------------------------------
+UNMATCHED — THE 1929 BISHOPS' DECLARATION / RESOLUTION.
+
+The verbatim text of the bishops' 1929 declaration or resolution
+permitting use of the Deposited Book was NOT obtained on this pass.
+
+The only sourced statement obtained is a secondary one, from the
+English Wikipedia article "Book of Common Prayer (1928, England)",
+citing Chapman at p. 126:
+URL: https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1928,_England)
+
+"In 1929, the bishops permitted the Deposited Book's use by clergy
+'during the present emergency.'"
+
+That is Wikipedia's own sentence with an internal quotation; the phrase
+"during the present emergency" is presented there as a quotation from
+the bishops but the underlying document was not reached. DO NOT DEPLOY
+THAT PHRASE AS A VERBATIM QUOTATION OF THE BISHOPS until the primary
+text is in hand.
+
+Queries run:
+ - "1929 bishops declaration Deposited Book 1928 'we cannot regard as inconsistent with loyalty' permit use"
+ - "bishops resolution 1929 'not inconsistent with loyalty to the principles of the Church of England' 1928 Prayer Book"
+ - "'until further order be taken' bishops 1929 Prayer Book 1928 'loyalty to the principles of the Church of England'"
+ - "anglicanhistory.org OR 'Project Canterbury' 1929 bishops 'Deposited Book' resolution 'present emergency' text"
+URLs tried and unproductive for this specific text:
+ - https://api.parliament.uk/historic-hansard/commons/1928/jun/14/prayer-book-measure-1928
+   (retrieved, 118k chars; no division figures matched "Ayes|Noes|Question put|negatived" on the extracted text — the
+   historic-hansard render for this sitting did not yield the division)
+ - https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1928,_England)
+   (retrieved; the article never uses the word "incense" — 0 occurrences)
+ - web.archive.org — BLOCKED by the fetcher (blocklist), so no
+   archived copy of the 1929 Convocation/bishops' minutes was reachable.
+
+Also UNMATCHED: an authoritative statement of the 1928 book's *current*
+status on the Church of England's own site. The justus index points at
+http://www.churchofengland.org/prayer-worship/worship/texts/1928.aspx
+for "the current legal status of the 1928 Proposed Book"; that URL is a
+dead legacy path and was not resolved on this pass.
+
+=====================================================================
+PART 3 — MODERN ENGLISH SERVICE BOOKS
+=====================================================================
+
+--- 3.1 ------------------------------------------------------------
+THE ALTERNATIVE SERVICE BOOK 1980 — NEGATIVE FINDING.
+SOURCE O (oremus mirror; material from the ASB 1980 is copyright
+(c) 1980 the Central Board of Finance of the Church of England).
+
+Pages retrieved and searched, NO occurrence of incense/censer/
+thurible/thurifer:
+  http://www.oremus.org/liturgy/asb/common/gnotes.html
+      — the ASB GENERAL NOTES in full. The whole of the General Notes
+        is: Distinctions in the Text; Saying and Singing; Biblical
+        Passages; Prayer Book Texts; The Lord's Prayer; Collects;
+        Collect Endings. Nothing ceremonial at all.
+  http://www.oremus.org/liturgy/asb/ea/notes.html
+      — the 24 NOTES to Holy Communion Rite A in full. Note 16 is the
+        nearest thing to a ceremonial note and reads, verbatim:
+        "**Manual Acts** In addition to the taking of the bread and cup
+        at section 36 the president may use traditional manual acts
+        during the Eucharistic Prayers."
+        Note 3 reads, verbatim: "**Posture** When a certain posture is
+        particularly appropriate, it is indicated in the margin. For
+        the rest of the service local custom may be established and
+        followed. ..."
+  http://www.oremus.org/liturgy/asb/ea/index.html  (Rite A full text)
+  http://www.oremus.org/liturgy/asb/ea/obcp.html  (BCP-pattern order)
+  http://www.oremus.org/liturgy/asb/cal/cal.html  (Calendar and Rules
+        to Order the Service 1-10)
+  http://www.oremus.org/liturgy/asb/mep/mp.html and .../ep.html
+  the Rite A appendices (prefaces, blessings, commandments, kyrie,
+        confessions, intercessions, peace, Eucharistic Prayer for the
+        Sick, words of invitation) at .../ea/*.html
+  [the last five bullets: DELEGATED FETCH]
+
+NOT RETRIEVABLE, therefore UNMATCHED rather than negative: ASB Rite B,
+the ASB Initiation Services, Marriage, Funeral Services, the Ordinal
+and Ministry to the Sick. The oremus mirror does not carry them as
+text; http://www.oremus.org/liturgy/asb/baptism-and-confirmation.pdf is
+an image-only PDF with no text layer (tried over both http and https);
+directory guesses .../asb/eb/index.html and .../asb/marriage/index.html
+return empty. No other machine-readable ASB full text surfaced.
+
+CLASSIFICATION for the ASB so far as retrievable: incense is NOT named.
+PERMISSION BY SILENCE at most; no mention, no grant.
+
+--- 3.2 ------------------------------------------------------------
+*** THE ONE PERMISSIVE RUBRIC NAMING INCENSE THAT THIS PASS FOUND ***
+COMMON WORSHIP: DAILY PRAYER — "The Blessing of the Light", in Morning
+and Evening Prayer. Read directly by the capturing agent.
+SOURCE H. URL: https://daily.commonworship.com/morneve/light.html
+Mirrors carrying the identical wording:
+  https://justus.anglican.org/~ss/commonworship/daily/morneve/light.html
+  https://cwdp.oremus.org/morneve/light.html
+
+Context, verbatim, in sequence (rubrics in the source are set in
+italic; the "All" prefixes mark congregational text):
+
+"## ¶ The Blessing of the Light
+
+The Blessing of Light may replace the Preparation at Evening Prayer on
+any occasion.
+
+A lamp or candle may be lit.
+   ...
+Other candles may be lit as Phos Hilaron – A Song of the Light (page
+635), the following, or another suitable hymn or canticle, is sung
+   [Hail, gladdening Light ... tr. John Keble]
+
+Verses from Psalm 141 – A Song of the Evening Sacrifice
+ may be said and incense may be burned
+
+ All  Let my prayer rise before you as incense, •
+ the lifting up of my hands as the evening sacrifice.
+   ...
+ Psalm 141.1-4b, 8"
+
+THE OPERATIVE WORDS, ISOLATED:
+   "may be said and incense may be burned"
+
+CLASSIFICATION: **POSITIVE AUTHORIZATION, by name, permissive, but with
+a decisive qualification about the status of the book it sits in — see
+the caveat immediately below.** It is a rubric in the body of a service
+book, it names incense, and it permits the act ("incense may be
+burned"). Conditions attached in the rubric itself: none — no bishop's
+direction, no limit of manner, no restriction of the thurifer. It is
+confined by position: it authorizes burning incense at one point of one
+optional opening rite (the Blessing of the Light replacing the
+Preparation at Evening Prayer), during Psalm 141.
+
+*** STATUS CAVEAT, WHICH MUST TRAVEL WITH THIS FINDING ***
+Common Worship: Daily Prayer is understood to be COMMENDED by the House
+of Bishops as material suitable for use under the minister's Canon B 5
+discretion, NOT AUTHORIZED by the General Synod. If that is right, the
+rubric is not an act of the Church's legislature granting incense; it
+is the House of Bishops commending a form in which incense is named,
+and the actual permission still runs through Canon B 5 and the bishop.
+This pass did NOT obtain a primary-source statement of that status —
+see the UNMATCHED entry at 4(c). Do not describe this rubric as a
+General Synod authorization until that is verified.
+
+--- 3.3 ------------------------------------------------------------
+COMMON WORSHIP: DAILY PRAYER — GENERAL INTRODUCTION, "Deciding How".
+[DELEGATED FETCH — retrieved in this pass by a delegated sub-fetch;
+URL given; not re-read by the capturing agent.]
+SOURCE I. URL: https://www.churchofengland.org/node/10112/printable/print
+
+"The lighting of candles at appropriate points in the Forms of
+Penitence (here) and, of course, during the Blessing of Light (here),
+followed perhaps by the burning of incense in a censer or a simple pot
+during the singing of Psalm 141, are obvious and natural ways of
+expressing the liturgical words in action."
+
+Reported as the ONLY occurrence of the word "censer" anywhere on
+churchofengland.org (site search keys=censer returns exactly one
+result, this page).
+
+CLASSIFICATION: MENTION WITHOUT GRANT. This is directory / commentary
+material introducing the volume, not a rubric of a service. It names
+incense and names the vessel, and calls the practice "obvious and
+natural", but it grants nothing; the grant, such as it is, is at 3.2.
+
+--- 3.4 ------------------------------------------------------------
+COMMON WORSHIP: TIMES AND SEASONS — THE EASTER LITURGY.
+Retrieved as node/3869/printable/bbd_pdf_format and grepped directly by
+the capturing agent (2 occurrences, being the same rubric printed in
+each of the two forms of the service).
+SOURCE J. URL: https://www.churchofengland.org/node/3869/printable/bbd_pdf_format
+
+Verbatim, with immediate context (the Preparation of the Easter Candle,
+following the "Christ yesterday and today / the beginning and the end,
+Alpha and Omega..." acclamation):
+
+"All   Amen.
+Nails or incense studs may be inserted into the Easter Candle.
+By his holy and glorious wounds
+may Christ our Lord guard and keep us.
+All   Amen.
+The president lights the Easter Candle, saying
+May the light of Christ, rising in glory,
+banish all darkness from our hearts and minds."
+
+Second occurrence, identically worded, in the form of the service that
+includes baptism:
+"If there are candidates for baptism, they are presented at this point.
+(see here.)
+Nails or incense studs may be inserted into the Easter Candle.
+By his holy and glorious wounds
+may Christ our Lord guard and keep us."
+
+NOTE: no occurrence of censer, thurible, censed or censing anywhere in
+that document (grepped by the capturing agent).
+
+CLASSIFICATION: MENTION WITHOUT GRANT *as to ceremonial incense
+(censing)*. The rubric is genuinely permissive and does name incense,
+but what it permits is the insertion of incense studs into a candle as
+a material object — the five wounds — not the burning of incense in
+worship, and not the censing of persons or things. Read strictly as to
+what it authorizes, it is a permissive rubric for an incense *article*.
+Both readings should be kept live; do not collapse it into "Common
+Worship authorizes incense".
+
+--- 3.5 ------------------------------------------------------------
+COMMON WORSHIP: TIMES AND SEASONS — EPIPHANY.
+[DELEGATED FETCH.] SOURCE K.
+URL: https://www.churchofengland.org/node/3857/printable/bbd_pdf_format
+
+In "The Eucharist on the Feast of the Epiphany", at the presentation of
+the gifts:
+   "The traditional gifts of gold, frankincense and myrrh may now be
+    offered at the crib."
+followed by the heading
+   "At the offering of incense"
+(paralleling "At the offering of gold" and "At the offering of myrrh").
+
+CLASSIFICATION: MENTION WITHOUT GRANT. Incense here is a *gift
+presented*, in imitation of the Magi, not a direction to cense anything
+or anyone. It is permissive as to offering the gift.
+
+--- 3.6 ------------------------------------------------------------
+NEW PATTERNS FOR WORSHIP (commended resource material, 2002).
+
+(a) "B Penitence", in the "Stories from the four churches" commentary,
+under "How can the penitential prayers have more impact on the
+congregation?" — a bulleted list of things St Ann's "have tried".
+Read directly by the capturing agent.
+SOURCE L. URL: https://www.churchofengland.org/node/4126/printable/print
+
+"* The use of dim lighting to create a penitential atmosphere. They
+found this could be achieved very simply by lowering or switching off
+the lighting after the introduction, and switching it on again at the
+absolution.
+* The burning of incense or aromatic oils to make the congregation
+smell 'sweeter', and the sprinkling of water over the people as a sign
+of cleansing."
+
+Copyright line on the same page: "New Patterns for Worship, material
+from which is included here, is copyright © The Archbishops' Council
+2002 and published by Church House Publishing."
+
+(b) "Space and Colour", under "St Ann's checklist". [DELEGATED FETCH.]
+SOURCE M.
+URL: http://justus.anglican.org/~ss/commonworship/newpatterns/notes/spacecolour.html
+
+"What does the church smell and look like? Do we need polish, air
+freshener or incense?"
+
+CLASSIFICATION for both: MENTION WITHOUT GRANT — descriptive/planning
+narrative, in the reflective commentary layer of a commended resource
+book, not a rubric and not a permission. (b) is a question, not even a
+statement; do not quote it as an assertion.
+
+[CAPTURE COMMENT — not source, and worth flagging for the Bucket A
+question: (a) is notable because it describes incense in exactly the
+non-liturgical, fumigatory register the 1899 Opinion allowed — "to make
+the congregation smell 'sweeter'" against the Opinion's "to sweeten the
+Church". Whether that echo is deliberate is UNKNOWN and must not be
+asserted.]
+
+--- 3.7 ------------------------------------------------------------
+COMMON WORSHIP: ADDITIONAL EUCHARISTIC PRAYERS — "Guidance on
+Celebrating the Eucharist with Children" (Liturgical Commission, 2012),
+under "Specific practicalities". [DELEGATED FETCH.]
+SOURCE N. URL: https://www.churchofengland.org/node/9534/printable/print
+
+"the assessment and mitigation of any risks associated with the use of
+candles, or charcoals for incense."
+
+CLASSIFICATION: MENTION WITHOUT GRANT. It is a risk-assessment bullet
+in guidance; it presupposes incense may be in use without granting it.
+
+--- 3.8 ------------------------------------------------------------
+COMMON WORSHIP — VOLUMES AND SERVICES SEARCHED WITH NO INCENSE RUBRIC
+OR NOTE FOUND. [Mixed direct and DELEGATED FETCH; URLs given so any of
+these can be re-run.]
+
+  Notes to Holy Communion, complete (general notes plus Notes 1-23 to
+    Order One and 24-29 to Order Two) —
+    https://justus.anglican.org/~ss/commonworship/hc/notes.html
+  Common Worship Main Volume General Index (no entry at all for
+    incense, censer, thurible or thurifer) —
+    https://justus.anglican.org/~ss/commonworship/books/mv/generalindex.html
+  A Service of the Word, text plus Notes 1-10 —
+    https://www.churchofengland.org/node/4083/printable/print
+  Main Volume: Service of the Word / Morning and Evening Prayer on
+    Sunday and Notes / BCP Morning and Evening Prayer and Schedule of
+    Permitted Variations / Night Prayer both languages and Notes /
+    Prayers for Various Occasions —
+    https://www.churchofengland.org/node/9699/printable/print
+    (the only hit on that page is the Malachi 1.11 seasonal sentence)
+  Daily Prayer General Notes 1-11 and Seasonal Notes 1-6 —
+    https://justus.anglican.org/~ss/commonworship/daily/other/generalnotes.html
+  Daily Prayer Notes to Morning and Evening Prayer, Notes 1-16 —
+    https://justus.anglican.org/~ss/commonworship/daily/morneve/notes.html
+  Daily Prayer Night Prayer introduction, structure and Notes 1-6 —
+    https://justus.anglican.org/~ss/commonworship/daily/night/introstructurenotes.html
+  Christian Initiation: Baptism and Confirmation — structure, Pastoral
+    Introduction, service, Notes to Holy Baptism 1-18, Emergency
+    Baptism and Notes, seasonal and supplementary texts —
+    https://www.churchofengland.org/node/3959/printable/print
+    (the nearest analogue is Note 10 "Use of Oil", on chrism, NOT incense)
+  Emergency Baptism and Notes 1-7 (Pastoral Services) —
+    https://www.churchofengland.org/node/4065/printable/print
+  Marriage complete — Marriage Service, Marriage within a Celebration
+    of Holy Communion, Notes to the Marriage Service, Series One
+    Solemnization and Notes —
+    https://www.churchofengland.org/node/3742/printable/bbd_pdf_format
+  Times and Seasons: Advent — node 3834; Christmas — node 3848;
+    Lent including the Liturgy of Ash Wednesday and Notes — node 3860;
+    Passiontide and Holy Week including Palm Sunday and Notes, the
+    Chrism Eucharist, Maundy Thursday, Good Friday and Notes —
+    node 3863; Trinity to All Saints — node 3872; the Agricultural
+    Year including the Rogationtide Procession — node 3866; Easter
+    (Mid-Morning Eucharist of Easter Day, Thanksgiving for the
+    Resurrection, Stations of the Resurrection) — node 9648.
+    All at https://www.churchofengland.org/node/<id>/printable/print
+    or .../printable/bbd_pdf_format
+  Canons Section B — node 10549; Supplementary material including the
+    "Rules for Regulating Authorized Forms of Service" schedule —
+    node 10564
+  New Patterns: "3. An Evening Service of the Word" service text;
+    Sample Services introduction; Planning and Preparing Holy
+    Communion — pages under
+    http://justus.anglican.org/~ss/commonworship/newpatterns/
+
+CORROBORATING INDEX EVIDENCE [DELEGATED FETCH] — the churchofengland.org
+site search does index liturgical body text (controls: keys=chrism
+reaches Note 10 of Baptism; keys=coffin and keys=committal reach the
+Funeral; keys=anointing reaches Wholeness and Healing). On that index:
+  keys=thurible (Liturgy) → 0 hits; whole site → 1, a 2025 blog post
+  keys=thurifer → 0 anywhere
+  keys=censing (Liturgy) → 0
+  keys=censer (Liturgy) → 1, the Daily Prayer General Introduction (3.3)
+  keys=incense (Liturgy) → 22 hits, all accounted for above
+  keys=frankincense → 4, all Epiphany/Christmas scripture
+  No Common Worship Holy Communion page, no Christian Initiation page,
+  no Pastoral Services page and no Festivals page appears in any of
+  those result sets.
+This index evidence is CORROBORATIVE ONLY. It is not a substitute for
+reading the text; where a volume was not read, it is listed at 4(b) as
+UNMATCHED, not as a negative finding.
+
+=====================================================================
+PART 4 — UNMATCHED REGISTER
+=====================================================================
+
+(a) NO INSTRUMENT REVERSING THE 1899 OPINION. See 1.6 above for the
+    full statement and the queries run. Stated plainly: nothing was
+    found; this is an absence, recorded as an absence.
+
+(b) COMMON WORSHIP VOLUMES NOT VERBATIM-INSPECTED (index-negative
+    only — do NOT report these as searched-and-clear):
+      Common Worship Holy Communion Order One, Order One in
+        Traditional Language, Order Two, Order Two in Contemporary
+        Language — the running service text. Tried: node 9644 and
+        node 10237 at /printable/print, /printable/bbd_pdf_format and
+        /printable/pdf; and justus .../hc/orderone.html,
+        orderonetrad.html, ordertwo.html, order2contemp.html — all
+        returned empty. The complete NOTES and the Main Volume General
+        Index WERE retrieved and are clean.
+      "Rules to Order How the Service is to be Said or Sung" / General
+        Rules for Regulating Authorized Forms of Service — justus
+        .../rules/rulesgeneral.html and .../rules/rulesyear.html both
+        empty across repeated attempts. Only the Canon B schedule
+        listing (node 10564) was obtained.
+      Wholeness and Healing (node 3981); the Funeral chapter (nodes
+        9744 and 3734 — only the table of contents came through);
+        Rites on the Way; Reconciliation and Restoration (node 50588);
+        Thanksgiving for the Gift of a Child; the Festivals volume
+        (node 3886).
+      Times and Seasons "All Saints to Advent" (node 3846) — All
+        Saints' Day and the Commemoration of the Faithful Departed
+        were never retrieved. Likewise Ascension, Pentecost and the
+        Dawn Service (no node located).
+      New Patterns "3. An Evening Service of the Word" per-service
+        Notes (node 4456) — this page IS an incense index hit and the
+        hit was NOT resolved to a fetched page. Search snippets
+        suggest it is the "Let our prayers rise up before you like
+        incense" versicle, but that is a lead, not a finding.
+      Daily Prayer "Prayer During the Day" — node never located; it is
+        an incense index hit. Search-engine summaries assert the hit is
+        the Malachi 1.11 opening sentence. UNVERIFIED.
+      New Patterns "F Prayers" on churchofengland.org — node never
+        located (the justus mirror text was obtained; scripture only).
+    Dead printable nodes confirmed on this pass (empty body on
+      /printable/print, and /printable/bbd_pdf_format redirects to the
+      CoE homepage): 3814, 3846, 4081, 4099, 4131, 4456, 9644, 10237,
+      10105, 10111, 10113, 3739, 3981, 9744, 3886, 50588.
+
+(c) THE CANONICAL STATUS OF COMMON WORSHIP: DAILY PRAYER —
+    AUTHORIZED vs COMMENDED. Not established from a primary source on
+    this pass. This matters directly to the classification at 3.2.
+    Query run: "'Common Worship: Daily Prayer' commended by the House
+    of Bishops not authorized Canon B5 status". Leads surfaced but not
+    fetched and not verified:
+      https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/common-material/new-patterns-9
+        ("Common Prayer and the Law")
+      https://www.churchofengland.org/about/leadership-and-governance/legal-resources/canons-church-england/supplementary-material
+      https://lawandreligionuk.com/2023/02/10/canon-b5-and-the-prayers-of-love-and-faith/
+      https://orca.cardiff.ac.uk/id/eprint/157468/1/Canon%20B5.pdf
+    NEXT PASS SHOULD: fetch Canon B 1 and Canon B 5 verbatim from
+    legislation/CoE, and fetch the front matter of Common Worship:
+    Daily Prayer stating by what authority it is issued.
+
+(d) THE TEXT OF CANONS B 1 AND B 5 was NOT captured verbatim on this
+    pass. Everything said above about Canon B 5 comes through
+    secondary commentary (sources D and F). This is a gap: the
+    canons are the instrument that would have to be read to answer
+    "positively authorized by name" for the post-1974 period, and
+    neither commentary reports any canon that names incense.
+
+(e) BURSELL, *Liturgy, Order and the Law* (Clarendon Press, 1996),
+    p. 77 — cited at second hand only, via source E. Not online.
+
+(f) 1911 ENCYCLOPAEDIA BRITANNICA art. "Incense" —
+    https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Incense
+    returned an EMPTY body to the fetcher. Not captured.
+
+(g) SUMNER v. WIX (1870) and the Court of Arches incense holding —
+    outside this pass's scope; already carried as UNMATCHED by pass
+    260835-56 in
+    SRC_PRIMARY_1906_RoyalCommission_Ecclesiastical-Discipline-Incense.txt.
+
+=====================================================================
+CAPTURE FOOTER — added by pass 260835-60, not part of the sources.
+
+WHAT THIS ESTABLISHES (and what it does not):
+
+ 1. NOTHING FOUND REVERSED THE 1899 OPINION BY ANY INSTRUMENT. No
+    Measure, Canon, judgment, synodical act or later archiepiscopal
+    opinion naming and setting it aside was located. What happened
+    instead is structural: the Church of England (Worship and
+    Doctrine) Measure 1974 repealed the Act of Uniformity 1558 (the
+    Opinion's whole statutory basis) and the Act of Uniformity 1662
+    except ss. 10 and 15, and vested worship regulation in the General
+    Synod by Canon.
+
+ 2. THE 1899 OPINION WAS NOT A COURT JUDGMENT, ON ITS OWN ACCOUNT.
+    It was given under the Prayer Book's own "resort to the Bishop,
+    who may send the question to the Archbishop" provision, and it
+    ends by entreating acceptance. Within a year a peer told the Lords
+    of the Lambeth hearing that "it is not a legal tribunal". This
+    dovetails exactly with the 1906 Royal Commission's statement,
+    already captured by pass 260835-56, that the incense question
+    "has never been before the Judicial Committee".
+
+ 3. THE 1928 DEPOSITED BOOK DOES NOT NAME INCENSE IN ANY RUBRIC, NOTE,
+    TABLE, APPENDIX OR PREFACE. The single occurrence of the word in
+    the whole transcribed book is Malachi 1:11 as an Epiphany opening
+    Sentence. And the book disclaims its own authorization in its own
+    front matter: "The publication of this Book does not directly or
+    indirectly imply that it can be regarded as authorized for use in
+    churches." Both Commons resolutions were defeated — 15 December
+    1927 and 14 June 1928 — so the book was never presented for the
+    Royal Assent.
+
+ 4. THE ASB 1980, so far as retrievable, DOES NOT NAME INCENSE — not
+    in the General Notes, not in the 24 Notes to Rite A, not in the
+    Calendar and Rules.
+
+ 5. THE STRONGEST POST-1900 TEXT FOUND THAT NAMES INCENSE
+    PERMISSIVELY IS A SINGLE RUBRIC IN COMMON WORSHIP: DAILY PRAYER,
+    at the Blessing of the Light: "Verses from Psalm 141 – A Song of
+    the Evening Sacrifice may be said and incense may be burned."
+    Its force depends entirely on whether that volume is AUTHORIZED or
+    merely COMMENDED — an open question on this pass (4(c)). Every
+    other Common Worship occurrence is either an incense *object*
+    (Easter Candle studs), an incense *gift* (Epiphany), commentary
+    or planning material, or Scripture.
+
+ 6. DO NOT REPORT THE PRESENT LAW AS SETTLED. Philip Jones holds the
+    Victorian ceremonial case law "can therefore no longer be good
+    law"; Bursell holds that ceremonies ARE regulated by canons B1-B5,
+    on which reading "Ceremonies will be just as illegal now as they
+    were then, unless they are clearly permitted by the rubrics of an
+    official service". Jones records that Bursell "may be" right. Both
+    readings must be kept live.
+=====================================================================

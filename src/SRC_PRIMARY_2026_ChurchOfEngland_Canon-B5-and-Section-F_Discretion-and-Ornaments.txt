@@ -1,0 +1,212 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-60, not part of the sources.
+=====================================================================
+SUBJECT: Three things, captured together because they answer one
+         question between them — what, in the Church of England as it
+         now stands, does the permitting of incense?
+         (i) Canon B 5, the ministerial-discretion canon, in full, with
+             its bounds;
+         (ii) Canons F 1 - F 18, "Things appertaining to churches", the
+             complete list of what a church must provide — read to test
+             whether incense apparatus appears in it. IT DOES NOT;
+         (iii) the Canons' own supplementary schedule distinguishing
+             AUTHORIZED services from COMMENDED ones — which settles
+             the status of the one Common Worship rubric that names
+             incense permissively.
+SOURCES:
+  A + C. https://www.churchofengland.org/about/governance/legal-resources/canons-church-england/section-b
+  B.     https://www.churchofengland.org/about/governance/legal-resources/canons-church-england/section-f
+  C.     https://www.churchofengland.org/more/policy-and-thinking/canons-church-england/supplementary-material
+         (the page Canon B 5's own Note links to)
+RETRIEVED: 2026-09-06 by pass 260835-60, website edition of the Canons,
+         which the Church of England publishes as the current text.
+EDITION NOTE: the website edition is not the printed 7th edition; where
+         a point turns on exact wording for outward deployment, check
+         the printed edition. Bold and italic markup in the source has
+         been dropped; wording is unaltered.
+SEARCH METHOD AND RESULT: Sections B and F were retrieved in full and
+         searched for "incense", "censer" and "thurible", case-
+         insensitive. ZERO OCCURRENCES IN EITHER SECTION.
+=====================================================================
+
+
+======================================================================
+A. CANON B 5 — "Of the discretion of ministers in conduct of public
+   prayer" — COMPLETE
+======================================================================
+
+"1. The minister who is to conduct the service may in his discretion
+make and use variations which are not of substantial importance in any
+form of service authorized by Canon B 1 according to particular
+circumstances.
+
+2. The minister having the cure of souls may on occasions for which no
+provision is made in The Book of Common Prayer or by the General Synod
+under Canon B 2 or by the Convocations, archbishops, or Ordinary under
+Canon B 4 use forms of service considered suitable by him for those
+occasions and may permit another minister to use the said forms of
+service.
+
+3. All variations in forms of service and all forms of service used
+under this Canon shall be reverent and seemly and shall be neither
+contrary to, nor indicative of any departure from, the doctrine of the
+Church of England in any essential matter.
+
+4. If any question is raised concerning the observance of the
+provisions of this Canon it may be referred to the bishop in order that
+he may give such pastoral guidance, advice or directions as he may
+think fit, but such reference shall be without prejudice to the matter
+in question being made the subject matter of proceedings under the
+Ecclesiastical Jurisdiction Measure 1963.
+
+5. In this Canon the expression 'form of service' has the same meaning
+as in Canon B 1.
+
+Note: The forms of service which have been approved by the Archbishops
+or commended by the House of Bishops as being suitable for use by
+ministers in exercise of their discretion under Canons B 4 or B 5
+respectively are detailed [link to the supplementary material at C
+below]."
+
+Related, from Canon B 1 §2, same page:
+"Every minister shall use only the forms of service authorized by this
+Canon, except so far as he may exercise the discretion permitted by
+Canon B 5. It is the minister's responsibility to have a good
+understanding of the forms of service used and he shall endeavour to
+ensure that the worship offered glorifies God and edifies the people."
+
+FINDING ON A — IS THE DISCRETION BOUNDED? YES, ON ITS FACE, FOUR WAYS.
+  1. By degree: §1 reaches only variations "which are not of
+     substantial importance."
+  2. By occasion: §2 reaches only "occasions for which no provision is
+     made" in the BCP or by Synod, Convocations, archbishops or
+     Ordinary. It is a gap-filling power, not a general one.
+  3. By content: §3, "reverent and seemly", and "neither contrary to,
+     nor indicative of any departure from, the doctrine of the Church
+     of England in any essential matter."
+  4. By reviewability: §4, referable to the bishop for "pastoral
+     guidance, advice or directions", and expressly without prejudice
+     to proceedings under the Ecclesiastical Jurisdiction Measure 1963.
+Canon B 5 does NOT name incense. Its §1/§2/§3/§4 track ss.5/6/7(1)/7(2)
+of the 1965 Measure almost verbatim (see the companion capture,
+SRC_PRIMARY_1964-1974_...).
+CLASSIFICATION: PERMISSION BY SILENCE.
+⛔ Two readings are live in the literature and BOTH must be carried:
+   (a) that the repeal of the 1662 statutory frame ended the Victorian
+       ceremonial case law, so ceremonies not provided for are now
+       prima facie permitted; and
+   (b) Bursell's contrary reading, that ceremonies remain regulated by
+       Canons B 1 - B 5, on which a ceremony outside the authorized
+       forms is no more lawful now than before. Do not report the
+       modern English position as settled.
+
+
+======================================================================
+B. CANONS SECTION F — "Things appertaining to churches" — the COMPLETE
+   list of subject-headings, F 1 to F 18
+======================================================================
+
+F 1  Of the font
+F 2  Of the holy table
+F 3  Of the communion plate
+F 4  Of the communion linen
+F 5  Of surplices for the minister
+F 6  Of the reading desks and pulpit
+F 7  Of seats in church
+F 8  Of church bells
+F 9  Of the Bible and The Book of Common Prayer for the use of the
+       minister
+F 10 Of the alms box
+F 11 Of the register books and their custody
+F 12 Of the register book of services
+F 13 Of the care and repair of churches
+F 14 Of the provision of things appertaining to churches
+F 15 Of churches not to be profaned
+F 16 Of plays, concerts, and exhibitions of films and pictures in
+       churches
+F 17 Of keeping a record of the property of churches
+F 18 Of the survey of churches
+
+The named objects across the whole section are: a font with a cover; a
+table of wood, stone or other suitable material, with a covering of
+silk or other decent stuff and a fair white linen cloth; a chalice, a
+paten or other vessel, a basin for alms, a cruet or flagon; fair white
+linen cloths; surplices; desks and a pulpit; seats; at least one bell;
+a Bible including the Apocrypha, a Book of Common Prayer, a pulpit
+Bible, a service book, a cushion or desk; an alms box; register books.
+
+The one place the section uses the word "ornaments" is not a list of
+them but a control on changing them — F 13 §3: "It shall be the duty of
+the minister and churchwardens, if any alterations, additions,
+removals, or repairs are proposed to be made in the fabric, ornaments,
+or furniture of the church, to obtain the faculty or licence of the
+Ordinary before proceeding to execute the same." F 18 uses the same
+triad for the archdeacon's triennial survey.
+
+FINDING ON B: Section F is the Church of England's own exhaustive
+statement of what a church must provide and how its ornaments are
+controlled. Incense, a censer and a thurible appear NOWHERE in it —
+neither commanded, nor permitted, nor forbidden. This is a negative
+over a complete and closed list, not an unbounded search, which is what
+gives it weight.
+CLASSIFICATION: PERMISSION BY SILENCE.
+NOTE FOR §4 (conditions): the one condition Section F would impose on
+introducing a censer as a permanent church ornament is F 13 §3 — the
+faculty or licence of the Ordinary for an addition to the ornaments of
+the church. That is a condition on the OBJECT and its introduction into
+the fabric, not on the ceremonial act. Do not overstate it as a
+requirement of the bishop's consent to censing.
+
+
+======================================================================
+C. THE AUTHORIZED / COMMENDED DISTINCTION — and what it does to the one
+   Common Worship rubric that names incense
+======================================================================
+
+From the supplementary material to the Canons, the page Canon B 5's own
+Note points to, under the heading "Approved and Commended forms of
+service under Canons B 2, B 4 and B 5":
+
+Under "Authorized Services" (list of 31 items, "As at 1 January 2012"),
+the ONLY item listed under the sub-heading "Published in Common
+Worship: Daily Prayer (Fourth Impression 2010)" is:
+  "26. The Calendar"
+and the list closes: "The above are all authorized for use until
+further resolution of the Synod."
+
+Under the next heading:
+  "Commended services and resources
+   (Material commended by the House of Bishops as being suitable for
+   use by ministers in exercise of their discretion under Canon B 5)
+   (see Canon B 5, [link])
+   As at 1 January 2012"
+and within that list, under "Services which comply with the provisions
+of a Service of the Word":
+  "6. Services contained in Common Worship: Daily Prayer"
+
+FINDING ON C — THIS IS THE LOAD-BEARING DISTINCTION OF §2.
+The single Common Worship rubric that names incense permissively is in
+Common Worship: Daily Prayer, at The Blessing of the Light: "Verses
+from Psalm 141 - A Song of the Evening Sacrifice may be said and
+incense may be burned." (captured by the companion pass at
+SRC_PRIMARY_1928-2000_ChurchOfEngland_ServiceBooks_Incense-Search.txt.)
+By the Church of England's own schedule, the SERVICES in Common
+Worship: Daily Prayer are COMMENDED by the House of Bishops, not
+AUTHORIZED by the General Synod. Only the Calendar out of that volume
+is authorized.
+So the rubric is not a Synod grant. It is a sentence inside material
+the House of Bishops commends as suitable for a minister to use under
+his own Canon B 5 discretion — and Canon B 5, as A above shows, never
+names incense. The permission runs through B 5; the rubric describes
+what may happen inside a service used under it.
+CLASSIFICATION: MENTION WITHOUT GRANT — but recorded as the STRONGEST
+CANDIDATE anywhere found in the Church of England for a positive
+permission by name, and the one an opponent is most likely to reach
+for. The contrary reading, which must be kept live: a House of Bishops
+commendation is an act of a body of the church, and material it
+commends which says "incense may be burned" is at least an official
+statement that burning incense is a thing a minister may lawfully do.
+That reading does not make it a grant, but it is not frivolous, and
+the honest position is that the rubric is permissive language inside a
+non-authorized text.
+=====================================================================

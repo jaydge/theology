@@ -1,0 +1,700 @@
+================================================================================
+CAPTURE HEADER
+================================================================================
+FILE:      SRC_PRIMARY_1892-1979_TEC_PrayerBooks-Canons_Incense-Search.txt
+CAPTURING PASS: 260835-60
+RETRIEVED: 2026-09-06
+SCOPE:     Is liturgical incense NAMED in American (Episcopal Church) prayer
+           books of 1892, 1928, 1979; in the Book of Occasional Services (any
+           edition); and in any TEC canon since 1874? If named, in what exact
+           terms, and with what conditions?
+CLASSIFICATION SCHEME USED (per commissioning brief):
+           POSITIVE AUTHORIZATION  = an instrument granting or permitting
+                                     incense by name
+           PERMISSION BY SILENCE   = no prohibition; discretion vested elsewhere
+           MENTION WITHOUT GRANT   = a rubric/note/directory naming incense
+                                     without authorizing it
+
+SOURCE(S) AND SOURCE URL(S)
+---------------------------
+S1. The Book of Common Prayer [American, 1928], Standard Edition printed by
+    D. B. Updike, The Merrymount Press, Boston, A.D. MDCCCCXXX (1930), 621 pp.
+    LOCAL FILE (read-only, repo): src/the-book-of-common-prayer-1928.pdf
+    PDF internal metadata: Title "front_matter.indd"; Creator Adobe InDesign
+    CS (3.0.1); CreationDate 2005-08-19; 621 pages; colophon reads "OF THIS
+    STANDARD EDITION OF / The Book of Common Prayer / FIVE HUNDRED COPIES WERE
+    PRINTED BY / D. B. UPDIKE, THE MERRYMOUNT PRESS / BOSTON, MASSACHUSETTS /
+    A. D. MDCCCCXXX". This is the Wohlers/justus.anglican.org digitisation of
+    the 1928 Standard Book.
+
+S2. The Book of Common Prayer [English, 1662], repo copy, used ONLY as a
+    method control. LOCAL FILE: src/the-book-of-common-prayer-1662.pdf
+    PDF metadata: "Microsoft Word - intro.doc"; Author Charles Wohlers;
+    CreationDate 2006-12-20; 339 pages.
+
+S3. U. S. 1892 Book of Common Prayer, justus.anglican.org electronic edition
+    (Charles Wohlers, web author).
+    Index: http://justus.anglican.org/resources/bcp/1892/BCP_1892.htm
+    Morning Prayer: http://justus.anglican.org/resources/bcp/1892/MP_1892.htm
+
+S4. The Book of Common Prayer 1979 (TEC), full text at bcponline.org:
+    https://bcponline.org/General/toc.html
+    https://bcponline.org/DailyOffice/concernevening.html
+    https://bcponline.org/DailyOffice/direct.html          (Additional
+       Directions, Daily Office, printed pages 141-143)
+    https://bcponline.org/HE/adddirect.html                (Additional
+       Directions, Holy Eucharist, printed pages 406-409)
+    https://www.bcponline.org/EpiscopalServices/additional_directions_churchdedication.html
+       (Additional Directions, Consecration of a Church, printed pp. 575-579)
+
+S5. The Book of Occasional Services 2022 (TEC), official PDF:
+    https://www.episcopalchurch.org/wp-content/uploads/2022/11/Book-of-Occasional-Services_final.pdf
+    (mirror: https://www.episcopalcommonprayer.org/uploads/1/2/9/8/129843103/book_of_occasional_services_final.pdf)
+
+S6. The Book of Occasional Services 2018 (TEC), official PDF:
+    https://www.episcopalchurch.org/wp-content/uploads/2021/01/lm_book_of_occasional_services_2018.pdf
+
+S7. The Book of Occasional Services 2003 (TEC), PDF:
+    https://episcopalcommonprayer.neocities.org/pdf/The%20Book%20of%20Occasional%20Services%202003.pdf
+    Contents list corroborated at
+    https://archive.org/metadata/bookofoccasional0000epis
+
+S8. An Episcopal Dictionary of the Church (Armentrout & Slocum, eds.; Church
+    Publishing), published by TEC as its official online glossary:
+    https://www.episcopalchurch.org/glossary/ornaments-church/
+    https://www.episcopalchurch.org/glossary/ritualism/
+    https://www.episcopalchurch.org/glossary/incense/
+
+S9. Constitution and Canons together with the Rules of Order (TEC), 2024,
+    "quotable version without marginalia", HTML:
+    https://extranet.generalconvention.org/staff/files/download/32150
+    (index page: https://generalconvention.org/constitution-and-canons/)
+
+S10. E. A. White & J. A. Dykman, Annotated Constitution and Canons for the
+    Government of the ... Episcopal Church, extract posted by Episcopal News
+    Service as "WhiteAndDykmanOn1904Canon.pdf":
+    https://episcopalnewsservice.org/wp-content/uploads/2018/08/WhiteAndDykmanOn1904Canon.pdf
+
+S11. Standing Commission on Liturgy and Music, "Existing Liturgies in The
+    Episcopal Church":
+    https://www.episcopalcommonprayer.org/existing-liturgies1.html
+
+S12. Repo primary capture already in hand (not re-fetched from the web):
+    src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt
+
+METHOD
+------
+Repo PDFs extracted with pdftotext (poppler) BOTH with and without -layout, to
+scratch paths OUTSIDE the repo (/tmp/bcp/). No repo file was modified. Counts
+were taken three ways: (i) raw substring, (ii) word-boundary regex, (iii) after
+joining end-of-line hyphenation (the 1928 Standard Edition hyphenates "in-
+cense" across line breaks twice, which a naive grep misses). Web sources were
+retrieved only with mcp__workspace__web_fetch and WebSearch; no curl/wget/
+python fetching was used.
+
+
+================================================================================
+(a) AMERICAN BOOK OF COMMON PRAYER 1892 — DOES "INCENSE" APPEAR?
+================================================================================
+FINDING: YES — but only as SCRIPTURE, in an Opening Sentence of Morning Prayer.
+No rubric of the 1892 Book names incense.
+
+VERBATIM (S3, http://justus.anglican.org/resources/bcp/1892/MP_1892.htm ;
+Order for Daily Morning Prayer, Opening Sentences, printed p. 1):
+
+    "From the rising of the sun even unto the going down of the same my Name
+    shall be great among the Gentiles; and in every place incense shall be
+    offered unto my Name, and a pure offering: for my Name shall be great
+    among the heathen, saith the LORD of hosts. Mal. i. 11."
+
+Surrounding rubric, quoted for context (same page, immediately above the
+Sentences):
+
+    "The Minister shall always begin the Morning Prayer by reading one or more
+    of the following Sentences of Scripture."
+
+PSALTER: The justus 1892 edition's own Table of Contents entry "29. The
+Psalter, or Psalms of David 329" links to the 1928 Psalter file
+(http://justus.anglican.org/resources/bcp/1928/Psalms.htm), i.e. the editor
+treats the 1892 and 1928 Psalters as the same Coverdale text. On that basis the
+two Psalter occurrences recorded under (b) below (Ps 66:13 and Ps 141:2) are
+also present in 1892. THIS IS THE EDITOR'S EQUIVALENCE CLAIM, NOT AN INDEPENDENT
+VERIFICATION BY THIS PASS — flagged, see UNMATCHED §U1.
+
+CLASSIFICATION: MENTION WITHOUT GRANT (and strictly, not even that — it is
+scriptural text set for recitation, not a directory of ceremonial). Nothing in
+1892 authorises, permits, or regulates the burning of incense.
+CONDITIONS: none attach; the sentence is one of a set from which the Minister
+selects "one or more".
+
+
+================================================================================
+(b) AMERICAN BOOK OF COMMON PRAYER 1928 — "INCENSE" AND "ORNAMENT" COUNTS
+================================================================================
+DIGITISATION USED: S1, the 1930 Merrymount Press Standard Edition PDF held in
+the repo at src/the-book-of-common-prayer-1928.pdf (621 PDF pages; extracted
+text runs from the front matter through Article XXXIX of the Articles of
+Religion at printed p. 611, then the colophon — i.e. the book is complete).
+
+RAW COUNTS (case-insensitive; /tmp/bcp/1928-layout.txt and 1928-raw.txt):
+
+    extraction mode        "incense" (substring)   after de-hyphenation
+    pdftotext -layout                 3                     5
+    pdftotext (no -layout)            4                     5
+
+    Final, de-hyphenated:   "incense" as substring ...... 5
+                            word-boundary "incense" ..... 4
+                            "frankincense" .............. 1
+                            "censer" / "censers" ........ 0
+                            "thurible" / "thurifer" ..... 0
+                            "ORNAMENT" (any case, any
+                             inflection, de-hyphenated) . 0
+                            "ornaments" ................. 0
+                            "vestment(s)" ............... 0
+                            "chasuble" .................. 0
+                            "cope" ...................... 0
+                            "vesture" ................... 6
+                            "adorn" ..................... 7
+
+VERIFICATION OF THE PRIOR CLAIM THAT "ornament" RETURNS ZERO IN 1928:
+CONFIRMED at 0 occurrences in this digitisation, in both extraction modes and
+after de-hyphenation. (See method caveat §U3 below before relying on this as a
+proof of absence across all 1928 printings.)
+
+THE FIVE "incense" OCCURRENCES, VERBATIM, WITH LOCATIONS
+--------------------------------------------------------
+1. Opening Sentences, The Order for Daily Morning Prayer (Epiphany), printed
+   p. 5; extracted line 290:
+
+    "From the rising of the sun even unto the going down of the same my Name
+    shall be great among the Gentiles; and in every place incense shall be
+    offered unto my Name, and a pure offering: for my Name shall be great
+    among the heathen, saith the Lord of hosts. Mal. i. 11."
+
+2. Opening Sentences, The Order for Daily Evening Prayer, printed p. 21;
+   extracted line 938:
+
+    "Let my prayer be set forth in thy sight as the incense; and let the
+    lifting up of my hands be an evening sacrifice. Psalm cxli. 2."
+
+3. The Gospel for the Epiphany (St. Matthew ii. 11), extracted line 4135
+   ("frankincense", not liturgical incense):
+
+    "...they presented unto him gifts; gold, and frankincense, and myrrh."
+
+4. The Psalter, Psalm 66:13 (Jubilate Deo), extracted lines 15301-15302
+   (hyphenated across the line break in the Standard Edition):
+
+    "13 I will offer unto thee fat burnt-sacrifices, with the in-
+    cense of rams; * I will offer bullocks and goats."
+
+5. The Psalter, Psalm 141:2 (Domine, clamavi), extracted lines 18897-18898
+   (hyphenated across the line break):
+
+    "2 Let my prayer be set forth in thy sight as the in-
+    cense; * and let the lifting up of my hands be an evening
+    sacrifice."
+
+NOT ONE OF THESE IS A RUBRIC. Every occurrence is Scripture — two Psalter
+verses, the same Psalm verse used as an Evening Prayer Sentence, the Malachi
+Sentence, and the Epiphany Gospel. The 1928 Book contains no ceremonial
+direction concerning incense, and no Ornaments Rubric or equivalent (the word
+"ornament" does not occur at all).
+
+CORROBORATION AGAINST AN ONLINE TRANSCRIPTION: PARTIAL — see §U2.
+
+CLASSIFICATION: MENTION WITHOUT GRANT for the scriptural occurrences (and even
+that is generous: they are lectionary/psalmody text, not directory). For
+ceremonial incense the 1928 Book is silent; on the project's scheme that is
+PERMISSION BY SILENCE only if some other instrument vests the discretion — see
+(e).
+
+
+================================================================================
+(c) AMERICAN BOOK OF COMMON PRAYER 1979 — INCENSE IN ANY RUBRIC?
+================================================================================
+FINDING: YES. Incense is named in TWO rubrics of the 1979 Book, both in
+"Additional Directions" sections, both conditional in form ("If incense is to
+be used..."). Both PRESUPPOSE the use of incense and tell the officiant WHEN it
+is fitting; neither grants, authorises, or permits it, and neither attaches any
+condition of episcopal consent.
+
+RUBRIC 1 — Additional Directions, "Order of Worship for the Evening",
+printed p. 143. Source S4, https://bcponline.org/DailyOffice/direct.html
+
+VERBATIM:
+
+    "If incense is to be used, it is appropriate after the candles have been
+    lighted and while the hymn Phos hilaron is being sung."
+
+Immediate context (same page, the two paragraphs before it):
+
+    "For the lighting of the candles at the Altar and elsewhere, in Easter
+    Season the flame may be taken from the Paschal Candle. At other times, the
+    candle or candles carried in at the beginning of the service may be placed
+    on or near the Altar, and other candles may be lighted from them. During
+    Advent, the lighting of an Advent Wreath may take place after the Prayer
+    for Light. On special occasions, lighted candles may be distributed to
+    members of the congregation.
+
+    When this service is used in private houses, candles may be lighted at the
+    dining table, or at some other convenient place."
+
+RUBRIC 2 — Additional Directions, "The Dedication and Consecration of a
+Church", printed p. 576. Source S4,
+https://www.bcponline.org/EpiscopalServices/additional_directions_churchdedication.html
+
+VERBATIM:
+
+    "For the covering and decoration of the Altar, it is suitable that the
+    donors of these furnishings, or other lay persons, bring them forward and
+    put them in place. If incense is to be used, it is appropriate at this
+    time."
+
+Related wording on the same page (printed p. 575), showing that the 1979 Book
+DOES use the word "ornaments" (contrast with 1928, item (b)):
+
+    "When a new church is being consecrated, it is desirable that sacred
+    vessels, ornaments, and decorations be carried into the building in the
+    procession."
+
+SCRIPTURAL / PSALM OCCURRENCES, DISTINGUISHED FROM RUBRICS
+    - Psalm 141:2 in the 1979 Psalter ("Let my prayer be set forth in your
+      sight as incense, the lifting up of my hands as the evening sacrifice"),
+      and the same verse used as a versicle/anthem at the candle-lighting.
+    - Psalm 66:13 in the 1979 Psalter.
+    These are text-to-be-said, not directory. They are NOT rubrics.
+
+NEGATIVE CHECK PERFORMED: "Additional Directions" for the Holy Eucharist
+(printed pp. 406-409), retrieved in full from
+https://bcponline.org/HE/adddirect.html, contain NO occurrence of "incense",
+"censer" or "thurible". The 1979 Book therefore does not name incense anywhere
+in the eucharistic directory — only at the Evening Office and at the
+consecration of a church.
+
+COVERAGE CAVEAT: a machine-exhaustive count over the entire 1979 Book was not
+achieved by this pass (see §U4). The two rubrics above are verified verbatim
+against the text; the claim "these are the only two" rests on targeted section
+retrieval, not on a whole-book count.
+
+CLASSIFICATION: MENTION WITHOUT GRANT (both rubrics). The form is "If incense
+is to be used" — a conditional that assumes the practice from outside the Book
+and regulates only its placement in the sequence. Neither is a grant.
+CONDITIONS ATTACHED: none — no bishop's direction, no permission clause, no
+restriction to particular parishes. The only conditions are positional (after
+the candle-lighting / during Phos hilaron; at the covering of the Altar).
+
+
+================================================================================
+(d) THE BOOK OF OCCASIONAL SERVICES — WHICH EDITION, IN WHAT TERMS?
+================================================================================
+FINDING (established directly against text, in part; see the UNMATCHED entry
+§U5 for the part that is NOT):
+
+(d.1) DIRECT TEXT SEARCH, BOS 2003 / 2018 / 2022 — front portions
+Three official/near-official BOS PDFs were retrieved and searched. In every
+case the retrieval was TRUNCATED by the fetch tool at roughly 105,000-108,000
+characters, which corresponds to:
+    BOS 2022 (S5): pages i through 91 (ends mid-"Tenebrae")
+    BOS 2018 (S6): pages i through c. 97 (ends mid-Rogation-type procession)
+    BOS 2003 (S7): pages i through 104 (ends at "Rogation Procession")
+Within those retrieved portions, the ONLY occurrence of the string "incense"
+(and there were zero occurrences of "censer" or "thurible") is in BOS 2003,
+"Anthems at the Candle Lighting (Lucernaria)", printed p. 11:
+
+    "V. Let my prayer be set forth, O Lord:
+     R. As incense in your sight."
+
+That is Psalm 141:2 as a versicle and response — TEXT TO BE SAID, NOT A RUBRIC.
+(BOS 2018 and 2022 dropped or relocated the Lucernaria section; neither
+retrieved portion contained the word.)
+
+(d.2) THE DEDICATION FORM FOR A VESSEL FOR INCENSE — EXISTENCE ESTABLISHED
+The BOS section "Dedication of Church Furnishings and Ornaments" contains a
+form for the dedication of a vessel for incense. Located at:
+    BOS 2018, printed p. 194 (per the BOS 2018 Table of Contents, retrieved
+      verbatim from the PDF text: "Dedication of Church Furnishings and
+      Ornaments 194.")
+    BOS 2003, in the contents as "Dedication of church furnishings and
+      ornaments" (Internet Archive catalogue record for the 2003 edition,
+      https://archive.org/metadata/bookofoccasional0000epis)
+Attestation of the incense form, VERBATIM from TEC's own published dictionary
+(S8, https://www.episcopalchurch.org/glossary/ornaments-church/):
+
+    "The Prayer Book form for the Dedication and Consecration of a Church
+    includes a general prayer of dedication for ornaments or furnishings (BCP,
+    p. 573). The BOS provides specific forms for the dedication of a variety of
+    church furnishings and ornaments, including forms for a cross,
+    candlesticks and lamps, a service book, pictures and statues, a vessel for
+    incense, and any church ornament."
+
+*** THE EXACT WORDING OF THE BOS FORM ITSELF IS UNMATCHED BY THIS PASS. ***
+See §U5. Do NOT deploy any quotation of the BOS incense form until the printed
+BOS pages (2018 pp. 194ff., or the corresponding 2003/2022 pages) are obtained
+and read directly.
+
+(d.3) THE AUTHORISING INSTRUMENT FOR THE BOS ITSELF (retrieved verbatim)
+From the BOS 2018 Preface, retrieved from the PDF text (S6):
+
+    "The Book of Occasional Services is a collection of liturgical resources
+    related to occasions which do not occur with sufficient frequency to
+    warrant their inclusion in The Book of Common Prayer. These materials are
+    authorized by the General Convention [through the provisions of Title II,
+    Canon 3, Section 6 of the Canons of the Episcopal Church]. ... All of the
+    material in this book is optional. None of it is required, and no
+    congregation is likely to make use of all of it."
+
+From SCLM (S11, https://www.episcopalcommonprayer.org/existing-liturgies1.html):
+
+    "The Book of Occasional Services was authorized for optional use throughout
+    this Church" by Resolution 1979-A055. It has been updated several times,
+    most recently in 2022."
+
+CONDITIONS: the BOS as a whole is authorised for OPTIONAL use throughout the
+Church, and (unlike, e.g., Enriching Our Worship 6, or the expansive-language
+Prayer C, which the same SCLM page marks as requiring the bishop's consent) the
+BOS carries no episcopal-permission condition on its face.
+
+CLASSIFICATION:
+    - The Lucernaria versicle "As incense in your sight" (BOS 2003 p. 11):
+      MENTION WITHOUT GRANT — indeed not even a mention of the ceremonial act;
+      it is Psalm 141:2 recited.
+    - The "vessel for incense" dedication form in "Dedication of Church
+      Furnishings and Ornaments": on the evidence in hand this is
+      MENTION WITHOUT GRANT — an authorised, optional form for blessing an
+      object used for incense presupposes the practice and provides a rite for
+      the vessel; it does not, on its face, purport to grant or license the
+      burning of incense. THIS CLASSIFICATION IS PROVISIONAL until the form's
+      own rubric and text are read (see §U5): if that form carries a
+      conditional or permissive rubric of its own, the classification may need
+      to move.
+
+
+================================================================================
+(e) TEC CANONS SINCE 1874 — HAS ANY CANON NAMED INCENSE?
+================================================================================
+FINDING: No TEC canon has been found that names incense. The one canon that
+came closest — the Ritual Canon of 1874 — named incense ONLY in draft
+specifications that were struck out; the ENACTED text does not contain the word.
+
+(e.1) THE 1874 RITUAL CANON (§II added to Canon 20 of Title I, renumbered
+Canon 22 in the Digest printed with the Journal)
+Source: repo capture S12,
+src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt
+(built from the printed Journal of the General Convention, 1874).
+
+That capture records, at its own §J, that the word "incense" occurs five times
+in the whole OCR of the Journal: three times in successive COMMITTEE REPORTS
+AND SUBSTITUTE MOTIONS (Committee report 23 Oct.; Blanchard substitute 26 Oct.;
+Bolton substitute 27 Oct.), once in a House message, and once in an unrelated
+Domestic Missions report ("the incense of earnest prayer"). Its finding,
+verbatim from the capture:
+
+    "The enacted text (extracts H and I) contains no occurrence of the word."
+
+The enacted §II, as printed in the Digest with the Journal (verbatim from the
+capture, OCR as found):
+
+    "§ II. [1.] If any Bishop have reason to believe, or if complaint be made
+    to him in writing by two or more of his Presbyters, that within his
+    jurisdiction ceremonies or practices not ordained or authorized in the Book
+    of Common Prayer, and setting forth or symbolizing erroneous or doubtful
+    doctrines, have been introduced by any Minister during the celebration of
+    the Holy Communion (such as. [Specifications.] a. The ele[vation]..."
+
+and §I of the same canon (Canon 22, "Of the Use of the Book of Common Prayer"):
+
+    "§ I. Every Minister shall, before all sermons and lectures, and on all
+    other occasions of public worship, use the Book of Common Prayer, as the
+    same is or may be established by the authority of the General Convention of
+    this Church; and in performing such service, no other prayers shall be used
+    than those prescribed by the said Book."
+
+The rejected draft language that DID name incense (verbatim from the capture,
+at the points marked "a. The use of Incense." / "1. The use of incense.") never
+became canon law.
+
+(e.2) REPEAL OF THE RITUAL CANON
+Source S8, https://www.episcopalchurch.org/glossary/ritualism/ (An Episcopal
+Dictionary of the Church, published by TEC), VERBATIM:
+
+    "The General Convention of 1874 did pass a canon on ritual. ... This canon
+    called for a bishop to investigate any use of ceremonies or practices in
+    the bishop's jurisdiction symbolizing 'false or doubtful doctrine.' The
+    bishop was empowered first to admonish and then bring to trial any member
+    of the clergy who persisted in these practices. However, this canon did
+    virtually nothing to slow the expansion of ritual practices in the
+    Episcopal Church. Only one trial for ritualism took place. In 1877 Oliver
+    Prescott received episcopal admonishment for his ritual practices. The
+    canon on ritual was quietly repealed at the 1904 General Convention."
+
+Same source on the failed earlier attempts:
+
+    "Proposed canons on ritual were considered at the General Conventions of
+    1868 and 1871, but no canons on ritual were enacted."
+
+NOTE ON SOURCE WEIGHT: this is a secondary reference work (Armentrout & Slocum),
+though published by TEC itself. The primary confirmation (the 1904 Journal /
+the 1904 revision of the canons) was NOT retrieved by this pass — see §U6.
+
+(e.3) THE INSTRUMENT THAT ACTUALLY VESTS THE DISCRETION
+Source S10, White & Dykman, Annotated Constitution and Canons, extract at
+https://episcopalnewsservice.org/wp-content/uploads/2018/08/WhiteAndDykmanOn1904Canon.pdf
+VERBATIM, the canon as it stood under the numbering there ("CANON 21. Of
+Ministers and Their Duties"):
+
+    "Sec. 1 (a). The control of the worship and the spiritual jurisdiction of
+    the Parish, are vested in the Rector, subject to the Rubrics of the Book of
+    Common Prayer, the Canons of the Church, and the godly counsel of the
+    Bishop. All other Ministers of the Parish, by whatever name they may be
+    designated, are to be regarded as under the authority of the Rector.
+
+    (b). For the purposes of his office and for the full and free discharge of
+    all functions and duties pertaining thereto, the Rector shall, at all
+    times, be entitled to the use and control of the Church and Parish
+    buildings with the appurtenances and furniture thereof."
+
+The same provision survives in the current canons as Title III, Canon 9,
+Sec. 6(a)(1) ("The Rector or Priest-in-Charge shall have full authority and
+responsibility for the conduct of the worship and the spiritual jurisdiction of
+the Parish, subject to the Rubrics of the Book of Common Prayer, the
+Constitution and Canons of this Church, and the pastoral direction of the
+Bishop"). NOTE: this current wording was reported to this pass by web search
+summary, NOT retrieved verbatim from the official C&C text — see §U7.
+
+(e.4) FULL-TEXT SEARCH OF THE CURRENT CANONS
+The 2024 Constitution and Canons, official "quotable version without
+marginalia" HTML (S9,
+https://extranet.generalconvention.org/staff/files/download/32150), was
+retrieved and searched case-insensitively for "incense", "censer", "thurib" and
+"ritual". Result: ZERO matches. HOWEVER the retrieval TRUNCATED at Title I,
+Canon 5 ("Of the Archives of The Episcopal Church"), so this is a null result
+over only the opening portion of Title I. It is NOT a proof of absence across
+Titles I-V. See §U8.
+
+CLASSIFICATION:
+    - 1874 Ritual Canon as enacted: NOT a mention at all. It named no
+      ceremonies in its operative text as retrieved; the incense
+      specifications were in rejected drafts. Best classified as
+      PERMISSION BY SILENCE with respect to incense — it neither named nor
+      prohibited it, and even that canon was repealed in 1904.
+    - Canon on the Rector's control of worship (1904 → present Title III.9.6):
+      PERMISSION BY SILENCE. This is the instrument that vests discretion
+      elsewhere: incense is unnamed, and the control of worship sits with the
+      Rector subject to the Rubrics, the Canons, and the Bishop's counsel /
+      pastoral direction.
+    - No POSITIVE AUTHORIZATION of incense by name has been found in any TEC
+      canon, 1874 to date.
+
+
+================================================================================
+UNMATCHED — THINGS THIS PASS COULD NOT SOURCE, WITH QUERIES/URLS TRIED
+================================================================================
+A standing constraint governed the whole pass: web access was restricted to
+mcp__workspace__web_fetch and WebSearch. mcp__workspace__web_fetch truncates
+extracted document text at approximately 105,000-108,000 characters, which is
+the proximate cause of most of the gaps below. No range requests, no curl/wget,
+no scripted paging were available.
+
+§U1. INDEPENDENT VERIFICATION THAT THE 1892 PSALTER CARRIES THE SAME TWO
+     "incense" VERSES AS 1928.
+     What is in hand: justus's 1892 Table of Contents links its Psalter entry
+     to the 1928 Psalter file, i.e. the editor asserts textual identity.
+     NOT DONE: reading the 1892 Psalter as printed.
+     Tried:
+       - http://justus.anglican.org/resources/bcp/1892/BCP_1892.htm (retrieved;
+         Psalter link points to /1928/Psalms.htm)
+     Not attempted for budget reasons: http://justus.anglican.org/resources/bcp/1892/Psalms.pdf
+     and the public-domain Internet Archive 1892 printings listed on the justus
+     index (bookofcommonpray00unse_6, bookofcommonpray0000epis_n5t8,
+     bookofcommonpray0000epis_b3b3, bookofcommonpray0000epis_p1u0,
+     bookofcommonpray0000epis_f7y3).
+
+§U2. MACHINE-EXHAUSTIVE COUNT OF "incense" AND "ornament" ACROSS THE WHOLE
+     1892 BOOK, AND CORROBORATION OF THE 1928 COUNTS AGAINST A SECOND,
+     INDEPENDENT DIGITISATION.
+     The 1928 counts reported above rest on ONE digitisation (the repo's
+     justus/Wohlers PDF of the 1930 Merrymount Standard Edition), read two ways
+     (with and without -layout) and de-hyphenated. That is two extraction
+     modes of one scan, not two scans.
+     Tried / considered and blocked:
+       - justus combined 1892 PDF http://justus.anglican.org/resources/bcp/1892/BCP1892.pdf
+         (~6.8 MB; would truncate at c. 100 printed pages)
+       - archive.org public 1892 printings (djvu.txt ~1 MB; would truncate at
+         c. 9% of the book)
+       - archive.org full-text "search inside" endpoint, tried twice and
+         returned an empty body both times:
+           https://ia-fts.archive.org/api/v1/search/hits_in_item/bookofoccasional0000epis/?q=incense
+           https://ia-fts.archive.org/api/v1/search/hits_in_item/bookofcommonpray00unse_6?q=incense
+         and the legacy endpoint, also empty:
+           https://ia601802.us.archive.org/fulltext/inside.php?item_id=bookofoccasional0000epis&doc=bookofoccasional0000epis&path=/30/items/bookofoccasional0000epis&q=incense
+       - en.wikisource.org search/API, five variants, ALL returned empty bodies:
+           https://en.wikisource.org/w/index.php?search=insource%3A%22incense%22+prefix%3A%22Book+of+Common+Prayer+%28ECUSA%29%22&fulltext=1&ns0=1&limit=100
+           https://en.wikisource.org/w/api.php?action=query&list=search&srsearch=insource%3A%22incense%22%20prefix%3A%22Book%20of%20Common%20Prayer%20(ECUSA)%22&srlimit=50&format=json
+           https://en.wikisource.org/w/api.php?action=query&list=search&srsearch=incense%20prefix:Book%20of%20Common%20Prayer%20(ECUSA)&format=json&srlimit=50
+           https://en.wikisource.org/w/rest.php/v1/search/page?q=incense%20Book%20of%20common%20prayer%20TEC%201979&limit=50
+           https://en.wikisource.org/wiki/Special:Search?search=insource%3A%22incense%22+prefix%3APage%3ABook+of+common+prayer+%28TEC%2C+1979%29.pdf&fulltext=1&limit=100
+       - Google Books API, twice, empty body both times:
+           https://www.googleapis.com/books/v1/volumes?q=%22vessel+for+incense%22+%22occasional+services%22
+           https://www.googleapis.com/books/v1/volumes?q=%22vessel+for+incense%22&country=US
+           https://books.google.com/books?id=jS2CEAAAQBAJ&q=incense
+
+§U3. METHOD CONTROL FAILURE THAT MUST BE RECORDED.
+     The repo's 1662 PDF (S2) was used as a control: the English 1662 Book
+     contains the Ornaments Rubric, so "Ornaments" should appear in a sound
+     extraction. It does NOT. Both extraction modes of
+     src/the-book-of-common-prayer-1662.pdf return exactly ONE occurrence of
+     "ornament", and it is 1 Peter 3:4 ("even the ornament of a meek and quiet
+     spirit"). Searches for "accustomed Place", "Reign of King Edward",
+     "be retained, and be in use", and "Chancels shall remain" all returned
+     nothing.
+     IMPLICATION: either that particular 1662 digitisation omits the Ornaments
+     Rubric, or the extraction is dropping text in a way this pass has not
+     diagnosed. Until that is diagnosed, the 1928 "ornament = 0" result should
+     be treated as STRONG BUT NOT PROVEN. Nothing in this file should be used
+     to assert an absolute negative about the 1928 text without a second scan.
+     (The 1928 extraction itself looks sound: 622 form-feed pages against a
+     621-page PDF, only 14 near-empty pages, and the text runs continuously
+     from the front matter to Article XXXIX and the colophon.)
+
+§U4. WHOLE-BOOK COUNT OF "incense" IN THE 1979 BCP.
+     The two rubrics under (c) are verified verbatim. A whole-book machine
+     count was not achieved.
+     Tried:
+       - https://justus.anglican.org/resources/bcp/1979.htm — empty body
+       - https://bcponline.org/EpiscopalServices/episcservices.html — empty body
+       - https://bcponline.org/SpecialDays/eastervigil.html — empty body
+         (the Great Vigil of Easter directory was therefore NOT checked)
+       - the wikisource routes listed at §U2
+     Sections actually retrieved and searched: Table of Contents; Concerning
+     the Service (Order of Worship for the Evening); Additional Directions,
+     Daily Office (pp. 141-143); Additional Directions, Holy Eucharist
+     (pp. 406-409); Additional Directions, Consecration of a Church
+     (pp. 575-579).
+     STILL UNCHECKED in 1979: Proper Liturgies for Special Days (Ash Wednesday,
+     Palm Sunday, Maundy Thursday, Good Friday, Holy Saturday, Great Vigil of
+     Easter, pp. 264-295); Pastoral Offices additional directions; the
+     Ordination rites and their Additional Directions; the Catechism and
+     Historical Documents.
+
+§U5. THE VERBATIM TEXT OF THE BOS FORM FOR THE DEDICATION OF A VESSEL FOR
+     INCENSE. *** THIS IS THE MOST IMPORTANT GAP IN THE PASS. ***
+     Existence is established (S8, TEC's own dictionary, quoted in full at
+     (d.2)), and the location is established (BOS 2018 p. 194ff., within
+     "Dedication of Church Furnishings and Ornaments"). The wording is not.
+     Tried:
+       - https://www.episcopalchurch.org/wp-content/uploads/2022/11/Book-of-Occasional-Services_final.pdf
+         (retrieved; text truncated at p. 91)
+       - https://www.episcopalchurch.org/wp-content/uploads/2021/01/lm_book_of_occasional_services_2018.pdf
+         (retrieved; text truncated at c. p. 97)
+       - https://episcopalcommonprayer.neocities.org/pdf/The%20Book%20of%20Occasional%20Services%202003.pdf
+         (retrieved; text truncated at p. 104)
+       - https://extranet.generalconvention.org/staff/files/download/24674
+         (Spanish BOS 2018 .docx — returned "[binary data]", not extractable)
+       - https://pdf4pro.com/view/the-book-of-occasional-services-2018-episcopalchurch-org-5b6560.html
+         (retrieved; yields only the Table of Contents and pp. 1-12 of the
+         transcription — this is the source of the "p. 194" locator)
+       - https://archive.org/metadata/bookofoccasional0000epis (retrieved;
+         gives the contents list, confirms "Dedication of church furnishings
+         and ornaments"; the item is access-restricted and its _djvu.txt is
+         marked private)
+       - https://canonbfive.wordpress.com/dedication-of-objects/ (retrieved;
+         Church of England material, irrelevant)
+     WebSearch queries tried (all failed to surface the wording):
+       "Book of Occasional Services" rubric "incense may be used"
+       Episcopal "Book of Occasional Services" Candlemas OR "Way of the Cross" OR "Service of Light" incense rubric text
+       "Book of Occasional Services" "Dedication of Church Furnishings and Ornaments" "for a censer" OR incense text Episcopal
+       "a vessel for incense" "Book of Occasional Services" dedication "Almighty God" prayer text 194
+       "Dedication of Church Furnishings and Ornaments" "For a Censer" OR "vessel for incense" prayer "accept our offering"
+       "For a Vessel for Incense" Book of Occasional Services dedication prayer "Let my prayer be set forth"
+       "Book of Occasional Services" "for a censer" OR "for a thurible" dedication versicle "as incense" parish leaflet Episcopal
+       "Book of Occasional Services" 2018 page 209 "Vessel for Incense" dedication "Let the lifting up of my hands"
+     NEXT STEP THAT WOULD CLOSE THIS: obtain BOS 2018 pp. 194-210 (or BOS 2022
+     equivalent) as printed pages — a scan, a purchased copy, or a fetch tool
+     without the ~105k character cap. Until then, no quotation of the BOS
+     incense form may be deployed.
+     ALSO UNCHECKED for the same reason: the whole second half of every BOS
+     edition (Pastoral Services from c. p. 117; The Founding of a Church;
+     Restoring of Things Profaned; Secularizing a Consecrated Building;
+     Episcopal Services including Consecration of Chrism, Recognition and
+     Investiture of a Diocesan Bishop, Welcoming and Seating of a Bishop in the
+     Cathedral, Setting Apart for a Religious Vocation). Any further incense
+     mention in those sections would not have been seen by this pass.
+     EDITIONS NOT EXAMINED AT ALL: BOS 1979, 1988, 1991, 1994. Their contents
+     were not retrieved. archive.org holds the 1988 edition at
+     https://archive.org/details/bookofoccasional0002epis (not fetched).
+
+§U6. PRIMARY CONFIRMATION OF THE 1904 REPEAL OF THE RITUAL CANON.
+     Only the TEC dictionary (secondary, S8) was obtained. The Journal of the
+     1904 General Convention, and the 1904 revision of the canons, were not
+     retrieved.
+     Tried:
+       Episcopal Church Canon "Title I" "Canon 20" 1874 ritual canon repealed 1904 history incense
+       (WebSearch; surfaced the dictionary article and White & Dykman, no
+       primary text)
+       https://episcopalnewsservice.org/wp-content/uploads/2018/08/WhiteAndDykmanOn1904Canon.pdf
+       (retrieved; truncated; contains no occurrence of "incense" in the
+       retrieved portion, and treats the 1904 revision of the Ministers'-duties
+       canon, not the ritual canon's repeal)
+
+§U7. VERBATIM CURRENT TEXT OF TITLE III, CANON 9, SEC. 6(a)(1).
+     The wording given at (e.3) for the CURRENT canon came from a WebSearch
+     result summary, not from the official text. The historic wording quoted
+     immediately above it (White & Dykman, "CANON 21. Of Ministers and Their
+     Duties") IS verbatim from a retrieved document. Treat the current-canon
+     sentence as unverified until read in the official C&C.
+     Tried: https://extranet.generalconvention.org/staff/files/download/32150
+     (retrieved; truncated at Title I Canon 5, i.e. well short of Title III).
+
+§U8. FULL-TEXT "incense" SEARCH ACROSS ALL FIVE TITLES OF THE CURRENT CANONS.
+     Achieved only for the opening of Title I (zero matches there). Not
+     achieved for Titles I (remainder) through V.
+     Tried:
+       https://extranet.generalconvention.org/staff/files/download/32150
+         (2024 quotable HTML — truncated)
+       https://generalconvention.org/constitution-and-canons/ (index page,
+         retrieved; lists PDF at
+         https://extranet.generalconvention.org/staff/files/download/32711 and
+         the marginalia HTML at .../31954 — neither fetched, both would
+         truncate identically)
+       Also available and not fetched:
+         https://www.episcopalarchives.org/files/publications/2024_CandC.pdf
+         https://www.episcopalarchives.org/files/publications/2022_CandC.pdf
+
+
+================================================================================
+SUMMARY TABLE
+================================================================================
+(a) BCP 1892   "incense" present — Mal. i. 11 Opening Sentence at Morning
+               Prayer (+ Psalter, on the editor's equivalence claim).
+               No rubric. MENTION WITHOUT GRANT.
+(b) BCP 1928   "incense" x4 (word-boundary) + "frankincense" x1, all
+               Scripture: Mal. i. 11 (MP Sentences), Ps 141:2 (EP Sentences),
+               Ps 66:13 and Ps 141:2 (Psalter), Matt. ii. 11 (Epiphany
+               Gospel). "ornament" = 0, CONFIRMED in this digitisation.
+               No rubric. MENTION WITHOUT GRANT.
+(c) BCP 1979   TWO RUBRICS name incense, both conditional, both in Additional
+               Directions: p. 143 (Order of Worship for the Evening) and
+               p. 576 (Consecration of a Church). Plus Psalter/versicle
+               occurrences, which are not rubrics.
+               MENTION WITHOUT GRANT; no episcopal condition attached.
+(d) BOS        Contains a form for the dedication of "a vessel for incense"
+               within "Dedication of Church Furnishings and Ornaments"
+               (BOS 2018 p. 194ff.; present at least from the 2003 edition).
+               Existence attested by TEC's own dictionary; WORDING UNMATCHED.
+               Plus Ps 141:2 as a Lucernaria versicle (BOS 2003 p. 11).
+               PROVISIONALLY MENTION WITHOUT GRANT.
+               BOS itself: authorised for OPTIONAL use throughout the Church
+               (Res. 1979-A055; Title II.3.6), no bishop's permission required.
+(e) CANONS     No TEC canon names incense. The 1874 Ritual Canon named it only
+               in rejected drafts; the enacted text does not, and the canon was
+               repealed in 1904. Discretion sits with the Rector under the
+               Ministers'/Rectors' canon (now Title III.9.6).
+               PERMISSION BY SILENCE.
+
+OVERALL: across all five instruments, NOT ONE is a POSITIVE AUTHORIZATION of
+incense by name. The 1979 Prayer Book and the Book of Occasional Services are
+MENTIONS WITHOUT GRANT; the American canons are PERMISSION BY SILENCE.
+================================================================================
+END OF CAPTURE
+================================================================================

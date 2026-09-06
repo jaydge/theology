@@ -1,0 +1,347 @@
+=====================================================================
+CAPTURE HEADER — added by pass 260835-60, not part of the sources.
+=====================================================================
+SUBJECT: The three English statutory instruments named in the §2 brief
+         as the post-1900 regime change — the Vestures of Ministers
+         Measure 1964, the Prayer Book (Alternative and Other Services)
+         Measure 1965, and the Church of England (Worship and Doctrine)
+         Measure 1974 — captured in order to test, by direct reading,
+         whether ANY of them names incense.
+         ANSWER, ESTABLISHED BY READING ALL THREE IN FULL: none does.
+         The word "incense" does not occur in any of the three.
+SOURCES: legislation.gov.uk, King's Printer / Statute Law Database.
+  A. Vestures of Ministers Measure 1964 (1964 No. 7)
+     https://www.legislation.gov.uk/ukcm/1964/7/pdfs/ukcm_19640007_en.pdf
+     (legislation.gov.uk holds this Measure ONLY as a scanned PDF; the
+     text below is the extracted layer of that PDF. OCR artefacts are
+     visible — dropped indefinite articles ("wear cope", "Minister may
+     at his discretion"), "ist" for "1st", "¢" for "c.", and printed
+     marginal notes interleaved mid-sentence. Left AS FOUND. Nothing
+     supplied or corrected.)
+  B. Prayer Book (Alternative and Other Services) Measure 1965
+     (1965 No. 1)
+     https://www.legislation.gov.uk/ukcm/1965/1/pdfs/ukcm_19650001_en.pdf
+     (Same: PDF-only on legislation.gov.uk; same OCR conditions; the
+     printed marginal side-notes are interleaved into the body text by
+     the extraction and are left where they fell.)
+  C. Church of England (Worship and Doctrine) Measure 1974 (1974 No. 3)
+     https://www.legislation.gov.uk/ukcm/1974/3/data.xht?view=snippet&wrap=true
+     (Revised text, "Latest available", DC.Date.Valid 1991-02-01. Note
+     legislation.gov.uk's own modification note C1: the text of s.6(2),
+     (3), Sch. 1 and Sch. 2 "is in the form in which it was originally
+     enacted: it was not reproduced in Statutes in Force and does not
+     reflect any amendments or repeals which may have been made prior
+     to 1.2.1991.")
+RETRIEVED: 2026-09-06 by pass 260835-60.
+=====================================================================
+
+
+======================================================================
+A. VESTURES OF MINISTERS MEASURE 1964 (1964 No. 7) — COMPLETE
+======================================================================
+
+"A MEASURE passed by the National Assembly of the Church of England to
+regulate the vestures to be worn by Ministers at the times of their
+ministrations.
+
+[3ist July 1964]
+
+Whereas the Church of England does not attach any particular doctrinal
+significance to the diversities of vesture which may lawfully be worn.
+And whereas vesture worn by [a] Minister in accordance with the
+provisions of this Measure is not to be understood as implying any
+doctrines other than those now contained in the formularies of the
+Church of England.
+
+1. The provisions of the introductory Rubric for the Order for Morning
+and Evening Prayer in the Book of Common Prayer (commonly known as the
+Ornaments Rubric) and of section thirteen of the Act of Uniformity 1558
+(which provide that such ornaments of the Ministers at all times of
+their ministration shall be retained and be in use as were in the
+Church of England by the authority of Parliament in the Second Year of
+the Reign of King Edward the Sixth) shall have effect subject to the
+following:
+
+(a) At Morning and Evening Prayer the Minister shall wear cassock,
+surplice and scarf, and for the Occasional Offices cassock and surplice
+with scarf or stole;
+
+(b) At the Holy Communion the Celebrant, as also the Gospeller and the
+Epistoler, and at Public Baptism the Minister, shall wear with the
+cassock either surplice with scarf or stole, or surplice or alb with
+stole and cope, or an alb with the customary vestments;
+
+(c) [A] Minister may at his discretion wear [a] cope on any appropriate
+occasion;
+
+(d) When [a] scarf is worn the Minister, if so entitled, may also wear
+[a] hood.
+
+2.—(1) Notwithstanding the foregoing provisions of this Measure no
+Minister shall change the form of vesture in use in the Church or
+Chapel in which he officiates unless he has ascertained by consultation
+with the Parochial Church Council of the parish that such change will
+be acceptable to the Council: Provided always that in the case of
+disagreement either the Minister or the Parochial Church Council may
+refer the matter to the Bishop who after such consultation as he shall
+think right both with the Minister and with the Parochial Church
+Council shall give directions thereon.
+
+(2) In the foregoing subsection the expression 'the Bishop' means the
+Bishop of the diocese in which the Church or Chapel is situate, and
+during [a] vacancy in the see includes the Archbishop of the province
+in which the Church or Chapel is situate, or in the case of the
+archbishopric being vacant or the vacant see being Canterbury or York
+the Archbishop of the other province.
+
+3. This Measure shall extend to the whole of the Provinces of
+Canterbury and York except the Channel Islands: Provided that this
+Measure may be applied to the Channel Islands as defined in the Channel
+Islands (Church Legislation) Measures 1931 and 1957 or either of them
+in accordance with those Measures.
+
+4. This Measure may be cited as the Vestures of Ministers Measure
+1964."
+
+  [Bracketed articles above are the capture's restoration of words the
+  OCR dropped; they are marked so and are NOT part of the printed text.
+  No other word has been supplied.]
+
+FINDING ON A: The Measure is the whole Measure. It regulates VESTURE
+only. It names cassock, surplice, scarf, stole, alb, cope, hood, and
+"the customary vestments." It does NOT name incense, a censer, or a
+thurible. Its operative act on the ceremonial law is confined to
+qualifying the Ornaments Rubric and s.13 of the Act of Uniformity 1558
+"subject to the following" four lettered paragraphs, all of vesture.
+This Measure was REPEALED IN WHOLE by the 1974 Measure, Schedule 2
+(see C below).
+CLASSIFICATION: not applicable — the instrument does not mention
+incense at all, so it is neither a grant nor a mention.
+
+
+======================================================================
+B. PRAYER BOOK (ALTERNATIVE AND OTHER SERVICES) MEASURE 1965
+   (1965 No. 1) — the provisions bearing on ministerial discretion
+======================================================================
+
+Long title: "A MEASURE passed by the National Assembly of the Church of
+England to authorise the use by way of experiment of alternative forms
+of Service deviating from the Book of Common Prayer and the use of
+forms of Service for use on special occasions; and to authorise minor
+variations in public prayer and for purposes connected therewith.
+[23rd March 1965]"
+
+s.5 (marginal note: "Minor Variations in the conduct of public
+prayer."):
+"Subject to the provisions of this Measure the Minister may in his
+discretion make and use variations which are not of substantial
+importance in any form of Service prescribed by the Book of Common
+Prayer or authorised for use under this Measure according to particular
+circumstances."
+
+s.6 (marginal note: "Forms of Service for use on occasions not
+otherwise provided for."):
+"Subject to the provisions of this Measure and to any regulations made
+from time to time by the Convocation of the Province, the Minister may
+on occasions for which no provision is made in the Book of Common
+Prayer or under section four of this Measure use forms of Service
+considered suitable by him for those occasions."
+
+s.7:
+"(1) All forms of Service and all variations in forms of Service used
+or made under the provisions of section five or six of this Measure
+shall be reverent and seemly and shall be neither contrary to, nor
+indicative of any departure from, the doctrine of the Church of
+England.
+(2) If any question is raised concerning the observance of the
+provisions of the foregoing sub-section or whether [a] variation in [a]
+form of Service is of substantial importance or not it may be referred
+to the Bishop in order that he may give such pastoral guidance and
+advice as he may think fit, but such reference shall be without
+prejudice to the matter in question being made the subject matter of
+proceedings under the Ecclesiastical Jurisdiction Measure 1963."
+
+s.10 (savings):
+"Nothing in this Measure shall prejudice or limit—
+(a) the use of any form of Service from time to time enjoined or
+authorised by any enactment or by Order in Council, Royal Warrant or
+Royal Proclamation or
+(b) the powers of the Bishop and the Archbishop respectively to appease
+diversity and resolve doubts pursuant to the provision in the Book of
+Common Prayer entitled 'Concerning the Service of the Church'."
+
+FINDING ON B: The Measure was read in full. It does NOT name incense,
+a censer, or a thurible anywhere. Sections 5, 6 and 7 are the direct
+statutory ancestors of Canon B 5 §§1, 2, 3 and 4 respectively — the
+wording is carried across almost verbatim, and s.7(2) is the ancestor
+of B 5 §4 including the reference to the Ecclesiastical Jurisdiction
+Measure 1963. This Measure was REPEALED IN WHOLE by the 1974 Measure,
+Schedule 2 (see C).
+CLASSIFICATION: not applicable — no mention of incense.
+NOTE FOR §4 (conditions): the discretion this Measure created was
+bounded on its face, in four ways — "not of substantial importance"
+(s.5); available only "on occasions for which no provision is made"
+(s.6); "reverent and seemly … neither contrary to, nor indicative of
+any departure from, the doctrine of the Church of England" (s.7(1));
+and referable to the Bishop, without prejudice to disciplinary
+proceedings (s.7(2)).
+
+
+======================================================================
+C. CHURCH OF ENGLAND (WORSHIP AND DOCTRINE) MEASURE 1974 (1974 No. 3)
+   — the provisions bearing on the question, and Schedule 2 in full
+======================================================================
+
+Long title: "A Measure passed by the General Synod of the Church of
+England to enable provision to be made by Canon with respect to worship
+in the Church of England and other matters prescribed by the Book of
+Common Prayer, and with respect to the obligations and forms of assent
+or subscription to the doctrine of the Church of England; to repeal
+enactments relating to the matters aforesaid; and for purposes
+connected therewith. [12th December 1974]"
+
+s.1(1): "It shall be lawful for the General Synod—
+(a) to make provision by Canon with respect to worship in the Church of
+England, including provision for empowering the General Synod to
+approve, amend, continue or discontinue forms of service;
+(b) to make provision by Canon or regulations made thereunder for any
+matter, except the publication of banns of matrimony, to which any of
+the rubrics contained in the Book of Common Prayer relate;
+but the powers of the General Synod under this subsection shall be so
+exercised as to ensure that the forms of service contained in the Book
+of Common Prayer continue to be available for use in the Church of
+England."
+
+s.1(2): "Any Canon making any such provision as is mentioned in
+subsection (1) of this section, and any regulations made under any such
+Canon, shall have effect notwithstanding anything inconsistent
+therewith contained in any of the rubrics in the Book of Common
+Prayer."
+
+s.1(5): "Without prejudice to the generality of subsection (1) of this
+section, the General Synod may make provision by Canon—
+(a) for empowering the Convocations, the archbishops and the bishops of
+dioceses to approve forms of service for use on occasions for which no
+provision is made by forms of service contained in the Book of Common
+Prayer or approved by the General Synod or the Convocations under
+Canon;
+(b) for empowering any minister to make and use minor variations in the
+forms of service contained in the said Book or approved by the General
+Synod, Convocation, archbishops or bishop under Canon and to use forms
+of service considered suitable by him on occasions for which no
+provision is made by any such form of service."
+
+s.4(1): "Every Canon or regulation making any such provision as is
+mentioned in section 1(1) of this Measure, every form of service or
+amendment thereof approved by the General Synod under any such Canon
+and every Canon making any such provision as is mentioned in section
+2(1) of this Measure shall be such as in the opinion of the General
+Synod is neither contrary to, nor indicative of any departure from, the
+doctrine of the Church of England in any essential matter."
+
+s.5(2), definitions — TWO THAT MATTER:
+"'form of service' means any order, service, prayer, rite or ceremony
+whatsoever, including the services for the ordination of priests and
+deacons and the consecration of bishops and the catechism or form of
+instruction before confirmation;"
+"'rubrics' of the Book of Common Prayer include all directions and
+instructions contained in the said Book, and all tables, prefaces,
+rules, calendars and other contents thereof."
+
+s.6(1): "Section 3 of the Submission of the Clergy Act 1533 (which
+provides that no Canons shall be contrary to the Royal Prerogative or
+the customs, laws or statutes of this realm) shall not apply to any
+rule of ecclesiastical law relating to any matter for which provision
+may be made by Canon in pursuance of this Measure."
+
+s.6(3): "The Acts and Measures specified in Schedule 2 to this Measure
+are hereby repealed to the extent specified in column 3 thereof."
+
+--- SCHEDULE 2, "Acts and Measures Repealed", REPRODUCED IN FULL ---
+(columns: Chapter | Short Title | Extent of Repeal)
+
+2 & 3 Edw. 6. c. 1.  | The Act of Uniformity 1548.
+                     | The whole Act so far as unrepealed.
+1 Eliz. 1. c. 2.     | The Act of Uniformity 1558.
+                     | The whole Act so far as unrepealed.
+14 Cha. 2. c. 4.     | The Act of Uniformity 1662.
+                     | The whole Act except sections 10 and 15.
+                     | In section 10, the words "nor shall presume to
+                     |   consecrate and administer the holy sacrament
+                     |   of the Lords Supper".
+28 & 29 Vict. c. 122.| The Clerical Subscription Act 1865.
+                     | Section 1. In section 4, the words "make and
+                     |   subscribe the declaration of assent, and". In
+                     |   section 5, the words "the declaration of
+                     |   assent, and". Sections 7 and 8. In section 10,
+                     |   the words from the beginning to "aforesaid ;
+                     |   and".
+34 & 35 Vict. c. 26. | The Universities Tests Act 1871.
+                     | In section 6, the words from "notwithstanding"
+                     |   to "this Act" and the words "on week days
+                     |   only".
+35 & 36 Vict. c. 35. | The Act of Uniformity Amendment Act 1872.
+                     | The whole Act.
+15 & 16 Geo. 6. & 1 Eliz. 2. c. xxxviii.
+                     | The City of London (Guild Churches) Act 1952.
+                     | In section 8, in subsection (4), the words
+                     |   "declaration of assent set forth in section 1
+                     |   of the Clerical Subscription Act 1865 and" and
+                     |   subsection (5). In section 14(1), paragraph
+                     |   (b) and the word "and" immediately preceding
+                     |   it.
+1963 No. 1.          | The Ecclesiastical Jurisdiction Measure 1963.
+                     | [six partial repeals, all of subscription and
+                     |   declaration wording; Schedule 1, Part II]
+1964 No. 4.          | The Holy Table Measure 1964.
+                     | The whole Measure.
+1964 No. 6.          | The Clergy (Ordination and Miscellaneous
+                     |   Provisions) Measure 1964. | Sections 3 to 6.
+1964 No. 7.          | The Vestures of Ministers Measure 1964.
+                     | THE WHOLE MEASURE.
+1965 No. 1.          | The Prayer Book (Alternative and other services)
+                     |   Measure 1965. | THE WHOLE MEASURE.
+1965 No. 3.          | The Prayer Book (Miscellaneous Provisions)
+                     |   Measure 1965. | The whole Measure.
+1968 No. 1.          | The Pastoral Measure 1968. | Sections 74 and
+                     |   75(2).
+1968 No. 2.          | The Prayer Book (Further Provisions) Measure
+                     |   1968. | Sections 1 to 4. In section 5, the
+                     |   proviso.
+1969 c. 52.          | The Statute Law (Repeals) Act 1969. | Section
+                     |   4(3).
+1969 No. 2.          | The Synodical Goverment Measure 1969. [sic:
+                     |   "Goverment"] | In section 3, subsections (1),
+                     |   (2), (3) and (5).
+--- END OF SCHEDULE 2 ---
+
+Schedule 3, para. 4 (saving): "The repeal by this Measure of any
+provision of an Act or Measure shall not affect the validity of any
+Canon made under or by virtue of that provision, and no amendment or
+revocation of any of the rubrics contained in the Book of Common Prayer
+effected by any such provision shall be affected by the repeal of that
+provision by this Measure."
+
+FINDING ON C: The Measure was read in full — all seven sections and all
+three Schedules. It does NOT name incense, a censer, or a thurible
+anywhere. What it does is (i) vest in the General Synod a power to
+provide by Canon "with respect to worship" and for any matter to which
+a BCP rubric relates; (ii) define "form of service" as "any order,
+service, prayer, rite or CEREMONY WHATSOEVER"; and (iii) repeal the
+Acts of Uniformity of 1548 and 1558 outright and that of 1662 save
+sections 10 and 15.
+CLASSIFICATION: PERMISSION BY SILENCE. The Measure never names the
+practice. It dismantles the statutory frame within which the 1899
+Opinion reasoned, and moves the power of provision to Synod by Canon.
+
+⛔ PRECISION NOTE — A REPO CLAIM NARROWED, NOT OVERTURNED.
+Two live repo documents state that the 1974 Measure "repealed the Act
+of Uniformity 1662" (RJ_Incense_Analysis.md; Incense_Conversational_
+Outline.md). Schedule 2 as read says "The whole Act EXCEPT sections 10
+and 15." The repo claim is therefore substantially right and
+imprecisely stated. Anyone deploying it outward should say "repealed
+save sections 10 and 15," because an opponent who checks will find the
+exception and will be entitled to treat the overstatement as
+carelessness. Recorded here for the reconciling session; NOT edited in
+the repo by this pass, which is read-only.
+=====================================================================
