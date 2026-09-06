@@ -1,0 +1,190 @@
+CAPTURE HEADER — added by pass 260835-57, not part of the source.
+SOURCE: src/the-book-of-common-prayer-1662.pdf (repo copy; PDF metadata: "Microsoft
+  Word - intro.doc", author Charles Wohlers, Distiller 2006/2007 — a modern
+  typeset transcription of the 1662 Book of Common Prayer in a two-column
+  layout with long-s), PDF pages 6-8. "Of Ceremonies, why some be abolished,
+  and some retained" begins in the RIGHT column of PDF p. 6 (below the end of
+  "Concerning the Service of the Church"), fills both columns of PDF p. 7, and
+  ends in the LEFT column of PDF p. 8, followed by "The Order how the Psalter
+  is appointed to be read".
+CAPTURE METHOD: pdftotext (poppler) with -layout, cropping each column
+  separately (rendered page is landscape 792 wide x 612 high; left column x=0..395, right column x=395..792, gutter at c. 340-450 confirmed by pdftotext -bbox)
+  so that the two columns are not interleaved. The crops are concatenated in
+  reading order below. KNOWN EXTRACTION DEFECTS in this file, all left
+  uncorrected: (i) the "ct" ligature is dropped by the extractor, so "practice"
+  reads "praice", "rejected" reads "rejeed", "addicted" reads "addied",
+  "respect" reads "reſpe", "perfect" reads "perfe"; (ii) long s is rendered
+  as "ſ" and the "ſt" ligature as "ﬅ"; (iii) drop-capital paragraph openings
+  are scrambled ("O had / F ſuch Ceremonies" = "OF ſuch Ceremonies ... had").
+  The page header lines and the drop-capital scramble are left as extracted.
+  Nothing has been corrected or supplied; a reading transcription is NOT
+  provided here — quote from the extract and mark restorations in brackets.
+  (260835-53 recorded that this file does not yield the Ornaments Rubric on
+  extraction; that defect did not affect these pages.)
+CAPTURED: 2026-09-05.
+
+=============== PDF p. 6, RIGHT column (Of Ceremonies begins) ===============
+  .                            Of C E R E M O
+  be un-     contained in this Book. And if th
+=============== PDF p. 6, RIGHT column (Of Ceremonies begins) ===============
+                  Of C E R E M O N I E S.
+contained in this Book. And if the Biſhop of the Dioceſe be
+in doubt, then he may ſend for the reſolution thereof to the
+Archbiſhop.
+
+“
+“    T HreadO UandG Hſungit bein the
+                                 appointed, that all things ſhall be
+                                     Church in the Engliſh Tongue,
+“   to the end that the congregation may be thereby edified;
+“   yet it is not meant, but that when men ſay Morning and
+“   Evening Prayer privately, they may ſay the ſame in any
+“   language that they themſelves do underﬅand.
+     “ And all Prieﬅs and Deacons are to ſay daily the Morn-
+“   ing and Evening Prayer either privately or openly, not
+“   being let by ſickneſs, or ſome other urgent cauſe.
+     “ And the Curate that miniﬅereth in every Pariſh-Church
+“   or Chapel, being at home, and not being otherwiſe
+“   reaſonably hindered, ſhall ſay the ſame in the Pariſh-
+“   Church or Chapel where he miniﬅereth, and ſhall cauſe
+“   a bell to be tolled thereunto a convenient time before he
+“   begin, that the people may come to hear God’s Word,
+“   and to pray with him.
+
+
+
+                ¶ Of C E R E M O N I E S,
+         Why ſome be aboliſhed, and ſome retained.
+
+O had
+  F ſuch Ceremonies as be uſed in the Church, and have
+      their beginning by the inﬅitution of man, ſome at
+the firﬅ were of godly intent and purpoſe deviſed, and yet at
+length turned to vanity and ſuperﬅition: Some entered into
+the Church by undiſcreet devotion, and ſuch a zeal as was
+without knowledge; and for becauſe they were winked at in
+the beginning, they grew daily to more and more abuſes,
+which not only for their unprofitableneſs, but alſo becauſe
+they have much blinded the people, and obſcured the glory of
+God, are worthy to be cut away, and clean rejeed: other
+there be, which although they have been deviſed by man, yet
+=============== PDF p. 7, LEFT column ===============
+                 Of C E R E M O N I E S.
+it is thought good to reſerve them ﬅill, as well for a decent
+Order in the Church, (for the which they were firﬅ deviſed) as
+becauſe they pertain to edification, whereunto all things done
+in the Church (as the Apoﬅle teacheth) ought to be referred.
+    And although the keeping or omitting of a Ceremony, in
+itſelf conſidered, is but a ſmall thing; yet the wilful and con-
+temptuous tranſgreſſion and breaking of a common Order
+and Diſcipline is no ſmall offence before God, Let all things be
+done among you, ſaith Saint Paul, in a ſeemly and due Order: The
+appointment of the which Order pertaineth not to private
+men; therefore no man ought to take in hand, nor preſume to
+appoint or alter any publick or common Order in Chriﬅ's
+Church, except he be lawfully called and authorized there-
+unto.
+    And whereas in this our time, the minds of men are ſo
+diverſe, that ſome think it a great matter of Conſcience to
+depart from a piece of the leaﬅ of their Ceremonies, they be ſo
+addied to their old cuﬅoms: and again on the other ſide,
+ſome be ſo newfangled, that they would innovate all things,
+and ſo deſpiſe the old, that nothing can like them, but that is
+new: It was thought expedient, not ſo much to have reſpe
+how to pleaſe and ſatiſfy either of theſe parties, as how to
+pleaſe God, and profit them both. And yet leﬅ any man
+ſhould be offended, whom good reaſon might ſatiſfy, here be
+certain cauſes rendered, why ſome of the accuﬅomed Cere-
+monies be put away, and ſome retained and kept ﬅill.
+    Some are put away, becauſe the great exceſs and multitude
+of them hath ſo increaſed in theſe latter days, that the burden
+of them was intolerable; whereof St. Auguﬅine in his time
+complained, that they were grown to ſuch a number, that the
+eﬅate of Chriﬅian people was in worſe caſe concerning that
+matter, than were the Jews. And he counſelled that ſuch yoke
+and burden ſhould be taken away, as time would ſerve quietly
+to do it. But what would St. Auguﬅine have ſaid, if he had ſeen
+the Ceremonies of late days uſed among us; whereunto the
+multitude uſed in his time was not to be compared? This our
+exceſſive multitude of Ceremonies was ſo great, and many of
+them ſo dark, that they did more confound and darken, than
+=============== PDF p. 7, RIGHT column ===============
+                 Of C E R E M O N I E S.
+declare and ſet forth Chriﬅ’s benefits unto us. And beſides
+this, Chriﬅ’s Goſpel is not a Ceremonial Law, (as much of
+Moſes' Law was,) but it is a Religion to ſerve God, not in
+bondage of the figure or ſhadow, but in the freedom of the
+Spirit; being content only with thoſe Ceremonies which do
+ſerve to a decent Order and godly Diſcipline, and ſuch as be
+apt to ﬅir up the dull mind of man to the remembrance of his
+duty to God, by ſome notable and ſpecial ſignification,
+whereby he might be edified. Furthermore, the moﬅ weighty
+cauſe of the aboliſhment of certain Ceremonies was, That they
+were ſo far abuſed, partly by the ſuperﬅitious blindneſs of the
+rude and unlearned, and partly by the unſatiable avarice of
+ſuch as ſought more their own lucre, than the glory of God,
+that the abuſes could not well be taken away, the thing re-
+maining ﬅill.
+   But now as concerning thoſe Perſons, which peradventure
+will be offended, for that ſome of the old Ceremonies are
+retained ﬅill: If they conſider that without ſome Ceremonies it
+is not poſſible to keep any Order, or quiet Diſcipline in the
+Church, they ſhall eaſily perceive juﬅ cauſe to reform their
+judgements. And if they think much, that any of the old do
+remain, and would rather have all deviſed anew: then ſuch
+men granting ſome Ceremonies convenient to be had, ſurely
+where the old may be well uſed, there they cannot reaſonably
+reprove the old only for their age, without bewraying of their
+own folly. For in ſuch a caſe they ought rather to have
+reverence unto them for their Antiquity, if they will declare
+themſelves to be more ﬅudious of Unity and Concord, than of
+Innovations and New-fangleneſs, which (as much as may be
+with the true ſetting forth of Chriﬅ’s Religion) is always to be
+eſchewed. Furthermore, ſuch ſhall have no juﬅ cauſe with the
+Ceremonies reſerved to be offended. For as thoſe be taken
+away which were moﬅ abuſed, and did burden men's con-
+ſciences without any cauſe; ſo the other that remain, are
+retained for a Diſcipline and Order, which (upon juﬅ Cauſes)
+may be altered and changed, and therefore are not to be
+eﬅeemed equal with God’s Law. And moreover, they be
+neither dark nor dumb Ceremonies, but are ſo ſet forth, that
+=============== PDF p. 8, LEFT column (Of Ceremonies ends) ===============
+    The Order how the Pſalter is appointed to be read.
+every man may underﬅand what they do mean, and to what
+uſe they do ſerve. So that it is not like that they in time to
+come ſhould be abuſed as other have been. And in theſe our
+doings we condemn no other Nations, nor preſcribe any thing
+but to our own people only: For we think it convenient that
+every Country ſhould uſe ſuch Ceremonies as they ſhall think
+beﬅ to the ſetting forth of God’s Honour and Glory, and to
+the reducing of the people to a moﬅ perfe and godly living,
+without Error or Superﬅition; and that they ſhould put away
+other things, which from time to time they perceive to be moﬅ
+abuſed, as in men’s Ordinances it often chanceth diverſely in
+divers Countries.
+
+
+
+
+ ¶ The Order how the PSALTER is appointed to be read.
+
+
+T   H E Pſalter ſhall be read through once every Month,
+    as it is there appointed, both for Morning and
+Evening Prayer. But in February it ſhall be read only to the
+twenty-eighth, or twenty-ninth day of the month.
+   And, whereas January, March, May, July, Auguﬅ, Oober,
+and December have one-and-thirty days apiece; It is ordered,
+that the ſame Pſalms ſhall be read the laﬅ day of the ſaid
+Months, which were read the day before: ſo that the Pſalter
+may begin again the firﬅ day of the next Month enſuing.
+   And, whereas the CXIX Pſalm is divided into XXII Por-
+tions, and is over-long to be read at one time; It is ſo or-
+dered, that at one time ſhall not be read above four or five
+of the ſaid Portions.
+   And at the end of every Pſalm, and of every ſuch part of
+the CXIX Pſalm, ſhall be repeated this Hymn,
+   Glory be to the Father, and to the Son: and to the Holy Ghoﬅ;
+   As it was in the beginning, is now, and ever ſhall be; world
+without end. Amen.
+

@@ -1,0 +1,723 @@
+CAPTURE HEADER — added by pass 260835-57, not part of the source.
+SOURCE: Journal of the Proceedings of the Bishops, Clergy, and Laity of the
+  Protestant Episcopal Church in the United States of America, assembled in a
+  General Convention, held in the City of New York, from Oct. 7th to Nov. 3d,
+  inclusive, in the year of our Lord 1874. Printed for the Convention.
+  Hartford, Conn.: M. H. Mallory & Co., Printers, 1875.
+DIGITISED COPY: Internet Archive item "journalofproceed1874phil" (University of
+  Florida, George A. Smathers Libraries), https://archive.org/details/journalofproceed1874phil
+  OCR derivative read: journalofproceed1874phil_djvu.txt (2,228,637 characters)
+  via https://archive.org/stream/journalofproceed1874phil/journalofproceed1874phil_djvu.txt
+CAPTURED: 2026-09-05. The OCR text was searched programmatically for
+  "incense" (5 hits, all reproduced or accounted for below), "Canon on Ritual",
+  "Committee of Conference", "Elevation of the Elements", "erroneous or
+  doubtful", "Message No. 43", "Message No. 63" and "DeKoven", and the
+  passages below were sliced out by character offset. Runs of OCR spaces have
+  been collapsed to single spaces; line breaks, OCR misreadings ("heen",
+  "wnthin", "Couneil", "Eev.", "Bubrics", "Hoi}" etc.) and the printed page
+  headers/numbers embedded in the OCR are left exactly as read. Nothing has been
+  corrected or supplied. Printed page numbers are those that appear in the OCR
+  stream immediately before or after the passage ("108", "109" etc.).
+PURPOSE: to place the enacted text of the additional §II to Canon 20, Title I
+  ("Of the Use of the Book of Common Prayer"), and every recorded legislative
+  step between the Committee's report of 23 Oct. 1874 and final concurrence on
+  31 Oct. 1874, in src/ as the source of record, for Incense_Reply_Source_Checks.md
+  §2, §3 and §5. The Journal records motions, messages and votes; it does not
+  record debate. DeKoven's speeches are in the separately captured pamphlet
+  SRC_PRIMARY_1874_DeKoven_Canon-On-Ritual-Speech_ProjectCanterbury.txt.
+NOTE ON NUMBERING: the Digest printed with this Journal renumbers Canon 20 of
+  Title I as Canon 22 (see extract H below).
+
+======================================================================
+A. HOUSE OF DEPUTIES — Report of the Committee on Canons, 23 October 1874
+   (OCR offsets c. 424000-427500; printed pp. 108-109)
+======================================================================
+The Committee, therefore, unanimously recommend the adoption of the
+following :
+
+Resolved, the House of Bishops concurring. That the following additional
+section be added to Canon 20, Title I., “ Of the Use of the Book of Common
+Prayer : ”
+
+§ II [1.] If any Bishop have reason to believe, or if complaint be made
+to him in writing by two or more of his Presbyters, that ceremonies or
+practices during the celebration of the Holy Communion, not ordained or
+authorized in the Book of Common Prayer, and setting forth or symbolizing
+erroneous or doubtful doctrines, have been introduced into a parish wnthin
+his jurisdiction (and, as examples, the following are declared to be considered
+as such:
+
+a. The use of Incense.
+
+h. The placing, or carrying, or retaining a Crucifix in any part of the place
+of public worship.
+
+c. The Elevation of the Elements in the Holy Communion in such manner
+as to expose them to the view of people as objects toward which adoration is to,
+be made.
+
+d. Any act of adoration of or toward the Elements in the Holy Communion
+such as bowings, prostrations, genuflections, and all such like acts not author-
+ized or allowed by the Rubrics of the Book of Common Prayer), it shall be the
+duty of such Bishop to summon the Standing Committee as his Couneil of
+Advice, and wdth them to investigate the matter.
+
+[2.] If, after investigation, it shall appear to the Bishop and the Standing
+Committee that erroneous or doubtful doctrines have in fact been set forth
+or symbolized by ceremonies or practices not ordained or authorized as afore-
+said, it shall be the dutv of the Bishop, by instrument of writing under his
+hand, to admonish the Minister of the Parish to discontinue such practices
+or ceremonies ; and if the Minister shall disregard such admonition, it shall
+
+
+1874.]
+
+
+HOUSE OP DEPUTIES.
+
+
+109
+
+
+be the duty of the Standing Committee to cause him to be tried for a breach of
+his ordination vow : Provided, that nothing herein contained shall prevent the
+presentment, trial, and punishment of any Minister under the provisions of § I.
+of Canon 2, Title II. of the Digest.
+
+[3.] In all investigations under the provisions of this Canon, the Minister
+whose acts or practices are the subject matter of the investigation shall be noti-
+fied, and have opportunity to be heard in his defence. The charges preferred
+and the findings of the Bishop and Standing Committee shall be in writing, and
+a record shall be kept of the proceedings in the case.
+
+^ By order of the Committee,
+
+WM. COOPER MEAD,
+
+October 23, 1874. Chairman.
+
+======================================================================
+B. HOUSE OF DEPUTIES — 17th Day, 26 October 1874: Blanchard substitute and
+   DeKoven's amendment to the amendment (OCR offsets c. 522000-524800;
+   printed pp. 135-136)
+======================================================================
+The House resumed the consideration of the Order of the
+Day.
+
+Mr. Blanchard, of Maryland, offered the following amendment
+to the resolution reported by the Committee on Canons, to wit, to
+strike out all after the word Resolved f and to insert instead
+thereof the words following, so that the resolution shall read:
+
+Resolved, the House of Bishops concurring, That the following additional
+section be added to Canon 20 of Title I., “ Of the Use of the Book of Common
+Prayer : ”
+
+The following ceremonies or practices during the celebration of the Holy
+Communion are hereby prohibited :
+
+1. The use of incense.
+
+2. The placing, or carrying or retaining a crucifix in any part of the place of
+public worship.
+
+3. The elevation of the Elements in the Holy Communion in such manner as
+to expose them to the view of the people as objects to which adoration is to be
+offered.
+
+4. Any act of adoration of or toward the Elements in the Holy Communion.
+
+§ II. If any Bishop have reason to believe that the ceremonies or practices
+
+hereby prohibited have been introduced into any Parish or Congregation within
+his jurisdiction, it shall be his duty to admonish in writing the Minister of the
+Parish or Congregation aforesaid to discontinue such ceremonies or practices ; and
+if the Minister shall disregard such admonition, it shall be the duty of the Stand-
+ing Committee of the Diocese to cause him to be tried before the proper Eccle-
+siastical Court of the Diocese having jurisdiction of the offences for which Minis-
+ters may be tried and punished.
+
+The Eev. Dr. DeKoven, of Wisconsin, offered the following
+amendment to the amendment before the House, to wit:
+
+Proposed amendment to the proposed Canon on Ritual.
+
+Leave out, in lines one and two, “ Or, if complaint be made to him in writing,
+by two or more of his Presbyters.^’ In lines five and six, instead of the words
+“erroneous or doubtful doctrines,” read “doctrines not in accordance with those
+of this Church.” Leave out all within the parentheses in page three. In line
+sixteen, page three, for “erroneous or doubtful doctrines,” read “doctrines not
+in accordance with those of this Church.”
+
+The following messages were received from the House of
+Bishops, and, on motion of the Rev. Mr. Rogers, of Texas, the
+
+
+136 JOURNAL OF THE GENERAL CONVENTION. [ITtll Day.
+
+House concurred in the resolution communicated in Message Xo.
+45:
+
+City of New Yoek, 17tli day of the Session,
+Message No. 44. October 26, 1874.
+
+======================================================================
+C. HOUSE OF DEPUTIES — 18th Day, 27 October 1874: Bolton substitute
+   (OCR offsets c. 535800-538000; printed pp. 139-140)
+======================================================================
+On motion of Mr. Burgwin, of Pittsburgh, the House pro-
+ceeded to the consideration of the unfinished business of yesterday,
+to wit, the Canon on Ritual, reported by the Committee on Canons,
+with the amendments proposed thereto.
+
+The Rev. John Bolton, of Pennsylvania, offered the following
+substitute for the whole matter:
+
+Resolved, tbe House of Bishops concurring. That the following additional
+section be added to Canon 20, Title I., “ Of the Use of the Book of Common
+
+
+practices during the celebration of the Holy Communion, or at any other
+time during tbe celebration of Divine Service, not ordained or authorized
+in the Book of Common Prayer, and setting forth or symbolizing erroneous
+or strange doctrine, have been introduced into a parish within his jurisdiction,
+to wit :
+
+a. The use of incense.
+
+h. The placing or carrying or retaining a crucifix in any part of the place of
+worship.
+
+c. The elevation of the Elements in the Holy Communion in such manner
+as to expose them to the view of the people as objects toward which adoration is
+to be made.
+
+d. Bowings, prostrations, genuflections, and all such like acts not authorized or
+allowed by the Rubrics of the Book of Common Prayer.
+
+
+140
+
+
+JOURNAL OF THE GENERAL CONVENTION. [18th Day.
+
+
+e. The use of private confession otherwise than as allowed by the Rubrics of
+the Book of Common Prayer.
+
+f. Prayers addressed to the Virgin Mary.
+
+g. Prayers for the dead.
+
+h. The use of vestments other than the cassock, surplice, and stole and bands,
+and the black gown, with the Oxford cap.
+
+It shall be the duty of such Bishop to summon the Standing Committee as
+his council of advice, and with them to investigate the matter.
+
+[2.] If, after investigation, it shall appear to the Bishop and the Standing
+Committee that erroneous or doubtful doctrines have in fact been set forth or
+symbolized by ceremonies or practices not ordained or authorized as aforesaid,
+it shall be the duty of the Bishop, by instrument of writing under his hand, to
+admonish the Minister of the Parish to discontinue such practices or ceremonies ;
+and if the Minister shall disregard such admonition, it shall be the duty of the
+Standing Committee to cause him to be tried for a breach of his ordination vow :
+Provided, that nothing herein contained shall prevent the presentment, trial, and
+punishment of any Minister under the provisions of § I. of Canon 2, Title II. of
+the Digest.
+
+[3.] In all investigations under the provisions of this Canon, the Minister
+whose acts or practices are the subject-matter of the investigation, shall be
+notified, and have opportunity to be heard in his defence. The charges preferred
+and the findings of the Bishop and Standing Committee shall be in writing, and
+a record shall be kept of the proceedings in the case.
+
+  [OCR note: the line between "Book of Common" and "practices during the
+  celebration" is missing in the OCR stream; a page break falls there.]
+
+======================================================================
+D. HOUSE OF DEPUTIES — 18th Day, 27 October 1874: amendments tabled, vote
+   by Dioceses and Orders, Committee's resolution adopted WITH incense as
+   example (a) (OCR offsets c. 545500-553900; printed pp. 142-145)
+======================================================================
+The House resumed the consideration of the Order of the Day.
+
+On motion of Mr. Burgwin, of Pittsburgh, the substitute and
+amendments proposed to the Canon reported by the Committee
+■were laid on the table.
+
+Mr. Thompson, of Tennessee, moved to amend the resolution
+reported by the Committee on Canons by striking out all after the
+word Resolved,^'' and inserting instead thereof the words follow-
+ing, so that the resolution as amended would read:
+
+Whereas, There is much feeling in the Church upon the subject of certain
+ceremonials and practices to be found in some of our churches ; and
+
+Whereas, The subject of Liturgies, -svhich lies at the bottom of the said
+usages, is one of no little ditficulty, requiring special study for its mastery; and
+Whereas, This body is too large, and has not the time to weigh the many
+nice points of theology and ritual in the questions in issue; and
+
+Whereas, It is necessary to meet these questions fairly and calmly, so as to
+guard this Church from error of doctrine and from strange and unlawful prac-
+tices ; therefore
+
+Resolved, the House of Bishops concurring. That a.Committee of three Cleri-
+cal and three Lay members of this House be elected by ballot to act with a Com-
+mittee of three on the part of the House of Bishops, who shall, with as little delay
+as possible, select a Commission of learned men — to be composed as they shall
+think best — which Commission shall sit from time to time between this and the
+reassembling of the General Convention, and shall consider the whole question of
+the ritual law of the Church, and report to the said next General Convention
+what changes ('if any) are needed in our present formularies, or what laws (if any)
+should be enacted to meet the ends herein proposed.
+
+On motion of Mr. Burgwin, of Pittsburgh, the amendment was
+laid on the table.
+
+
+1874.]
+
+
+HOUSE OF DEPUTIES.
+
+
+143
+
+
+The question recurring on the resolution reported by the Com-
+mittee on Canons, the Deputation from Tennessee called for a vote
+by Dioceses and Orders.
+
+Of the Clergy there were 41 Dioceses represented — ayes 38;
+nays 2; divided 1.
+
+Of the Laity there were 39 Dioceses represented — ayes 35;
+nays 3; divided 1.
+
+  [The roll by diocese follows on pp. 143-145. The Wisconsin clerical entry,
+  p. 144, reads:]
+
+Wisconsin. — The Rev. Dr. Adams, and the Rev. Messrs. Half and Ten
+Broeck. — Aye. The Rev. Dr. DeKoven. — Nay.
+
+  [Dioceses voting in the negative, clerical: Albany; Michigan (Brown,
+  Worthington Nay; Gillespie Aye). Lay: Albany; New York (Livingston,
+  Davies Nay; Ruggles Aye); Vermont. Divided: Indiana (clerical); New
+  Jersey (lay). Then, p. 145:]
+
+The resolution reported by the Committee was therefore
+adopted.
+
+======================================================================
+E. HOUSE OF BISHOPS — Message No. 43 received from the House of Deputies,
+   27 October 1874, and referred to the Bishops' Committee on Canons
+   (OCR offsets c. 1098300-1101100; printed pp. 320-321)
+======================================================================
+CiTY^ OF New York, 18th day of the Session,
+Message No. 43. October 27, 1874.
+
+The House of Deputies informs the House of Bishops that it has adopted the
+following resolution ;
+
+Resolved, the House of Bishops concurring, That the following additional
+section be added to Canon 20, Title I, “ Of the Use of the Book of Common
+Prayer
+
+§11. [l.J If any Bishop have reason to believe, or if complaint be made
+to him in writing by two or more of his Presbyters, that ceremonies or practices
+during the celebration of the Holy Communion, not ordained or authorized in
+the Book of Common Prayer, and setting forth or symbolizing erroneous or
+doubtful doctrines, have been introduced into a parish within his jurisdiction
+(and, as examples, the following are declared to be considered as such :
+
+a. The use of incense.
+
+b. The placing, or carrying, or retaining a Crucifix in any part of the placer
+of public worship.
+
+c. The Elevation of the Elements in the Holy Communion in such manner
+as to expose them to the view of people as objects toward which adoration is to
+be made.
+
+d. Any act of adoration of or toward the Elements in the Holy Commun-
+ion, such as bowings, prostrations, genuflections, and all such like acts not
+authorized or allowed by the Rubrics of the Book of Common Prayer), it
+
+
+HOUSE OP BISHOPS.
+
+
+321
+
+
+1874.]
+
+
+shall be the duty of such Bishop to summon the Standing Committee as his
+Council of Advice, and with them to investigate the matter.
+
+  [Subsections [2.] and [3.] follow as in extract A.]
+
+Attest : WILLIAM STEVENS PERRY, Secretary.
+
+On motion of the Missionary Bishop of Montana, this message ,
+was referred to the Committee on Canons.
+
+======================================================================
+F. HOUSE OF BISHOPS — 20th Day, Thursday 29 October 1874: amendments
+   adopted, including the striking of ALL four examples on the motion of
+   the Bishop of North Carolina (OCR offsets c. 1144000-1148300; printed
+   pp. 333-335)
+======================================================================
+The discussion was resumed of the resolution reported by the
+Committee on Canons.
+
+The Bishop of Easton moved the adoption of the resolution
+offered by him on the seventeenth day of the session as a substi-
+tute for the resolution reported by the Committee, which motion
+was not adopted.
+
+The Bishop of North Carolina moved, as an amendment to the
+resolution reported, the following:
+
+Resolved That § II. of the Canon on Ritual be amended by striking out the
+words beginning with “ And as examples,” and ending with “ Book of Common
+Prayer.”
+
+Which was adopted.
+
+The Bishop of Albany moved, as an amendment.
+
+That in line 5 of § II. [Ih “or” he substituted for “ and ” after “ Prayer.”
+Which was adopted.
+
+
+334 JOURNAL OF THE GENERAL CONVENTION. [2pth Day.
+
+The Bishop of Albany moved, as an amendment,
+
+That the word “ Sacraments ” be substituted for “ Communion ” in line 3 in
+
+§11. ll].
+
+Which was not adopted.
+
+The Bishop of Albany moved, as an amendment.
+
+That after the word “jurisdiction,” in line 6, § II. [1], the following words be
+added, viz. : “ Or that ceremonies prescribed and practices ordered have been
+omitted.”
+
+Which was not adopted.
+
+The Bishop of Albany moved, as an amendment,
+
+That the word “such,” in line 13 of § II. [1], be substituted for “ Standing,”
+and, instead of “ as his Council of Advice,” the words “ of investigation as he
+shall choose,” be substituted..
+
+Which was not adopted.
+
+The Bishop of Albany moved the following amendment:
+
+That the words “ or that ” be substituted for “ by,” in line seventeenth of [2]
+of § II., and that in line twentieth, after the word “aforesaid,” the words “have
+been introduced ” be added.
+
+Which was adopted.
+
+The Bishop of Albany moved the following amendment:
+
+That in place of the words “ Standing Committee,” in line twenty-second of
+§ II. [2j the words “ Clerical members of the Standing Committee” be substi-
+tuted.
+
+Which was not adopted.
+
+The Bishop of Western New York moved the following
+amendment, viz.:
+
+That in line four of [1] of § II., after the words “Holy Communion,” the
+words “which set forth or symbolize erroneous or doubtful doctrines, or ceremo-
+nies or practices not ordained or authorized in the Book of Common Prayer,” be
+substituted for the words “ not ordained or authorized in the Book of Common
+Prayer, and setting forth or symbolizing erroneous or doubtful doctrines.”
+
+Which was adopted.
+
+The Bishop of Maryland moved the following as a substitute
+for the resolution reported by the Committee, viz. :
+
+Resolved, That this House do not concur in the proposed additional section for
+Canon 20, Title I., because in the pressure of accumulated business at the time of
+its receipt of Message No. 43, on the nineteenth day of the session, and under the
+limitations imposed by Article 3 of the Constitution, this House finds itself unable
+to devote to the proposed measure the deliberation due to its grave importance,
+and also, because this House, referring to its Pastoral Letter issued in the last
+General Convention as its own action, is well satisfied to rest upon the response
+made to such teaching by the vote of the House of Deputies, with which, for rea-
+sons affecting detail rather than principle, it finds itself unable, as now fettered by
+deficiency of time, to give its concurrence.
+
+Which was not adopted.
+
+
+HOUSE OF BISHOPS.
+
+
+335
+
+
+1874.]
+
+The Missionary Bishop of Montana moved the following
+amendment :
+
+That the words “ or doubtful ” he omitted in line five of [1] of § II.
+
+Which was not adopted.
+
+The question being on the passage of the Canon as thus amend-
+ed, it was adopted.
+
+On motion of the Bishop of Long Island, this action of the
+House was ordered to be communicated to the House of Deputies.
+
+======================================================================
+G. HOUSE OF DEPUTIES — Message No. 63 from the House of Bishops, 29 October
+   1874, as received (OCR offsets c. 645400-646800; printed p. 171); and
+   the Deputies' non-concurrence and request for a Committee of Conference,
+   30 October 1874 (OCR offsets c. 651000-652000; printed p. 178)
+======================================================================
+City of New York, 20th day of the Session,
+Message No. 63. October 29, 1874.
+
+The House of Bishops informs the House of Deputies that it concurs in '
+Message No. 43, from the House of Deputies, with the following amendments :
+
+1. To strike out in Subsection [1] of the proposed additi' nal §11., to be
+added to Canon 20, Title I., the words “Not oVdained or authorized in the Book
+of Common Prayer, and setting forth or symbolizing erroneous or doubtful doc-
+trines,” and to insert, in their stead, the words “which set forth or symbolize
+erroneous or doubtful doctrines or ceremonies or practices not ordained or autho-
+rized in the Book of Common Prayer.”
+
+2. To strike out in the same Subsection [1] all those words inclosed within
+parentheses, beginning with the words “ and as examples,” and ending with the
+words “ Book of Common Prayer.”
+
+3. To strike out in the second Subsection of said proposed § II. of Canon 20,
+Title I., the word “ by ” in The third line of said Subsection [2], and to insert in
+its stead the words “ or that.”
+
+4. To insert in the fourth line of the same Subsection [2], after the words
+“ authorized as aforesaid,” the words “have been introduced.”
+
+Attest : HENRY C. POTTER, Secretary.
+
+  [p. 178, 21st Day, 30 October 1874:]
+
+[No. 38.] The Committee on Canons, to whom was referred Message No. 63,
+from the House of Bishops, respectfully report :
+
+That they have considered the same, and recommend the passage of the fol-
+lowing resolution :
+
+Resolved, That this House do not concur with the amendments proposed by
+the House of Bishops to § II. of Canon 20, Title I., and ask.for a Committee of
+Conference.
+
+By order of the Committee,
+
+WM. COOPER MEAD, Chairman.
+
+October 30, 1874.
+
+The Rev. Dr. Lewin, of Maryland, moved to amend the reso-
+lution reported by the Committee by striking out all after the
+word “ ” and inserting instead thereof the words “That
+this House concurs with the House of Bishops,” which motion was
+lost, and the question recurring on the resolution reported by the
+Committee, it was adopted.
+
+======================================================================
+H. HOUSE OF DEPUTIES — 22d Day, 31 October 1874: Report of the Committee of
+   Conference; House of Bishops Message No. 78 adopting it; Deputies concur
+   by vote by Dioceses and Orders — THE CANON AS ENACTED
+   (OCR offsets c. 682600-697000; printed pp. 183-188)
+======================================================================
+Mr. Burg win, of Pittsburgh, on behalf of the Joint Committee,
+presented the following report:
+
+The Committee of Conference, appointed by the two Houses to consider the
+differences between the House of Bishops and the House of Deputies, in regard to
+the additional Section to Canon 20, Title I., “ Of the Use of the Book of Common
+Prayer,” have had the same under consideration, and recommend the adoption of
+the following resolution :
+
+Resolved, That instead of the Section as passed by the House of Deputies
+and proposed to be amended by the House of Bishops, the following additional
+Section be- added to Canon 20 of Title I, “ Of the Use of the Book of Common
+Prayer d
+
+§ II. [1.] If any Bishop have reason to believe, or if complaint be made to
+him in writing by two cr more of his Presbyters, that within his jurisdiction
+ceremonies or practices no: ordained or authorized in the Book of Common
+Prayer, and setting forth or symbolizing erroneous or doubtful doctrines, have
+been introduced by any Minister during the celebration of the Holy Communion
+(such as
+
+a. The Elevation of the Elements in the Holy Communion in such manner
+as to expose then# to the view of the people as objects toward which adoration is
+to be made ;
+
+h. Any act of adoration of or toward the Elements in the Hoi} Communion,
+such as bowings, prostrations, or genuflections ; and
+
+c. All other like acts not authorized or allowed by the Bubrics of the Book
+of Common Prayer);
+
+It shall be the duty of such Bishop to summon the Standing Committee as his
+Council of Advice, and with them to investigate the matter.
+
+[2.] If, after investigation, it shall appear to the Bishop and the Standing
+Committee that ceremonies or praetices, not ordained or authorized as aforesaid,
+and seating forth or symbolizing erroneous or doubtful doctrines, have in fact been
+introduced as aforesaid, it shall be the duty of the Bishop, by instrument of
+writing under his hand, to admonish the Minister so offending to discontinue such
+practices or ceremonies ; and if the Minister shall disregard such admonition, it
+shall be the duty of the Standing Committee to cause him to be tried for a breach
+of his ordination vow: Provided, That nothing herein contained shall prevent
+
+
+184
+
+
+JOURNAL OF THE GENERAL CONTENTION. [22d Day.
+
+the presentment, trial, and punishment of any Minister under the provisions of
+§1. of Canon 2, Title II. of the Dij^est.
+
+[3.] In all investigations under the provisions of this Canon, the Minister
+whose acts or practices are the subject-matter of the investigation shall be notified,
+and have opportunity to be heard in his defence. The charges preferred and the
+findings of the Bishop and Standing Committee shall be in writing ; and a record
+shall be kept of the proceedings in the case.
+
+By order of the Committee,
+
+On the part of the House of Bishops,
+
+J. WILLIAMS, Chairman.
+
+On the part of the House o f Deptitus,
+
+WM. COOPER MEAD, Chairman.
+
+  [Then, p. 185, Message No. 78 from the House of Bishops, 22d day, October
+  31, 1874, informs the House of Deputies that it has adopted the resolution
+  in the identical terms, with the clause "(such as ... c. All other like acts
+  not authorized or allowed by the Rubrics of the Book of Common Prayer) ; it
+  shall be the duty of such Bishop ..." Attest: HENRY C. POTTER, Secretary.
+  Then:]
+
+By leave of the House, Mr. Burgwin, of Pittsburgh, offered the
+following resolution:
+
+Resolved, That this House concurs in Message No. 78, from the House of
+Bishops.
+
+The Deputation from Michigan called for a vote by Dioceses
+and Orders.
+
+
+186
+
+
+JOURNAL OF THE GENERAL CONVENTION. [2 2d Daj.
+
+
+Of the Clergy there were 41 Dioceses represented — ayes 38;
+nays 2; divided 1.
+
+Of the Laity there were 31 Dioceses represented — ayes 28; nay
+1; divided 2.
+
+  [Roll follows, pp. 186-188. Wisconsin clerical entry, p. 187:]
+
+Wisconsin. — The Rev. Dr. Adams and the Rev. Mr. HafF. — Aye. The Rev.
+Dr. DeKoven. — Nay.
+
+  [Negative, clerical: Albany (Tucker, Beers, Hobart Brown); Indiana
+  (Dunham). Lay: Albany (Meads, Forsyth). Divided: Arkansas (clerical);
+  Massachusetts, New Jersey (lay). Then, p. 188:]
+
+The resolution of concurrence was therefore adopted.
+
+======================================================================
+I. DIGEST / SUMMARY OF CANONICAL LEGISLATION printed with the Journal — the
+   section as enacted, showing renumbering (OCR offsets c. 1877300-1879400
+   and 2081800-2084000)
+======================================================================
+The following additional section, to be numbered ^ II., is to be added to
+Canon 20 (renumbered Canon 22) of Title I., to wit :
+
+^ II. fl.] If any Bishop have reason to believe, or if complaint be made
+to him in writing by two or more of his Presbyters, that within liis juris-
+diction ceremonies or praciices not ordained or authorized in the Book of
+Common Prayer, and setting forth or symbolizing erroneous or doubtful
+doctrines, have been introduced by any minister during the celebration of
+the Holy Communion (such as,
+
+  [continues as in extract H]
+
+  [And in the Digest proper, with marginal notes:]
+
+22.
+
+Of the Use of the Booh of Common Prayer.
+
+§ I. Every Minister shall, before all sermons and
+lectures, and on all other occasions of public Tvor-
+ship, use the Book of Common Prayer, as the same
+is or may be established by the authority of the
+General Convention of this Church ; and in per-
+forming such service, no other prayers shall be
+used than those prescribed by the said Book.^
+
+'’Introduction of
+ceremonies or '
+imactices not
+ordained or
+authorized in the
+Book of Common
+Prayer,
+
+§ II. [1.] If any Bishop have reason to believe,
+or if complaint be made to him in writing by two
+or more of his Presbyters, that within his jurisdic-
+tion ceremonies or practices not ordained or author-
+ized in the Book of Common Prayer, and setting
+forth or symbolizing erroneous or doubtful doc-
+trines, have been introduced by any Minister
+during the celebration of the Holy Communion
+(such as.
+
+Specifications.
+
+a. The ele
+
+  [continues as in extract H]
+
+======================================================================
+J. THE FIVE OCCURRENCES OF "incense" IN THE WHOLE OCR, ACCOUNTED FOR
+======================================================================
+  1. offset 426064 — Committee report, 23 Oct., example (a) [extract A]
+  2. offset 523281 — Blanchard substitute, 26 Oct., item 1 [extract B]
+  3. offset 536781 — Bolton substitute, 27 Oct., example (a) [extract C]
+  4. offset 1099906 — Message No. 43 as received by the Bishops [extract E]
+  5. offset 1110381 — Bishop Whipple's Domestic Missions report, "the incense
+     of earnest prayer" (p. 323), unrelated to the canon.
+  The enacted text (extracts H and I) contains no occurrence of the word.

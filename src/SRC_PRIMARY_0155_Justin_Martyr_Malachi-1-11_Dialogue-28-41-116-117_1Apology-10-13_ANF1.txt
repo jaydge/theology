@@ -1,0 +1,98 @@
+CAPTURE HEADER — added by pass 260835-57, not part of the source.
+PURPOSE: to hold, in a published English translation and NOT in any translation
+  of this project's own, every passage of Justin Martyr that quotes or alludes to
+  Malachi 1:10-12, plus the two First Apology passages on God's non-need of
+  material offerings, so that the Incense_Reply_Source_Checks.md §1 verdict
+  rests on captured text.
+TRANSLATION: Dialogue with Trypho — translated by Marcus Dods and George Reith;
+  First Apology — translated by Marcus Dods and George Reith. Both from
+  Ante-Nicene Fathers, Vol. 1, ed. Alexander Roberts, James Donaldson and
+  A. Cleveland Coxe (Buffalo, NY: Christian Literature Publishing Co., 1885),
+  as revised and edited for New Advent by Kevin Knight. New Advent's own
+  "About this page" source statement for the Dialogue reads: "Translated by
+  Marcus Dods and George Reith. From Ante-Nicene Fathers, Vol. 1. Edited by
+  Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY:
+  Christian Literature Publishing Co., 1885.) Revised and edited for New Advent
+  by Kevin Knight."
+SOURCE PAGES (fetched 2026-09-05):
+  Dialogue chs. 10-30  https://www.newadvent.org/fathers/01282.htm
+  Dialogue chs. 31-47  https://www.newadvent.org/fathers/01283.htm
+  Dialogue chs. 109-124 https://www.newadvent.org/fathers/01288.htm
+  First Apology         https://www.newadvent.org/fathers/0126.htm
+  Index                 https://www.newadvent.org/fathers/0128.htm
+CAPTURE METHOD: text copied from the fetched pages; New Advent's hyperlink
+  markup on individual words has been removed and nothing else altered. The
+  square brackets and the speaker labels ("Justin:", "Trypho:") are New
+  Advent's / the ANF editors', not this project's. The chapter titles are the
+  ANF chapter headings as New Advent prints them. The scripture references in
+  square brackets after quotations (e.g. "[Malachi 1:10-12]") are New Advent's.
+CHAPTER SELECTION: the Malachi sites were located by searching the fetched text
+  of every one of New Advent's nine Dialogue pages for "rising of the sun",
+  "Malachi 1" and "incense". Results: 01281 (chs. 1-9) no hit; 01282 (chs.
+  10-30) hit ch. 22 ["rising of the sun" inside Psalm 49, not Malachi] and
+  ch. 28; 01283 (chs. 31-47) hit ch. 41; 01284 (chs. 48-54) no hit on Malachi
+  1 [ch. 49 cites Malachi 4:5, Elijah]; 01285 (chs. 55-68) no hit; 01286
+  (chs. 69-88) "incense" once only, at ch. 78, the Magi's gifts, no Malachi;
+  01287 (chs. 89-108) no hit; 01288 (chs. 109-124) hit chs. 116-117; 01289
+  (chs. 125-142) no hit. Westall, The Case for Incense (1899), p. 48
+  n. 2, citing Warren, Liturgy of the Ante-Nicene Church, p. 130, lists the
+  same sites: "Justin Martyr, Dialog. cum Tryphone, 28, 41, 116, 117".
+  1 Apology 10 and 13 were located by the same search on "material offering"
+  and "incense"; 1 Apology 37 (Isaiah 1 quoted, "if you bring fine flour,
+  incense, it is abomination unto Me") was also hit and is noted but not
+  captured, as it is a quotation of Isaiah and not Justin's own statement.
+
+======================================================================
+DIALOGUE WITH TRYPHO
+======================================================================
+
+----------------------------------------------------------------------
+Chapter 28. True righteousness is obtained by Christ
+  [only the Justin paragraph containing the Malachi quotation is captured;
+  the preceding Trypho paragraph is omitted]
+----------------------------------------------------------------------
+Justin: Since I bring from the Scriptures and the facts themselves both the proofs and the inculcation of them, do not delay or hesitate to put faith in me, although I am an uncircumcised man; so short a time is left you in which to become proselytes. If Christ's coming shall have anticipated you, in vain you will repent, in vain you will weep; for He will not hear you. 'Break up your fallow ground,' Jeremiah has cried to the people, 'and sow not among thorns. Circumcise yourselves to the Lord, and circumcise the foreskin of your heart.' [Jeremiah 4:3] Do not sow, therefore, among thorns, and in untilled ground, whence you can have no fruit. Know Christ; and behold the fallow ground, good, good and fat, is in your hearts. 'For, behold, the days come, says the Lord, that I will visit all them that are circumcised in their foreskins; Egypt, and Judah, and Edom, and the sons of Moab. For all the nations are uncircumcised, and all the house of Israel are uncircumcised in their hearts.' Do you see how that God does not mean this circumcision which is given for a sign? For it is of no use to the Egyptians, or the sons of Moab, or the sons of Edom. But though a man be a Scythian or a Persian, if he has the knowledge of God and of His Christ, and keeps the everlasting righteous decrees, he is circumcised with the good and useful circumcision, and is a friend of God, and God rejoices in his gifts and offerings. But I will lay before you, my friends, the very words of God, when He said to the people by Malachi, one of the twelve prophets, 'I have no pleasure in you, says the Lord; and I shall not accept your sacrifices at your hands: for from the rising of the sun unto its setting My name shall be glorified among the Gentiles; and in every place a sacrifice is offered unto My name, even a pure sacrifice: for My name is honoured among the Gentiles, says the Lord; but you profane it.' [Malachi 1:10, etc.] And by David He said, 'A people whom I have not known, served Me; at the hearing of the ear they obeyed Me.'
+
+----------------------------------------------------------------------
+Chapter 41. The oblation of fine flour was a figure of the Eucharist
+----------------------------------------------------------------------
+Justin: And the offering of fine flour, sirs, which was prescribed to be presented on behalf of those purified from leprosy, was a type of the bread of the Eucharist, the celebration of which our Lord Jesus Christ prescribed, in remembrance of the suffering which He endured on behalf of those who are purified in soul from all iniquity, in order that we may at the same time thank God for having created the world, with all things therein, for the sake of man, and for delivering us from the evil in which we were, and for utterly overthrowing principalities and powers by Him who suffered according to His will. Hence God speaks by the mouth of Malachi, one of the twelve [prophets], as I said before, about the sacrifices at that time presented by you: 'I have no pleasure in you, says the Lord; and I will not accept your sacrifices at your hands: for, from the rising of the sun unto the going down of the same, My name has been glorified among the Gentiles, and in every place incense is offered to My name, and a pure offering: for My name is great among the Gentiles, says the Lord: but you profane it.' [Malachi 1:10-12] [So] He then speaks of those Gentiles, namely us, who in every place offer sacrifices to Him, i.e., the bread of the Eucharist, and also the cup of the Eucharist, affirming both that we glorify His name, and that you profane [it]. The command of circumcision, again, bidding [them] always circumcise the children on the eighth day, was a type of the true circumcision, by which we are circumcised from deceit and iniquity through Him who rose from the dead on the first day after the Sabbath, [namely through] our Lord Jesus Christ. For the first day after the Sabbath, remaining the first of all the days, is called, however, the eighth, according to the number of all the days of the cycle, and [yet] remains the first.
+
+----------------------------------------------------------------------
+Chapter 116. It is shown how this prophecy suits the Christians
+----------------------------------------------------------------------
+Justin: But to give you the account of the revelation of the holy Jesus Christ, I take up again my discourse, and I assert that even that revelation was made for us who believe in Christ the High Priest, namely this crucified One; and though we lived in fornication and all kinds of filthy conversation, we have by the grace of our Jesus, according to His Father's will, stripped ourselves of all those filthy wickednesses with which we were imbued. And though the devil is ever at hand to resist us, and anxious to seduce all to himself, yet the Angel of God, i.e., the Power of God sent to us through Jesus Christ, rebukes him, and he departs from us. And we are just as if drawn out from the fire, when purified from our former sins, and [rescued] from the affliction and the fiery trial by which the devil and all his coadjutors try us; out of which Jesus the Son of God has promised again to deliver us, and invest us with prepared garments, if we do His commandments; and has undertaken to provide an eternal kingdom [for us]. For just as that Jesus (Joshua), called by the prophet a priest, evidently had on filthy garments because he is said to have taken a harlot for a wife, and is called a brand plucked out of the fire, because he had received remission of sins when the devil that resisted him was rebuked; even so we, who through the name of Jesus have believed as one man in God the Maker of all, have been stripped, through the name of His first-begotten Son, of the filthy garments, i.e., of our sins; and being vehemently inflamed by the word of His calling, we are the true high priestly race of God, as even God Himself bears witness, saying that in every place among the Gentiles sacrifices are presented to Him well-pleasing and pure. Now God receives sacrifices from no one, except through His priests.
+
+----------------------------------------------------------------------
+Chapter 117. Malachi's prophecy concerning the sacrifices of the Christians. It cannot be taken as referring to the prayers of Jews of the dispersion
+----------------------------------------------------------------------
+Justin: Accordingly, God, anticipating all the sacrifices which we offer through this name, and which Jesus the Christ enjoined us to offer, i.e., in the Eucharist of the bread and the cup, and which are presented by Christians in all places throughout the world, bears witness that they are well-pleasing to Him. But He utterly rejects those presented by you and by those priests of yours, saying, 'And I will not accept your sacrifices at your hands; for from the rising of the sun to its setting my name is glorified among the Gentiles (He says); but you profane it.' [Malachi 1:10-12] Yet even now, in your love of contention, you assert that God does not accept the sacrifices of those who dwelt then in Jerusalem, and were called Israelites; but says that He is pleased with the prayers of the individuals of that nation then dispersed, and calls their prayers sacrifices. Now, that prayers and giving of thanks, when offered by worthy men, are the only perfect and well-pleasing sacrifices to God, I also admit. For such alone Christians have undertaken to offer, and in the remembrance effected by their solid and liquid food, whereby the suffering of the Son of God which He endured is brought to mind, whose name the high priests of your nation and your teachers have caused to be profaned and blasphemed over all the earth. But these filthy garments, which have been put by you on all who have become Christians by the name of Jesus, God shows shall be taken away from us, when He shall raise all men from the dead, and appoint some to be incorruptible, immortal, and free from sorrow in the everlasting and imperishable kingdom; but shall send others away to the everlasting punishment of fire. But as to you and your teachers deceiving yourselves when you interpret what the Scripture says as referring to those of your nation then in dispersion, and maintain that their prayers and sacrifices offered in every place are pure and well-pleasing, learn that you are speaking falsely, and trying by all means to cheat yourselves: for, first of all, not even now does your nation extend from the rising to the setting of the sun, but there are nations among which none of your race ever dwelt. For there is not one single race of men, whether barbarians, or Greeks, or whatever they may be called, nomads, or vagrants, or herdsmen living in tents, among whom prayers and giving of thanks are not offered through the name of the crucified Jesus. And then, as the Scriptures show, at the time when Malachi wrote this, your dispersion over all the earth, which now exists, had not taken place.
+
+----------------------------------------------------------------------
+Chapter 118. He exhorts to repentance before Christ comes; in whom Christians, since they believe, are far more religious than Jews
+  [opening sentences only, captured for the "sacrifices of blood or
+  libations" clause]
+----------------------------------------------------------------------
+Justin: So that you ought rather to desist from the love of strife, and repent before the great day of judgment come, wherein all those of your tribes who have pierced this Christ shall mourn as I have shown has been declared by the Scriptures. And I have explained that the Lord swore, 'after the order of Melchizedek,' and what this prediction means; and the prophecy of Isaiah which says, 'His burial is taken away from the midst,' [Isaiah 53:8] I have already said, referred to the future burying and rising again of Christ; and I have frequently remarked that this very Christ is the Judge of all the living and the dead. And Nathan likewise, speaking to David about Him, thus continued: 'I will be His Father, and He shall be my Son; and my mercy shall I not take away from Him, as I did from them that went before Him; and I will establish Him in my house, and in His kingdom forever.' [2 Samuel 7:14]f. And Ezekiel says, 'There shall be no other prince in the house but He.' [Ezekiel 44:3] For He is the chosen Priest and eternal King, the Christ, inasmuch as He is the Son of God; and do not suppose that Isaiah or the other prophets speak of sacrifices of blood or libations being presented at the altar on His second advent, but of true and spiritual praises and giving of thanks.
+
+----------------------------------------------------------------------
+Chapter 22. So also were sacrifices and oblations
+  [closing sentences only; the chapter is a long catena of Amos, Jeremiah
+  and Psalm 49 and does not quote Malachi]
+----------------------------------------------------------------------
+Justin: [...] Accordingly He neither takes sacrifices from you nor commanded them at first to be offered because they are needful to Him, but because of your sins. For indeed the temple, which is called the temple in Jerusalem, He admitted to be His house or court, not as though He needed it, but in order that you, in this view of it, giving yourselves to Him, might not worship idols. And that this is so, Isaiah says: 'What house have you built Me? Says the Lord. Heaven is My throne, and earth is My footstool.' [Isaiah 66:1]
+
+======================================================================
+FIRST APOLOGY
+======================================================================
+
+----------------------------------------------------------------------
+Chapter 10. How God is to be served
+  [opening sentences]
+----------------------------------------------------------------------
+But we have received by tradition that God does not need the material offerings which men can give, seeing, indeed, that He Himself is the provider of all things. And we have been taught, and are convinced, and do believe, that He accepts those only who imitate the excellences which reside in Him, temperance, and justice, and philanthropy, and as many virtues as are peculiar to a God who is called by no proper name.
+
+----------------------------------------------------------------------
+Chapter 13. Christians serve God rationally
+----------------------------------------------------------------------
+What sober-minded man, then, will not acknowledge that we are not atheists, worshipping as we do the Maker of this universe, and declaring, as we have been taught, that He has no need of streams of blood and libations and incense; whom we praise to the utmost of our power by the exercise of prayer and thanksgiving for all things wherewith we are supplied, as we have been taught that the only honour that is worthy of Him is not to consume by fire what He has brought into being for our sustenance, but to use it for ourselves and those who need, and with gratitude to Him to offer thanks by invocations and hymns for our creation, and for all the means of health, and for the various qualities of the different kinds of things, and for the changes of the seasons; and to present before Him petitions for our existing again in incorruption through faith in Him. Our teacher of these things is Jesus Christ, who also was born for this purpose, and was crucified under Pontius Pilate, procurator of Judæa, in the times of Tiberius Cæsar; and that we reasonably worship Him, having learned that He is the Son of the true God Himself, and holding Him in the second place, and the prophetic Spirit in the third, we will prove. For they proclaim our madness to consist in this, that we give to a crucified man a place second to the unchangeable and eternal God, the Creator of all; for they do not discern the mystery that is herein, to which, as we make it plain to you, we pray you to give heed.

@@ -1,0 +1,35 @@
+CAPTURE HEADER — added by pass 260835-57, not part of the source.
+PURPOSE: to hold the one ante-Nicene passage located this pass in which a
+  Father quotes Malachi 1:10-11 WITH its incense clause and then glosses that
+  incense, so that Incense_Reply_Source_Checks.md §1 (second question) rests
+  on captured text. Captured in a published English translation, not this
+  project's own.
+TRANSLATION: Alexander Roberts and William Rambaut, Ante-Nicene Fathers,
+  Vol. 1, ed. Alexander Roberts, James Donaldson and A. Cleveland Coxe
+  (Buffalo, NY: Christian Literature Publishing Co., 1885), as revised and
+  edited for New Advent by Kevin Knight. New Advent's own source statement:
+  "Translated by Alexander Roberts and William Rambaut. From Ante-Nicene
+  Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A.
+  Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.)
+  Revised and edited for New Advent by Kevin Knight."
+SOURCE PAGE (fetched 2026-09-05): https://www.newadvent.org/fathers/0103417.htm
+  — Against Heresies, Book IV, Chapter 17. ANF chapter heading: "Proof that
+  God did not appoint the Levitical dispensation for His own sake, or as
+  requiring such service; for He does, in fact, need nothing from men."
+CAPTURE METHOD: sections 5 and 6 copied in full; New Advent's hyperlink markup
+  on individual words removed and nothing else altered. Square brackets are
+  the ANF translators'. Sections 1-4 (the catena of Samuel, Psalms, Isaiah,
+  Jeremiah, Zechariah, Hosea on God's non-need of sacrifice, including
+  Jeremiah 6:20 "To what purpose did you bring Me incense from Saba" and
+  Isaiah 43:23-24 "neither have you bought for Me incense with money") were
+  read but are not captured here.
+
+----------------------------------------------------------------------
+Against Heresies IV.17.5
+----------------------------------------------------------------------
+5. Again, giving directions to His disciples to offer to God the first-fruits of His own, created things — not as if He stood in need of them, but that they might be themselves neither unfruitful nor ungrateful — He took that created thing, bread, and gave thanks, and said, "This is My body." [Matthew 26:26, etc.] And the cup likewise, which is part of that creation to which we belong, He confessed to be His blood, and taught the new oblation of the new covenant; which the Church receiving from the apostles, offers to God throughout all the world, to Him who gives us as the means of subsistence the first-fruits of His own gifts in the New Testament, concerning which Malachi, among the twelve prophets, thus spoke beforehand: "I have no pleasure in you, says the Lord Omnipotent, and I will not accept sacrifice at your hands. For from the rising of the sun, unto the going down [of the same], My name is glorified among the Gentiles, and in every place incense is offered to My name, and a pure sacrifice; for great is My name among the Gentiles, says the Lord Omnipotent;" [Malachi 1:10-11] — indicating in the plainest manner, by these words, that the former people [the Jews] shall indeed cease to make offerings to God, but that in every place sacrifice shall be offered to Him, and that a pure one; and His name is glorified among the Gentiles.
+
+----------------------------------------------------------------------
+Against Heresies IV.17.6
+----------------------------------------------------------------------
+6. But what other name is there which is glorified among the Gentiles than that of our Lord, by whom the Father is glorified, and man also? And because it is [the name] of His own Son, who was made man by Him, He calls it His own. Just as a king, if he himself paints a likeness of his son, is right in calling this likeness his own, for both these reasons, because it is [the likeness] of his son, and because it is his own production; so also does the Father confess the name of Jesus Christ, which is throughout all the world glorified in the Church, to be His own, both because it is that of His Son, and because He who thus describes it gave Him for the salvation of men. Since, therefore, the name of the Son belongs to the Father, and since in the omnipotent God the Church makes offerings through Jesus Christ, He says well on both these grounds, "And in every place incense is offered to My name, and a pure sacrifice." Now John, in the Apocalypse, declares that the "incense" is "the prayers of the saints."

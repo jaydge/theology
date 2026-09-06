@@ -93,3 +93,26 @@ Item 1's second question ("has any patristic or later writer used Justin's readi
 Sequence as briefed: `git --no-optional-locks status --short` → stage and commit `passes/` ALONE → stop. The canonical file and the five captures are left in the working tree for JD's review and corpus commit.
 
 (Filled in below after the commit.)
+
+### Commit block (appended after the passes/ commit; this append is itself uncommitted — see below)
+
+```
+$ git --no-optional-locks status --short   (before)
+?? Incense_Reply_Source_Checks.md
+?? passes/260835-57_incense-reply-source-checks.diff
+?? passes/260835-57_incense-reply-source-checks_close-out.md
+?? src/SRC_PRIMARY_0155_Justin_Martyr_Malachi-1-11_Dialogue-28-41-116-117_1Apology-10-13_ANF1.txt
+?? src/SRC_PRIMARY_0180_Irenaeus_Against-Heresies_IV-17-5-6_Malachi-Incense-Prayers_ANF1.txt
+?? src/SRC_PRIMARY_1662_BCP_Of-Ceremonies-Why-Some-Be-Abolished_pdf-pp6-8.txt
+?? src/SRC_PRIMARY_1874_DeKoven_Canon-On-Ritual-Speech_ProjectCanterbury.txt
+?? src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt
+
+$ git --no-optional-locks log -1
+752087a JD Smith 2026-09-05
+260835-57: incense reply source checks — pass artifacts
+ passes/260835-57_incense-reply-source-checks.diff  | 463 +++++
+ ...835-57_incense-reply-source-checks_close-out.md |  95 +++++
+ 2 files changed, 558 insertions(+)
+```
+
+⚠️ **Sandbox git cannot unlink files it creates inside `.git/`.** The commit itself succeeded (HEAD `752087a`, `refs/heads/main` updated), but git reported `unable to unlink` for its temporary object files, and `.git/HEAD.lock` and `.git/index.lock` (both 0 bytes, 23:51) were left behind exactly as in the killed session. **Not removed by this pass, per instruction.** Also 17 zero-risk `.git/objects/*/tmp_obj_*` debris files from this and the previous session. JD to clear the two lock files before the corpus commit. Author identity was supplied per-command (`-c user.name/user.email` matching the repo's prior commits); the sandbox has no git identity configured and none was written.

@@ -1,0 +1,1340 @@
+CAPTURE HEADER — added by pass 260835-57, not part of the source.
+SOURCE: "The Canon on Ritual, and the Holy Eucharist; a Speech delivered in
+  the General Convention, October 26th, 1874, by the Rev. James De Koven,
+  D.D., Warden of Racine College. New York: T. Whittaker, 2 Bible House."
+  Transcription hosted by Project Canterbury at
+  https://anglicanhistory.org/dekoven/canon.html (page title: "Speech by the
+  Rev. James De Koven, October 26th, 1874.")
+CAPTURED: 2026-09-05, via web fetch, converted from HTML to text by the fetch
+  tool. The fetch tool's ">" blockquote markers and metadata lines have been
+  removed; the "---" rules, which correspond to section breaks in the Project
+  Canterbury page, are kept. Italics in the original are rendered *thus* by the
+  fetch tool and kept. Line breaks are the fetch tool's; paragraph breaks are
+  the source's. Nothing else altered; apparent typographical errors in the
+  transcription ("takeaway", "at the altar of without", "How we do it, the way
+  we do it, the ceremonies which we do it", "Represents", "The Catechism
+  says:" etc.) are left as found.
+CONTENTS: (1) the proposed Canon on Ritual as reported by the Committee on
+  Canons, 23 October 1874, as printed in the pamphlet; (2) De Koven's speech in
+  the House of Deputies, 26 October 1874; (3) "THE CANON AS FINALLY PASSED";
+  (4) De Koven's remarks of 31 October 1874 after presentation of the amended
+  Canon, with the pamphlet's own caveat that "A paragraph, in substance spoken
+  at a later time, has been inserted."
+SOURCE OF RECORD: this pamphlet is the source of record for the SPEECH text.
+  The Journal of the General Convention of 1874 (captured separately as
+  SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt)
+  is the source of record for the ENACTED canon and for motions, messages and
+  votes; it does not record debate.
+
+======================================================================
+
+Project Canterbury
+
+| THE CANON ON RITUAL,<br>AND THE<br>HOLY EUCHARIST;<br>A SPEECH DELIVERED IN THE GENERAL CONVENTION,     OCTOBER 26TH, 1874,<br>BY THE<br>REV. JAMES DE KOVEN, D.D.,   WARDEN OF RACINE COLLEGE.<br>NEW YORK:     T. WHITTAKER,     2 BIBLE HOUSE.<br> |
+
+---
+
+PROPOSED CANON ON RITUAL
+UNDER DISCUSSION IN THE HOUSE OF DEPUTIES, October 26th and 27th,
+1874.
+
+*Resolved*, The House of Bishops concurring, that the
+following additional section be added to Canon 20, Title I., *Of the Use of the Book of Common Prayer*.
+
+§ II. [i] If any Bishop have reason to believe, or if
+complaint be made to him in writing by two or more of his Presbyters,
+that ceremonies or practices during the celebration of the Holy
+Communion, not ordained or authorized in the Book of Common Prayer,
+and setting forth or symbolizing erroneous or doubtful doctrines,
+have been introduced into a parish within his jurisdiction, [and,
+as examples, the following are declared to be considered as such:
+
+a. The use of Incense.
+
+b. The placing, or carrying, or retaining a Crucifix in any
+part of the place of public worship.
+
+c. The Elevation of the Elements in the Holy Communion in
+such manner as to expose them to the view of people as objects
+towards which adoration is to be made.
+
+d. Any act of adoration of or towards the Elements in the
+Holy Communion, such as bowings, prostrations, genuflexions,
+and all such like acts not authorized or allowed by the Rubrics
+of the Book of Common Prayer,] it shall be the duty of such Bishop
+to summon the Standing Committee as his Council of Advice, and
+with them to investigate the matter.
+
+[2] If, after investigation, it shall appear to the Bishop
+and the Standing Committee that erroneous or doubtful doctrines
+have in fact been set forth or symbolized by ceremonies or practices
+not ordained or authorized as aforesaid, it shall be the duty
+of the Bishop, by instrument of writing under his hand, to admonish
+the Minister of the Parish to discontinue such practices or ceremonies;
+and if the Minister shall disregard such admonition, it shall
+be the duty of the Standing Committee to cause him to be tried
+for a breach of his ordination vow; *provided*, that nothing
+herein contained shall prevent the presentment, trial, and punishment
+of any Minister under the provisions of Section I. of Canon 2,
+of Title II., of the Digest.
+
+[3] In all investigations under the provisions of this Canon,
+the Minister whose acts or practices are the subject-matter of
+the investigation shall be notified, and have opportunity to
+be heard in his defence. The charges preferred and the findings
+of the Bishop and Standing Committee shall be in writing, and
+a record shall be kept of the proceedings in the case.
+
+By order of the Committee,
+
+WM. COOPER MEAD, *Chairman*.
+October 23, 1874.
+
+---
+
+The Convention resumed the consideration of the proposed Canon
+on Ritual, reported from the Committee on Canons.
+
+The PRESIDENT. Before Dr. De Koven commences his speech, I
+wish to inform the House that I cannot permit any interruption.
+I will call to order any person who rises to ask a question.
+If questions are to be asked, let it be done after the speaker
+has taken his seat or left the stand.
+
+The Rev. Dr. DE KOVEN, of Wisconsin. Mr. President and Gentlemen
+of the Convention—Before I begin, I hope you will allow me to
+express my thanks to this House for the kindness and courtesy
+which was shown to me a moment since, in allowing me to express
+myself on this occasion with such measure of time to do it as
+might be needed.
+
+First of all, I fully recognize the point that was made by
+the clerical delegate from Alabama, that this question is not
+to be considered as an isolated question. The Canon on Ritual
+comes up as one of four distinct measures that are brought before
+this House. The Clerical Deputy from Alabama mentioned three
+of those measures, but failed to mention the fourth of them.
+Those measures are, first, this Canon on Ritual; second, the
+appointment of a commission by ballot to take up the whole question
+of the Rubrics, and to report to the next General Convention,
+if desirable, a revision of the Rubrics; the third, is the whole
+matter of shortened services, a matter which I believe weighs
+very seriously upon the heart and the conscience and the mind
+of this Church; and the fourth, was a measure introduced either
+by the Committee on Constitutional Amendments or by the Committee
+on Canons—I think the latter—providing for certain freedom
+in the use of the baptismal service, permitting certain Rubrics
+to be made permissive instead of absolute, and also the use of
+the Collect for Easter Even instead of the thanksgiving in which
+the word "regenerate" occurs. I say, we cannot possibly
+consider this Canon on Ritual except we consider it as one of
+a group of measures, and so it is absolutely necessary that one's
+position on all those measures should be clearly defined.
+
+I say then first of all, with regard to the last of these
+measures, upon which the Clerical Deputy from Alabama said nothing,
+that I suppose it is hardly likely that this House can pass the
+proposed measure which was brought in by the Committee on Canons,
+and in the bringing in of which they reserved to themselves the
+right not to vote upon the measure which they brought in. I say,
+I suppose this House can scarcely pass it, because I believe
+it will be found on consideration that any such measure touches
+the doctrine of baptismal regeneration, and therefore there will
+be a large majority of this House who cannot assent to it. And
+yet while I say this, I am ready to acknowledge that I regard
+the motive of bringing in that resolution, or proposed Canon,
+or whatever it was, as being worthy of the most profound consideration
+of this General Convention. It is a fact that cannot be gainsaid
+that our Church has permitted to enter her orders, to serve at
+her sanctuary, to be her priests, men who do hold, and who have
+always held, and who held when they were ordained, not the doctrine
+of baptismal regeneration, which I myself hold and which I firmly
+believe to be, in some shape or other, the authorized doctrine
+of this Church, and which to deny is, I believe, to deny that
+article in the Nicene Creed which says, "I acknowledge one
+Baptism for the remission of sins:" but some negation of
+that doctrine. Now, here is my point. I say a Church which allows
+people to serve at her altars not holding a doctrine which may
+be said to be a doctrine of this Church, is cruel to them, if
+she perpetually requires them to say what they do not believe;
+and therefore, while it would be hard for me to accept, in deed
+I would oppose to the utmost of my power anything which should
+throw the slightest doubt upon the doctrine of baptismal regeneration,
+I for one should be prepared to refer to this Committee on the
+Revision of the Rubrics, provided such a commission should be
+appointed, the consideration of some means whereby the Bishop
+of the Diocese, or the ecclesiastical authority of the Diocese,
+should have the power to protect and to defend real and true
+conscientious scruples wherever they might be.
+
+I feel most happy, Mr. President, and gentlemen of the Convention,
+at the large-hearted and Christian-like statesmanship of the
+measure which proposes that a commission shall be selected by
+this House by ballot to consider the whole question of the revision
+of the Rubrics. It is evident to anybody who has studied the
+subject that the provisions of the Church in this country on
+the subject of our Ritual law are eminently vague and unsatisfactory.
+I know full well that there are legal gentlemen who have the
+power to trace, through I know not what dark sources, all sorts
+of laws that go back first to the Church of England and then
+to the earlier Church, and I bow with great reverence to all
+such legal acumen. I merely mean to say that, for a clear, definite
+system of law, the whole thing is so full of vagueness and indefiniteness that
+it does not come practically before the mind of this Church;
+and surely the time has come, or, if it has not come to-day,
+it is coming, when this Church of ours shall be prepared to say,
+not in the interest of any narrowness, not in the interest of
+bigotry or intolerance, but in the broadest-hearted way, what
+is the limit of Ritual on the one hand, and what on the other,
+giving scope for services which shall be free from all sorts
+of ceremonial, that men may go where they will, and use extempore
+prayers and preach the Word of God wherever it is needed; and
+permitting those, on the other hand, who love a high and holy
+service, to have all the glory and the beauty which belong to
+God's holy Catholic Church; and I say that a commission formed
+in this generous spirit will serve to protect this Church from
+perpetual accusations of licentiousness and lawlessness against
+those who would rather die than disobey one of her known laws.
+
+I come now to the Canon which is before us; and, first of
+all, I must explain precisely what I wish to effect with regard
+to it. If I could have my own way, I am free to say that I would
+much prefer that there should be no Canon passed whatsoever.
+At the same time, the main principle of this Canon I assent to
+as a measure for the time, until such time as the law of this
+Church on the subject of Ritual is laid down. That is to say,
+I feel, if matters are doubtful, it is infinitely better that
+the Bishop and the Standing Committee of the Diocese should have
+the power to regulate it, than that individual presbyters should
+have that power; and if any one says that such a principle will
+make a use for Wisconsin and a use for Ohio, which uses will
+differ, I have only to say that it is infinitely better to have
+a differing use in Wisconsin and a differing use in Ohio, than
+to have forty different uses in Wisconsin and forty different
+uses in Ohio. But I only accept this, let me say, as a measure
+for the time, to meet a difficulty, because our law is not clear,
+is not distinct, and until such time as it is clearly and definitely
+laid down. Consequently, while I am prepared to vote for the
+main principle of this Canon, there are some portions of it which
+I could not possibly vote for, and which it will be my object
+to show to this House that, if we do vote for, we shall make
+a mistake, a mistake that nobody here would like to fall into.
+
+In the first place—and this point I am not going to dwell
+upon—I do think that the forbidding of particular things like
+the use of incense, the placing or carrying or retaining a crucifix—I
+am not particular about these things; but the forbidding of any
+particular thing does interfere with that principle which has
+been laid down by the Deputy from Alabama, and which I believe
+to be a true principle. This Church cannot legislate upon her
+worship in any other way than by Rubric; this Church cannot legislate
+upon her doctrine in any way except by an Article of Religion;
+and if this House, or any other House, attempts to legislate
+upon Ritual or upon doctrine by indirection, there are many who
+will feel that it is unconstitutional; and this is my point:
+the forbidding of certain particulars does seem to interfere
+with that principle, for it may be just as much going against
+that principle to forbid certain things as it is to allow them.
+It is not positive action indeed, but it is negative; and thus
+by specifying certain things, as is done in this Canon, I think
+this great principle is interfered with.
+
+I come now to my second objection to the Canon, and that is
+to the clause which is to be found in the first section: "If
+any Bishop have reason to believe, or if complaint be made to
+him in writing by two or more of his Presbyters." The clause
+that I object to is, "or if complaint be made to him in
+writing by two or more of his Presbyters." It is quite right
+that the Bishop should govern his Diocese; it is quite right
+that his Standing Committee should be his council of advice;
+but I must say that I trust this House is not going to organize
+the Reverend Paul Pry into a canonical institution in the Protestant
+Episcopal Church in the United States of America. Are we to have
+two or more Presbyters—and, generally, the Presbyters who would
+go about on such business are not the most earnest and the most
+devout that can be found—for this melancholy purpose? I would
+not wish to be the Presbyter who should go and visit his brother's
+parish for the purpose of finding out just what he was doing,
+and measuring the angle at which he bowed, or the kind of devotion
+that he showed when he knelt on his knees in the church. I say
+that to organize two Presbyters to go and find out what other
+people are doing is simply to organize something which the gentlemanly
+heart of our Church will utterly and totally condemn. And here
+let me say that I recognized the importance of the question which
+was put by a Lay Deputy from Georgia to the Clerical Deputy from
+Alabama. He asked, "Why not laymen?" Certainly if we
+are to have Presbyters to do it, by all means, if laymen want
+it, give them the same privilege. But let me say that the Canon
+is wiser than the Clerical Deputy from Alabama showed that it
+was, because it does provide an honorable way for this thing.
+It says that the Bishop may call together his Standing Committee
+as a council of advice, and with them investigate the matter.
+He can send his clergy, the dignified clergy of his Diocese;
+he can send the laity, the lay representatives of his Diocese.
+They can go in an honorable, straightforward way. They can say,
+"We have come to investigate your practices, and we have
+come to see whether you are symbolizing wrong doctrines."
+They can do it in a canonical and proper manner; and let me say
+that I do not believe there is any clergyman in this Church who
+would not accept such a visitation, and be glad of it, and explain
+anything which might seem doubtful, or be supposed to symbolize
+erroneous doctrine.
+
+I am aware—and here I must say something which I hope I shall
+be excused for saying—(and I do not quite like to say this,
+because everybody knows that I am the only clerical Ritualist
+in this House, so that I may possibly seem to be defending myself)—there
+has been a sort of idea that Ritualists are very disingenuous,
+and I can hear down in the heart of some gentlemen who so believes,
+a thought something like this: "Well, if the Bishop sent
+his Presbyters and laity to examine into this matter, that cunning
+Ritualist then would not do the things, you know." [Laughter.]
+Well, Mr. President, all I have to say is, that if there is any
+Ritualist of this sort, I am inclined to think you will scarcely
+bind him by canonical regulations; for, if he can cheat in this
+way, he may perhaps find a way to cheat in another; but I am
+happy to say that I do not know any Ritualist who could possibly
+be guilty of such a wrong.
+
+And now I come to my third point, and that is to be found
+in the third line of this same section: "Ceremonies or practices
+during the celebration of the Holy Communion, not ordained or
+authorized in the Book of Common Prayer, and setting forth or
+symbolizing erroneous or doubtful doctrines." The word I
+want to object to is the word "doubtful." I was very
+much amused at the Clerical Deputy from Alabama, who read from
+the Prayer-Book what a Bishop was required to promise. He read
+that he was required to promise that he would drive away erroneous
+and strange doctrines. The Bishop is never required to drive
+away erroneous and *doubtful* doctrines. Permit me to say,
+gentlemen, that there are no such things as doubtful doctrines.
+Doctrine is either true or false. The Truth of God is true, and
+the lies of the devil are false. There can be no such things
+as doubtful doctrines. The term is used in its subjective sense.
+Objectively, all doctrines are true or false. Subjectively, you
+and I may doubt about them. My objection to it is, that it covers
+a field the extent of which we do not realize.
+
+One Presbyter may think a doctrine doubtful, and another Presbyter
+may not think it doubtful; one standing committee may think it
+doubtful, and another standing committee may not think it doubtful.
+Or, as our standing committees change every year, the standing
+committee of 1874 may decide it to be doubtful, and the standing
+committee of 1875 may decide it to be true; and perhaps that
+very thing may be the issue upon which the standing committee
+may be elected or defeated. Therefore let me say that the change
+of the old-fashioned words, "strange or erroneous doctrines"
+into "erroneous or doubtful doctrines," is simply to
+introduce into this Church the beginning of endless confusion.
+
+And now I come to the particular specifications. Let me say
+that I believe this Church has the right, if it does it in a
+lawful way, to regulate its ceremonies as it pleases; and if
+it chooses to forbid the use of incense, I have nothing to say.
+I am a Presbyter of this Church of twenty years' standing, and
+I am accused of Ritualism. Allow me to say that, though I have
+attended Ritualistic services in England and this country—and
+I am well aware that incense is and has been used—I never was
+in any church in connection with the Protestant Episcopal Church
+at a time when incense was used. I remember upon one occasion
+having a gentleman call to see me at my own chapel, and when
+he arrived in the chapel a very singular thing came over him.
+He commenced making a sort of snuffing as if he were smelling
+something; and finally he said to me, "My dear brother,
+is that incense that I smell?" [Laughter.] I was compelled
+to say to him that I never had used incense, and that I thought
+the smell was nothing but the smell of oakwood; and he was perfectly
+satisfied. [Laughter.]
+
+Now let it be noticed; and in order to get the force of my
+argument you will have to follow the Canon, and I believe the
+argument to be one which, if I can set it forth, will convince
+the House that at least that specification, "the use of
+incense," is an utter piece of nonsense. Let us see. It
+says, "Ceremonies, or practices during the celebration of
+the Holy Communion not ordained or authorized in the Book of
+Prayer, and setting forth or symbolizing erroneous or doubtful
+doctrines, have been introduced into a parish within his jurisdiction;
+and, as examples, the following are declared to be considered
+as such."
+
+That is, it does not simply forbid the use of incense—I wish
+that were all. What it does is to say that the use of incense
+symbolizes erroneous or doubtful doctrines, which is a dreadful
+thing to commit this House to. For this House to forbid the use
+of incense is a very proper thing, perhaps; but for this House
+to say that the use of incense symbolizes false doctrines, is
+for this House to put itself in utter and total opposition to
+the Holy Scriptures; for, remember, what does David say? "Let
+my prayer be set forth in Thy sight as the incense, and let the
+lifting up of my hands be an evening sacrifice." In other
+words, David says that the use of incense, to which that holy
+prophet and king was accustomed—having not lived in our own
+day—symbolized prayer; and will this church say—is it prepared
+to say,—that the use of incense, which symbolizes prayer, symbolizes
+false doctrine?
+
+Then again, I heard it read in St. Thomas' Church yesterday
+morning at the beginning of the services, "From the rising
+of the sun even unto the going down of the same, my name shall
+be great among the Gentiles, and in every place incense shall
+be offered unto my name, and a pure offering; for my name shall
+be great among the heathen, saith the Lord of Hosts." I
+am not going to enter into the question whether that was a prophecy
+of something that was literally to take place. Some people say
+it was, but I am afraid they are Ritualists. My only question
+is as to its symbolical meaning. The prophet Malachi holds that
+incense symbolizes the pure offering,—I suppose the Eucharistic
+offering; and for the sake of this argument I am willing for
+the moment to concede that that offering is nothing but an offering
+of prayer and thanksgiving; though I do not think so. Then we
+are to understand that incense, symbolizing the pure Eucharistic
+offering, symbolizes false doctrine! Or again—and this is something
+more awful—when Aaron stood between the dead and the living
+with the censer in his hands, and the smoke of the incense was
+wafted to heaven; the people were saved. What did he typify but
+that Eternal Son of God who alone stands between the dead and
+the living, and whose mediation for the souls of men forever
+ascends to the right hand of God? and what did the ascending
+incense symbolize but the atoning Sacrifice and the everlasting
+Mediation? And is this Church then, prepared to say that the
+eternal Mediation and the awful atoning Sacrifice are false doctrines?
+Or, when the priest on the great day of atonement went before
+the mercy-seat, and clouds of incense covered it, typifying the
+ceaseless intercession of the Son of God, is this Church prepared
+to say that such a use of incense symbolized false doctrines?
+But this Canon, if it be passed as it stands, makes it so!
+
+I pass over the second specification, although I must say
+that I do not think the iconoclasm goes quite far enough; for
+when, in St. Thomas' Church only yesterday morning, I witnessed
+the great statues of the Apostles standing all around, I am free
+to say that, had I not been as much of a Protestant as I am,
+as I bent and bowed, I might have been led into the Roman error
+of worshipping images or something of that kind. [Laughter.]
+I do not think that thing goes quite far enough. Cut out the
+crucifix from the stained windows, put it out of your prayer-books,
+forbid pictures as well as images, if it be necessary; but do
+not let us believe, in this day, that the mere looking at the
+image of the human nature of our Divine Redeemer, and exciting
+our emotions by his thorn-crowned brow and his bleeding head
+and pierced hands, can possibly be said to symbolize false doctrine!
+
+Now I pass over "the Elevation of the Elements in the
+Holy Communion in such manner as to expose them to the view of
+the people as objects towards which adoration is to be made,"
+only with one remark; for it will answer something that was said
+by the Clerical Deputy from Maryland, and that is this: that
+if this is to be decided to be a thing which symbolizes false
+doctrine, I am free to say that we shall pronounce against every
+other true portion of the Christian Church that has ever been
+since the beginning of time. No one can read the ancient Liturgies
+without finding just this: "When the consecration is over,
+before priest or people have received, and the priest comes forward
+holding the holy things in his hands, turning towards the people
+he says, 'Holy things for holy persons,' and the people answer,
+'To Thee, O Lord,' and burst forth into a hymn of adoration and
+of praise to the present Saviour." I say that after the
+consecration is over, according to the Liturgy of St. Mark, which
+writers on this subject date back to about the year 200, the
+priest comes forward with the holy things in his hands, and actually
+turns to the people and says, "Bow the knee to Jesus,"
+and the people answer, "To Thee, O Lord." Again, I
+say, that in the Liturgy which the most careful Anglican writers
+declare to be that Liturgy that most Represents the mind of the
+Apostles, the Clementine Liturgy, when the priest comes forward
+and says, "Holy things for holy people," the people
+break forth into this hymn, "There is one Holy, one Lord
+Jesus Christ . . . . Glory to God in the Highest, and
+on earth peace and good-will toward men; Hosanna to the son of
+David; blessed is he that cometh in the name of the Lord; God
+is the Lord, and He hath appeared unto us. Hosanna in the highest."
+And let me call the attention of the Lay and Clerical Deputies
+from New Jersey to the fact that I am told that in the Diocese
+of New Jersey the bishop, when he consecrates, when he comes
+to that part of the service where he breaks the bread, turns
+around to the people, and breaks it in presence of the people;
+and again, in the apsidal chancel, when the priest stands behind
+the altar facing the people, he does exactly that self-same thing:
+and shall we say that this symbolizes false doctrine? Now I come
+to another point: "Any act of adoration of or toward the
+Elements in the Holy Communion, such as bowings, prostrations,
+genuflexions, and all such like acts, not authorized or allowed
+by the Rubrics of the Book of Common Prayer." I am exceedingly
+pleased to find that this Canon makes a distinction which the
+public mind has not made before this session. I was delighted
+to hear the Clerical Deputy from Massachusetts (Rev. Dr. Huntington),
+who is always clear in whatsoever he says, state very carefully
+and distinctly the difference between outward adoration and inward
+adoration, between external acts of adoration and internal acts
+of love and honor. The distinction is a vital one. It is one
+which it behooves this Church carefully to remember, for I am
+free to say one thing which, believe it, I say with the deepest
+humility; and yet I know when I say it there are a thousand hearts
+that will respond to me. You may take away from us, if you will,
+every external ceremony; you may take away altars, and super-altars,
+and lights, and incense, and vestments; you may take away, if
+you will, the eastward position; you may takeaway every possible
+ceremony; and you may command us to celebrate at the altar of
+without any external symbolism whatsoever; you may give us the
+most barren of all observances, and we will submit to you. If
+this Church commands us to have no ceremonies, we will obey.
+But, gentlemen, the very moment any one says we shall not adore
+our Lord present in the Eucharist, then from a thousand hearts
+will come the answer, as of those bidden to go into exile, "Let
+me die in my own country and be buried by the grave of my father
+and my mother!" to adore Christ's person in His Sacrament,
+is the inalienable privilege of every Christian and Catholic
+heart How we do it, the way we do it, the ceremonies which we
+do it, are utterly, utterly indifferent; the thing itself is
+what we plead for, and I know I should not plead to unkind or
+unfeeling hearts. I remember those words of the great Christian
+poet:
+
+"No distance breaks the tie of blood;
+Brothers are brothers evermore;
+Nor wrong nor wrath of deadliest mood
+That magic may o'erpower.
+Oft ere the common source be known
+The kindred drops will claim their own,
+And throbbing pulses silently
+Move heart toward heart by sympathy.
+
+"So is it with true Christian hearts;
+Their mutual share in Jesus' blood
+An everlasting bond imparts
+Of holiest brotherhood.
+O might we all our lineage prove,
+Give and forgive, do good and love,
+By soft endearments in kind strife,
+Light'ning the load of daily life.
+
+"There is much need, for not as yet
+Are we in safety or repose;
+The holy house is still beset
+By leaguer of stern foes:
+Wild thoughts within, bad men without,
+All evil spirits round about
+Are banded in unblest device
+To spoil love's earthly paradise.
+
+"Then draw we nearer, day by day,
+Each to his brethren—all to God.
+Let the world use us as she may,
+We may not lose our road;—
+Not wondering, though in grief to find
+The martyr's foe still keep her mind;
+But fixed to hold love's banner fast,
+And, by submission, win at last."
+
+And yet I am thankful to say that this clause, marked "*d*"
+instead of forbidding Eucharistic adoration, is the most definite
+assertion of it that ever has been adopted in our Church since
+the time of the Reformation, and I mean to prove that fact. I
+do not know, of course, whether there was any Ritualist amongst
+the great Committee of Thirteen. I do not know how this came
+to pass. I do not know whether it befell them, as it does sometimes
+befall men, that they builded other than they intended. But I
+do not hesitate to say that this clause is the greatest assertion
+of Eucharistic adoration that has ever been made since the time
+of the Reformation. Now let me prove it.
+
+You will please look at the words, "any act of adoration
+of or towards the Elements in the Holy Communion, such as bowings,
+prostrations, genuflexions, and all such-like acts *not authorized
+or allowed by the Rubrics of the Book of Common Prayer*."
+In other words, if there is any such act allowed by the Rubrics
+of the Book of Common Prayer, then that is an act of adoration
+of or towards the Elements. Now, if I can prove that there is
+such an act allowed by the Rubrics of the Book of Common Prayer,
+and that, historically, this Church has a very peculiar relation
+to this act, then I think I shall have proved my point. Now,
+in the Book of Common Prayer there is but one Rubrical direction
+of this sort. It is all I want. We are *directed* to kneel,
+and I do not want any other posture whatsoever to express my
+feelings of adoration to Christ. We are directed to kneel I say.
+Everybody knows that. It does not need to be proved by looking
+into the Prayer-Book. Now, the question as to kneeling in the
+Eucharist has historically been a very vexed one in the Anglican
+Church. No sooner was the first book of Edward VI. set forth
+than the King and his Council surreptitiously put into it, without
+the consent of the Convocation, an explanation of the kneeling;
+and the explanation showed what they thought the kneeling might
+mean, inasmuch as they declared that this kneeling is not meant
+to express any adoration of " any real or essential presence
+there being of Christ's natural flesh and blood." But no
+sooner did Bloody Mary come in than she abolished it, and when
+Queen Elizabeth ascended the throne she did not revive it, for
+the Prayer-Book of Elizabeth has not that declaration in it.
+When King James the First came to the throne, his Prayer-Book
+did not have it either, and it was not until the time of Charles
+II. that the question came up, and then it came up in this way.
+Those people who were not willing to consent to the Act of Uniformity,
+sent in to the Savoy Conference, at the beginning of the reign
+of Charles II., a series of objections to things in the Prayer-Book,
+and one of those objections was to kneeling in the Holy Communion,
+and then the divines of King Charles' time, who were shrewdly
+suspected of being very High Church indeed, quite inclined towards
+the Laudian school, while they inserted the declaration as to
+kneeling, did it with a significant alteration. That alteration
+was, that no adoration is due to any "corporal presence
+of Christ's natural flesh and blood." They changed the words
+"real or essential presence," to the words "any
+corporal presence of Christ's natural flesh and blood;"
+and ever since, around that declaration of kneeling there has
+been a contest in the Church of England. There was a contest
+only the other day, and the judgment of the Privy Council, in
+the Bennett case, which I have here, declares expressly—though
+the Privy Council, everybody knows, is tolerant of everything
+excepting the faith—that the declaration of kneeling cannot
+be so construed as to deny the right to adore Christ present
+in the elements;—that it permits both ideas.
+
+Now I come to my argument. Strangely enough, when the American
+Book of Common Prayer was adopted, the declaration of kneeling
+was left out. It is not to be found in our Book of Common Prayer,
+and I think I know the reason why. It pleased God to give to
+Bishop White an utter abhorrence of all Calvinism, and he knew-that
+that Rubric could be interpreted in a Calvinistic direction;
+and, though you cannot find any allusion to its omission in the
+records of the time, somehow or other it slipped out, and I suppose
+it slipped out precisely as a single word in the Catechism has
+slipped out. The Catechism says: "The Holy Ghost, who sanctifieth
+me and all the elect people of God." That is the way it
+reads in the English Prayer-Book; but in our Prayer-Book it is
+"The Holy Ghost who sanctifieth me and all the people of
+God." The word "elect" was left out under a mistake,
+no doubt, but under that dreadful terror of possible Calvinism
+which so affected the excellent first Bishop of Pennsylvania.
+
+It will be justly said that this clause of the Canon is a
+contribution in the same direction, and when it impliedly asserts
+that there are certain acts of adoration which are authorized
+and allowed by the Rubrics of the Book of Common Prayer, and
+people remember that kneeling is allowed, it will not take twenty-five
+years before this clause of the Canon will wheel into line, and
+will be an argument in favor of Eucharistic Adoration in the
+books of that, day, of the very strongest character. And let
+me say that, if our debates go down to posterity, as I trust
+they may, the fact that I have pointed this out to this House,
+being duly recorded and duly read, will add a point and pungency
+to the fact, if you pass it without disproving what I have thus
+definitely pointed out.
+
+These are my objections to the Canon, and I intend to propose
+an amendment to it. I would not for the world bring it before
+this House without having first submitted it to the Committee
+on Canons. They tell us that like the Greeks of old they have
+burned their ships, and mean to stand or fall by this Canon;
+and woe betide me if I attempt to pass anything through this
+House with the great Committee against me, and so I will not
+propose it to this House; I will only propose that it be referred
+for their consideration to the Committee on Canons. Now let me
+read it; and I believe, although I have argued with a great deal
+of earnestness, that what I have to say is really in the interest
+of truth, and peace, and kindness, and love, and the settlement
+of difficulties.
+
+"If any Bishop shall have reason to believe that ceremonies
+or practices, during the celebration of the Holy Communion, not
+ordained or authorized in the Book of Common Prayer, and setting
+forth or symbolizing doctrines not in accordance with those of
+this Church, have been introduced into a parish within his jurisdiction,
+it shall be the duty of such Bishop to summon the Standing Committee
+as his council of advice, and with them to investigate the matter;
+and if, after investigation, it shall appear to the Bishop and
+Standing Committee that doctrines not in accordance with those
+of this Church have in fact been set forth or symbolized by ceremonies
+or practices," etc. The rest of the Canon is just the same.
+
+The amendment merely leaves out these specifications; it leaves
+out the word "doubtful" in connection with "doctrines;"
+it leaves out the two prying Presbyters, and keeps the Bishop
+and Standing Committee to their duty; and if they do it, I am
+free to say that all over this country there will be a tolerable
+freedom from rites, and ceremonies, and practices which offend
+the mind of this Church. That is my proposition. I say, I consider
+it in the interest of truth and peace; and if such a proposition
+is brought forward, I myself will vote for it. I understand that
+a lay deputy from Maryland has a Canon drawn up that he wishes
+to bring forward, and if at this moment it would be of any service
+to him to bring it forward, to be referred at the same time to
+the Committee on Canons, it will give me great pleasure to yield
+the floor to him for that purpose, if it be not taken out of
+my allotment of time.
+
+At the end of my speech, therefore, I propose to offer my
+amendment, and also this substitute which is proposed; but if
+the Committee on Canons desire it, I will simply propose that
+they be referred; or if they tell me I shall not be doing discourtesy
+to the Committee, I will venture to propose them immediately
+to this House; for I do not venture to interfere with what I
+think is a rightful thing,—that a committee constituted like
+that which has had this subject before it, and has reported to
+us a Canon, which I am ready to acknowledge is very moderate,
+and which, no doubt, has been the result of a good deal of consideration
+and of a certain amount of compromise, should have at least the
+opportunity of fully considering the proposed amendment.
+
+Now I come to something which is perhaps more important than
+anything I have said already, and yet which I feel constrained
+to say. I listened with a certain amount of astonishment to an
+assertion which was made in a different way by two persons in
+this House, during the course of our debates. A gentleman said
+here that a certain person did not believe in Eucharistic Adoration.
+Another gentleman said that Eucharistic Adoration was a doctrine
+tolerated in our Church. And there are a great many people who
+evidently believe that Eucharistic Adoration is a thing that
+is not only not allowed, but is very wicked and very sinful.
+Now, I have only to say that, while I have no question that the
+gentlemen who use this language have in their own minds a clear
+and determinate sense in which they use it, yet to say that one
+does not believe in Eucharistic Adoration, or to say that Eucharistic
+Adoration is a tolerated doctrine, is to say a thing which to
+the theological mind is simply and totally unintelligible; for—and
+here I am going to take a bold flight of ambition—if there be
+one man in this House whom I admire for his logic, for his clearness,
+for his wonderful power of management, it is a Clerical Deputy
+from Virginia (Rev. Dr. Andrews), whose voice has scarcely been
+heard during this Convention. I always tremble when he speaks.
+Now let me say that in my poor, humble way I desire to follow
+him; and when I read, in a very clever and able article, that
+he had found out no less than seven ways in which the doctrine
+of baptismal regeneration might be held in our Church, I tried
+to think in how many ways the doctrine of Eucharistic Adoration
+might be held somewhere. But, even after long effort, I have
+only been able to discover six. So I am just one behind him,
+and I am glad in this respect that Wisconsin is not quite "so
+advanced" as Virginia. [Great laughter.]
+
+The PRESIDENT. If there is any attempt at applause the galleries
+will have to be cleared.
+
+The Rev. Dr. DE KOVEN, of Wisconsin. The first sense in which
+Eucharistic Adoration may be held to be affirmed, or denied,
+or tolerated, is that to which I have already alluded, namely,
+that acts of adoration paid towards or to the elements make up
+Eucharistic adoration; and yet it is quite possible that a man
+may go through all sorts of genuflexions and prostrations, and
+never adore Christ in the Eucharist at all. The Clerical Deputy
+from Maryland (Rev. Dr. Leeds) told us that in the Eastern Church,
+at the Greater Entrance, when the elements unconsecrated are
+brought forth, the people prostrate themselves before those unconsecrated
+elements, in token of their belief in the coming down of the
+Son of God into this world; and so it is possible that, for far
+less reason than the adoring of Christ in the Eucharist, for
+the sake of all sorts of things, a man may go through with external
+acts of adoration. But I have said sufficient about that. The
+distinction, I trust, is impressed on the mind of this House.
+
+The second is (and I have heard people say it in this House)
+that it is wrong to adore the Sacrament. The word "sacrament,"
+as everybody knows, is an ambiguous term, and may mean either
+the outward elements, or that union of the outward and inward
+which makes up the Sacrament; or, again, the whole sacramental
+rite. I suppose when they say this they mean the outward part
+of the Sacrament. It is quite possible that in Mexico and the
+States of South America, and possibly in Southern Europe, where
+the Host is carried about the streets—a practice which I believe
+to be a terrible evil—it is possible that the ignorant may adore
+the outward elements; but I never heard or knew of anybody in
+our Church or in the Church of England who held to any such erroneous
+or false doctrine.
+
+There is a third sense in which a man may hold Eucharistic
+Adoration. He may believe that after consecration the substance
+of Christ's Body and Blood has taken the place of the substance
+of the bread and wine, and that nothing but the accidents of
+the bread and wine remain. In other words, he may hold the doctrine
+of the Council of Trent on the subject of transubstantiation,
+and, when he falls down before the consecrated elements, he may
+be adoring, not the substance of the bread and wine, but the
+substance of Christ's Body and Blood hidden under these veils,
+and believing in transubstantiation, may adore Christ present
+in His substance; and this the Roman Church does. Let me say
+that I do not know of any one in our Church who holds to Eucharistic
+Adoration in this sense; and when I heard a lay deputy from Kentucky,
+in a very able and interesting speech, say that he only wished
+that somebody, whose name shall not be mentioned, would come
+out and say, "I abhor and detest the Roman doctrine of transubstantiation,"
+I feel certain that any well-trained Churchman could do as he
+desired.
+
+And now I come to the fourth view of Eucharistic Adoration,
+and that is, that a man may hold that Christ's Body and Blood,
+and so Christ's human nature, and so Christ Himself, is in sacramental
+union with the bread and wine after consecration, not by transubstantiation,
+not by impanation, not by consubstantiation, not by a view which
+is largely held in our Church, and which is known as identity
+of substance: but in sacramental union with the holy elements,
+and so, not adoring the external elements, may yet pay his reverent
+homage to the Son of God, whom he believes to be present in His
+own Sacrament. Or again, a man may hold in our Church, and if
+he does so he can claim very venerable authority for it,—and
+I am free to say that the difference between this view and the
+other is rather a difference of words than of things—he may
+hold that Christ our Lord is personally present by His Divine
+Person in the Holy Eucharist. He may hold that Christ's human
+nature is present there, first by way of conjunction, secondly
+by way of cooperation, and thirdly by way of force and efficacy;
+and holding that Christ in His Divine Person is there, and there
+to give us His own Body and Blood, though that body and blood
+be not in the mind of this person connected with the elements,
+he too may adore Christ present in the Eucharist.
+
+Or again, he may hold something which I believe the conscience
+of this Church will utterly and totally give up, but which nevertheless
+is held in our Church, and that is, that Christ our Lord is to
+be adored and only adored at the right hand of His Father in
+heaven; and holding that, he may believe that the Eucharist is
+the very special opportunity for paying his express adoration
+to Christ, though absent in heaven; and he too may adore
+Christ by means of the Eucharist, though he may adore Him as
+only at the right hand of His Father.
+
+And so I assert that there are no less than six ways in which
+a man can believe in Eucharistic adoration—two of them which
+are not held in our Church at all, one of them which no logical
+mind can possibly hold, and the other three of which, I firmly
+believe, include in some one of their forms ninety-nine one-hundredths
+of the churchmen of the Protestant Episcopal Church in the United
+States of America; and therefore I assert that when a man says
+he does not believe in Eucharistic adoration, or asserts that
+it is tolerated or not tolerated, without further explanation,
+he says something that is totally unintelligible. And this leads
+me to a thought which is of the gravest possible description.
+Our Church in this country was planted in the darkest days of
+the Church of England. It brought over here every narrow feeling,
+every insulated policy, every miserable convenience, that resulted
+from the connection of the Church and State; and for one hundred
+and seventy-seven years our Church was left without a Confirmation,
+without an Ordination, without a Bishop, for all these evils
+to crystallize around her. And when it pleased God to give us
+Bishops, what for seventy years has been the life of the American
+Church? She has been struggling for her own; she has been grasping
+at the truth of God; she has been seeking for that which was
+her heritage from the ages; she has been striving to obtain in
+all its fullness that which came down to her from her fathers.
+When I was a boy, the doctrine of baptismal regeneration was
+a doubtful doctrine—so very doubtful that a man scarcely dared
+to say that he held it, and I have lived to see petitions presented
+to this House desiring the alteration of the Prayer-Book because
+it so distinctly asserts the doctrine of baptismal regeneration.
+Now let me say, about the doctrine of the Eucharist, there is
+precisely this, that we have not arrived at a full and clear
+determination about it. Better a thousand times, my brethren,
+that rash and incautious expressions should be used, better that
+things should be said that the great heart of this Church may
+possibly condemn, than that we should hastily formulate this
+doctrine. Let me illustrate: I know there is an illustration
+which presents itself to your own minds, and which it is quite
+impossible for me to assent to after the adjectives with which
+I have qualified it." Nor do I mean to apply those adjectives
+to this that I shall say, Within the past three years I have
+read a charge from a Bishop of this Church, honored, venerated,
+one of the noblest and best of our most aged Bishops, advocating
+something which he called in terms Zwinglianism. I have read
+also a pamphlet of a Clerical Deputy from Virginia, advocating
+the same thing. I do not mean to say that it was Zwinglianism.
+It did not seem to be as bad as Zwinglianism; but, nevertheless,
+it was a clear and definite expression of what anybody would
+say was a very low Church view of this subject, and I have never
+heard a single word said against it. I have never read an article
+in any newspaper against it. I have never heard that it was going
+to make a crisis in the Church. I never heard that the man who
+held it was not to be elevated to the Episcopate. I have seen
+that it had free scope and fair play, and for my part I would
+give it free scope and fair play too. Let this Church on this
+doctrine preserve its equanimity. Let it study. Let it read.
+Let it pray. Let it think. Let men who have the grace and the
+gift of understanding pour forth their contributions; and if
+there are things that ought not to be said, we may be sure that
+free thought, free play, free consideration, and full consideration,
+never harmed the Church in any way; for, mark you, it is a philosophical
+truth, which no man can read ecclesiastical history without understanding,
+that no doctrine, though it be formulated never so often, becomes
+the doctrine of any Church until that doctrine receives the moral
+unanimity of its members; and if any one here should be tempted
+either by Rubric or by Article to attempt to take away from the
+doctrine of this Church on the Eucharist, it would only be endeavoring
+to do something which in time to come this Church will rise as
+one man, clerical and lay, and sweep away.
+
+And now, Mr. President, I want to say one word—
+
+THE PRESIDENT. It will be necessary to ask for an extension
+of your time.
+
+The Rev. Dr. DALZELL, of Louisiana. I move that full time
+be given to the Clerical Deputy from Wisconsin.
+
+The motion was agreed to unanimously.
+
+The Rev. Dr. DE KOVEN, of Wisconsin. It will be remembered
+in this House that, in the last General Convention, under peculiar
+circumstances, I stated a phrase which I hardly need to repeat
+because it has so often been rung in my ears and in the ears
+of others, "that I myself adore, and would, if it were
+necessary or my duty, teach my people to adore, Christ present
+in the elements under the form of bread and wine." I then
+expressed what was my conviction on this subject, but I did not
+express it merely because it was my conviction. The object which
+I had in expressing it was something which has clearly and evidently
+been lost sight of. Woe be to that man, I say, who in this age
+of ours attempts to force down the throats of Churchmen any particular
+formula upon a given doctrine! The doctrine is eternal; the words
+in which we express it may change and alter. I only used those
+words, not because they were my conviction, though they were
+so, but because they were words which a court of law—the second
+to the highest in England—had adjudicated, and decided that
+they were words which could be used in the Church of England,
+and that the man who did use them was not thereby liable to penal
+prosecution. This was simply my motive in doing it—to express
+what a court of law had decided a man might say in our Church,
+in opposition to the very extreme views which had been expressed
+on the other side. Now, I am quite conscious that in that phrase—for
+no one could have gone through the series of controversies in
+which I have been involved without having considered it most
+carefully—there are two expressions which seem to convey to
+the mind something which I did not mean to convey, and therefore
+many people have said that I hold a view which I do not hold,
+and have attributed to me doctrines which I do not believe in.
+
+I take up, first of all, the words, "under the form of
+bread and wine." Let me ask if there are not members in
+this House who have held that when a man says he believes in
+the presence of Christ in the elements under the form of bread
+and wine, he really means that the form of bread and wine remains,
+while the substance is gone and another substance has taken its
+place, In other words, I believe there are those in this House
+who think that the words, "under the form of bread and
+wine," definitely teach the doctrine of transubstantiation,
+and I am compelled to admit that they have been used to express,
+at some time in history, the doctrine of transubstantiation.
+I am also able to say that the words have been used over and
+over again in the Church of England to express, not the doctrine
+of transubstantiation, but the doctrine of the real spiritual
+presence of Christ our Lord in sacramental union with the consecrated
+elements. Those words are to be found in an advertisement annexed
+to the first Book of Homilies. It says, "Hereafter shall
+follow sermons of the Nativity, Passion, Resurrection, and Ascension
+of our Saviour Christ, of the due receiving of his blessed Body
+and Blood under the form of bread and wine." I know people
+have said that that title has no authority. I know that they
+made the statement that it was introduced by that extraordinary
+person, the King's printer. I know that they also correctly add
+that when the second Book of Homilies appeared, the homily upon
+the Lord's Supper did not bear that title; and yet the fact is
+that the Book of Homilies has been twice revised since this statement
+was put in, and it has never been altered, and is to this day
+to be found in the advertisement annexed to the first Book of
+Homilies of the Church of England. I also must say that the words
+themselves were familiar to our Reformers because they had been
+used by Bertram, or Ratramn, in his treatise on the Lord's Supper,
+not in the sense of transubstantiation, but in the sense of the
+Real Presence. The words occur in a formal prayer set out by
+Queen Elizabeth after the Reformation, though they were afterwards
+dropped from that form in the year 1566. The words are to be
+found in varying senses in books like "Nicholson on the
+Catechism," "Sherlock's Practical Christian,"
+"Sutton's Godly Meditations upon the most holy Supper of
+the Lord"; and in our day they have been used by very many
+writers. In the famous argument, and an argument of unequalled
+power and eloquence,—though it was on the wrong side, and though
+rumor says it converted the man who made it to the right side,—I say, that in the argument of Mr. Stephens before the Judicial
+Committee of the Privy Council, he distinctly asserted that the
+words "under the form of bread and wine" may be used
+to express the Real Presence of Christ in the elements, and that
+they did not necessarily mean or imply the doctrine of transubstantiation.
+But what shall be said of the phrase "in the elements?"
+It is true that the Bennett formula, as it is sometimes called,
+did not use the words "in the elements." It used the
+words "in the Sacrament." So I was accused of having
+corrupted and perverted the Bennett judgment in order to express
+something more strongly than he did. I took the opportunity of
+writing a letter to a gentleman who holds a distinguished position
+in the Church of England, Mr. Walter Phillimore, the son of Sir
+Robert Phillimore, the judge who pronounced the judgment; and
+he wrote back to me that I had quoted it exactly; and while it
+was true that the words "in the Sacrament" were the
+words of Mr. Bennett, for the purposes of legal decision in this
+case, the words "in the elements" and the words "in
+the Sacrament" were exactly identical.
+
+And now, because I said "I believe in the Presence in
+the elements," people held that I must believe in a local,
+physical, carnal Presence in the elements. Let me say that it
+is impossible for me to say in what sense I hold to a presence
+in the elements. Where Christ has not defined, I do not define.
+Where the Church has not defined, I do not define. I merely say
+negatively, as the Church has said that it is not by transubstantiation;
+that it is not by impanation; that it is not by identity of substance;
+and if you ask me how it is, I answer, I know of but one word
+to express it, and that word expresses it without defining it,
+and that word is the consecrated word "Sacramental."
+I hold that Christ is in sacramental union with the consecrated
+elements, and that presence is called "real," to show
+that it is not a mere figurative or virtual presence, and the
+presence is called "spiritual," to show that it is
+not a physical or carnal or corporal presence. Having made these
+negative definitions, I declare that I hold that Christ has ascended
+into the heavens, and is set down on the right hand of the Throne
+of God. I hold that around Him are the Angels and the Powers
+and the Principalities, the Cherubim and Seraphim, and that the
+hymn of praise to the Eternal King ever ascends; and I also hold
+that He is present in the elements by this way of sacramental
+union; and how both are true I cannot tell. I believe the one,
+and I believe the other: just as I believe in God's predestination
+and in man's free will, and am neither a Calvinist nor an Arminian,
+because I accept both sides of the truth. I hold that Christ
+is there [pointing to the sky]; I hold that He is here; I hold
+that He is there locally; I hold that He is here spiritually.
+
+Mr. President and gentlemen, I have a great deal more to say,
+but I had no idea that I could be so verbose; and now you must
+be tired to death. ["Go on! go on!"] Mr. President,
+I want to read something, and I want to say beforehand that it
+is not my own, so that nobody need quote it against me. [Laughter.]
+These words are (they are in the form of prayer):
+
+"How Thou art in heaven and art present on the Altar,
+I can by no means explain; but I firmly believe it all, because
+Thou hast said it; and I firmly rely on Thy love and Thy omnipotence
+to make good Thy word: but the manner of doing it I cannot comprehend."
+
+And those are the words of the saintly Bishop Ken, who wrote
+the Morning and the Evening Hymns which, for nearly two centuries,
+have tuned the morning prayers and the evening supplications
+of the children of our branch of God's Holy Church.
+
+Mr. President, I am anxious to read one other extract, and
+I especially read it for the benefit of my brethren from Connecticut.
+I myself belong to Connecticut. I was born there, and trained
+there, and the man who wrote this was the man who catechised
+me in my boyhood upon the faith of the Church. I love Connecticut,
+with its hills and its vales and its blue river, and more than
+these do I love its grand old names and its noble history, and
+I trust that the day is far distant I know the day is far distant,
+when Connecticut Churchmanship shall become the synonym for intolerance
+or narrowness, or any sort of unchristianlike statesmanship.
+The words that I am about to read are the words of Dr. Samuel
+Farmar Jarvis, one of the most honored Presbyters of this Church,
+the son of Bishop Jarvis, who began that apostolical succession
+of historiographers of the Church, which, after resting for awhile
+upon Dr. Hawks, now in its full glory has fallen upon our distinguished
+Secretary;—I say the words are the words of the Rev. Dr. Samuel Farmar Jarvis, the first historiographer of this Church. They
+are to be found in a sermon on "Christian Unity necessary
+for the Conversion of the World," a sermon preached before
+the Bishops, clergy, and laity of the Board of Missions of the
+Protestant Episcopal Church in the year 1836. When the Rev. Doctor
+preached this sermon, the Bishops and clergy were so delighted
+with it that they invited him to publish it with notes, which
+accordingly he did in the year 1837, and so for some thirty-seven
+years this sermon has been before the Church and belongs to the
+Diocese of Connecticut. I want to read what this great divine
+says. After preaching as he had a good right to do, and as he
+ought to have done, against the errors of Rome, he puts in this
+note:
+
+"As, on the one hand, we have no right to banish from our communion those
+whose notions of the real presence of Christ in the Sacrament rise to a
+mysterious change, by which"—
+
+Mark this language:
+
+—"by which the very elements themselves, though they
+retain their original properties, are *corporally united with,
+or transformed into, Christ*; so, on the other, they are not
+to be excluded who consider that Real Presence as altogether
+spiritual, but productive of the same blessed results, namely,
+the privileges of the Gospel resulting from the death of Christ."
+
+And that passage, which is a note to the sermon, is to be
+found on the twenty-seventh page of this sermon on "Christian
+Unity necessary for the Conversion of the World," a sermon
+preached before the bishops and clergy and laity constituting
+the Board of Missions. Let me say, my dear brethren, that I never
+in my life said anything as strong as that. Whatever I have said
+does not come at all up to Connecticut churchmanship. [Laughter.]
+If perchance I have imbibed some feeble idea of that which the
+Reverend Father from Connecticut taught, having been catechised
+by him when I was a boy, I trust that the House will pardon the
+inheritance that in this respect I have received from him.
+
+And now I hear people asking the old rationalizing question:
+"How can Christ's body and blood be at the right hand of
+God, and how can it be at the same time in the Holy Eucharist?"
+and I find them explaining it away, and saying that it is impossible
+that it can be in the Eucharist, because it is at the right hand
+of God. O, Mr. President and gentlemen! I cannot explain mysteries.
+I do not pretend to do so. I can only speak of that which the
+Holy Scriptures say. You all remember when our Lord was speaking
+to Nicodemus, before His body was glorified, He said: "No
+man hath ascended up to heaven but he that came down from heaven,
+even the Son of man, which is in heaven." He did not say
+that the Son of God was in heaven. He actually said that the
+Son of man, at that very moment when He was talking to Nicodemus,
+was both talking to him and in heaven also; and "the Son
+of man" at that. If you can explain how these two things
+are true, possibly I may be able to explain also.
+
+Let me call your attention also to the very remarkable fact
+of the conversion of St. Paul. Do you not remember that when
+St. Paul was going to Damascus he fell to the earth, and a great
+light shined around about him, and he said, "Who art thou,
+Lord? " and the answer was, "I am Jesus whom thou persecutest."
+I suppose that some persons may say he only saw a vision, but
+then we read immediately after, that unto Ananias the Lord appeared
+in a vision. And so, when Ananias came to Saul, he said that
+God had chosen him, "that he should *see* that just
+One, and *hear* the voice of His mouth." And then we
+find that self-same St. Paul saying, "Am I not an Apostle?
+am I not free? Have I not *seen* the Lord Jesus Christ?"
+And then we find that same Apostle speaking on the resurrection,
+saying, He appeared first to James, and then to five hundred
+brethren, "and last of all He was *seen* of me also,
+as of one born out of due time, who am not meet to be called
+an Apostle." And so St. Peter says that somehow or other,
+it was necessary to a call to the apostleship that the man should
+see and hear the Lord Jesus Christ, because he says, in speaking
+about the election of Matthias, "One must be chosen to be *a witness of the Lord's resurrection*;" and also to
+Cornelius, that "Him God raised up the third day and showed
+Him openly, not to all the people, but to witnesses chosen before
+of God, even to us." And if any one will explain to me how
+it was possible for our Lord to be in heaven and be seen and
+heard by St. Paul, not in a vision, but actually and really,
+then I may be able to explain the mystery of the Holy Communion.
+
+Now, I have only a word more to say. My explanation, which
+is not an explanation, but only the bringing forth of a great
+and true doctrine, is that it is the mission of God the Holy
+Ghost not to supply Christ's *absence*, but to accomplish
+His *presence*. I know that people hold that the Holy Ghost
+is God's vicegerent upon earth; I know that people have been
+bold enough to affirm that Christ is absent *personally* from this world; that in other words, this world of ours is like
+the sepulchre, and we, like Mary Magdalene, are left to cry,
+"They have taken away my Lord, and I know not where they
+have laid him." It is not so. It is, I say, the mission
+of God the Holy Ghost not to supply Christ's absence, but to
+accomplish His Presence. Blessed are the words which say, "It
+is expedient for you that I go away, for if I go not away the
+Comforter will not come to you; but if I depart I will send Him
+unto you." That seems to imply that the Holy Ghost was to
+take Christ's place; but then when the broken hearts of the Apostles
+seemed to say, 'Give not Thou us any Comforter; we need no comforter
+but Thee'; He replied to their thought, "I go away and come
+again unto you." "I will not leave you comfortless;
+I will come to you." "Yet a little while and ye see
+me no more; but I will see you again, and your heart shall rejoice,
+and your joy no man taketh from you." These words indeed
+applied first to His return after the resurrection; but they
+also apply to that blessed supplying of His Presence which is
+the definite work of God the Holy Ghost, and which He accomplishes
+chiefly, though not exclusively, in the Sacrament of the Holy
+Communion.
+
+Mr. President, we live in troublous times, and around us are
+all sorts of terrible questions. It does seem to me the need
+of the day is not now to legislate on nice points of doctrine,
+or to prescribe exactly the measure of a genuflexion, or the
+angle of inclination which can express an orthodox devotion.
+The answer to all this panic and all this outcry is one, and
+one only. It is *Work*; work for the cause of Christ; work
+for the souls of men; and a fuller, deeper, more noble sense
+of the obligation of the Church, developing its powers, and sending
+it forth to mould and form this mighty nation, and to give new
+life and vigor to every effort that is made for the salvation
+of men. I see the storm-cloud gathering. I see the lightnings
+flash. I hear the thunder roll afar. I hear the trumpet call.
+In my ears the bugle blast is ringing. And I call you, brethren,
+in a time like this, not to narrow-hearted legislation, but to
+broad, Catholic, tolerant charity, and to work, as never men
+worked before, for the souls of those for whom the Saviour died.
+
+I now offer the amendments. I have written them out, and I
+propose that these amendments be referred to the Committee on
+Canons for their consideration; and that motion includes the
+proposed substitute of Mr. Blanchard, of Maryland.
+
+---
+
+THE CANON AS FINALLY PASSED.
+
+*Resolved*, That instead of the section as passed by
+the House of Deputies, and proposed to be amended by the House
+of Bishops, the following additional section be added to Canon
+20, of Title I., "Of the Use of the Book of Common Prayer":
+
+Sec. II. [i.] If any Bishop have reason to believe, or if complaint be made
+to him in writing by two or more of his Presbyters, that within his
+jurisdiction, ceremonies or practices not ordained or authorized in the Book
+of Common Prayer, and setting forth or symbolizing erroneous or doubtful
+doctrines, have been introduced by any minister during the celebration of the
+Holy Communion, (such as—
+
+*a*. The Elevation of the Elements in the Holy Communion
+in such manner as to expose them to the view of the people as
+objects towards which adoration is to be made.
+
+*b*. Any act of adoration of or toward the Elements in
+the Holy Communion, such as bowings, prostrations, or genuflections;
+and,
+
+*c*. All other like acts not authorized or allowed by
+the Rubrics of the Book of Common Prayer),
+
+It shall be the duty of such Bishop to summon the Standing
+Committee as his Council of Advice, and with them to investigate
+the matter.
+
+[2.] If after investigation it shall appear to the Bishop
+and Standing Committee that ceremonies or practices not ordained
+or authorized as aforesaid, and setting forth or symbolizing
+erroneous or doubtful doctrines, have in fact been introduced
+as aforesaid, it shall be the duty of the Bishop by instrument
+of writing under his hand to admonish the Minister so offending
+to discontinue such practices or ceremonies; and if the minister
+shall disregard such admonition, it shall be the duty of the
+Standing Committee to cause him to be tried for a breach of his
+ordination vow; provided, that nothing herein contained shall
+prevent the presentment, trial, and punishment of any minister
+under the provisions of Section i, of Canon 2, Title II., of
+the Digest.
+
+[3.] In all investigations under the provisions of this Canon,
+the minister whose acts or practices are the subject-matter of
+the investigation shall be notified, and have opportunity to
+be heard in his defense. The charges preferred and the findings
+of the Bishop and Standing Committee shall be in writing, and
+a record shall be kept of the proceedings in the case.
+
+The following remarks were made after the presentation of
+the Amended Canon, October 31st. A paragraph, in substance spoken
+at a later time, has been inserted:
+
+Rev. Dr. DE KOVEN, of Wisconsin. Mr. President, I merely want
+to say a word in regard to the Canon as reported. There are some
+things in favor of it, and one thing against it. In the first
+place, it seems to me that the amendment which has been adopted
+by the Committee of Conference is a very valuable amendment,
+because it confines the Canon, which the proposed Amendment of
+the House of Bishops did not do, to the celebration of the Holy
+Communion, and requires two facts to be proved with regard to
+the acts: First, That they symbolize erroneous or doubtful doctrines;
+and, Second, That they are 'not authorized or ordained in the
+Book of Common Prayer. That, I hold, is the first change, and
+I regard it as a valuable one.
+
+In the next place, there are two specifications left out,
+which said that the use of incense and the use of the crucifix
+symbolized false doctrine. I hope the reverend gentlemen from
+Pennsylvania will believe it when I say that nothing in this
+Canon authorizes the use of incense or the use of the crucifix.
+It leaves that just where it was before. If it was lawful before,
+it is lawful now; if it was unlawful before, it is still unlawful.
+
+I desire to say still further that I can understand how the
+House of Bishops might have omitted what was said about the crucifix
+without entering upon the question of its symbolizing false doctrines,
+for there was a very curious thing in the Canon as it stood before.
+It said that the use of the crucifix was unlawful during the
+celebration of the Holy Communion. Therefore, it could have been
+inferred by cunning people that the use of the crucifix was allowable
+in other services than the Holy Communion; and I can imagine
+a very magnificent ceremony that perhaps some Ritualists might
+have gotten up; and I will venture to describe it. The crucifix
+brought into the Church, kept in it all through the service up
+to the time of the celebration of the Holy Communion, reverently
+borne by acolytes out of Church when the celebration began, and
+the clergyman getting up and saying, "We had the crucifix
+in the Church up to the time of the celebration of the Holy Communion,
+and took it out when the Holy Communion begins, because when
+the Real Presence is there, the symbolic representation is taken
+away." Therefore, I think it might be conceived to be a
+wise process to cast out this particular specification.
+
+There is one thing which I believe must be granted, and that
+is to say, that adoration is a twofold act. It is both internal
+and external. The internal act is an act of inner worship, praise,
+prayer, thanksgiving, or all blended together. The external act
+is some ceremony which represents that internal feeling. Now,
+I suppose that since the sacrament is twofold—it consists of
+"an outward and visible sign and an inward and spiritual
+grace"—for sacramental worship there is needed, first,
+the internal act, and, secondly, the external ceremony, but anything
+in the character of that external ceremony may be properly regulated
+by the Church for its members. It may forbid this or it may forbid
+that, according to its judgment and according to the temper and
+tone of the times. If the Church were to forbid all external
+adoration, I believe it would be doing a cruel wrong to its children;
+but if it says, "You shall not genuflect," or it says,
+"You shall not prostrate yourself," or it says, "You
+shall not bow," it may be doing just what it has a right
+to do.
+
+Now, then, I understand that these specifications permit the
+act of adoration, which is the act of kneeling, which fully,
+I think, covers all that the devout heart wants; and it does
+not say that kneeling symbolizes false doctrine or doubtful doctrine;
+it merely says the other things symbolize it; and therefore though
+I would not of my own will vote for these particular specifications,
+for I would prefer to permit the children of the Church some
+warmer expression of their internal adoration, yet if this Church
+thinks it best to limit it to kneeling, I am satisfied.
+
+It may, indeed, be said, that the Canon declares that the
+"Elevation of the elements, ... as objects towards which
+adoration is to be made," or any act "of adoration
+toward the elements—such as bowings, prostrations, or genuflections—and
+all other like acts not authorized or allowed by the rubrics, *symbolize false doctrine*." But it must be noticed,
+that inasmuch as kneeling towards the elements is allowed by
+the rubric, these other acts must symbolize some doctrine which
+kneeling does *not* symbolize. Everybody knows that kneeling
+symbolizes the doctrine of the Real Presence with all its results.
+What, then, do these acts symbolize? I will venture an interpretation
+which may seem only ingenious, and which, therefore, I would
+not give, except that as this is a penal Canon, the most ingenious
+interpretation may prove, as it sometimes does, the one the lawyers
+may adopt. It is as follows. There is a gradation in the acts:
+
+1. Bowings.
+2. Genuflections.
+3. Kneeling.
+4. Prostrations.
+
+Of these (1), (2), and (4) are said to symbolize false doctrine,
+while (3) does not. Might it not, then, be said, since kneeling
+unquestionably symbolizes the doctrine of the Real Presence,
+that "Prostrations" symbolize some exaggeration of
+it like Transubstantiation, and "Bowings," and "Genuflections,"
+some diminution thereof? At any rate, if this interpretation
+be not allowed, it will puzzle lawyer or theologian to discover
+the erroneous or doubtful doctrine that these forbidden practices
+symbolize which kneeling does *not*.
+
+The consequence is that I might vote for this Canon as expressing
+the present mind of the Church with, only one exception, and
+if I vote against it, it will be because of the exception. It
+is this: that I am afraid the Canon is unconstitutional. I am
+myself not much given to constitutional amendments, but ever
+since this great *approchement* between myself and the delegation
+from Virginia, who are always very keen on the subject of constitutional
+amendments, I have been educated in that direction. I find whenever
+there is any practical work in hand, like the shortening of the
+services, or a court of appeals, things everybody believes we
+need—then a constitutional amendment is necessary. In other
+words, our Constitution stands apparently always in the face
+of work; but when it comes to the question of whether there shall
+be a little more restriction in ceremonial, then the Constitution
+is very elastic. Here is my difficulty, and I will state it;
+it seems to me just this: That to allow ceremonies by Canon,
+is to interfere with the law of the Rubric; to prohibit ceremonies
+by Canon, is also to interfere with the law of the Rubric; much
+more even to seem to declare what is or what is not doctrine
+by Canon is utterly unconstitutional; and so, if I do not vote
+for this, it will be simply on the ground that I have been trained
+by Virginia to respect the Constitution.
+
+---
+
+Project Canterbury
