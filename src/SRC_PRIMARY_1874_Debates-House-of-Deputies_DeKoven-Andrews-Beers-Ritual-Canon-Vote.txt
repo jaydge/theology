@@ -1,0 +1,412 @@
+CAPTURE HEADER — added by pass 260835-64, not part of the source.
+STAMP: 260835-64 (ASSIGNED BY BRIEF, NOT DERIVED). No stamp registry was read.
+
+SOURCE: "Debates of the House of Deputies in the General Convention of the
+  Protestant Episcopal Church in the United States of America, held in the City
+  of New York, October and November, 1874." Reported for The Churchman.
+  Hartford, Conn.: M. H. Mallory & Co., Printers.
+DIGITISED COPY: Internet Archive item "debatesofhouseof00epis_0",
+  https://archive.org/details/debatesofhouseof00epis_0
+  IA server ia902800.us.archive.org, dir /22/items/debatesofhouseof00epis_0
+  OCR derivative: debatesofhouseof00epis_0_djvu.txt
+CAPTURED: 2026-09-07.
+
+RELATION TO THE EXISTING REPO CAPTURE.
+  This file EXTENDS, and does not replace,
+    src/SRC_PRIMARY_1874_Debates-House-of-Deputies_Ritual-Canon-Speeches.txt
+  (pass 260835-62), which holds the Andrews "break up this Church" passage and
+  the Hall "downfall or the victory" passage from the same volume. Nothing in
+  that file is contradicted here. This file adds:
+    - De Koven's 26 October speech AS THE STENOGRAPHER REPORTED IT (the project
+      has hitherto held only the printed pamphlet's version);
+    - De Koven's 31 October remarks, likewise;
+    - Andrews of Ohio's answer to De Koven on the Scripture argument, which is
+      the passage immediately preceding the "break up this Church" passage and
+      was not captured with it;
+    - Beers of Albany, the fullest speech against the specifications;
+    - the roll call and RECAPITULATION of the 27 October vote, which the volume
+      prints in full — the Debates and the Journal now independently corroborate
+      each other on the vote.
+  It also RETIRES two of that file's §3 LEADS by confirming them (Fulton) or by
+  supplying the actual speaker (see §5 below).
+
+METHOD — HOW THIS TEXT WAS OBTAINED, AND WHY IT DIFFERS FROM 260835-62's METHOD.
+  260835-62 obtained its two extracts through the IA `inside.php` full-text
+  search endpoint, one exact-phrase query at a time, and recorded that byte
+  offsets had not been logged. That endpoint UNDER-REPORTS: a query for
+  "blasphemy" against this item returns {"matches": []} while the complete OCR
+  contains one occurrence (§5.1 below). This pass therefore did NOT rely on it.
+  The complete OCR derivative (3,541,143 characters) was loaded whole and
+  searched in full. Two normalized views were built over it:
+    __N  = whitespace runs collapsed to single spaces
+    __D  = __N with line-break hyphenation rejoined  (2,963,091 characters)
+  All character offsets below are into __D and are reproducible only against a
+  __D built the same way. THEY ARE NOT BYTE OFFSETS INTO THE SOURCE FILE and
+  must not be logged as such or used with `dd`.
+  PRINTED PAGE NUMBERS below are the page-number tokens that appear inline in
+  the OCR stream at the point indicated. They have NOT been read off the running
+  heads of the page images. Treat them as UNVERIFIED, on the same footing as
+  260835-62 recorded its own.
+
+OCR errors are preserved exactly as read ("synibohzes", "Chm*ch", "miderstand",
+  "necy", "88" for 38, "Rev\"" for "Rev."). Nothing corrected or supplied.
+  Square brackets are the stenographer's ([Laughter.]) except where marked.
+
+================================================================================
+§1. REV. DR. DE KOVEN, of Wisconsin — 26 October 1874
+    17th Day. Speech begins at __D 1365525; printed page tokens 201-205.
+    The incense argument falls at printed p. 203.
+================================================================================
+
+§1a. THE DOCTRINAL OBJECTION — the passage the project has hitherto quoted from
+     the pamphlet. __D 1381000-1382450.
+
+VERBATIM (Debates):
+
+"That is, it does not simply forbid the use of incense — I wish that were all.
+What it does is to say that the use of incense symbolizes erroneous and strange
+doctrines, which is a dreadful thing to commit this House to. For this House
+[203] to forbid the use of incense is a very proper thing, perhaps ; but for
+this House to say that the use of incense synibohzes false doctrines, is for
+this House to put itself in utter and total opposition to the Holy Scriptures ;
+foi", remember, what does David say"
+
+  ⚠ NOTE THE FIRST DIVERGENCE FROM THE PAMPHLET. The Debates read "erroneous
+  and strange doctrines"; the pamphlet reads "erroneous or doubtful doctrines".
+  See §3 of the report file.
+
+"Or again — and this is something more awful — when Aaron stood between the dead
+and the living with the censer in his hands, and the smoke of the incense was
+wafted to heaven, the people were saved. What did he typify but that eternal Son
+of God who alone stands between the dead and the living, and whose mediation for
+the souls of men for ever ascends to the right hand of God ? and that ascending
+incense symbolized the atoning sacrifice and the everlasting mediation. And is
+this Chm*ch, then, prepared to say that the eternal mediation and the awful
+atoning sacrifice are false doctrines ; or, when the priest on the great day of
+atonement went before the mercyseat, and clouds of incense covered it, typifying
+the ceaseless intercession of the Son of God, is this Church prepared to say
+that such a use of incense symbolized false docti'ines ? But this Canon, if it
+be passed as it stands, makes it so."
+
+  ⚠ SECOND DIVERGENCE. "and that ascending incense symbolized the atoning
+  sacrifice and the everlasting mediation" is DECLARATIVE in the Debates. The
+  pamphlet renders it as a rhetorical question: "and what did the ascending
+  incense symbolize but the atoning Sacrifice and the everlasting Mediation?"
+  This matters under the project's standing rule about rhetorical content being
+  misread as declarative — here the direction runs the other way.
+
+§1b. THE CONCESSION THAT FRAMES THE WHOLE ARGUMENT. __D 1379050-1379300.
+
+"And now I come to the particular specifications. Let me say that I believe this
+Church has the right, if it does it in a lawful way, to regulate its ceremonies
+as it pleases ; and if it chooses to forbid the use of incense, I have nothing
+to say."
+
+§1c. "DOUBTFUL" — the objection to the doctrinal test itself. __D 1378100.
+
+"Permit me to say, gentlemen, that there are no such things as doubtful
+doctrines. Doctrine is either true or false. The Truth of God is true, and the
+Kes [lies] of the devil are false."
+  ["Kes" is the OCR; the pamphlet reads "lies". Bracket is this pass's, marked.]
+
+§1d. THE AMENDMENT HE ACTUALLY MOVED. __D 1396100-1397000.
+
+"'If any Bishop shall have reason to believe that ceremonies or practices,
+daring the celebration of the Holy Commimion, not ordained or authorized in the
+B'ook of Common Prayer, or setting forth or symbolizing doctrines not according
+to those of this Church, have been introduced into a parish within his
+jurisdiction, it shall be the duty of such Bishop to summon the Standing
+Committee as his council of advice...' ... The amendment merely leaves out these
+specifications ; it leaves out the word 'doubtful' in connection with
+'doctrines'; it leaves out the two prying Presbyters, and keeps the Bishop and
+Standing Committee to their duty"
+
+⚠ STRUCTURAL FACT ABOUT THIS SPEECH, ESTABLISHED HERE FOR THE FIRST TIME.
+  What the pamphlet prints as one continuous "Speech delivered in the General
+  Convention, October 26th, 1874" is, in the Debates, THREE separate turns by
+  De Koven on that day, separated by other speakers:
+    turn A  __D 1365525, 32,445 chars — the Canon, the specifications, incense
+    turn B  __D 1403191,  9,187 chars — "The first sense in which Eucharistic
+                                        adoration may be held to be affirmed…"
+    turn C  __D 1412517, 16,848 chars — "It will be remembered in this House
+                                        that in the last General Convention…"
+  All three fall inside the 17th Day (26 October: __D 1263268-1475776), so the
+  pamphlet's DATE is right. Its presentation of the material as one unbroken
+  address is not. The interventions between the turns are not printed in the
+  pamphlet.
+
+================================================================================
+§2. MR. ANDREWS, of Ohio (lay) — 27 October 1874
+    18th Day. Speech begins __D 1533384, runs to __D 1544429.
+    Printed page token 225 falls inside it.
+================================================================================
+
+⭐ THIS IS THE ANSWER TO DE KOVEN ON THE SCRIPTURE ARGUMENT, AND IT IS THE
+  IMMEDIATELY PRECEDING CONTEXT OF THE "break up this Church" PASSAGE ALREADY
+  CAPTURED AT 260835-62 §1 (which begins 3,285 characters later in the same
+  speech). The two are one continuous speech by one man.
+
+§2a. HOW HE FRAMES HIS OWN SPEECH — the opening sentence. __D 1533384.
+
+"Mr. ANDREWS, of Ohio. Mr. President, I propose to confine myself entirely to
+the legal aspects of this case, and not to the theological."
+
+§2b. THE SYMBOLISM POINT — why the canon aims at symbols rather than sermons.
+     __D 1535100-1535600.
+
+"But what is it that we aim at ? If a man wishes to preach doubtful doctrine in
+this Church, let him preach it like a man, and if I hear it or you hear it, let
+us answer it like men, and we know what we are about ; but this symbolizing of
+doubtful doctrine, this insinuating of doubtful doctrine to men, women, and
+children who are not in the habit of discussing these matters, that tends to
+make a lodgment and tljat you cannot answer, is what we aim at. If a man wishes
+to preach doubtful doctrine in this Church, let him do it; but let him do it
+openly by word of mouth and not by symbols."
+
+§2c. ⭐⭐ THE DIRECT REPLY TO DE KOVEN ON SCRIPTURE. __D 1537300-1537800.
+     Printed p. 225.
+
+"But now we come to a point that needs discussion. It is as to the
+specifications to which gentlemen object — incense, the crucifljc, etc. Why,
+says the gentleman from Wisconsin, incense is a delightful thing; there is no
+harm in incense ; incense means prayer; and he quotes the literal language of
+the Scripture as part of his argument. I might quote the literal language of the
+Scripture as part of my argument, if I did not deem it unworthy of this occasion
+to attempt to influence this body by it. I might say that Jehovah Himself said,
+under certain circumstances, that incense was an abomination to Him; but I would
+not deem that appropriate to this argument at aU. What is the meaning of incense
+in connection with the administration of the Lord's Supper ? That is the point.
+Incense is external. We deal with an indwelling presence in this Church. We do
+not like externalism. Incense is material ; we d[o]..."
+
+  ⛔ READ THIS BEFORE DEPLOYING §2c. Andrews raises the Scripture counter and
+  then EXPRESSLY DECLINES TO MAKE IT — twice ("if I did not deem it unworthy",
+  "I would not deem that appropriate"). It is a praeteritio. He is not asserting
+  that Scripture calls incense an abomination; he is saying he will not argue
+  from Scripture at all. He then argues from the MEANING of incense in the
+  Communion service, which is the doctrinal-symbolism argument, not a scriptural
+  one. Anyone quoting this must carry the refusal with it.
+  ⛔ The allusion is not identified in the text. Isaiah 1:13 is the obvious
+  candidate. THE DEBATES DO NOT NAME IT and this pass does not supply it.
+
+================================================================================
+§3. REV. DR. BEERS, of Albany — 27 October 1874
+    Speech begins __D 1566167 ("Rev\" Dr. BEERS, of Albany." — the OCR's quote
+    mark is why 260835-62's speaker regex could not see it), runs to __D
+    1603928. 37,761 characters, the longest single speech in the ritual debate.
+    Printed page tokens 229-234 fall inside it.
+================================================================================
+
+⭐ WHY THIS SPEECH MATTERS: Beers is the fullest opponent of the SPECIFICATIONS
+  on the floor after De Koven, he is an emphatic ANTI-ritualist, and his diocese
+  voted Nay in both orders. He is the proof that a Nay vote in this chamber is
+  not evidence of sympathy with incense.
+
+§3a. HIS POSITION, STATED AT THE OPENING. __D 1566194-1568400.
+
+"it has seemed to me very plain that this is entirely an open question, and not
+a party question at all ... Is it policy on the part of this Church to have any
+legislation at all on this question ? ... I come to the consideration of the
+Canon before us, and will give some reasons why, on the whole, not founded in
+this or that objection, in my deliberate judgment it will not be wise for this
+General Convention to legislate on Ritual at all"
+
+§3b. HIS FACTUAL GROUND — no case for legislation has been made out. __D 1578300.
+
+"I am satisfied that no such state of things exists in the Church, at least I
+have waited in vain for any evidence to be brought before this House that there
+is any such state of things existing as calls for this legislation. There are
+fewer strictly pronounced Ritualistic churches in the United States now than
+there were in 1871."
+
+§3c. ⚠ HIS OWN VIEW OF RITUALISM — as strong as anything in the debate, and it
+     is NOT a defence of ceremonial. __D 1594100.
+
+"the man who will venture now to reintroduce the i emblems of the symbols of
+those mediaeval superstitions or their expression in whatsoever way, by :
+ceremony or otherwise, is a renegade to the Church I of the Reformation, and to
+our brethren in this I noble land of ours."
+
+§3d. WHAT HE WANTED INSTEAD — De Koven's amendment. __D 1592600-1593200.
+
+"I hold further that the amendment submitted by the Clerical Deputy from
+Wisconsin is the only possible solution of this question which this House can
+ever hope to reach. ... It does away with those obnoxious specifications which
+in my judgment would be simply ridiculous to enact, and it constitutes the
+Bishop — or rather, I should say, it recognizes the Bishop"
+
+  ⭐ So the two men who voted against the specifications most conspicuously —
+  De Koven and Beers — converged on the SAME amendment from opposite ends of the
+  churchmanship spectrum, and for different reasons: De Koven because the
+  specifications assert a doctrinal falsehood, Beers because they are
+  "ridiculous to enact" and no case for legislating had been made.
+
+================================================================================
+§4. THE VOTE OF 27 OCTOBER 1874 AS THE DEBATES PRINT IT
+    __D 1699700-1706000. Printed page tokens 247, 248, 249.
+================================================================================
+
+§4a. HOW THE VOTE WAS CALLED. __D 1699751.
+
+"Mr. STEVENSON, of Kentucky. Kentucky asks for a vote by orders.
+ The PRESIDENT. That has already been asked for by the Diocese of Tennessee.
+ The Secretary called the roll, with the following result :"
+
+  ⚠ 260835-62 §1(c) reports the call as the Deputation from Tennessee's, from
+  the Journal. That is right; the Debates add that Kentucky also asked and was
+  told Tennessee had asked first. Not a correction — an addition.
+
+§4b. THE RECAPITULATION AS PRINTED. __D 1705645.
+
+"RECAPITULATION. Clergy.— Dioceses voting, 41. Aye, 88 ; nay, 2; divided, 1.
+ Laity. — Dioceses voting, 39. Aye, 35; nay, 3; divided, 1."
+
+  ⛔ "88" IS AN OCR ERROR FOR 38. It is corrected here ONLY because the Journal
+  (repo capture, printed pp. 143-145) independently prints 38, and because the
+  roll immediately above it names exactly two dissenting clerical dioceses.
+  The lay figure 35 matches the Journal exactly, against Aycrigg's 34.
+  ⭐ THE DEBATES AND THE JOURNAL NOW INDEPENDENTLY CORROBORATE THE VOTE. Before
+  this pass the vote rested on the Journal alone.
+
+§4c. ⭐⭐ THE INDIVIDUAL-DEPUTY ROLL — which the Journal summary in the repo
+     capture does not give in full, and which changes what "38-2" means.
+     Counted by this pass from the printed roll, __D 1699900-1705600.
+
+  CLERICAL DEPUTIES VOTING NAY (16 individuals, in 12 dioceses):
+    Albany — Payne, Tucker, Beers, Brown (all four; OCR "necy")
+    California — Chetwood        Easton — Stearns
+    Illinois — Knowles           Indiana — Dunham
+    Louisiana — Harris           Michigan — Brown, Worthington
+    New Jersey — Farrington      New York — Cady
+    Pittsburgh — Spalding        Vermont — Putnam
+    Wisconsin — De Koven
+
+  LAY DEPUTIES VOTING NAY (10 individuals, in 7 dioceses):
+    Albany — Meads, Forsyth, Keese      Massachusetts — Shattuck
+    New Jersey — Garthwaite             New York — Livingston, Davies
+    North Carolina — Martin             Pittsburgh — Cass
+    Vermont — Canfield
+
+  ⭐ ONLY TWO DIOCESES CAST A CLERICAL NAY: Albany (4-0 Nay) and Michigan
+    (2 Nay, 1 Aye). NEITHER IS DE KOVEN'S. Wisconsin's clerical vote was AYE —
+    Adams, Half and Ten Broeck Aye against De Koven's single Nay. De Koven was
+    outvoted inside his own deputation.
+  ⛔ THE VOTE WAS BY DIOCESES AND ORDERS, so 38-2 and 35-3 are counts of
+    DIOCESES, not of men. Twenty-six individual deputies are recorded Nay.
+    Both figures are true of different things and neither may be substituted for
+    the other.
+
+================================================================================
+§5. REV. DR. DE KOVEN, of Wisconsin — 31 October 1874, remarks after the
+    Conference report. 22nd Day. __D 2343065-2348700. Printed page token 339.
+    REPRODUCED IN FULL, because this is the passage on which the pamphlet and
+    the Debates diverge most.
+================================================================================
+
+"Rev. Dr. DE KOVEN, of Wisconsin. Mr. President, I merely want to say one word
+in regard to the Canon as reported. There are some things in favor of it, and
+one thing against it. In the first place, it seems to me that the amendment
+which has been adopted by the Committee of Conference is a very va^hiable
+amendment, because it confines the Canon to the celebration of the Holy
+Communion, and requires tv/o facts to be proved with regard to the acts to be
+brought forward : First. That they symbolize erroneous or doubtful doctrines ;
+and. Second. That they are not authorized or ordained in the Book of Common
+Prayer. That, I hold, is the first change, and I regard it as a valuable one.
+
+In the next place, there are two specifications left out, which said that the
+use of incense and the use of the crucifix symbolized false doctrine. I hope the
+reverend gentleman from Pennsylvania will believe it when I say that nothing in
+this Canon possibly authorizes the use of incense or the use of the ci'ucifix.
+It leaves that just whei'e it was before. If it was lawful before, it is lawful
+now ; if it was unlawful before, it is still unlawful.
+
+Rev. Mr. BOLTON, of Pennsylvania. That is just the trouble.
+
+Rev. Dr. DE KOVEN, of Wisconsin. I want to say still further that I can
+understand how the House of Bishops might have made this amendment without
+entering upon the question of its symbolizing false doctrines, for there was a
+very curious thing in that Canon as it stood before, it said that the use of the
+crucifix and the use of incense was unlawful during the celebration of the Holy
+Communion. Therefore, it could have been inferred hy cunning people that the use
+of the crucifix and the use of incense were allowable in other services than the
+Holy Communion; and I can imagine a very magnificent ceremony that perhaps some
+Ritualists might have gotten up ; and I can tell what it is. The crucifix
+brought into the Church, kept in it all through the service up to the time of
+the celebration of the Holy Communion, reverently borne by acolytes out of
+Church when the celebration began, and then the clergyman getting up and saying,
+'We had the crucifix in the Church up to the time of the celebration of the Holy
+Communion, and took it out when the Holy Communion begins, because when the real
+presence is there the symbolic representation is out !' [Laughter.] Therefore I
+think it is a very wise process to cast out those two things.
+
+Rev. Dr. ADAMS, of Wisconsin. Does the Roman Catholic Church remove the
+crucifix ?
+
+Rev. Dr. DE KOVEN, of Wisconsin. I do not know anything about the Roman Catholic
+Church. I leave that to my brother from Wisconsin. [Laughter.]
+
+There is one thing which I believe must be granted, and that is to say, that
+adoration is a twofold act. It is both internal and external. The internal act
+is an act of inner worship, praise, prayer, [339] thanksgiving, or all blended
+together. The external act is some ceremony which represents that ijiternal
+feeling. Now, I suppose that since the sacrament is twofold — it consists of 'an
+outward and visible sign and an inward and spiritual grace' — for sacramental
+worship there is needed, first, the internal act, and, secondly, the external
+ceremonj'-, but aught in the nature of that external ceremony may be properly
+regulated by the Church for its members. It may forbid this or it may forbid
+that, according to its judgment and according to the temper and tone of the
+times. If the Church were to forbid all external adoration, I believe it would
+be doing a cruel wrong to its children ; but if it says, ''You shall not
+genuflect,' or it says, 'You shall not prostrate yourself,' or it says, 'You
+shaU not bov/,' it maj^ be doing just what it has a right to do.
+
+Now, then, I understand that these specifications permit tiie act of adoration,
+which is the act of kneeling, which fully, I think, covers all that the devout
+heart wants ; and it does not say that kneeling symbolizes false doctrine or
+doubtful doctrine; it merely says the other things symbolize it ; and therefore
+though I would not of my own will vote for these two hard things if I had my own
+choice, for I would prefer to permit the children of the Church some warmer
+expression of their internal adoration, yet if this Church think it best to
+limit it to kneehng, I am perfectly satisfied.
+
+The consequence is that I can vote for this Canon entirely as expressing the
+present mind of the Church with only one exception, and if I vote against it, it
+will be because of the exception. It is this: that I am afraid the Canon is
+imconstitutional. I am myself not much given to constitutional amendments, but
+ever since there has come this great approchement between myself and the
+delegation from Virginia, who are always very keen on the subject of
+constitutional amendments, I have been educated in that direction. I find
+whenever there is any practical work in hand, like the shoi-tening of the
+services, we will say, or like a court of appeals — things that everybody
+believes we need — theu a constitutional amendment is necessary. In other words,
+our Constitution stands apparently always in the face of work; but when it comes
+up to the question of whether there shall be a little more liberty in ceremonial,
+then the Constitution is very elastic. Here is my difficulty, and I will state
+it; it seems to me just this : That to allow ceremonies by Canon is to interfere
+with the law of the Rubric, to prohibit ceremonies by Canon is also to interfere
+with the law of the Rubric ; and so, if I do not vote for this, it will be simply
+on the ground that I have been trained by Vii'ginia to resnect the Constitution.
+
+The PRESIDENT. The hour for the order of the day has arrived."
+
+  ⛔⛔ THE REMARKS END THERE. Everything the pamphlet prints after "…trained by
+  Virginia to respect the Constitution" — and one clause before it — is not in
+  the stenographic report. See the report file §3.
+
+================================================================================
+§6. LEADS FROM 260835-62 §3 — STATUS AFTER THIS PASS
+================================================================================
+
+  LEAD 1 (Fulton of Alabama, 26 Oct, opening for the Committee) — CONFIRMED that
+    Fulton opened for the Committee on Canons at __D 1321841 with a speech of
+    25,258 characters, and that "a great excitement of public opinion" stands in
+    its opening sentence, __D 1321880. The remaining phrases in that LEAD were
+    not each re-verified here.
+  LEADS 2, 3, 5, 6 — NOT re-verified in this pass. Left as LEADS.
+  LEAD 4 (Sullivan of Illinois, 29 Oct) — NOT re-verified in this pass.
+  ⭐ NEW, NOT PREVIOUSLY A LEAD: the 27 October roll call and RECAPITULATION are
+    printed in this volume in full (§4 above). 260835-62 did not record that.
+
+================================================================================
+END OF CAPTURE
+================================================================================
