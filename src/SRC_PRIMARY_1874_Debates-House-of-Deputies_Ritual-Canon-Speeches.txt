@@ -1,0 +1,183 @@
+CAPTURE HEADER — added by pass 260835-62, not part of the source.
+STAMP: 260835-62 (ASSIGNED BY BRIEF, NOT DERIVED).
+
+SOURCE: "Debates of the House of Deputies in the General Convention of the
+  Protestant Episcopal Church in the United States of America, held in the City
+  of New York, October and November, 1874." Reported for The Churchman.
+  Hartford, Conn.: M. H. Mallory & Co., Printers.
+DIGITISED COPY: Internet Archive item "debatesofhouseof00epis_0",
+  https://archive.org/details/debatesofhouseof00epis_0
+  IA server ia902800.us.archive.org, dir /22/items/debatesofhouseof00epis_0
+  OCR derivative: debatesofhouseof00epis_0_djvu.txt (3,544,442 characters)
+CAPTURED: 2026-09-06.
+
+WHY THIS VOLUME MATTERS — READ THIS FIRST.
+  The repo's existing 1874 capture
+    src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt
+  states correctly that "The Journal records motions, messages and votes; it
+  does not record debate." That has meant, up to now, that the only 1874 floor
+  speech in the project's possession has been De Koven's, via his own printed
+  pamphlet.
+
+  THIS IS THE MISSING RECORD. It is the verbatim stenographic report of the
+  House of Deputies debate, printed contemporaneously. It supplies what the
+  Journal omits and what the project has hitherto had to take at second hand
+  from Aycrigg's 1880 newspaper digest.
+
+  SUPERSESSION NOTE: where this volume and Aycrigg (1880) report the same
+  speech, THIS VOLUME GOVERNS. Aycrigg's versions are compressed newspaper
+  reports and are demonstrably lossy — see §1 note.
+
+VERIFICATION STATUS: both extracts below were obtained by IA full-text search
+  against this item (queries recorded in each section) and the returned snippet
+  is reproduced. Each was retrieved by an exact-phrase query, so the wording of
+  the matched region is confirmed by the search engine's own index rather than
+  by a single transcription pass. Page values are the IA leaf numbers returned
+  by the search endpoint; PRINTED page numbers have NOT been independently read
+  off the running heads in this pass and are recorded below as UNVERIFIED.
+  Byte offsets have NOT been logged for this file.
+
+OCR errors are preserved exactly as read ("a(Sninistration", "sm-pliced",
+  "Chm'ch", "thi^", "itseK", "w'hat"). Runs of whitespace collapsed to single
+  spaces. Nothing corrected or supplied.
+
+================================================================================
+§1. MR. ANDREWS, of Ohio (lay deputy) — 27 October 1874
+    IA leaf 237. Printed page reported elsewhere as 225 — UNVERIFIED.
+    Retrieved by query q="break up this Church" (1 match in the volume).
+================================================================================
+
+CONTEXT: this is the passage the brief's ITEM 1(e) asks for — a Deputy other
+than De Koven connecting incense to the doctrinal/symbolic question. It falls on
+the day the House of Deputies adopted the Committee's resolution containing the
+four examples.
+
+VERBATIM:
+
+"Now, what is the feeling of this Church through- out all the length and breadth
+of this land in refer- ence to these matters. Suppose that this Conven- tion,
+expressly or impliedly, were to give voice to the opinion that incense' in the
+a(Sninistration of the Holy Communion is admissible, and on Christmas next,
+throughout all the length and breadth of this land, when we come forward to the
+celebration of the Lord's Sup- per and present our bodies a living sacrifice
+holy and acceptable unto God, sm-pliced boys enter these chancels and wave the
+censer, what do you suppose the effect in this Chm'ch would be ? I ask you, gen-
+tlemen. I do not know what it would be here in New York ; I cannot tell : but
+throughout thi^ whole continent west of this city, if that one thing was
+authorized and it was un- derstood that this Church had committed itseK
+deliberately to it, I know well that it would break up this Church, and this
+Convention would never sit again. You would not have to discuss the question
+whether there could be a Church without a Bishop ; but you would have to discuss
+the ques- tion whether there should be Bishops without a Church. There is no
+mistake about this. It may seem strange to many living under different
+influences ; but there is no mistake about it. I appeal to my breth- ren without
+any distinction of Church, High or Low, and I say here that I have just as much
+faith in my High Church brethren on a question affecting the life of this Church
+as I have in my Low Church brethren."
+
+--- NOTE: AYCRIGG'S VERSION IS LOSSY. DO NOT QUOTE IT. ---
+Aycrigg, "Memoirs of the Reformed Episcopal Church" (1880), printed p. 71,
+renders this as: "objects to indirect teaching by symbols and not words.
+'Suppose that this Convention expressly or impliedly were to give voice to the
+opinion that incense....is admissible, and on Christmas next throughout....this
+land....surpliced boys enter these chancel»s and wave the censer.... It would
+break up this Church, and this Convention would not sit egain.'"
+
+Three material differences from the stenographic text:
+  (a) "would not sit egain" for "would never sit again";
+  (b) Aycrigg DROPS Andrews's geographical qualifier entirely — "I do not know
+      what it would be here in New York ; I cannot tell : but throughout thi^
+      whole continent west of this city";
+  (c) Aycrigg DROPS the conditional's full protasis — "if that one thing was
+      authorized and it was un- derstood that this Church had committed itseK
+      deliberately to it".
+Aycrigg's compression converts a doubly-hedged conditional into something much
+closer to a flat prediction. Quote the Debates text, not Aycrigg's.
+
+--- WHAT THIS PASSAGE IS AND IS NOT ---
+It is a CONDITIONAL. Andrews does not say that incense as then practised was
+breaking up the Church. He says the Church would break up IF the Convention
+"expressly or impliedly" declared incense admissible AND that authorization were
+acted on nationwide. No such authorization was proposed by anyone, and the
+Convention moved in the opposite direction. Anyone deploying this passage must
+carry the conditional with it.
+
+================================================================================
+§2. REV. DR. HALL, of Long Island — 27 October 1874
+    IA leaf 256. Printed page reported elsewhere as 244 — UNVERIFIED.
+    Retrieved by query q="downfall or the victory" (1 match in the volume).
+================================================================================
+
+VERBATIM:
+
+"Now, gentlemen, in all cases of this kind the ques- tion is whether you pass a
+Canon that means some- thing or not. That is the point. The Canon may be
+imperfect. The Canon must meet all the points. The Canon may be capable of the
+perversion of my eloquent friends, and yet the Canon may exactly meet the point
+; and outside of this Church it is re- cognized as meeting the point. Outside of
+this building it is perfectly well understood w'hat the Canon means. It means
+either the downfall or the victory of Ritualism."
+
+================================================================================
+§3. FURTHER MATERIAL IN THIS VOLUME — LOCATED BUT NOT INDEPENDENTLY VERIFIED
+================================================================================
+
+The following were reported to this pass from the same volume but were NOT
+re-verified by independent query. They are recorded as LEADS, with their
+reported locations, so a later pass can confirm or discard them. DO NOT QUOTE
+ANY OF THESE OUTWARD UNTIL VERIFIED.
+
+  LEAD 1 — Rev. Dr. FULTON, of Alabama, opening for the Committee on Canons,
+    Monday 26 October 1874, reported printed pp. 194-195. Reported wording
+    includes: "a great excitement of public opinion"; "while other bodies might
+    divide, might split into fragments ... our Church has been before the public
+    constantly ... whatever centrifugal influences it may include, the
+    centripetal is stronger than all"; "There has been a deep-seated feeling of
+    uneasiness in the Church itself"; "the evidence of anxiety was very manifest
+    in the deluge of petitions".
+    SIGNIFICANCE IF CONFIRMED: the deputy managing the canon framed the crisis
+    as excitement/uneasiness/anxiety and expressly denied the centrifugal
+    reading. Bears directly on ITEM 2.
+
+  LEAD 2 — Mr. RUGGLES, of New York, 30 October 1874, reported printed
+    pp. 324-325, on the PROVINCIAL system (not ritual): "the provincial system,
+    which involves the ruin of the Church"; "the proposition can lead to nothing
+    but disruption, dismemberment and total ruin"; "the ruin of this Church
+    would be a greater calamity to mankind than the r[u]in of the Union itself."
+    SIGNIFICANCE IF CONFIRMED: shows the existential register was available and
+    in active use in this House in this session, on a different subject.
+
+  LEAD 3 — Mr. McCRADY, of South Carolina, reported printed p. 322, on reducing
+    the size of the House: "you begin to destroy this Convention, and you begin
+    to destroy this Church."
+
+  LEAD 4 — Rev. Dr. SULLIVAN, of Illinois, 29 October 1874, reported printed
+    p. 294: "Because they ask only a small thing, we are told that the granting
+    of this small thing would be the entering in of the wedge; that, in other
+    words, in the end it would split and break up the Church."
+
+  LEAD 5 — Rev. Dr. HUNTINGTON, of Massachusetts, same page, reported: "because
+    we are in a crisis ... What is the crisis? ... To my mind, the crisis comes
+    of a far prof[o]under movement than that. It comes of a movement bo[r]n by
+    Divine Providence forty years ago in the marvellous brain of that
+    illustrious man, John Henry Newman."
+
+  LEAD 6 — an unnamed deputy, long-serving Chairman of the Committee on Canons,
+    reported printed p. 102: "the public, who suppose we are goin[g] to be split
+    into ten thousand pieces by these subjects; but I do not believe we shall
+    lose a hair b[y] them."
+
+================================================================================
+§4. COMPANION VOLUME, NOTED FOR THE REGISTER
+================================================================================
+
+"Debates of the House of Deputies ... 1871" — IA item "debateshousedep00churgoog".
+Reported to this pass as containing ZERO occurrences of: "existence of the
+Church", "existence of this Church", "very existence", "disruption", "disrupt",
+"rupture", "asunder", "dismember", "destroy this Church", "destroy the Church",
+"rend the Church", "divide this Church", "secession", "convulsion",
+"catastrophe". NOT independently verified in this pass.
+
+================================================================================
+END OF CAPTURE
+================================================================================

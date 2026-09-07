@@ -1,0 +1,186 @@
+CAPTURE HEADER — added by pass 260835-62, not part of the source.
+STAMP: 260835-62 (ASSIGNED BY BRIEF, NOT DERIVED).
+
+SOURCE: "Constitution and Canons of the Reformed Episcopal Church," as amended
+  July 1876, May 1877, and May 1878. New York: Edward O. Jenkins, 20 North
+  William Street, 1878. 52 pp.
+DIGITISED COPY: Internet Archive item "constitutioncano00refo_0" (University of
+  Illinois copy), https://archive.org/details/constitutioncano00refo_0
+  OCR derivative read in full: 83,425 characters, 2,986 lines.
+CAPTURED: 2026-09-06.
+
+DATING CAUTION: this is the 1878 amended edition, NOT a founding document of
+  1873. Constitution Articles VIII and X carry the footnote "* Amended, as
+  above, May, 1878." Article IX (§2 below) carries NO such footnote in the OCR,
+  which is consistent with, but does not prove, its standing unamended from an
+  earlier edition.
+  THE 1874 FIRST EDITION — "Constitution and canons of the Reformed Episcopal
+  Church: adopted in General Council, in the city of New York, May 1874,"
+  Edward O. Jenkins, 1874, IA item "constitutioncano00refo" — WAS NOT COLLATED
+  IN THIS PASS. Until it is, no claim should be made about when Article IX
+  entered the Constitution or in what words. Flagged as owed work.
+
+VERIFICATION STATUS: the full OCR derivative was searched exhaustively in this
+  pass for: incense, thurib, censer, ritualism, ceremonial, vestment, altar,
+  sacerdotal. All hits are reproduced or accounted for in §3. Line numbers below
+  are lines of the OCR derivative as read. No byte offsets logged against a
+  stored copy.
+
+OCR errors preserved exactly (hyphenation splits "pos¬ sesses", "Com¬ munion",
+  "Pro¬ hibited"; "Heformeb Episcopal <JII)ui*ct)." for the ornamental title
+  line). Nothing corrected or supplied.
+
+================================================================================
+§1. DECLARATION OF PRINCIPLES AS PRINTED IN THIS EDITION
+    OCR lines 262-308. Front matter, preceding the Constitution.
+================================================================================
+
+DECLARATION OF PRINCIPLES
+
+OF THE
+
+Heformeb Episcopal <JII)ui*ct).
+
+(Adopted December 2d, 1873, and Re affirmed May 18th, 1874.)
+
+The Reformed Episcopal Church, holding "the faith once delivered unto the
+saints," declares its belief in the Holy Scriptures of the Old and New
+Testaments as the Word of God, and the sole Rule of Faith and Practice ; in the
+Creed " commonly called the Apostles' Creed ; " in the Divine institution of the
+Sacraments of Baptism and the Lord's Supper; and in the doctrines of grace
+substantially as they are set forth in the Thirty-nine Articles of Religion.
+
+n.
+
+This Church recognizes and adheres to Episcopacy, not as of divine right, but as
+a very ancient and desirable form of church polity.
+
+III.
+
+This Church retaining a Liturgy which shall not be imperative or repressive of
+freedom in prayer, accepts the Book of Common Prayer, as it was revised,
+proposed, and recommended for use by the General Convention of the Protestant
+Episcopal Church, a. d. 1785, reserving full liberty to alter, abridge, enlarge,
+and amend the ■same, as may seem most conducive to the edification of the
+people, "provided that tne substance of the faith be kept entire."
+
+IV.
+
+This Church condemns and rejects the following erroneous and strange doc¬ trines
+as contrary to God's Word :
+
+First, That the Church of Christ exists only in one order or form of
+ecclesiasti¬ cal polity :
+
+Second, That Christian ministers are "Priests" in another sense than that in
+which all believers are " a royal priesthood : "
+
+Third, That the Lord's Table is an altar on which the oblation of the Body and
+Blood of Christ is offered anew to the Father :
+
+Fourth, That the Presence of Christ in the Lord's Supper is a presence in the
+elements of Bread and Wine :
+
+Fifth, That Regeneration is inseparably connected with Baptism.
+
+  [CAPTURE NOTE: this text is materially identical to the Declaration as read
+   by Cummins on 2 December 1873 and reprinted in the Memoir (captured at
+   SRC_PRIMARY_1873_Cummins_REC-Founding-Documents.txt §3), differing only in
+   accidentals of spelling and pointing. The dateline here — "Adopted December
+   2d, 1873, and Re affirmed May 18th, 1874" — is the Church's own attestation
+   of its adoption date.]
+
+  ⚠ NOTE THE PHRASE "erroneous and strange doctrines" in Article IV. It is the
+   older Anglican formula. De Koven, arguing against the 1874 PEC ritual canon,
+   objected precisely to its replacement of "the old-fashioned words, 'strange
+   or erroneous doctrines' into 'erroneous or doubtful doctrines'"
+   (SRC_PRIMARY_1874_DeKoven_Canon-On-Ritual-Speech_ProjectCanterbury.txt).
+   The REC retained the formula De Koven preferred. Recorded as an observation;
+   NOT developed, and NOT to be built into an argument without further work.
+
+================================================================================
+§2. CONSTITUTION, ARTICLE IX — THE ONLY CEREMONIAL PROVISION
+    OCR lines 629-641. Marginal side-note: "Ritualism Pro¬ hibited."
+================================================================================
+
+ARTICLE IX.
+
+Nothing calculated to teach — either directly or symbolically — that the
+Christian Ministry pos¬ sesses a Sacerdotal character, or that the Lord's Supper
+is a Sacrifice, shall ever be allowed in the worship of this Church ; nor shall
+any Com¬ munion Table be constructed in the form of an altar.
+
+  [marginal side-note printed alongside: "Ritualism Pro¬ hibited."]
+
+  [Immediately preceding is ARTICLE VIII (Prayer Book, Articles of Religion,
+   and forms; amended May 1878). Immediately following is ARTICLE X, the
+   unalterability clause, also amended May 1878.]
+
+ANALYSIS OF WHAT ARTICLE IX DOES AND DOES NOT DO — labelled as analysis, not as
+the document:
+  It prohibits by DOCTRINAL TEST, not by enumerated ceremony. The test is
+  whether a thing teaches, "either directly or symbolically," (a) a sacerdotal
+  ministry or (b) the Lord's Supper as a Sacrifice. Only ONE physical object is
+  named at all: the Communion Table, which may not be built in the form of an
+  altar.
+  It names NO ceremonial act and NO ceremonial ornament. Not incense. Not
+  candles, vestments, crucifixes, the sign of the cross, genuflection,
+  elevation, or reservation.
+  Its structure — a symbolic-doctrinal test with the marginal rubric "Ritualism
+  Prohibited" — is formally comparable to the 1874 PEC canon's "setting forth or
+  symbolizing erroneous or doubtful doctrines". The REC drafted the test and
+  attached NO list of examples to it. The PEC House of Deputies drafted an
+  equivalent test and DID attach a list, with incense first; the House of
+  Bishops then struck the list.
+
+================================================================================
+§3. EXHAUSTIVE SEARCH RECORD — CEREMONIAL VOCABULARY IN THIS VOLUME
+================================================================================
+
+The complete OCR derivative (83,425 characters) was searched, case-insensitively,
+for: incense | thurib | censer | ritualism | ceremonial | vestment | altar |
+sacerdotal.
+
+EVERY HIT, ACCOUNTED FOR:
+  line 302  — "altar"      — Declaration Art. IV Third: "the Lord's Table is an
+                             altar on which the oblation ... is offered anew".
+  line 633  — "sacerdotal" — Constitution Art. IX: "a Sacerdotal character".
+  line 637  — "altar"      — Constitution Art. IX: "in the form of an altar".
+  line 639  — "Ritualism"  — Constitution Art. IX marginal side-note,
+                             "Ritualism Pro¬ hibited."
+  line 1773 — "investment" — a false positive on the substring "vestment":
+                             "[3.] For investment, the interest or proceeds to
+                             be applied to such present support." Financial.
+                             NOT a vestments provision.
+
+  "incense"  — ZERO occurrences in the volume.
+  "thurible" — ZERO occurrences in the volume.
+  "censer"   — ZERO occurrences in the volume.
+  "ceremonial" / "ceremony" / "ceremonies" — ZERO occurrences in the volume.
+  "vestment" as a garment — ZERO occurrences in the volume.
+
+FINDING, STATED PLAINLY: the Reformed Episcopal Church's Constitution and Canons
+in its 1878 form contains no reference to incense, censers or thuribles, and no
+enumerated ceremonial provision of any kind beyond the prohibition on an
+altar-shaped Communion Table.
+
+================================================================================
+§4. RELATED ITEMS LOCATED BUT NOT CAPTURED — OWED WORK
+================================================================================
+
+  - Constitution and Canons, FIRST EDITION, adopted May 1874. IA item
+    "constitutioncano00refo". Open. NOT collated. Needed to date Article IX.
+  - REC Book of Common Prayer, 1874 (adopted Second General Council, New York,
+    May 1874). IA item "bookofcommonpray00refo". Open, 642 images. NOT searched.
+    Its rubrics are where a ceremonial prohibition would most naturally sit and
+    this pass did not look. THIS IS THE MOST SIGNIFICANT GAP IN ITEM 3.
+  - Articles of Religion (35 articles), adopted Third General Council, Chicago,
+    18 May 1875. Text available via Schaff, "Creeds of Christendom," vol. III
+    (CCEL). NOT captured. Post-dates the founding by 18 months.
+  - Journal of the First General Council, Philadelphia, 1873. HathiTrust full
+    view, vol. id wu.89077056000, catalog record 006801218. NOT consulted; the
+    Council proceedings were taken in this pass from the 1878 Memoir instead.
+
+================================================================================
+END OF CAPTURE
+================================================================================

@@ -1,0 +1,511 @@
+CAPTURE HEADER — added by pass 260835-62, not part of the source.
+STAMP: 260835-62 (ASSIGNED BY BRIEF, NOT DERIVED).
+
+SOURCE: Alexandrine Macomb Cummins (Mrs. G. D. Cummins), "Memoir of George
+  David Cummins, D.D., First Bishop of the Reformed Episcopal Church."
+  New York: Dodd, Mead & Company, 1878.
+DIGITISED COPY: Internet Archive item "memoirofgeorgeda00cummuoft" (University
+  of Toronto copy), https://archive.org/details/memoirofgeorgeda00cummuoft
+  OCR derivative read: memoirofgeorgeda00cummuoft_djvu.txt (1,066,765 characters)
+  IA server ia600801.us.archive.org, dir /13/items/memoirofgeorgeda00cummuoft
+CAPTURED: 2026-09-06.
+
+PROVENANCE CAUTION — READ BEFORE USING ANYTHING BELOW.
+  This volume is a memoir by Cummins's widow. It is therefore TWO things at
+  once, and the two must never be conflated:
+    (a) DOCUMENT — primary texts reprinted verbatim inside it (the withdrawal
+        letter, the Call, the Journal of the First General Council, the
+        Declaration of Principles, Cummins's letters to the New York Tribune).
+        These are the primary material and are what this capture is for.
+    (b) NARRATIVE — the biographer's own framing, which is partisan and which
+        in at least one material respect (see §NOTE A) differs in emphasis from
+        the documents it surrounds.
+  Every extract below is labelled DOCUMENT or NARRATIVE. Do not quote a
+  NARRATIVE passage as though it were a founding document.
+
+  SECOND CAUTION: this memoir is not the archival original of any of these
+  documents. It is an 1878 printing of them, five years after the events, by an
+  interested party. For deployment in outward-facing material, the Journal of
+  the First General Council (Philadelphia, 1873; HathiTrust full view, vol. id
+  wu.89077056000, catalog record 006801218) is the better source of record for
+  §3, and was NOT consulted in this pass. Flagged as owed work.
+
+PAGE MAPPING: in this scan, the BookReader parameter page=N returns printed
+  page N-5. Printed page numbers below were read off the running heads in the
+  OCR stream, not computed. OCR errors are preserved exactly as read
+  ("la bored", "Sacerdo talism", "itseK", "4H" for 414, "42O" for 420,
+  "EGOLESS" for ECCLESIAE). Runs of whitespace are collapsed to single spaces.
+  Nothing has been corrected or supplied.
+
+VERIFICATION STATUS: the reason "First" of the withdrawal letter (§1) was
+  independently re-verified in this pass by IA full-text search
+  (q="Ritualistic churches"), returning the identical wording. The remaining
+  extracts are single-pass transcriptions from the same OCR derivative and
+  carry that lower confidence. NO byte-offset log has been established for this
+  file. Before any verbatim quotation from §2, §3 or §4 is deployed outward,
+  re-verify it against the source.
+
+================================================================================
+§1. DOCUMENT — LETTER OF WITHDRAWAL
+    George David Cummins to the Rt. Rev. Benjamin Bosworth Smith,
+    Presiding Bishop. Dated New York, 10 November 1873.
+    Printed pp. 418-420.
+================================================================================
+
+  [NARRATIVE lead-in, p. 418: "This decision was reached November pth, 1873.
+   The next day the follow ing letter was written to Bishop Smith :"]
+
+" NEW YORK, November 10, 1873.
+
+' ' To the Right Rev. Benjamin Bosworth Smith, D. D. , Bishop of the Protestant
+Episcopal Church in the Diocese of Ken tucky :
+
+" RIGHT REVEREND AND DEAR BISHOP : Under a sol emn sense of duty, and in the
+fear of God, I have to tell you that I am about to retire from the work in
+which I have been engaged for the last seven years in the diocese of Ken tucky,
+and thus to sever the relations which have existed so happily and harmoniously
+between us during that time.
+
+" It is due to you and to my many dear friends in the diocese of Kentucky and
+elsewhere that I should state clearly the causes which have led me to this
+determination.
+
+" First, then, you well know how heavy has been the trial of having to exercise
+my office in certain churches in the dio cese of Kentucky, where the services
+are conducted so as to symbolize and to teach the people doctrines subversive
+of the ' truth as it is in Jesus,' and as it was maintained and de fended by
+the Reformers of the sixteenth century.
+
+  [running head: THE REFORMED EPISCOPAL CHURCH. 419]
+
+" On each occasion that I have been called upon to offi ciate in those
+churches, I have been most painfully impressed by the conviction that 1 was
+sanctioning and indorsing by my presence and official acts the dangerous errors
+symbolized by the services customary in Ritualistic churches.
+
+" I can no longer, by my participation in such services, be ' a partaker of
+other men's sins,' and must clear my own soul of all complicity in such errors.
+
+" 2. I have lost all hope that this system of error, now prevailing so
+extensively in the Church of England and in the Protestant Episcopal Church in
+this country, can be, or will be eradicated by any action of the authorities of
+the Church, legislative or executive. The only true remedy, in my judgment, is
+the judicious yet thorough revision of the Prayer Book, eliminating from it all
+that gives countenance, directly or indirectly, to the whole system of
+Sacerdotalism and Ritualism : a revision after the model of that recommended by
+the Commission appointed in England under royal au thority in 1689, and whose
+work was indorsed by the great names of Burnet, Patrick, Tillotson, and
+Stillingfleet, and others of the Church of England — a blessed work, which
+failed, alas ! to receive the approval of Convocation, but was taken up
+afterwards by the fathers of the Protestant Episcopal Church in the United
+States, and embodied in the Prayer Book of 1785, which they set forth and
+recommended for use in this country.
+
+" I propose to return to that Prayer Book, sanctioned by William White, and to
+tread in the steps of that saintly man, as he acted from 1785 to 1789.
+
+;< 3. One other reason for my present action remains to be given. On the last
+day of the late Conference of the Evan gelical Alliance I participated in the
+celebration of the Lord's Supper, by invitation, in the Rev. Dr. John Hall's
+church, in the city of New York, and united with Dr. Hall, Dr. Wm. Arnot, of
+Edinburgh, and Professor Dorner, of Berlin, in that
+
+  [running head: 42O GEORGE DAVID CUMMINS.]
+
+precious feast. It was a practical manifestation of the real unity of ' the
+blessed company of all faithful people' whom ' God hath knit together in one
+communion and fellowship in the mystical body of his son Jesus Christ. ' The
+results of that participation have been such as to prove to my mind that such a
+step cannot be taken by one occupying the position I now hold without sadly
+disturbing the peace and harmony of ' this Church, ' and without impairing my
+influence for good over a large portion of the same Church, very many of whom
+are within our own diocese.
+
+" As I cannot surrender the right and privilege thus to meet my fellow-
+Christians of other churches around the table of our dear Lord, I must take my
+place where I can do so without alienating those of my own household of faith.
+
+" I therefore leave the Communion in which I have la bored in the sacred
+ministry for over twenty-eight years, and transfer my work and office to
+another sphere of labor. I •have an earnest hope and confidence that a basis
+for the union of all Evangelical Christendom can be found in a com munion which
+shall retain or restore a primitive Episcopacy and a pure scriptural liturgy,
+with a fidelity to the doctrine of justification by faith only — ARTICULUS
+STANTIS VEL CADENTIS EGOLESS — a position to which the Old Catholics in Europe
+are rapidly tending, and which has already taken a definite form in the ' Church
+of Jesus,' in Mexico.
+
+" To this blessed work I devote the remaining years of life, content if I can
+only see the dawn of that blessed day of the Lord.
+
+" I am, dear bishop, faithfully yours in Christ,
+
+" GEORGE DAVID CUMMINS.
+
+" My address for the present is No. 2 Bible House, New York."
+
+  [OCR note: "ARTICULUS STANTIS VEL CADENTIS EGOLESS" is OCR corruption of
+   "ARTICULUS STANTIS VEL CADENTIS ECCLESIAE". The OCR reading is preserved
+   above; the correction is recorded here and NOT silently applied.]
+
+================================================================================
+§2. DOCUMENT — THE CALL
+    Covering note of 15 November 1873 transmitting a circular-letter dated
+    13 November 1873. Printed pp. 421-423.
+================================================================================
+
+  [NARRATIVE lead-in, p. 421: "On the 1 5th November Bishop Cummins put forth
+   a circular-letter which we give :"]
+
+--- covering note ---
+
+" NEW YORK, November 15, 1873.
+
+" DEAR BROTHER : The following circular-letter has been prepared in
+consultation with a few friends like minded with myself, who are now or have
+been ministers and laymen in the Protestant Episcopal Church. It is sent to you
+for your ear nest consideration. If approved by you, please sign your name to
+it, and thus give your consent to the transfer of your name to the original
+document for publication and more gene ral circulation.
+
+" Your brother in the Lord,
+
+" GEORGE DAVID CUMMINS.
+
+' '. No. 1 1 East Fifty-seventh Street. ' '
+
+--- the Call itself ---
+
+" NEW YORK, November 13, 1873.
+
+" DEAR BROTHER : The Lord has put into the hearts of some of his servants who
+are, or have been, in the Protestant Episcopal Church, the purpose of restoring
+the old paths of their fathers and of returning to the use of the Prayer Book of
+1785, set forth by the General Convention of that year,
+
+  [running head: 422 GEORGE DA VI D CUMMINS.]
+
+under the special guidance of the venerable William White, D.D., afterwards the
+first bishop of the same Church in this country.
+
+' ' The chief features of that Prayer Book, as distinguished from the one now in
+use, are the following :
+
+" i. The word 'priest ' does not appear in the book, and there is no
+countenance whatever to the errors of Sacerdo talism.
+
+" 2. The Baptismal Offices, the Confirmation Office, the Catechism, and the
+Order for the Administration of the Lord's Supper contain no sanction of the
+errors of Baptismal regen eration, the Real presence of the body and blood of
+Christ in the elements of the communion, and of a Sacrifice offered by a priest
+in that sacred feast.
+
+" These are the main features that render the Prayer Book of 1785 a thoroughly
+scriptural liturgy, such as all Evan gelical Christians who desire liturgical
+worship can use with a good conscience.
+
+" On Tuesday, the 2d day of December, 1873, a meeting will be held in
+Association Hall, corner of Twenty-third Street and Fourth Avenue, in the city
+of New York, at ten o'clock A.M., to organize an Episcopal Church on the basis
+of the Prayer Book of 1785 : a basis broad enough to em brace all who hold ' the
+faith once delivered to the saints, ' as that faith is maintained by the
+Reformed churches of Chris tendom ; with no exclusive and unchurching dogmas
+toward Christian brethren who differ from them in their views of polity and
+church order.
+
+" This meeting you are cordially and affectionately in vited to attend. The
+purpose of the meeting is to organize, and not to discuss the expediency of
+organizing. A verbatim reprint of the Prayer Book of 1785 is in press, and will
+be issued during the month of December.
+
+" May the Lord guide you and us by his Holy Spirit.
+
+" GEORGE DAVID CUMMINS."
+
+  [CAPTURE NOTE: no list of signatories is printed. The Memoir reprints the
+   Call over Cummins's name alone. The covering note asks recipients to add
+   their names to "the original document"; the resulting list is not reproduced
+   here. Whether such a list survives elsewhere was NOT determined in this
+   pass — UNMATCHED.]
+
+================================================================================
+§3. DOCUMENT — JOURNAL OF THE FIRST GENERAL COUNCIL
+    Association Hall, New York, 2 December 1873. Printed pp. 432-439.
+================================================================================
+
+  [NARRATIVE lead-in, p. 432: "We quote from the Journal of the first General
+   Council of the Reformed Episcopal Church :"]
+
+"ASSOCIATION HALL NEW YOR-K CITY, December 2, 1873.
+
+" On this day, the second of December, one thousand eight hundred and
+seventy-three, after a meeting of solemn praise and prayer, certain ministers
+and laymen, formerly connected with The Protestant Episcopal Church in the
+United States of America, assembled at ten o'clock A.M. in
+
+  [running head: THE FIRST GENERAL COUNCIL. 433]
+
+the building of the Young Men's Christian Association, in the city of New York.
+
+" THE RIGHT REVEREND GEORGE DAVID CUMMINS, D.D., at the close of the devotional
+exercises said : ' Christian brethren, by the goodness of God, and under the
+protection of the just and equal laws of this Republic, and in the exer cise of
+the invaluable ' liberty wherewith Christ hath made us free,' you are assembled
+here to-day in response to the circu lar-letter which I will now read.' [Bishop
+Cummins then read the circular-letter, which we have given before in these
+pages.]
+
+" Colonel Aycrigg was elected temporary President, and Mr. H. B. Turner,
+Secretary. After the meeting had been or ganized, the following Declaration of
+Principles, as drawn up by Bishop Cummins, was read by him and referred to a
+com mittee of five.
+
+--- THE DECLARATION OF PRINCIPLES AS READ, 2 DECEMBER 1873 ---
+
+" I. The Reformed Episcopal Church, holding ' the faith once delivered to the
+saints, ' declares its belief in the Holy Scriptures of the Old and New
+Testaments as the Word of God, and the sole rule of faith and practice ; in the
+Creed, commonly called the Apostles' Creed ;' in the Divine institu tion of the
+sacraments of baptism and the Lord's Supper ; and in the doctrines of grace,
+substantially as they are set forth in the Thirty-nine Articles of religion.
+
+" II. This Church recognizes and adheres to Episcopacy, not as of divine right,
+but as a very ancient and desirable form of Church polity.
+
+" III. This Church retaining a liturgy which shall not be imperative or
+repressive of freedom in prayer, accepts the Book of Common Prayer, as it was
+revised, proposed, and recommended for use by the General Convention of the
+Protestant Episcopal Church A. D. 1785, reserving full liberty to alter,
+abridge, enlarge, and amend the same, as may seem most conducive to the
+edification of the people, ' provided that the substance of the faith be kept
+entire. '
+
+  [running head: 434 GEORGE DAVID CUMMINS.]
+
+" IV. This Church condemns and rejects the following erroneous and strange
+doctrines as contrary to God's Word :
+
+" First. That the Church of Christ exists only in one order or form of
+ecclesiastical polity.
+
+" Second. That Christian ministers are ' priests ' in an other sense than that
+in which all believers are a ' royal priesthood. '
+
+" Third. That the Lord's table is an altar, on which the oblation of the body
+and blood of Christ is offered anew to the Father.
+
+" Fourth. That the presence of Christ in the Lord's Sup per is a presence in the
+elements of bread and wine.
+
+" Fifth. That Regeneration is inseparably connected with baptism.
+
+(Signed) " GEORGE DAVID CUMMINS.
+"MARSHALL B. SMITH.
+" ALBERT CRANE.
+" GUSTAVUS A. SABINE.
+"CHARLES D. KELLOGG."
+
+--- organization declared ---
+
+The report of the committee was then, on mo tion, unanimously adopted. The
+President then rising, said : " By the unanimous votes of ministers and laymen
+present, I now declare that on this second day of December, in the year of our
+Lord one thousand eight hundred and seventy- three, we have organized ourselves
+into a Church, to be known by the style and title of The Reformed Episcopal
+Church, conformable with the Declaration of Principles adopted this day, and
+with the Right Rev. George David Cummins, D.D., as .our Presiding Bishop."
+
+--- from Cummins's presidential address, pp. 435-438 ---
+  [The biographer states she quotes selectively ("from which we quote").
+   The address is therefore NOT captured complete here.]
+
+" Let not our good be evil spoken of. We have not met to destroy, but to
+restore ; not to pull down, but to recon struct. We would ' build again the old
+waste places, and raise up the foundations of past generations ;' we would ' re
+pair the breach and restore the old paths to dwell in.' (Isaiah 58 : 12.) And
+one in heart, in spirit, and in faith with our fathers, who at the very
+beginning of the existence of this na tion sought to mould and fashion the
+ecclesiastical polity which they had inherited from the Reformed Church of Eng
+land, by a judicious and thorough revision of the Book of Common Prayer, we
+return to their position and claim to be the old and true Protestant
+Episcopalians of the days imme diately succeeding the American Revolution."
+
+" This, then, is our attitude towards our brethren of the Protestant Episcopal
+Church. We are not schismatics (no man can be a schismatic who does not deny the
+faith); we are not disorganizes ; we are restorers of the old ; repairers of the
+breaches ; reformers."
+
+" Towards all other Christian people, of like precious faith, our attitude is
+that only of love, of sympathy, and of earnest desire to co-operate with them in
+the extension of the kingdom of the Redeemer — both theirs and ours. We regard
+our movement only as a step towards the closer union of all Evangelical
+Christendom. For this we shall labor and pray. We gladly acknowledge the
+validity of the ministerial orders of our brethren whom God has sent into his
+vineyard, and whose labors he has accepted and blessed. We shall invite all
+ministers of Evangelical churches to occupy our pulpits and to take part in our
+services. And we shall rejoice to meet them and their flocks as often as may be
+expedient around the Lord's table, and acknowledge that ' we, being many, are
+one body in Christ, and members one of another. '"
+
+================================================================================
+§4. DOCUMENT — REPLY TO DR. TOZER
+    Cummins to the Editor of the New York Tribune, dated New York,
+    13 October 1873. Printed pp. 412-414, under the heading
+    "A REPLY TO DR. TOZER, BY BISHOP CUMMINS, OF KENTUCKY."
+================================================================================
+
+  [NARRATIVE lead-in, p. 412: "In the col umns of the New York Tribune, October
+   6th, appeared a letter from an English clergyman — Rev. Dr. Tozer — late
+   Missionary Bishop to Zanzibar, to the Dean of Canterbury, and one to Bishop
+   Potter, of New York, censuring the dean for his participation in the joint
+   communion service. To this letter Bishop Cummins replied October i3th, in
+   the Tribune as follows :"]
+
+To the Editor of the Tribune :
+
+" SIR : In common with a vast number of Christian peo ple, and especially of
+Episcopalians, I have been exceedingly pained to read in your columns this
+morning a communica tion from the ' late missionary Bishop of Zanzibar, ' to
+Bishop Horatio Potter, of this city, severely censuring the Dean of Canterbury
+for his participation in a union communion ser vice at the Rev. Dr. Adams's
+church, on the afternoon of October 5th.
+
+' The eminent and profound scholar the Dean of Canter-
+
+  [running head: THE REFORMED EPISCOPAL CHURCH. 413]
+
+bury is able to defend himself against this attack. But I too am a bishop of
+the Protestant Episcopal Church, and one of three bishops of the same Church who
+have partici pated in the work of this Sixth General Conference of the
+Evangelical Alliance. On last Sunday afternoon, October 1 2th, I sat at the
+table of the Lord in the church of the Rev. Dr. John Hall, and partook of the
+Lord's Supper with him and the Rev. Dr. Arnot, of Edinburgh, and administered
+the cup to the elders of Dr. Hall's church. I deny most em phatically that the
+Dean of Canterbury or myself have vio lated ' the ecclesiastical order ' of the
+Church of England, or of the Protestant Episcopal Church in this country, or
+have been guilty of an act of ' open hostility to the discipline ' of said
+Churches. There is nothing in the ' ecclesiastical order ' or ' discipline ' of
+the Church of England, or of the Prot estant Episcopal Church in this country
+forbidding such an act of inter-communion among Christian people who are one in
+faith and love, one in Christ their great Head. The Church of England does not
+deny the validity of the orders of ministers of the non-Episcopal churches.
+Some of her greatest and noblest divines and scholars have gladly recog nized
+their validity. For many years after the beginning of the Reformation,
+Presbyterian divines were received in Eng land and admitted to parishes without
+reordination, as Peter Martyr and Martin Bucer, who held seats as professors of
+theology in the universities of Oxford and Cambridge.
+
+" I cannot believe that, as Bishop Tozer states, ' the larger part of the
+so-called Evangelical section of the [Episcopal] Church in New York share his
+feeling.' As far as I know them, the liberal Episcopalians of New York rejoice
+in the action of the Dean of Canterbury, and thank God for it. When the
+Episcopal Church of England and the United States has been able to clear
+herself (which may God in his infinite mercy soon grant it !) of the deadly evil
+of Ritualism, whose last development is the revival of the Confessional, then,
+and
+
+  [running head: 4H GEORGE DAVID CUMMINS.]
+
+not till then, may she become a ' haven of rest ' to many souls who would
+rejoice to see her the common centre and bond of organic unity to all Protestant
+Christendom.
+
+" GEORGE DAVID CUMMINS,
+" Assistant Bishop of Kentucky,
+" NEW YORK, October 13, 1873."
+
+================================================================================
+§5. NEGATIVE RESULT — THE WORD "INCENSE" IN THIS VOLUME
+================================================================================
+
+Full-text search of the complete OCR derivative (1,066,765 characters) was run
+for: incens / cense / censer / thurib / ceremoni / vestment.
+
+  "incens"   — TWO occurrences in the entire volume:
+                 (i)  printed p. 85 — "covered with the sweet incense of the
+                      Saviour's intercession", a devotional metaphor quoting
+                      Bickersteth on prayer. Not ceremonial.
+                 (ii) printed p. 543 — "indifferent or incensed laymen".
+                      The adjective, not the substance.
+  "censer"   — ZERO occurrences.
+  "thurible" — ZERO occurrences.
+  "ceremoni-"— ZERO occurrences within the span covering §1-§4
+               (printed pp. 412-441).
+
+NEITHER "incense" hit falls inside any document captured above. There is no
+reference to incense, censers or thuribles in the withdrawal letter, the Call,
+the Declaration of Principles, the Journal of the First General Council, or the
+Tozer reply.
+
+================================================================================
+§6. CORROBORATING NEGATIVE — CUMMINS'S OWN 1876 ITEMISATION OF RITUALIST ABUSES
+    Printed p. 515 (scan page 520). DOCUMENT (Cummins speaking, two and a half
+    years after the organization).
+================================================================================
+
+This passage matters because it is the one place where Cummins himself
+enumerates, in specifics rather than in general terms, what he objects to. Note
+what is in the list and what is not.
+
+" The two years and a half which have elapsed since the organization of the
+Reformed Church have more than justi fied the conviction which led us forth, the
+hopelessness of reform within the Protestant Episcopal Church. The General Con
+vention of 1874 almost contemptuously, and by an over whelming vote, rejected
+the petition of five hundred clergy men, asking only for relief in the use of
+certain phrases in the baptismal office for infants ... In the short period we
+have existed as a separate branch of the visible Church, we have seen the rapid
+and unchecked progress of the sacer dotal system in the old Church. You, in
+Illinois, have wit nessed the election of a bishop holding all the extreme views
+of Seymour and DeKoven, and the whole Oxford school. We, in Maryland, have lived
+to see six Ritualistic churches established within the limits of a single city,
+with altars and candles and strange vestments, with idolatrous prostration
+before material things, with auricular confession constantly practised without
+rebuke, with prayers for the dead openly offered, and the mass celebrated at
+funerals, and with even the error painted upon the windows, in the legend, '
+Pray for [the dead] ..."
+
+  ITEMISED: altars; candles; strange vestments; prostration before material
+  things; auricular confession; prayers for the dead; the mass at funerals;
+  legends painted on windows.
+  NOT ITEMISED: incense. Nor censers, nor thuribles.
+
+================================================================================
+§NOTE A — THE DIVERGENCE BETWEEN DOCUMENT AND NARRATIVE, RECORDED
+================================================================================
+
+The biographer's NARRATIVE at pp. 416-418 frames the withdrawal as precipitated
+by the personal abuse Cummins suffered after the Evangelical Alliance communion:
+
+  p. 416-417 (NARRATIVE): "To this letter many replies were made in the va rious
+  newspapers ... We are not willing that these pages should be sullied by the
+  bitter invective, the ter rible abuse hurled upon one who had only partaken of
+  that supper instituted by our blessed Lord..."
+
+  p. 417-418 (NARRATIVE): "The storm of bitterness had not spent itself when the
+  great and momentous question arose in Bishop Cummins's mind, whether he could
+  longer remain in a church where he had been so harshly judged, and where he
+  could not expect ever after to meet with any thing but censure and
+  disapproval."
+
+The withdrawal letter itself (§1) never mentions the abuse, the attacks, or
+Tozer. It orders its causes: (First) Ritualism in his own diocese, framed as
+services which "symbolize and ... teach ... doctrines subversive"; (2) despair
+of remedy by Church authority, with the 1785 Prayer Book as the constructive
+programme; (3) the Alliance communion, introduced as "One other reason for my
+present action remains to be given" and argued not as a wrong done to him but
+as proof that his position was untenable — "The results of that participation
+have been such as to prove to my mind that such a step cannot be taken by one
+occupying the position I now hold."
+
+The Call (§2) does not mention the Evangelical Alliance, Dr. Hall, or
+intercommunion at all. The Declaration of Principles (§3) does not mention them
+either; its nearest trace is Article IV's first rejected doctrine, "That the
+Church of Christ exists only in one order or form of ecclesiastical polity."
+
+RECORDED SO IT IS NOT LOST: the popular attribution of the split to the
+Evangelical Alliance communion service tracks the biographer's framing more
+closely than it tracks the founding documents.
+
+================================================================================
+END OF CAPTURE
+================================================================================

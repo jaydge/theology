@@ -1,0 +1,215 @@
+CAPTURE HEADER — added by pass 260835-62, not part of the source.
+STAMP: 260835-62 (ASSIGNED BY BRIEF, NOT DERIVED).
+
+⚠ THIS FILE IS LABELLED **SECONDARY**. Read §0 before using anything in it.
+
+SOURCE: Benjamin Aycrigg, "Memoirs of the Reformed Episcopal Church ... approved
+  by Bishop Cummins and the Council." New York: Edward O. Jenkins, 1880.
+DIGITISED COPY: Internet Archive item "memoirsofepiscop00aycruoft" (University
+  of Toronto copy), https://archive.org/details/memoirsofepiscop00aycruoft
+  IA server ia902804.us.archive.org, dir /9/items/memoirsofepiscop00aycruoft
+CAPTURED: 2026-09-06. Pages retrieved individually via
+  BookReaderGetTextWrapper (mode=djvu_xml) and reassembled from WORD elements.
+PAGE MAPPING: page=N returns printed page N-1 in this scan (page=49 → printed
+  48; page=158 → printed 157). Printed page numbers below were read off the
+  running heads.
+
+================================================================================
+§0. WHY THIS IS SECONDARY, AND WHERE IT MUST NOT BE USED
+================================================================================
+
+Aycrigg's book is a dated chronicle digesting newspaper reports. Its Preface
+(printed pp. 3-4) sets out an abbreviation key for the papers it draws on:
+(Epis.) Episcopalian of Philadelphia; (Ch. St.) Church and State of New York;
+(Prot. Ch.) Protestant Churchman; (Chn.) Hartford Churchman; (Ch. Jo.) Church
+Journal of New York; (So. Ch.) Southern Churchman; (St. X.) Standard of the
+Cross; (Obs.) New York Observer; (Trib.) New York Tribune; (Times); (Post);
+(Herald); (Rock).
+
+⚠ CRITICAL INTERPRETIVE POINT, ESTABLISHED IN THIS PASS. The lower-case roman
+numerals trailing Aycrigg's entries ("xii. 56, 58", "iii. Oct. 23", "xi. 43")
+are INTERNAL CROSS-REFERENCES TO CHAPTERS OF AYCRIGG'S OWN BOOK. They are NOT
+periodical volume citations. The actual newspaper source, where he gives one, is
+only ever the parenthetical abbreviation attached to the catchword.
+
+CONSEQUENCE: the Chapter III entries covering the 1874 House of Deputies ritual
+debate (printed pp. 70-75) carry NO parenthetical newspaper abbreviation at all
+— only internal cross-references. AYCRIGG DOES NOT NAME HIS SOURCE FOR THE
+DEBATE QUOTATIONS. He does name sources for adjacent material (the Republic of
+Oct. 21; Trib. of Nov. 2; Ch. St.; Epis.; Churchman) and cites "the official
+report" at p. 156.
+
+⚠ SUPERSESSION. The two 1874 floor speeches Aycrigg reports (Andrews of Ohio,
+Hall of Long Island) have since been located in the CONTEMPORARY STENOGRAPHIC
+RECORD — "Debates of the House of Deputies ... 1874", IA item
+"debatesofhouseof00epis_0", captured in this staging folder as
+SRC_PRIMARY_1874_Debates-House-of-Deputies_Ritual-Canon-Speeches.txt.
+THAT VOLUME GOVERNS. Aycrigg's versions are demonstrably lossy — his Andrews
+text drops both the geographical qualifier and half the conditional's protasis.
+DO NOT QUOTE AYCRIGG FOR EITHER SPEECH.
+
+WHAT THIS FILE IS STILL GOOD FOR: (a) Aycrigg's own contemporary-adjacent REC
+reading of the 1874 canon's outcome, which is itself evidence of how
+Evangelicals understood the result; (b) the Bishop H. W. Lee address, for which
+he names a source and for which no better text has been located; (c) his
+explicit statement that the Bishops' reason is unknowable.
+
+================================================================================
+§1. ⚠ AYCRIGG'S ACCOUNT OF THE STRIKING IS INACCURATE — CORRECTION RECORDED
+================================================================================
+
+Aycrigg states repeatedly (printed pp. 70, 74, 78, 156) that the House of
+Bishops struck TWO examples — incense and the crucifix — leaving the other two.
+
+THAT IS NOT WHAT THE JOURNAL RECORDS. Per the repo's own capture
+(src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt,
+extract F, printed p. 333), the Bishop of North Carolina moved:
+
+  "Resolved That § II. of the Canon on Ritual be amended by striking out the
+  words beginning with 'And as examples,' and ending with 'Book of Common
+  Prayer.'"  Which was adopted.
+
+That is the WHOLE parenthesis — ALL FOUR examples. The elevation and adoration
+clauses reappear in the enacted canon only because the COMMITTEE OF CONFERENCE
+reinserted them, in altered wording and under "such as" rather than "as
+examples ... declared to be considered as such" (extract H, printed p. 183).
+
+Aycrigg is describing the NET EFFECT across the whole legislative sequence, not
+the Bishops' actual motion. His shorthand is a trap: it makes the Bishops look
+as though they singled out incense and the crucifix for deletion on their own
+merits, when what they in fact did was delete the entire exemplary apparatus.
+RECORDED SO THE ERROR IS NOT INHERITED.
+
+================================================================================
+§2. AYCRIGG ON WHY THE BISHOPS STRUCK — HE SAYS HE CANNOT KNOW
+    Chapter XII, 59th Section. Printed p. 156.
+================================================================================
+
+VERBATIM:
+
+"Canon on Ritual (iii. Oct. 23 to 31, 1874). This proves that the Ritualists
+controlled the General Convention in some way that can only be surmised, since
+the House of Bishops acts in secret. In (iii. Nov. 14, 1874, Ritualist) some of
+the thirty-two points enumerated are beyond my knowledge. But the official report
+shows these simple facts. The House of Deputies wished to prohibit " Incense "
+and " Crucifix " in express terms. The House of Bishops refused. The Deputies
+insisted, and appointed a Committee of Conference. The Deputies yielded to the
+Bishops, and the words " Incense " and " Crucifix " were stricken from the Canon,
+and in this form the Canon was passed by ayes, 28 Clerical, and 28 Lay votes, to
+noes, 2 Clerical, and 1 Lay vote; or total, 56 to 3. So, that by an almost
+unanimous vote of the General Convention, the Ritualists are now officially
+informed that they may use Incense and the figure of Christ suspended on the
+Cross, without the danger of being charged with wrong."
+
+  [⚠ Aycrigg's "28 Clerical" here is inconsistent with his own p. 74 figure of
+   38 clerical and with the Journal, which records 38 clerical ayes. Treat his
+   vote figures as unreliable throughout; use the Journal.]
+
+VALUE OF THIS PASSAGE: an REC-approved 1880 source, hostile to the outcome,
+states in terms that the Bishops' reason "can only be surmised, since the House
+of Bishops acts in secret," and that his evidentiary basis is "the official
+report" — i.e. the Journal, which gives sequence and votes but no reasons. This
+is independent corroboration that NO CONTEMPORARY REASON WAS ON THE RECORD.
+
+================================================================================
+§3. THE RITUALIST'S ACCOUNT — MECHANICS WITHOUT A REASON
+    Chapter III, entry of 14 November 1874. Printed pp. 77-78.
+    Aycrigg's cited source: (Trib.) = New York Tribune, a signed letter over
+    the pseudonym "Ritualist".
+================================================================================
+
+The letter enumerates thirty-two "counts" against Ritualists, of which
+"29. Crucifixes.— 30. Incense.— 31. Elevation of sacred species.— 32.
+Eucharistic Adoration." VERBATIM continuation:
+
+"All these had been specified. But to the amazement of Catholics 28 out of the
+32 counts had been utterly abandoned, and the fight was to close around the last
+four only. Even the use of the crucifix and of incense at other times than the
+celebration was not touched. . . .So the Canon passed and went to the House of
+Bishops. . . .The latter struck their pen through. . . .the two. . . .concerning
+crucifixes and incense. . . .In this form the Canon passed both houses. . .
+.leaving two only. . . .The first of the two is— not any elevation whatever,
+but— ' the elevation of the elements in the Holy Communion in such a manner as to
+expose them to the view of the people as objects towards which adoration is to be
+made' It is something which is not and has not been the practice in any
+ritualistic Church. So that this specification was uselessly inserted. This
+reduces the entire indictment to one count only— namely, no adoration of the
+blessed Lord except such as are provided by the Rubrics of the Prayer Book. But
+as Dr. De Koven said : ' That is all we ask ;' the Prayer Book says : ' All
+kneeling.' And then the Canon went through with an almost unanimous vote."
+
+  [Aycrigg's bracketed note: this letter, "and one by a Reformed Episcopalian
+   (H. B. Turner), are printed together under the title 'Church Freedom' (pp.
+   16), ace. R. E. C. at 38 Bible House, New York." That pamphlet was searched
+   for on the Internet Archive in this pass and NOT FOUND — see the main
+   findings file, §2 search record.]
+
+FINDING: this account, from the Ritualist side, confirms the mechanics of the
+striking and gives NO reason for it either. Note also its own observation that
+the canon as drafted reached only "the celebration", leaving "the use of the
+crucifix and of incense at other times than the celebration ... not touched" —
+which independently corroborates De Koven's structural point of 31 October.
+
+================================================================================
+§4. BISHOP H. W. LEE — INCENSE COUPLED WITH SYMBOLIC DOCTRINE
+    Chapter II, entry of 13 June 1874. Printed p. 48.
+    Aycrigg's cited source: (Chn.) = Hartford Churchman, reporting Bishop Lee's
+    address to the Iowa diocesan Convention, 26 May 1874.
+    ⚠ SECONDARY AT TWO REMOVES: a newspaper report of a diocesan address,
+    reprinted in an 1880 chronicle. Not a General Convention document.
+================================================================================
+
+VERBATIM (the relevant sentence):
+
+"Who can doubt that such things as Eucharistic adoration, auricular confession,
+invocation of the Virgin Mary, prayers for the dead, vestments which symbolize
+peculiar Eucharistic doctrines, a scenic and sensuous worship with crossings and
+genuflections, lights and incense, and other kindred matters, are in entire
+opposition to the true spirit and history of the Church ; and that they, if
+permitted and practiced, would eat out its very vitals as a Reformed and
+Primitive Church, and sap its foundations as an Apostolic body, and as one
+restored from the errors and corruptions of ages of darkness and superstition ?"
+
+and, closing the same address:
+
+"An important crisis is upon us as a Church, or else is rapidly approaching, and
+let us meet it in the fear of God and with a firm determination."
+
+CAREFUL READING, labelled as analysis: Lee's metaphor claims that ritualism would
+destroy the Church AS Reformed, Primitive and Apostolic — a change of character,
+not an end of existence. He is also the nearest thing found to a sitting American
+bishop, in 1874, naming incense in a list of things opposed to the Church's true
+spirit. But note he names it in a list, with lights, and it is the VESTMENTS he
+qualifies as symbolizing doctrine, not the incense.
+
+================================================================================
+§5. OTHER 1874 DEBATE ENTRIES — RECORDED FOR NAVIGATION ONLY
+    Chapter III, printed pp. 71-72. ⚠ ALL SUPERSEDED BY THE DEBATES VOLUME
+    WHERE THE SAME SPEECH APPEARS THERE. Navigation aid; not for quotation.
+================================================================================
+
+  Oct. 27 — Rev. Mr. Bolton of Penn.: "Ritualism signifies Romanism"; of the
+    proposed canon, "Trophies of three weeks conclave— as the hatching of three
+    weeks incubation ... having condemned these things that do not exist in her
+    midst at all".
+  Oct. 27 — Rev. Dr. Garrett of Nebraska: "You never can draft a Canon
+    excluding certain things by negative statements which shall be so
+    comprehensive, so exhaustive in its qualifications, as that nobody may be
+    able to evade its provisions."
+  Oct. 27 — Mr. Blanchard of Maryland: "I claim that this Canon prohibits
+    nothing, enjoins nothing All the specifications here are mere words."
+  Oct. 27 — Rev. Dr. Hall of Long Island. SUPERSEDED — see the Debates capture.
+  Oct. 27 — Mr. Andrews of Ohio. SUPERSEDED — see the Debates capture.
+  Oct. 31 — "Ritual. Dr. De Koven regards the change (Oct. 31) as valuable."
+    [Consistent with De Koven's own pamphlet remarks of 31 October, which the
+     repo holds directly.]
+  Oct. 31 — Aycrigg's own bracketed editorial glosses: "[And the Ritualists have
+    triumphed]" and "[so incense and crucifix may be used. See above, Oct. 31.]"
+
+  ⚠ DO NOT CONFLATE: "Mr. Andrews of Ohio" (lay deputy, 27 Oct, incense and
+   symbols) and "Rev. Dr. Andrews of Virginia" (29 Oct, Infant Baptism) are
+   different men.
+
+================================================================================
+END OF CAPTURE
+================================================================================

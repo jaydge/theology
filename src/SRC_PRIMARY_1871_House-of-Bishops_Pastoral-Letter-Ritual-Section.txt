@@ -1,0 +1,157 @@
+CAPTURE HEADER — added by pass 260835-62, not part of the source.
+STAMP: 260835-62 (ASSIGNED BY BRIEF, NOT DERIVED).
+
+SOURCE: "Pastoral Letter to the Clergy and Laity of the Protestant Episcopal
+  Church in the United States of America, from the House of Bishops," General
+  Convention of 1871, Baltimore.
+DIGITISED COPY: Internet Archive item "pastoralletterto00epis_0",
+  https://archive.org/details/pastoralletterto00epis_0
+  IA server ia903106.us.archive.org, dir /24/items/pastoralletterto00epis_0
+  OCR derivative: 23,563 characters (the whole pamphlet).
+CAPTURED: 2026-09-06.
+
+WHY THIS DOCUMENT IS THE HIGH-VALUE TARGET FOR ITEM 2.
+  In the House of Bishops on 29 October 1874, the Bishop of Maryland moved a
+  substitute resolution declining to concur in the ritual canon, whose reasoning
+  included that "this House, referring to its Pastoral Letter issued in the last
+  General Convention as its own action, is well satisfied to rest upon the
+  response made to such teaching by the vote of the House of Deputies."
+  (Journal 1874, printed p. 334; captured in the repo at
+  src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt,
+  extract F.)
+  THE PASTORAL LETTER THERE REFERRED TO IS THIS ONE. It is the document the
+  1874 House of Bishops treated as its own standing action on ritual. If any
+  official body was going to characterize the ritual controversy in the register
+  White & Dykman later used, this is where it would be.
+
+  ⚠ CRITICAL QUALIFICATION ON THE 1874 MOTION: the Bishop of Maryland's
+  substitute was NOT ADOPTED. The Journal records "Which was not adopted." Any
+  citation of that "grave importance" language must cite it as a DEFEATED
+  MOTION, not as the action or the mind of the House of Bishops. Recorded here
+  because the phrasing is quotable and the error would be easy to make.
+
+  ⚠ SECOND CORRECTION TO A COMMON ASSUMPTION: this Pastoral Letter is NOT
+  printed in the 1871 Journal. It was published separately, which is why this
+  capture is from a standalone pamphlet item rather than from the Journal. The
+  only pastoral letter printed in the 1871 Journal is the one on the Chicago
+  conflagration (printed pp. 63-65). Likewise the 1874 Pastoral Letter is not
+  printed in the 1874 Journal, which records only a resolution "That the
+  Secretary of this House take order for the publication of the Pastoral
+  Letter."
+
+VERIFICATION STATUS: the phrase "a question of taste, temperament, and
+  constitution, until it becomes the expression of doctrine" was independently
+  re-verified in this pass by IA full-text search (q="question of taste"),
+  returning a single match at leaf 7 with identical wording. The remaining
+  extracts are single-pass transcriptions and carry lower confidence. Printed
+  page numbers are as reported (pp. 6-8) and were NOT independently read off the
+  running heads. No byte offsets logged.
+
+OCR errors preserved. Nothing corrected or supplied.
+
+================================================================================
+§1. THE RITUAL SECTION — VERBATIM
+    Printed pp. 6-8 (as reported; not independently verified).
+================================================================================
+
+"We counsel you to bear in mind, that, while, on the other hand, we must not
+suffer ourselves to deny any real good, by reason of mere popular outcries
+against ritual forms, so, on the other hand, we are never to allow professions
+of self-denying labor and service, to blind us to the actual dangers of any
+movement in the Church. What is known as *Ritualism* is mainly a question of
+taste, temperament, and constitution, until it becomes the expression of
+doctrine."
+
+"The doctrine which chiefly attempts, as yet, to express itself by ritual, in
+questionable and dangerous ways, is connected with the Holy Eucharist. That
+doctrine is, emphatically, a novelty in theology..."
+
+"...these are most certainly unauthorized by Holy Scripture... and most
+dangerous in their tendencies... Wherefore, if a teacher suggests this error, by
+act or posture, he places himself in antagonism to the doctrine of this Church,
+and the teaching of GOD'S Word, and puts in peril the souls of men."
+
+  [The letter's only use of "schism" concerns tract literature: publications
+   "the whole aim of which is to undermine the legitimate authority of the chief
+   pastors of the Church... and to lead to division and to schism."]
+
+  [The letter's summary of the age's threats: "the peculiar dangers of our age
+   are those of irreverence, lawlessness, and unbelief."]
+
+================================================================================
+§2. NEGATIVE SEARCH RECORD FOR THIS DOCUMENT
+================================================================================
+
+Terms returning ZERO occurrences in the whole pamphlet:
+  existence · crisis · calamity · convulsion · threaten · destroy · break ·
+  divide · asunder · disrupt · rend · ruin · overthrow · dissol- · separat- ·
+  secession
+
+Terms occurring and examined:
+  danger 8 · peril 2 · schism 1 · strife 1 — all as characterized in §1.
+
+FINDING: the peril this document asserts is to THE SOULS OF MEN and to reverence
+and order. The word "existence" does not occur in the document at all. The
+register of White & Dykman's "had threatened almost the very existence of the
+Church" is not reached, or approached, by the one official document on ritual
+that the 1874 House of Bishops adopted as its own.
+
+================================================================================
+§3. ADJACENT NEGATIVE — THE 1874 AND 1877 PASTORAL LETTERS
+================================================================================
+
+Reported to this pass, NOT independently verified, recorded as leads:
+
+  1874 Pastoral Letter (read by the Bishop of Easton at Calvary Church, New
+  York, 3 November 1874; reprinted The Church Journal, 19 November 1874):
+  reported to treat the roll of dead bishops, missions, "woman's work", the
+  shortage of candidates for Holy Orders, Confirmation, a three-part exposition
+  of Christian liberty, science and materialism, marriage and divorce, the
+  Lord's Day and amusements, and catechizing — and to mention RITUAL, RITUALISM,
+  THE CANON, and the Reformed Episcopal secession NOWHERE. Reported oblique
+  traces only: a quotation introduced as "Thus wrote one of our Bishops in a day
+  of strife and discord," and at the close "the many with whom, alas, we are not
+  in visible communion."
+  IF CONFIRMED, this is a strong negative: the Bishops' own pastoral at the
+  close of the very Convention White & Dykman describe does not raise the
+  subject.
+
+  1877 Pastoral Letter (the Convention that repealed the canon): reported
+  likewise never to mention ritual, ritualism, or the repeal.
+
+  ⚠ BOTH REQUIRE VERIFICATION BEFORE USE.
+
+================================================================================
+§4. APPENDIX IX, 1871 — REPORT ON RITUALISM BY THE COMMITTEE OF FIVE BISHOPS
+================================================================================
+
+Reported location: Journal of the General Convention 1871, printed pp. 598-601.
+Signed Alfred Lee, J. Williams, T. M. Clark, W. H. Odenheimer, J. B. Kerfoot.
+NOT independently verified in this pass. Reported register, recorded as leads:
+
+  "Assuredly, these are questions that touch the Church, and its ministers and
+  members, in many and very vital points, and involve many delicate as well as
+  precious relations."
+
+  "Unless something is done, and done soon, in the interests of uniformity,
+  these diversities bid fair to equal, if they do not exceed, those which, at
+  the period of the Anglican Reformation, were regarded as an evil to be
+  removed... They occasion, moreover, even now, confusion, trouble, and
+  perplexity among our people; and these evils must increase as their causes are
+  multiplied."
+
+  "...any such services are sources of disorder and confusion..."
+
+CROSS-REFERENCE: the repo already holds this report as
+  src/SRC_PRIMARY_1868_Five_Bishops_Report_On_Ritualism.txt (per the header of
+  src/SRC_PRIMARY_1871_GeneralConvention_Journal_Five-Bishops-Ritual-Report.txt,
+  which establishes that the Committee was appointed 29 October 1868 and
+  reported 5 October 1871). A later pass should check the register of the repo's
+  existing capture directly rather than relying on the reported wording above.
+
+  REPORTED REGISTER: administrative — confusion, trouble, perplexity, disorder,
+  an evil to be removed. Not existential.
+
+================================================================================
+END OF CAPTURE
+================================================================================
