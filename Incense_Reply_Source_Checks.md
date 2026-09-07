@@ -1,6 +1,6 @@
 # Incense Reply — Source Checks
 
-**Last updated: 260835-57** (created 260835-57; date-stamped, format yymmdd-iteration)
+**Last updated: 260835-65** (created 260835-57; date-stamped, format yymmdd-iteration) ⛔⛔ **260835-65 — THIS DOCUMENT'S SOURCE-OF-RECORD DESIGNATION FOR DE KOVEN IS WITHDRAWN AT TWO LOCI (§3 and §5), BY DATED NOTE, ON `260835-64`'s FINDING AND IN `260835-64`'s DRAFTED WORDING.** ⛔ **THE PAMPHLET IS NOT THE SOURCE OF RECORD FOR EITHER TEXT. The stenographic *Debates of the House of Deputies … 1874* is, and the two differ at the points this document turns on.** ⚠️⚠️ **CONSEQUENCE THAT TRAVELS WITH EVERY QUOTATION BELOW: every verbatim De Koven quotation in this file is pamphlet-sourced and must be re-verified against the Debates before outward deployment. That re-verification was NOT run by this pass and is owed.** ⛔ **No original sentence altered, no verdict changed, no finding added or revised, nothing minted.** ⭐ **REGISTERED in `PROJECT_STATE.md` §4 by this pass (JD's ruling; previously carried as owed at `260835-58`).**
 
 ---
 
@@ -271,6 +271,10 @@ Laughter 6, Eucharistic 18, Presbyter 15 — all matching).
   inserted — the pamphlet does not say which paragraph. `[Stated-Analysis]` The
   gradation-of-postures paragraph ("It may, indeed, be said …", L1285-1313) reads as
   written prose and is the likeliest candidate; this is inference, not stated.
+
+  > ⛔⛔ **FALSIFIED 260835-64. "The pamphlet is the only source of record for both texts" IS NO LONGER TRUE AND WAS NEVER TRUE — a contemporary verbatim stenographic report of both existed throughout.** *Debates of the House of Deputies … 1874*, reported for The Churchman, IA `debatesofhouseof00epis_0`, prints the 26 October speech at printed pp. 201-205 and the 31 October remarks at printed pp. 338-339. ⛔ **It is the source of record for both, and it differs from the pamphlet at the points that matter to this document** — above all, the 31 October remarks name **incense and the crucifix** where the pamphlet names only the crucifix. ⭐ **The `[Stated-Analysis]` identification of the gradation-of-postures paragraph as the inserted one is CONFIRMED by the stenographic report and may be relabelled `[Stated]` as to the fact of its absence from the floor record.** ⚠️ **Every verbatim quotation in this document that is sourced to the pamphlet must be re-verified against the Debates before outward deployment.** Prior text left standing per the never-alter rule.
+  >
+  > *Wording drafted at `260835-64` §4(c) (LOCUS 3) and applied here verbatim by `260835-65`; the applying pass composed none of it.* ⭐ **The stenographic capture is in the repo at `src/SRC_PRIMARY_1874_Debates-House-of-Deputies_DeKoven-Andrews-Beers-Ritual-Canon-Vote.txt` (added by `260835-64`; registered in `SRC_Manifest.md` by `260835-65`).**
 - **Order:** speech first, floor line second, in the same legislative episode and the same
   chamber. Both attributable to DeKoven.
 - `[Stated]` 31 Oct.: "there are two specifications left out, which said that the use of
@@ -362,6 +366,10 @@ Source of record: the T. Whittaker pamphlet (Project Canterbury transcription); 
 Journal does not print speeches. RJ's excerpt cites Psalm 141; the Malachi passage is the
 **next paragraph of the same speech**, not elsewhere in the debate.
 
+> ⛔ **CORRECTED 260835-64: source of record is the stenographic *Debates of the House of Deputies … 1874*, not the pamphlet. The Journal indeed does not print speeches; the Debates volume does.** Prior text left standing.
+>
+> *Wording drafted at `260835-64` §4(c) (LOCUS 4) and applied here verbatim by `260835-65`.*
+
 **Verdict on (a): VERIFIED.**
 
 ### 5b. Reports others using it, uses it himself, or both?
@@ -445,6 +453,8 @@ decides per `ORCHESTRATION.md` §7).
 ---
 
 ## Changelog
+
+- **260835-65 (2026-09-07):** ⛔⛔ **TWO DATED NOTES, BOTH WITHDRAWING THIS DOCUMENT'S SOURCE-OF-RECORD DESIGNATION FOR DE KOVEN'S TEXTS; NO ORIGINAL SENTENCE ALTERED AND NO VERDICT CHANGED.** **§3** — the sentence *"The pamphlet is the only source of record for both texts"* is **FALSIFIED**: a contemporary verbatim stenographic report of both existed throughout (*Debates of the House of Deputies … 1874*, IA `debatesofhouseof00epis_0`), and it names **incense and the crucifix** in the 31 October remarks where the pamphlet names only the crucifix. **§5** — the *"Source of record: the T. Whittaker pamphlet"* line is likewise corrected. ⭐ **BOTH NOTES USE `260835-64`'s OWN DRAFTED WORDING VERBATIM (its §4(c), LOCUS 3 and LOCUS 4); this pass composed none of the correction text and only recorded that it applied it.** ⭐⭐ **ONE GAIN FOR THIS DOCUMENT: its `[Stated-Analysis]` identification of the gradation-of-postures paragraph as the pamphlet's admitted insertion is CONFIRMED by the stenographic report and may be relabelled `[Stated]` as to the fact of that paragraph's absence from the floor record — the note says so and the relabelling itself is NOT performed here.** ⚠️⚠️ **OWED, AND NOT DISCHARGED HERE: every verbatim De Koven quotation in this file is pamphlet-sourced and needs re-verification against the Debates before outward deployment.** ⛔ **`passes/260835-57_incense-reply-source-checks_close-out.md` line 51 carries the same falsified claim and was DELIBERATELY NOT TOUCHED — it is a pass close-out and therefore historical record, per `260835-64`'s own instruction and the never-alter rule.** ⭐ **This file was also REGISTERED in `PROJECT_STATE.md` §4 this pass, on JD's ruling, in the same class and treatment as the `260835-44`…`260835-53` external-research series.** ⛔ **Nothing minted, no analytical conclusion added, revised or extended, nothing drafted or posted.**
 
 - **260835-57** — created. Five checks, five captures, verdicts: §1 PARTIAL; §2 VERIFIED
   (RJ's causal framing PARTIAL); §3 VERIFIED; §4 VERIFIED; §5 (a)(b) VERIFIED, (c)
