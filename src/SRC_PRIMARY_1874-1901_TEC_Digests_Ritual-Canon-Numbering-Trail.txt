@@ -1,0 +1,326 @@
+================================================================================
+SRC_PRIMARY_1874-1901_TEC_Digests_Ritual-Canon-Numbering-Trail.txt
+================================================================================
+CAPTURING PASS: 260835-61  (STAMP ASSIGNED, NOT DERIVED)
+RETRIEVED: 2026-09-06
+CAPTURED BY: sourced research pass. Repo ~/EMC/theology was READ ONLY; nothing
+             was created, edited or committed there. All output written to
+             ~/EMC/staging-61/. Web access via mcp__workspace__web_fetch only
+             (no curl/wget/scripted fetching).
+
+PURPOSE
+  To establish, from Digests of the Canons of record rather than from secondary
+  summaries, the canon-number under which the American ritual canon of 1874
+  ("Of the Use of the Book of Common Prayer", § ii) stood at each point between
+  its enactment in 1874 and its repeal in 1904.
+
+  Pass 260835-60 recorded the trail as UNVERIFIED and offered
+  20 -> 21 (1880s digest) -> 24 (1904), while the commissioning brief for that
+  pass had asserted 20 -> 22 -> 21 -> 24. Neither is what the dated Digests
+  show. See FINDING below.
+
+METHOD NOTE (carried forward from 260835-60, confirmed again here)
+  Two Internet Archive endpoints defeat the ~105k-character fetch ceiling by
+  returning one search or one page at a time:
+    full-text search inside one item:
+      https://<server>/fulltext/inside.php?item_id=<ID>&doc=<BASENAME>&path=<DIR>&q=<QUERY>
+    one page's OCR:
+      https://<server>/BookReader/BookReaderGetTextWrapper.php?path=<DIR>/<BASENAME>_djvu.xml&mode=djvu_xml&page=<N>
+  <server> from https://archive.org/metadata/<ID>/d1 ; <DIR> from
+  https://archive.org/metadata/<ID>/dir .
+  RELATION OF THE TWO PAGE INDICES: the "page" value returned by the
+  fulltext/inside.php search is the scan LEAF index; BookReaderGetTextWrapper
+  page=N returns leaf N+1. The PRINTED page number is neither of these and was
+  read off the running head/foot of the returned page wherever it is stated
+  below. Where it is not stated, it was not read, and is not asserted.
+
+  All excerpts below are Internet Archive OCR, page by page or via the item's
+  own full-text index. Treat as HIGH-CONFIDENCE-OCR, not a proofread collation.
+  Nothing below is paraphrase.
+
+================================================================================
+SOURCES USED, ALL DATED, ALL PRIMARY
+================================================================================
+D1874. Journal of the Proceedings ... General Convention ... 1874, with the
+       Digest printed with it. IA item "journalofproceed1874phil".
+       NOT RE-FETCHED IN THIS PASS. Quoted from the existing repo capture
+       src/SRC_PRIMARY_1874_GeneralConvention_Journal_Canon-20-Title-I_Ritual-Canon-Sequence.txt
+       (extract I), which was built from that Journal's OCR by pass 260835-57.
+
+D1880. Journal of the General Convention ... 1880 (with Constitution and canons
+       bound in, separate paging). IA item "journalofgeneral1880epis"
+       (University of Illinois; IA "volume" field 1880).
+       server ia600901.us.archive.org ; dir /34/items/journalofgeneral1880epis
+
+D1884. Digest of the Canons for the Government of the Protestant Episcopal
+       Church ... IA item "digestcanonsfor00churgoog" (Google/Univ. of
+       California scan; IA "date" and "year" fields both 1884).
+       server ia903203.us.archive.org ; dir /27/items/digestcanonsfor00churgoog
+
+D1887. Digest of the Canons ... "PASSED AND ADOPTED IN GENERAL CONVENTIONS OF
+       1859, 1862, 1865, 1868, 1871, 1874, 1877, 1880, 1883, AND 1886 ...
+       PRINTED FOR THE CONVENTION. 1887." IA item "digestofcanonsfo00episuoft".
+       server ia600404.us.archive.org ; dir /0/items/digestofcanonsfo00episuoft
+       >> This is the item pass 260835-60 cited only as "stated date is 1887"
+          from an IA copyright note. Its own title page, transcribed below,
+          dates and delimits it exactly.
+
+D1889. Journal and Digest of the Canons, 1889. IA item
+       "journaldigestofc1889unse" (IA "date" field 1889).
+       server ia601808.us.archive.org ; dir /10/items/journaldigestofc1889unse
+
+D1896. Digest of the Canons ... "[n.p.] Printed for the convention". IA item
+       "digestofcanonsfo00epis_0" (Library of Congress; IA "date" field 1896;
+       IA note "No title page found").
+       server ia600105.us.archive.org ; dir /5/items/digestofcanonsfo00epis_0
+
+D1901. Journal of the General Convention 1901, with the Digest bound in. IA
+       item "journalofgeneral1901unse" (IA "date" and "volume" fields 1901).
+       server ia600808.us.archive.org ; dir /27/items/journalofgeneral1901unse
+
+================================================================================
+EXCERPT 0 — D1887's OWN TITLE PAGE (fixing the date of the anomalous digest)
+================================================================================
+SOURCE: D1887, BookReaderGetTextWrapper page=6 (leaf 7). Unnumbered title leaf.
+VERBATIM (OCR; the decorative first line is badly read and is marked):
+
+    [decorative line, OCR "of tfje Canons" — the printed line is the second
+     half of a two-line ornamental title]
+    FOR THE GOVERNMENT OF THE
+    PROTESTANT EPISCOPAL CHURCH
+    [ornamental line, OCR "SJnitctr Siate .of"]
+    PASSED AND ADOPTED IX GENERAL CONVENTIONS OF 1859, 1862,
+    1865, 1868, 1871, 1874, 1877, 1880, 1883, AND. 1886.
+    TOGETHER WITH
+    [...]
+    PRINTED FOR THE CONVENTION.
+    1887.
+
+CORROBORATION that its content stops at 1886, from D1887's own full-text index:
+    "JOINT COMMITTEE TO CERTIFY THE CHANGES MADE IN THE CANONS BY
+    THE GENERAL CONVENTION OF THE PROTESTANT EPISCOPAL CHURCH
+    IN THE UNITED STATES OF AMERICA, HELD IN THE CITY OF CHICAGO,
+    ILL., IN THE MONTH OF OCTOBER, A.D. 1886."   [leaf 156]
+
+READING: D1887 is the Digest as it stood after the Convention of 1886. It is
+therefore a dated point in the trail, not an undated one.
+
+================================================================================
+EXCERPT 1 — 1874: CANON 20, RENUMBERED CANON 22
+================================================================================
+SOURCE: D1874, via repo capture ...1874_GeneralConvention_Journal... extract I
+        ("DIGEST / SUMMARY OF CANONICAL LEGISLATION printed with the Journal").
+VERBATIM (OCR as recorded in that capture):
+
+    "The following additional section, to be numbered ^ II., is to be added to
+    Canon 20 (renumbered Canon 22) of Title I., to wit :"
+
+and, in the Digest proper printed with the same Journal:
+
+    "22.
+    Of the Use of the Booh of Common Prayer.
+    § I. Every Minister shall, before all sermons and lectures, and on all
+    other occasions of public Tvorship, use the Book of Common Prayer ...
+    § II. [1.] If any Bishop have reason to believe, or if complaint be made
+    to him in writing by two or more of his Presbyters, that within his
+    jurisdiction ceremonies or practices not ordained or authorized in the
+    Book of Common Prayer ..."
+
+READING: the amendment was moved, debated, conferenced and enacted throughout
+as an addition to CANON 20 of Title I; the SAME Journal's Digest prints the
+canon as CANON 22. The renumbering is therefore contemporaneous with the 1874
+Convention and is stated on the face of that Convention's own Digest.
+
+================================================================================
+EXCERPT 2 — 1880: CANON 22
+================================================================================
+SOURCE: D1880, full-text index, q="Use of the Book of Common Prayer".
+VERBATIM (index of canons, leaf 729):
+
+    "Canon  22.  —  Of  the  Use  of  the  Book  of  Common  Prayer."
+    "§  i.  —  Use  of  the  Book  of  Common  Prayer  Required  on  all"
+
+(The canon text itself is at leaves 655-656: running side-note "Use of the Book
+of Common Prayer." and heading "Of the Use of the Book of Common Prayer,".)
+
+================================================================================
+EXCERPT 3 — 1884: CANON 22
+================================================================================
+SOURCE: D1884, full-text index, q="Use of the Book of Common Prayer".
+VERBATIM (index of canons, leaf 169):
+
+    "Canon 22. — Of the Use of the Book of Common Prayer."
+    "§ 1. — Use of the Book of Common Prayer Bequired on all"   [OCR "Bequired"]
+
+(Canon text at leaves 97-98.)
+
+================================================================================
+EXCERPT 4 — 1887 (i.e. as amended through 1886): CANON 21
+================================================================================
+SOURCE: D1887, BookReaderGetTextWrapper page=94 (leaf 95). PRINTED PAGE 89
+        (read off the page foot: "89").
+VERBATIM, in printed order on that page:
+
+    [running head]  CANON   21.
+    Of the Use of the Book of Common Prayer.
+
+    CANON   20.
+    Of the Due Celebration of Sundays.
+    All persons within this Church shall celebrate and keep the Lord's Day,
+    commonly called Sunday, in hearing the word of God read and taught, in
+    private and public prayer, in other exercises of devotion, and in acts of
+    charity, using all godly and sober conversation.a
+
+    CANON   21.
+    Of the Use of the Book of Common Prayer.
+    § i. Every Minister shall, before all sermons and lectures, and on all
+    other occasions of public worship, use the Book of Common Prayer, as the
+    same is or may be established by the authority of the General Convention
+    of this Church; and in performing such service, no other prayers shall be
+    used than those prescribed by the said Book.b
+
+    §.ii. [1.] If any Bishop have reason to believe, or if complaint be made
+    to him in writing by two or more of his Presbyters, that within his juris-
+    diction ceremonies or practices not ordained or authorized in the Book of
+    Common Prayer, and setting forth or symbolizing erroneous or doubtful
+    doctrines, have been introduced by any Minister
+
+    [marginal notes, same page:] "Observance of the Lord's Day." /
+    "Use of the Book of Common Prayer." / "Introduction of ceremonies or
+    practices not ordained or authorized in the Book of Common Prayer."
+
+READING: at 1886/87 the canon stands as CANON 21, immediately after CANON 20
+"Of the Due Celebration of Sundays".
+
+================================================================================
+EXCERPT 5 — 1889: CANON 22 (both canons have moved up one)
+================================================================================
+SOURCE: D1889, BookReaderGetTextWrapper page=920 (leaf 921). PRINTED PAGE 85
+        (read off the page: "85").
+VERBATIM, in printed order on that page:
+
+    [running head]  CANON  22.
+    ...
+    CANON  21.
+    Of the Due Celebration of Sundays.
+    All persons within this Church shall celebrate and keep the Lord's.Day,
+    commonly called Sunday, in ...
+
+    CANON  22.
+    Of the Use of the Book of Common Prayer.
+    § i. Every Minister shall, before all sermons and lectures, and on all
+    other occasions of public worship, use the Book of Common Prayer, as the
+    same is or may be established by the authority of the General ...
+
+    [marginal note, same page:] "Use of the Book of Com- mon Prayer."
+
+CORROBORATION from D1889's own index of canons (leaf 993):
+    "Canon 22. — Of the Use of the Book of Common Prayer."
+
+READING: between the Digest of 1887 and that of 1889 BOTH canons moved up by
+one (Sundays 20 -> 21; Use of the BCP 21 -> 22), i.e. a canon was inserted
+ahead of them, not a renumbering of this canon on its own account.
+
+================================================================================
+EXCERPT 6 — 1896 (i.e. as amended through 1895): CANON 24
+================================================================================
+SOURCE: D1896, full-text index, q="Use of the Book of Common Prayer".
+VERBATIM (index of canons, leaf 161):
+
+    "Canon  24.  —  Of  the  Use  of  the  Book  of  Common  Prayer."
+    "§  i. — Use  of  the  Book  of  Common  Prayer  Required  on  all  Occasions"
+
+(Canon text at leaves 87-88.)
+
+================================================================================
+EXCERPT 7 — 1901: CANON 24, WITH THE RITUAL SECTION STILL IN PLACE
+================================================================================
+SOURCE: D1901 (Digest bound with the Journal of 1901), full-text index,
+        q="Use of the Book of Common Prayer".
+VERBATIM (canon heading, leaf 725):
+
+    "CANON 24. Of the Use of the Book of Common Prayer."
+
+VERBATIM (table of contents of the canons, leaf 799; printed pages 87-88 as
+shown in that table):
+
+    "Canon 23.— Of the Due Celebration of Sundays --- 87
+     Canon 24.— Of the Use of the Book of Common Prayer.
+       § i.— Use of the Book of Common Prayer Required on all Occasions of
+             [OCR corrupt] ... 87
+       § ii. — Introduction of Ceremonies or Practices not Ordained or
+             Authorized not Allowed ... 88"
+
+READING: three years before the repeal, the canon stands as Title I, CANON 24,
+and its § ii is still the ritual section, under its own descriptive heading.
+
+================================================================================
+FINDING — THE TRAIL, AS THE DATED DIGESTS ACTUALLY SHOW IT
+================================================================================
+  1874  enacted as an added § II to Title I, CANON 20; printed in the Digest
+        issued with that same Convention's Journal as CANON 22.       [D1874]
+  1880  CANON 22                                                      [D1880]
+  1884  CANON 22                                                      [D1884]
+  1887  CANON 21   (Sundays canon is 20 on the same page)              [D1887]
+  1889  CANON 22   (Sundays canon is 21 on the same page)              [D1889]
+  1896  CANON 24                                                      [D1896]
+  1901  CANON 24, § ii still the ritual section                       [D1901]
+  1904  Title I, CANON 24 repealed                                    [1904 Jnl]
+
+  The canon's TITLE ("Of the Use of the Book of Common Prayer"), its § i
+  (requiring use of the Book), and its § ii (the ritual section) are continuous
+  and unchanged in substance across every one of these dated points.
+
+  THE NUMBER MOVES BECAUSE CANONS AHEAD OF IT WERE REPEALED OR ADDED, NOT
+  BECAUSE THIS CANON WAS EVER RE-ENACTED. That is demonstrated on the face of
+  D1887 and D1889: in both, this canon sits immediately after "Of the Due
+  Celebration of Sundays", and both canons shift together (20/21 in 1887,
+  21/22 in 1889).
+
+  CORRECTION TO THE TRAIL AS PREVIOUSLY STATED. Neither "20 -> 22 -> 21 -> 24"
+  nor "20 -> 21 -> 24" is right as a chronological sequence. The 21 reading is
+  real but belongs to ONE dated Digest (1886/87) and is bracketed on BOTH sides
+  by 22. Anyone deploying a numbering claim should say 20 (1874, at once 22),
+  then 22, briefly 21 in 1886/87, 22 again in 1889, 24 from 1895/96, repealed
+  1904 — or, better, should not deploy the numbering at all and should say
+  instead that the canon kept one title and one text throughout and changed
+  number only as its neighbours changed.
+
+================================================================================
+UNMATCHED
+================================================================================
+U1. THE INSTRUMENT OF EACH RENUMBERING. Not established for any step after
+    1874. What is established is the STATE at each dated Digest, not the
+    resolution (if any) that produced it. No Convention resolution renumbering
+    this canon was located for 1886, 1889, or 1892/1895.
+    NOTE, as evidence that such resolutions did exist as a class: the 1904
+    Journal, p. 134, contains a free-standing renumbering resolution in this
+    form — "Resolved, the House of Bishops concurring, That Title I., Canon 13
+    of the Digest be numbered Canon 20." So renumbering by express resolution
+    was an available instrument in this period. Whether the 1886, 1889 and
+    1892/1895 shifts were effected that way, or by the compilers of the Digest,
+    was NOT determined.
+    Searched: the 1904 Journal (full-text) for renumbering language; the dated
+    Digests themselves, which print the result and not the instrument. The
+    Journals of 1886, 1889, 1892 and 1895 were NOT searched for renumbering
+    resolutions; the 1889 volume was searched only for the canon heading.
+
+U2. DIGESTS FOR 1877, 1883, 1892, 1898. Not consulted. No IA item was located
+    for a General Convention Journal of 1877, 1892, 1895 or 1898 under the
+    "journalofgeneral<year>unse" naming that succeeded for 1901 and 1904;
+    metadata probes for journalofgeneral1877unse, journalofgeneral1892unse and
+    journalofgeneral1898unse all returned "Couldn't locate item". The gaps at
+    1877 and 1883 are bracketed by 1874/1880 and 1880/1884 respectively, all
+    reading 22, so no unobserved excursion is likely there; the gap 1889->1896
+    is the one in which the move to 24 occurred and it is NOT resolved to a
+    single Convention.
+
+U3. PRINTED PAGE NUMBERS for D1880, D1884, D1896 and D1901 excerpts. Those
+    excerpts were taken from each item's full-text index, which reports scan
+    leaf numbers only. The leaf numbers are given above; the printed page
+    numbers were not read off the pages and are not asserted. (D1887 p. 89 and
+    D1889 p. 85 WERE read off the pages themselves.)
+
+================================================================================
+END OF CAPTURE
+================================================================================

@@ -1,0 +1,419 @@
+================================================================================
+SRC_PRIMARY_1904_GeneralConvention_Journal_Canon-Revision-and-Canon-24-Repeal.txt
+================================================================================
+CAPTURING PASS: 260835-61  (STAMP ASSIGNED, NOT DERIVED)
+RETRIEVED: 2026-09-06
+CAPTURED BY: sourced research pass. Repo ~/EMC/theology was READ ONLY; nothing
+             was created, edited or committed there. All output written to
+             ~/EMC/staging-61/. Web access via mcp__workspace__web_fetch only.
+
+PURPOSE
+  To establish the CHARACTER of the 1904 repeal of Title I, Canon 24 from the
+  1904 General Convention Journal itself: whether it was a targeted removal of
+  that canon on its own merits, or an incident of a general revision in which
+  the canons were repealed, renumbered and re-enacted wholesale.
+
+  This capture supplements, and does not replace,
+  src/SRC_PRIMARY_1904-2018_TEC_Ritual-Canon-Repeal_and_BOS-Incense-Form.txt
+  (pass 260835-60), which holds the repeal resolution itself. It also CLOSES
+  that capture's UNMATCHED ITEM 2 (the House of Bishops' concurrence) —
+  see EXCERPT F below.
+
+SOURCE
+  JOURNAL OF THE GENERAL CONVENTION [of the Protestant Episcopal Church], 1904
+  (41st, Boston). IA item "journalofgeneral1904unse".
+    server ia600806.us.archive.org ; dir /27/items/journalofgeneral1904unse
+    full-text search:
+      https://ia600806.us.archive.org/fulltext/inside.php?item_id=journalofgeneral1904unse&doc=journalofgeneral1904unse&path=/27/items/journalofgeneral1904unse&q=<QUERY>
+    one page's OCR:
+      https://ia600806.us.archive.org/BookReader/BookReaderGetTextWrapper.php?path=/27/items/journalofgeneral1904unse/journalofgeneral1904unse_djvu.xml&mode=djvu_xml&page=<N>
+
+PAGE-INDEX CONVENTION USED THROUGHOUT
+  "leaf N" = the "page" value returned by fulltext/inside.php (scan leaf index).
+  BookReaderGetTextWrapper page=N returns leaf N+1.
+  PRINTED page numbers are stated only where read off the page's own head/foot.
+  All text below is Internet Archive OCR (tesseract). HIGH-CONFIDENCE-OCR, not
+  a proofread collation. Nothing below is paraphrase; OCR errors are left as
+  found.
+
+================================================================================
+EXCERPT A — THE INSTRUMENT WAS A JOINT COMMISSION'S WHOLESALE REVISION
+================================================================================
+SOURCE: Journal 1904, Appendix XIV, PRINTED PAGE 561 (read off the page foot:
+        "561"), BookReaderGetTextWrapper page=604 (leaf 605).
+VERBATIM (opening of the report, and its signatures):
+
+    APPENDIX XIV.
+
+    REPORT OF THE JOINT COMMISSION ON THE REVISION
+    OF THE CANONS.
+
+    The Joint Commission on the Revision of the Canons was continued
+    at the last General Convention. It has gone carefully over its last Re-
+    port both in Committee and in Commission, so far as it was not acted
+    upon at the General Convention of 1901, and herewith presents the
+    record of its work.
+
+    [paragraph on the death of Dean Hoffman, the Commission's secretary, in
+     1902, and on changes of membership]
+
+    Several Canons and parts of Canons proposed in the former Report
+    of the Commission were adopted at the last Convention, and these ap-
+    pear in the present Report as so enacted, except Canon 11, in which
+    additional provisions are now proposed. Certain slight changes have
+    been made desirable by the adoption of the amended Constitution,
+    and in some other respects a few of the Canons have been revised.
+    As the last General Convention appointed a Joint Commission to draw
+    a Canon on the subject of Provinces, and the Board of Missions re-
+    ferred the whole subject of the Missionary work of the Church to a
+    Committee to report to the General Convention of 1904, this Commis-
+    sion makes no Report in regard to a Canon "Of Provinces," or "Of the
+    Domestic and Foreign Missionary Society." The House of Deputies
+    also continued its Committee on Courts of Appeal with order to report
+    to the next Convention, and, therefore, this Commission has decided
+    not to report a Canon on this subject.
+
+    WM. CROSWELL DOANE, Chairman.
+    CHARLES G. SAUNDERS, Secretary.
+
+READING, STATED PLAINLY: the whole of the report's covering matter is
+housekeeping — membership, what the previous Convention had already adopted,
+and three subjects the Commission declined to report on (Provinces; the
+Domestic and Foreign Missionary Society; Courts of Appeal). It contains NO
+discussion of the ritual canon, NO reason given for dropping it, and no
+reference to ceremonial of any kind.
+
+================================================================================
+EXCERPT B — THE SCHEDULE IN WHICH THE REPEAL SITS
+================================================================================
+SOURCE: Journal 1904, PRINTED PAGE 134 (running head read off the page:
+        "134  JOURNAL OF THE GENERAL CONVENTION.  [15th Day."),
+        BookReaderGetTextWrapper page=177 (leaf 178). House of Bishops'
+        journal, recording a message received from the House of Deputies.
+VERBATIM (page opening, then the resolutions in printed order on that page):
+
+    [Communicated to the House of Deputies by Message No. 76. See p. 149.]
+
+    The following Message was received from the House of Deputies:
+
+        In GENERAL CONVENTION,
+        Boston, 14th day of the Session,
+        October 21, 1904.
+
+    MESSAGE No. 59.
+
+    The House of Deputies informs the House of Bishops that it has
+    adopted the following resolutions:
+
+    Resolved, the House of Bishops concurring, That Title I., Canon 8 of
+    the Digest be and is hereby repealed, and that in place thereof Canon 16,
+    as reported by the Commission, be and is hereby enacted.
+
+    Resolved, the House of Bishops concurring, That Title I., Canons 14
+    and 15 of the Digest be and are hereby repealed, and that in place
+    thereof Canons 17 and 18, as reported by the Commission, be and are
+    hereby enacted.
+
+    Resolved, the House of Bishops concurring, That Title I., Canon 17 of
+    the Digest be and is hereby repealed, and that in place thereof the fol-
+    lowing, to be numbered Canon 19, be and is hereby enacted:
+
+        Of Persons not Ministers in this Church officiating in any Congregation
+        thereof.
+        [text of the new canon follows]
+
+    Resolved, the House of Bishops concurring, that Title I., Canon 16 of
+    the Digest be and is hereby repealed.
+
+    Resolved, the House of Bishops concurring, That Title I., Canon 13 of
+    the Digest be numbered Canon 20.
+
+    Resolved, the House of Bishops concurring, That Title I., Canon 12 of
+    the Digest be and is hereby repealed, and that in place thereof Canon 21,
+    as reported by the Commission, be and is hereby enacted, with amend-
+    ment of Section III., so that the said section shall read as follows:
+        [§ III., on lay readers conforming to the directions of the Minister
+         in charge and of the Bishop, follows]
+
+    Resolved, the House of Bishops concurring, That Title I., Canon 24
+    of the Digest be and is hereby repealed.
+
+    Resolved, the House of Bishops concurring, That Title II., Canons 1,
+    2, and 9, Section i. of the Digest be and are hereby repealed, and that in
+    place thereof Canons 22 and 23, as reported by the Commission, be and
+    [a] hereby enacted, with the following amendment of Canon 22, Section
+    [continues on the next page]
+
+READING: the repeal of Canon 24 is its OWN resolution, in the standard form,
+but it stands as one item in an unbroken schedule of like resolutions carried
+in a single message. It is neither preceded nor followed by any preamble,
+recital, report or debate specific to it. Its distinguishing feature within the
+schedule is the ABSENCE of the "and that in place thereof Canon N ... be and is
+hereby enacted" clause that most of its neighbours carry.
+
+The same resolution is printed a second time in the House of Deputies' parallel
+record at leaf 367, in identical terms:
+    "Resolved, the House of Bishops concurring, That Title I., Canon 24 of the
+    Digest be and is hereby repealed."
+
+================================================================================
+EXCERPT C — THE SCALE OF THE REVISION: THE RESIDUAL REPEALING RESOLUTION
+================================================================================
+SOURCE: Journal 1904, leaf 203 (House of Bishops' record) and leaf 373 (House
+        of Deputies' parallel record). Retrieved via full-text search,
+        q="repealed". PRINTED page numbers not read.
+VERBATIM (leaf 203):
+
+    "Resolved, the House of Bishops concurring, That all the Canons of the
+    Digest not heretofore repealed, excepting Title I., Canons 13 and 21,
+    Title Il., Canon 13, Title I1., Canons 5 and 7, Title III., Canons 5 and 7,
+    and Title IV., Canons 1 and 4, be and are hereby repealed."
+
+    [leaf 373 prints the same resolution; its OCR of the excepted list reads
+    "excepting Title I., Canons 13 and 21, Title IJ., Canon 13, Title II.,
+    Canons 5 and 7, Title I1I., Canons 5 and te and Title IV., Canons 1 and 4".
+    The Title designations in both printings are partly mis-OCR'd; the sense —
+    a sweep of everything not already dealt with, saving a short list — is not
+    in doubt.]
+
+================================================================================
+EXCERPT D — THE NEW BODY OF CANONS, AND ITS EFFECTIVE DATE
+================================================================================
+SOURCE: Journal 1904, leaf 657 and leaf 815 (two printings of the last canon).
+        Retrieved via full-text search, q="repealed".
+VERBATIM (leaf 657):
+
+    "These Canons shall take effect on the first day of January, in the year of
+    our Lord, 1905; from and after which day all other Canons of this Church
+    are hereby and shall be deemed to be, repealed; provided, that such repeal
+    shall not affect any case of a violation of existing Canons committed
+    before that date; but such case shall be governed by-the same law asif no
+    such repeal had taken place."
+
+VERBATIM (leaf 815, the corresponding provision in the later printing, with the
+words "except as otherwise provided" added):
+
+    "These Canons, except as otherwise provided, shall take effect on the first
+    day of January, in the year of our Lord, 1905; from and after which day all
+    other Canons of this Church are hereby and shall be deemed to be, repealed;
+    provided, that such repeal shall not affect any case of a violation of
+    existing Canons committed before that date; but such case shall be gov-
+    erned by the same law as if no such repeal had taken place."
+
+VERBATIM (leaf 814, the heading of that canon in the later printing):
+    "CANON 54. Of Repealed Canons."
+VERBATIM (leaf 656, the same canon in the earlier printing):
+    "Canon 52. OF REPEALED CANONS."
+VERBATIM (leaf 656/814, its operative sentence):
+    "Whenever there shall be a repealing clause in any Canon, and the said
+    Canon shall be repealed, such repeal shall not be a re-enactment of the
+    Canon or Canons repealed by the said repealing clause."
+
+READING: the Convention enacted a complete new body of canons running to
+Canon 54 in its final numbering (the Commission's own report had proposed 52),
+displacing the Digest entirely as of 1 January 1905.
+
+================================================================================
+EXCERPT E — COUNT OF REPEALING RESOLUTIONS (A FLOOR, NOT A CENSUS)
+================================================================================
+METHOD AND ITS LIMIT: the item's full-text index was searched, q="repealed".
+It returned approximately ninety matched paragraphs. THE FULL-TEXT ENDPOINT MAY
+CAP ITS RESULT SET; the figures below are therefore a demonstrated FLOOR on
+what the 1904 Convention did, not a complete census, and must not be quoted as
+an exact count.
+
+Demonstrated from those matches:
+
+  (E.1) REPEAL-AND-RE-ENACT resolutions, each naming one or more Digest canons
+        repealed and one or more new Commission canons enacted in their place,
+        were returned for at least the following Digest canons:
+          Title I:   2, 3, 4, 5 and 7, 6 and 9 and 10, 8, 11, 12, 14 and 15,
+                     17, 18, 19 (many sections, in several resolutions),
+                     20, 22 and 23 and 25 and 26
+          Title II:  1 and 2 and 9§i, 3, 4, 8 and 6, 9 (several sections, in
+                     several resolutions), 10 and 11, 12
+          Title III: 1, 2, 3, 4, 7, 8
+          Title IV:  2
+        i.e. the great majority of the Digest, across all four Titles.
+
+  (E.2) BARE REPEALS — resolutions repealing a Digest canon with NO
+        "in place thereof" clause — were returned for exactly three canons of
+        Title I and one section of Title II:
+          "Resolved, the House of Deputies concurring, That Title I., Canon 1
+           of the Digest be and is hereby repealed;"                [leaf 94]
+          "Resolved, the House of Bishops concurring, that Title I., Canon 16
+           of the Digest be and is hereby repealed."                [leaf 178]
+          "Resolved, the House of Bishops concurring, That Title I., Canon 24
+           of the Digest be and is hereby repealed."                [leaf 178]
+          "Resolved, the House of Bishops concurring, that Title II., Canon 13,
+           § v., be and the same is hereby repealed."               [leaf 295]
+
+  (E.3) One RENUMBERING-ONLY resolution was returned:
+          "Resolved, the House of Bishops concurring, That Title I., Canon 13
+           of the Digest be numbered Canon 20."                     [leaf 178]
+
+READING: repeal-and-re-enact was the pattern; bare repeal was the exception,
+and Title I, Canon 24 is one of the exceptions.
+
+================================================================================
+EXCERPT F — THE HOUSE OF BISHOPS' CONCURRENCE
+   (closes UNMATCHED ITEM 2 of the 260835-60 capture)
+================================================================================
+SOURCE: Journal 1904, leaf 394, House of Deputies' record of a message from the
+        House of Bishops. Retrieved via full-text search,
+        q="Revision of the Canons". PRINTED page number not read.
+VERBATIM:
+
+    "The House of Bishops informs the House of Deputies that it has con-
+    curred with the House of Deputies in adopting the resolutions contained in
+    its Message No. 59, concerning the revision of the Canons, with amendments
+    in Canon 25, § II., so that it shall read:"
+
+READING: Message No. 59 — the message that carried the repeal of Title I,
+Canon 24 (EXCERPT B) — was concurred in by the House of Bishops. The recorded
+amendments on concurrence touch Canon 25, § II. only; nothing in the recorded
+concurrence reopens the Canon 24 resolution.
+NOTE ON SEARCH FORM: 260835-60 searched q="concurred in Message No. 59" and got
+no matches. The line above was reached instead by searching for the subject
+matter of the message. The phrase the Journal actually prints is "concurred
+with the House of Deputies in adopting the resolutions contained in its Message
+No. 59".
+
+================================================================================
+EXCERPT G — WHAT THE 1904 CONVENTION DID ENACT TOUCHING THE CONDUCT OF WORSHIP
+================================================================================
+SOURCE: Journal 1904, leaf 359 (as adopted in the House of Deputies' record),
+        leaf 627 ("Canon 15. OF MINISTERS AND THEIR DUTIES."), leaf 739 (the
+        canon as printed with marginal notes), leaf 824 (index of canons).
+        Retrieved via full-text search, q="control of the worship" and
+        q="Ministers and Their Duties". PRINTED page numbers not read.
+VERBATIM (leaf 739, the fullest printing, with its marginal note):
+
+    "Of Ministers and their Duties.
+     § I. [i] The control of the worship and the spirit- ual jurisdiction of
+     the Parish, are vested in the Rector, subject to the Rubrics of the Book
+     of Common Prayer, the Canons of the Chureh, and the godly counsel of the
+     Bishop. All other Ministers of the Parish, by whatever name they may be
+     designated, are to be re- garded as under the authority of the Rector."
+
+    [marginal note:] "Control of the worship and spiritual juris- diction of
+    Par- ish vested in Rector."
+
+VERBATIM (leaf 627): "Canon 15. OF MINISTERS AND THEIR DUTIES."
+VERBATIM (leaf 824, index): "§ I. [i.] Control of the worship and spiritual
+    jurisdiction of Parish vested in Rector"
+
+PROVENANCE OF THIS CANON WITHIN THE SCHEDULE: the resolution that enacted
+Canons 14 and 15 reads (leaf 359, House of Deputies' record):
+    "Resolved, the House of Deputies concurring, That Title I., Canons 18, 19,
+    § i. [2], and Canon 20, § iii. of the Digest be and are hereby repealed,
+    and that in place thereof Canons 14 and 15, as reported by the Com- [mis]
+    si[on] be and are hereby enacted, in the certain amendments, as fol- OWS:"
+
+READING, STATED PRECISELY: 1904 Canon 15 § I [i] was enacted IN PLACE OF Title
+I, Canons 18, 19 § i [2] and 20 § iii of the Digest — NOT in place of Canon 24.
+It is therefore not a successor to the ritual canon. It is, however, the
+provision that from 1905 onward locates the control of worship, and it locates
+it in the Rector, subject to the Rubrics, the Canons, and the Bishop's godly
+counsel.
+
+================================================================================
+NEGATIVE FINDINGS — SEARCHED, DELIBERATELY, AND ABSENT
+================================================================================
+All by full-text search of item journalofgeneral1904unse (an OCR-derived
+index; see CAVEAT below).
+
+  q = "incense"                          -> {"matches": []}
+  q = "ritual"                           -> {"matches": []}
+  q = "Use of the Book of Common Prayer" -> {"matches": []}
+  q = "ceremonies"                       -> 8 matches, ALL accounted for:
+        - six are the Prayer Book's own title-page formula "... AND OTHER RITES
+          AND CEREMONIES OF THE CHURCH ..." or the Standard Prayer Book canon
+          and Constitution Article quoting it (leaves 82, 172, 264, 396, 603,
+          604, 647, 696, 789)
+        - one is a resolution on the expenses "incident to the consecration of
+          Missionary Bishops and the attendant ceremonies" (leaf 196)
+        - one is a passage in a Bishop's address on parish clergy turning "to
+          books, or to ceremonies, which, if they have not the stamp of author-
+          ity, have, at least, the charm of novelty" (leaf 436) — an address,
+          not canonical business, and not about this canon
+      NONE of the eight concerns the repeal, or ritual regulation.
+
+  q = "Revision of the Canons"           -> 28 matches, all procedural:
+      referral of the Joint Commission's report to the Committee on Canons in
+      each House; orders of the day; particular canons (11, 12, 13, 14 and 15,
+      27, 36, 47) taken up, amended or referred by number. NOT ONE names
+      Canon 24 of the Digest, ritual, or ceremonial.
+
+READING: the ritual canon was struck by number. The 1904 Journal contains no
+debate on it, no committee report on it, no memorial about it, and does not use
+the word "ritual" or the word "incense" anywhere at all.
+
+CAVEAT ON THE NEGATIVES. These are null results over an OCR-derived full-text
+index of an ~840-leaf volume whose OCR quality is uneven (word confidences of
+0-30 are common in the index and table pages). A null result here is strong
+evidence of absence in the Journal's substantive text and is consistent with
+the independent testimony of White & Dykman quoted below; it is not the same
+thing as a page-by-page reading of the volume. It should be reported as "a
+full-text search of the 1904 Journal returns no occurrence of ...", not as
+"the word does not occur".
+
+================================================================================
+INDEPENDENT TESTIMONY ALREADY IN THE REPO, RESTATED HERE FOR CONVENIENCE
+================================================================================
+White & Dykman, ANNOTATED CONSTITUTION AND CANONS ... 1789-1952, vol. 1 (1954),
+printed p. 411, under "CONVENTION OF 1904". Captured verbatim by pass 260835-60
+at src/SRC_PRIMARY_1904-2018_TEC_Ritual-Canon-Repeal_and_BOS-Incense-Form.txt,
+EXCERPT 2.3. Re-verified in this pass by full-text search of IA item
+annotatedconstit01epis, q="Canon 24" (match at leaf 427):
+
+    "Title I, Canon 24, Of the Use of the Book of Common Prayer with the ritual
+    section, so called, forbidding certain ceremonies and prac- tices in the
+    administration of the Holy Communion, the consideration of which, in the
+    General Convention of 1871 and 1874, had threatened almost the very
+    existence of the Church, was repealed by this Con- vention, and without a
+    single voice being raised in its defense."
+
+W&D is a treatise, not a primary instrument. It is used here for ONE thing that
+the Journal does not itself state: the identification of Title I, Canon 24 as
+the canon carrying the ritual section. That identification is now independently
+established from the primary Digests — see the companion capture
+SRC_PRIMARY_1874-1901_TEC_Digests_Ritual-Canon-Numbering-Trail.txt, EXCERPT 7
+(Digest of 1901: "CANON 24. Of the Use of the Book of Common Prayer", with
+"§ ii. — Introduction of Ceremonies or Practices not Ordained or Authorized not
+Allowed"). W&D is therefore corroborative, no longer load-bearing.
+
+================================================================================
+UNMATCHED
+================================================================================
+V1. AN EXACT COUNT of canons repealed and of canons amended at the 1904
+    Convention. Not established. See EXCERPT E and its stated method limit. The
+    demonstrated floor is: the great majority of the Digest across all four
+    Titles repealed and re-enacted; at least three Title I canons and one Title
+    II section repealed outright; a residual clause repealing everything else
+    but eight named canons; a new body of 54 canons effective 1 January 1905.
+
+V2. PRINTED PAGE NUMBERS for EXCERPTS C, D, E, F and G. Those excerpts came
+    from the full-text index, which reports scan leaf numbers only. Leaf
+    numbers are given. EXCERPTS A (p. 561) and B (p. 134) were read off the
+    pages themselves.
+
+V3. WHETHER THE COMMISSION'S FULL REPORT (Appendix XIV, printed pp. 561 ff.)
+    contains, later in its body, any note on the omission of the ritual canon.
+    Only the report's covering matter at p. 561 was read (EXCERPT A). The body
+    of the report was not read page by page. The full-text negatives for
+    "ritual" and "ceremonies" cover this appendix along with the rest of the
+    volume, which is why this is recorded as a gap in method rather than a live
+    possibility.
+
+V4. THE 1904 CONVENTION'S OWN DEBATE, as distinct from its Journal. General
+    Convention Journals record motions, messages and votes; they do not record
+    debate. The absence of debate IN THE JOURNAL is therefore weaker evidence
+    than it looks, and this pass did NOT consult contemporary periodical
+    reporting (e.g. The Churchman, The Living Church) for October 1904. If the
+    "silently" claim is to be pressed at all, that is where it would have to be
+    tested. NOT ATTEMPTED.
+
+================================================================================
+END OF CAPTURE
+================================================================================
