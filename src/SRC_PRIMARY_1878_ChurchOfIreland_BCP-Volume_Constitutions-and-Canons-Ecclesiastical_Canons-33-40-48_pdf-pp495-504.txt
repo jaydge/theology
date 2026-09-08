@@ -1,0 +1,476 @@
+CAPTURE HEADER — added by pass 260835-69, not part of the source.
+
+SOURCE: src/Book_of_Common_Prayer_(Church_of_Ireland,_1878).pdf (repo copy).
+  PDF metadata: Title "The Book of common prayer"; Producer "Google Books PDF
+  Converter (rel 3 12/12/14)"; 514 pages; page size 636.72 x 844.32 pts;
+  19,607,519 bytes. Scanned from a Bodleian Library copy (the "BODLEIAN /
+  23 MAY / OXFORD" accession stamp is visible on PDF p. 10).
+
+TITLE PAGE (PDF p. 9), transcribed as printed, line breaks preserved, no
+modernization:
+
+    THE BOOK
+    OF
+    COMMON PRAYER,
+    AND ADMINISTRATION OF
+    THE SACRAMENTS,
+    AND
+    OTHER RITES AND CEREMONIES OF THE CHURCH,
+    ACCORDING TO THE USE OF
+    The Church of [Ireland]:
+    TOGETHER WITH
+    THE PSALTER OR PSALMS OF DAVID,
+    POINTED AS THEY ARE TO BE SUNG OR SAID IN CHURCHES ;
+    AND THE FORM AND MANNER OF MAKING, ORDAINING , AND CONSECRATING
+    OF
+    BISHOPS, PRIESTS, AND DEACONS.
+    DUBLIN :
+    PUBLISHED BY AUTHORITY OF
+    THE GENERAL SYNOD OF THE CHURCH OF IRELAND ,
+    By the Association for Promoting Christian Knowledge,
+    AND SOLD AT THE DEPOSITORY, 37 DAWSON STREET.
+    MDCCCLXXVIII .
+
+  [Extraction defect: the OCR renders "Ireland" as "Freland" on the title page
+  (initial I read as F). Bracketed restoration supplied; nothing else altered.]
+  Imprint verso (PDF p. 10): "Printed by the DUBLIN STEAM PRINTING COMPANY,
+  MIDDLE ABBEY STREET."
+
+CAPTURE METHOD: The volume is a two-column setting. pdftotext -layout across the
+  full page width INTERLEAVES the two columns and is unusable for quotation.
+  Column boundary located by `pdftotext -bbox` xMin histogram on PDF p. 501:
+  a clean gutter at c. 260-280 pts, right column starting at c. 280. Each column
+  was therefore cropped separately —
+      LEFT  : pdftotext -layout -x 0   -y 0 -W 272 -H 845
+      RIGHT : pdftotext -layout -x 272 -y 0 -W 365 -H 845
+  — and the crops are concatenated in reading order in §B below.
+  KNOWN EXTRACTION DEFECT, left uncorrected in §B: every canon opens with a
+  DROP CAPITAL, and the extractor scrambles the drop-cap paragraph openings
+  (e.g. Canon 38 extracts as "O incense or any substitution therefor, / Nºor
+  imitation thereof" — the drop-cap "N" and its superscript "o" are pulled out
+  of sequence). Running-head fragments are also left as extracted.
+  Because the scrambling falls exactly on the opening words of the clauses this
+  pass is quoting, the affected canons were INDEPENDENTLY RE-READ by rendering
+  the page images at 400 dpi (pdftoppm -r 400 -png) and running tesseract
+  (--psm 4) over the cropped columns. Those OCR readings are given in §A.
+  Where §A and §B agree on a word, the reading is treated as verified; the
+  drop-cap openings rest on §A alone and are marked.
+CAPTURED: 2026-09-08.
+
+⚠️ STRUCTURAL FINDING, recorded here because it bears on how this text may be
+  cited: the "CONSTITUTIONS AND CANONS ECCLESIASTICAL" are BOUND IN this 1878
+  Prayer Book volume, after the Articles of Religion and the Table of Kindred
+  and Affinity, beginning at PDF p. 495 — but they are NOT listed in the
+  volume's own "CONTENTS OF THIS BOOK" (PDF p. 11), which runs 1-34 and ends
+  at "34. Table of Kindred and Affinity within which none may marry together."
+  The Canons are printed WITH the Prayer Book; on the book's own reckoning of
+  its contents they are not part OF it.
+
+=====================================================================
+§A. VERIFIED READINGS OF THE CANONS QUOTED BY THIS PASS
+    (400 dpi page image + tesseract, cross-checked against the pdftotext
+    column crops in §B; drop-cap openings rest on the image OCR)
+=====================================================================
+
+--- HEADING AND ADOPTION LINE (PDF p. 495) ---
+
+    CONSTITUTIONS AND CANONS ECCLESIASTICAL.
+
+    Agreed to and Decreed, by the Archbishops and Bishops, and the Repre-
+      sentatives of the Clergy and Laity of the Church of Ireland, at General
+      Synods held in Dublin in the years of our Lord 1871 and 1877.
+
+--- CANON 35 (PDF p. 501, left column) ---
+
+    35. Of Lights at the Communion Table, or elsewhere.
+
+    THERE shall not be any lighted lamps or candles on the Communion Table,
+    or in any other part of the Church, during the celebration of the Services
+    or the Administration of the Sacraments, or any other of the Public or
+    Common Prayers or Rites of the Church, or during Public Preaching, except
+    when they are necessary for the purpose of giving light.
+
+    [The printed canon number is "35."; the tesseract pass rendered it "30." at
+    one point — a digit misread, contradicted by both the sequence 34-35-36 and
+    the pdftotext crop in §B, which reads "35." Recorded here rather than
+    silently corrected.]
+
+--- CANON 36 (PDF p. 501, right column) ---
+
+    36. Crosses on or behind the Communion Table forbidden.
+
+    THAT there shall not be any cross, ornamental or otherwise, on the Com-
+    munion Table, or on the covering thereof, nor shall a cross be erected or
+    depicted on the wall or other structure behind the Communion Table, in any
+    of the churches or other places of worship of the Church of Ireland.
+
+--- CANON 37 (PDF p. 501, right column) ---
+
+    37. Of the Administration of the Lord's Supper.
+
+    IN the administration of the Lord's Supper, the elevation of the Paten or
+    Cup beyond what is necessary for taking the same into the hands of the
+    officiating Minister, the use of wine mixed with water, or of wafer bread,
+    and all acts, words, ornaments, and ceremonies other than those that are
+    prescribed by the Order in the Book of Common Prayer, are hereby declared
+    to be unlawful, and are prohibited. Provided always that nothing herein
+    contained shall be taken to prohibit the customary act of reverence when
+    the name of our Blessed Lord is mentioned in reciting the Nicene Creed.
+
+--- ⭐ CANON 38 — THE INSTRUMENT SOUGHT (PDF p. 501, right column) ---
+
+    38. Of Incense.
+
+    NO incense or any substitution therefor, or imitation thereof, shall, at
+    any time, be used in any church or chapel, or other place in which the
+    Public Services of the Church are celebrated.
+
+    [Both readings agree on every word. §B (pdftotext) gives: "O incense or any
+    substitution therefor, / Nºor imitation thereof, shall, at any / time, be
+    used in any church or chapel, or / other place in which the Public Services
+    of / the Church are celebrated." — the drop-cap "N" displaced. §A (image
+    OCR) gives: "O incense or any substitution therefor, / or imitation
+    thereof, shall, at any / time, be used..." with the drop cap dropped. The
+    reading "NO" as the opening word follows from the two extractions read
+    together and from sense; it is not in dispute.]
+
+--- CANON 39 (PDF p. 501, right column) ---
+
+    39. Of Processions.
+
+    IT shall be unlawful to carry any cross, banner, or picture through any
+    church or church-yard, in any religious service or ceremonial. Nor shall
+    any procession take place therein as a Rite or Ceremony in connection with
+    any part of such Service, unless prescribed by the Bishop, or by the
+    Rubrics of the Book of Common Prayer.
+
+    [The clause "to carry any cross," is supplied by §A only; §B loses it in
+    the drop-cap scramble ("IT ban shall be unlawful / ner, or picture through
+    any church"). §B's surviving fragment "ban- / ner" is consistent with §A's
+    "cross, banner".]
+
+--- CANON 40 (PDF pp. 501-502, right column then left) ---
+
+    40. Of the Ornaments of the Church.
+
+    NO change shall be made in the structure, ornaments, or monuments of any
+    church (whether by introduction, alteration, or removal) unless with the
+    consent of the Incumbent and Select Vestry, and until an accurate
+    description or design of the proposed change shall have been approved of by
+    the Bishop or Ordinary : Provided always that any person aggrieved by such
+    proposed change, or by the refusal of the Ordinary, Incumbent, or the
+    Select Vestry, shall have the right to appeal to the Diocesan Court, which
+    Court shall have full authority to hear and determine such appeal ; and an
+    appeal from said Court shall in all cases lie to the Court of the General
+    Synod, which shall have full authority to hear and determine the same.
+
+--- ⭐ CANON 48 — THE PENALTY (PDF pp. 502-503) ---
+
+    48. The Authority of the General Synod established.
+
+    THE General Synod of the Church of Ireland, lawfully assembled, being the
+    supreme authority in matters ecclesiastical in this Church, doth pronounce
+    and decree that if any person holding any Office within the same shall
+    wilfully contemn, neglect, or violate any of the Canons or Laws thereof,
+    and shall have been duly convicted, he shall for the first offence be
+    admonished or suspended from his Office for a period not exceeding the term
+    of three months, according to the nature or extent of such offence ; and
+    for a second or subsequent offence he shall be admonished, suspended, or
+    deprived of his Office, according to the extent and nature of the offence,
+    and in each case with or without costs.
+
+    [The canon's opening — "THE General Synod of the Church of Ireland,
+    lawfully assembled, being the supreme authority in matters ecclesiastical
+    in this Church" — is the most heavily scrambled passage in §B, which gives
+    "TIHE / FIreland, odofof Christ / Synname / .Generainl.the rch of / the
+    Chulawfully" on p. 502 and picks up cleanly at "assembled, being the
+    supreme authority in ... matters ecclesiastical ... in this Church" on
+    p. 503. §A (image OCR of p. 503 left column) reads the continuation
+    verbatim from "assembled, being the supreme authority in matters
+    ecclesiastical in this Church, doth pronounce and decree..." onward.
+    ⚠️ The words "THE General Synod of the Church of Ireland, lawfully" are a
+    RECONSTRUCTION from the scrambled fragments plus the canon's own printed
+    heading; they are NOT an independently verified reading. Anyone deploying
+    the opening clause should re-read PDF p. 502 right column, foot.]
+
+--- CANON 47 (PDF p. 502, right column) — appeal route ---
+
+    47. Right of Appeal.
+
+    ANY person aggrieved by the decision of the Ordinary, or by his refusal to
+    hear and determine on any matter left to his decision by these Canons,
+    shall have the right to appeal to the Diocesan Court and from it to the
+    Court of the General Synod.
+
+--- WHAT FOLLOWS THE CANONS (PDF pp. 503-505) ---
+
+    "ADDITIONAL CANONS, 1877." — numbered I-VI, on repelling a notorious sinner
+    from the Holy Communion and the appeal from such repulsion. Additional
+    Canon III refers to "the 3rd section of the Statute of Ecclesiastical
+    Tribunals, 1870".
+
+    Then, PDF p. 504: "By direction of the General Synod is here printed the
+    30th of the English Canons of 1604, which is referred to in the Rubric at
+    the end of the office of 'Publick Baptism of Infants' in the Prayer Book of
+    the Church of Ireland." followed by the text of that English canon,
+    "30. The lawful Use of the Cross in Baptism explained." This runs to PDF
+    p. 505 and is the last matter in the volume.
+
+--- CONTENTS OF THIS BOOK (PDF p. 11) — full list, as printed ---
+
+    1. THE Prefaces. 2. The Order how the Holy Scripture is appointed to be
+    read. 3. A Table of Proper Lessons and Psalms. 4. The Calendar, with the
+    Table of Lessons. 5. Tables and Rules for the Feasts and Fasts through the
+    whole year. 6. The Order for Daily Prayer and for Special Occasions.
+    7. The Order for Morning Prayer. 8. The Order for Evening Prayer. 9. The
+    Creed (commonly called) of St. Athanasius. 10. The Litany. 11. Prayers and
+    Thanksgivings upon several occasions. 12. The Collects, Epistles, and
+    Gospels, to be used at the Ministration of the Holy Communion throughout
+    the year. 13. The Order of the Ministration of the Holy Communion. 14. The
+    Order of Infant Baptism, both Public and Private. 15. The Order of Baptism
+    for those of Riper Years. 16. The Catechism. 17. The Order of Confirmation.
+    18. The Form of Solemnization of Matrimony. 19. The Order for the
+    Visitation of the Sick, and the Communion of the Sick. 20. The Order for
+    the Burial of the Dead. 21. The Thanksgiving of Women after Child-birth.
+    22. A Commination, or Denouncing of God's Anger and Judgements against
+    Sinners. 23. The Order how the Psalter is appointed to be read. 24. The
+    Psalter. 25. Forms of Prayer to be used at Sea. 26. The Form and Manner of
+    Making, Ordaining, and Consecrating of Bishops, Priests, and Deacons.
+    27. A Form of Prayer for the Twentieth Day of June. 28. Service to be used
+    on the first Sunday on which a Minister officiates in a new Cure. 29. A
+    Form of Thanksgiving for the Blessings of Harvest. 30. The Form for the
+    Consecration of a Church. 31. The Form of Consecration of a Church-yard, or
+    other Burial Ground. 32. A Form of Prayer for the Visitation of Prisoners.
+    33. Articles of Religion. 34. Table of Kindred and Affinity within which
+    none may marry together.
+
+    [ENDS at 34. The Constitutions and Canons Ecclesiastical are not listed.]
+
+--- LIST OF CANON HEADINGS, 1 to 48, as printed in the volume ---
+
+    1. Of the Prescribed Form of Divine Service.
+    2. Of the Form of Consecrating and Ordering Archbishops, Bishops, Priests,
+       and Deacons.
+    3. Of the due Celebration of Sundays and Holy days.
+    4. Of the use of the Prescribed Form of Divine Service on Sundays and
+       Holy-days, with all decency and due reverence.
+    5. Of the Ordering of Divine Service.
+    [6-9 — headings not separately transcribed by this pass; the sequence is
+     unbroken in the volume.]
+    10. Ministers not to defer Christening if the [Child be in danger].
+    11. Of the Solemnization of Marriages.
+    [12 — heading not separately transcribed by this pass.]
+    13. A Registry to be kept of Christenings [Marriages and Burials].
+    14. Of Confirmation, or the Laying on [of Hands].
+    15. Of the Celebration of the Holy [Communion].
+    16. Ministers not to administer the Communion [but in Churches].
+    17. Of Archdeacons.
+    18. Four solemn Times appointed for the [Making of Ministers].
+    19. Titles of such as are to be made [Ministers].
+    20. Of Letters Dimissory.
+    21. The Quality of such as are to be [made Ministers].
+    [22 — heading not separately transcribed by this pass.]
+    23. Caution for Institution of Ministers into [Benefices].
+    24. Patrons of Ecclesiastical Benefices.
+    25. To prevent Simoniacal Contracts.
+    26. Residence of those to whom Cure of Souls [is committed].
+    27. Curates of Non-Resident Incumbents.
+    28. Provision to be made for Duty unperformed or neglected.
+    29. None to be Curates but those allowed by [the Bishop].
+    30. Strangers not admitted to preach without Licence.
+    31. Ministers to use diligence to banish Error.
+    32. Ministers to Visit the Sick and the Whole in their Cures.
+    33. Soberness of Conversation required in Ministers.
+    34. Of the Communion Table.
+    35. Of Lights at the Communion Table, or elsewhere.
+    36. Crosses on or behind the Communion Table forbidden.
+    37. Of the Administration of the Lord's Supper.
+    38. Of Incense.
+    39. Of Processions.
+    40. Of the Ornaments of the Church.
+    41. Of Consecrating Churches.
+    42. Duty of Churchwardens.
+    43. Seats in Parish Churches.
+    44. Churches and Churchyards to be kept in sufficient Reparation.
+    45. All Churches to be furnished with things necessary for the Celebration
+        of Divine Service, Preaching, and Administration of the Sacraments.
+    46. To provide things necessary for each Communion.
+    47. Right of Appeal.
+    48. The Authority of the General Synod established.
+
+    ⚠️ Headings in square brackets are completions of lines truncated by the
+    column crop, supplied from sense and NOT verified against the page image.
+    Headings 6-9, 12 and 22 were not separately captured; they were not needed
+    for this pass and their omission here is not evidence of a gap in the
+    volume, where the sequence 1-48 is unbroken.
+
+--- CANON 4, ceremonial clause (PDF p. 495, right column) — bears on scope ---
+
+    ... Every Archbishop and Bishop at all times of his Public ministration of
+    the Services of the Church shall use the customary Ecclesiastical [vesture]
+    of his [Order]. And every Presbyter and Deacon at all times of the Public
+    ministration of the Services of the Church shall wear a plain white
+    Surplice with Sleeves, and such Minister may wear Bands, and upon the
+    Surplice the customary Scarf of plain black silk, and being a Graduate of
+    a University he may wear the Hood pertaining to his degree. And no Minister
+    shall wear any other Ecclesiastical vestment or ornament: Provided that any
+    Minister shall be at liberty to wear a plain black Gown when preaching. And
+    if any question shall arise, touching the suitableness of any vestment or
+    ornament worn by any Minister during the Public ministration of the
+    Services of the Church, the same shall be decided by the Ordinary, subject
+    to an Appeal to the Court of the General Synod.
+
+    [Bracketed words are drop-cap/scramble losses in §B reconstructed from
+    sense; the passage was NOT re-read from the page image by this pass and the
+    bracketed words are unverified. The unbracketed text is as extracted.]
+
+=====================================================================
+§B. RAW COLUMN EXTRACTION, PDF pp. 501-503 (pdftotext -layout, cropped)
+    Nothing corrected. Retained so the §A readings can be checked.
+=====================================================================
+
+--- PDF p. 501, RIGHT column (x 272-637) ---
+
+ANONS ECCLESIASTICAL .
+
+  36. Crosses on or behind the      Communion
+               Table forbidden.
+  Tornamental or otherwise,on the Com
+     HAT there shall not be any cross,
+
+  munion Table, or on the covering thereof,
+  nor shall a cross be erected or depicted on
+  the wall or other structure behind the Com
+  munion Table, in any of the churches or
+  other places of worship of the Church of
+  Ireland.
+  37. Of the Administration of the Lord's
+                    Supper.
+    N Supper, the elevation of
+        the administration        thePaten
+                             of the        or
+                                       Lord's
+   In                             the
+  Cup beyond what is necessary for taking
+  the same into the hands of the officiating
+  Minister, the use of wine mixed with water,
+  or of wafer bread, and all acts, words, orna
+  ments, and ceremonies other than those that
+  are prescribed by the Order in the Book of
+  Common Prayer, are hereby declared to be
+  unlawful, and are prohibited.         Provided
+  always that nothing herein contained shall
+  be taken to prohibit the customary act of
+  reverence when the name of our Blessed
+  Lord is mentioned in reciting the Nicene
+  Creed.
+                38. Of Incense.
+      O incense or any substitution therefor,
+  Nºor imitation thereof, shall, at any
+  time, be used in any church or chapel, or
+  other place in which the Public Services of
+  the Church are celebrated.
+              39. Of Processions.
+        shall be unlawful
+  IT banner, or"picture through any church
+  or church -yard, in any religious service or
+  ceremonial. Nor shall any procession take
+  place therein as a Rite or Ceremony in
+  connection with any part of such Service,
+  unless prescribed by the Bishop, or by the
+  Rubrics of the Book of Common Prayer.
+      40. Of the Ornaments of the Church.
+  N°    tuhengornaments
+            ,          , madeninumentosuop
+                           or              of
+  any church (whether by introduction, altera
+  tion, or removal) unless with the consent
+  of the Incumbent and Select Vestry, and
+  until an accurate description or design of
+  the proposed change shall have been ap
+  proved of by the Bishop or Ordinary :
+
+--- PDF p. 502, RIGHT column, foot (Canon 47 into Canon 48) ---
+
+                       47. Right of Appeal.
+                        on aggrieved by the decision
+          AllNYof pers
+                    the Ordinary, or by his refusal to
+                     determine         matter
+            hear and              on any           left to
+            his decision by these Canons, shall have the
+            right to appeal to the Diocesan Court and
+            from it to the Court of the General Synod.
+            48, The Authority of the General Synod
+                            established.
+       ceni TIHE
+              FIreland,         odofof Christ
+                            Synname
+                .Generainl.the                 rch of
+                                       the Chulawfully
+
+--- PDF p. 503, LEFT column, head (Canon 48 continued) ---
+
+               CONSTITUTIONS AND C
+
+assembled, being the supreme authority in
+                             in this
+pronounce and decreethatifanyperson
+holding any Office within the same shall
+wilfully contemn, neglect, or violate any of
+the Canons or Laws thereof, and shall have
+been duly convicted, he shall for the first
+offence be admonished or suspended from
+his Office for a period not exceeding the
+term of three months, according to the
+nature or extent of such offence ; and for a
+second or subsequent offence he shall be
+admonished, suspended, or deprived of his
+Office, according to the extent and nature
+of the offence, and in each case with or
+without costs.
+
+    ADDITIONAL CANONS, 1877 .
+
+=====================================================================
+§C. WHAT WAS SEARCHED (recorded so a negative is auditable)
+=====================================================================
+
+Whole-volume search of the pdftotext -layout extraction of all 514 pages
+(1,512,268 characters), case-insensitive, regex, for:
+
+  incens | cens[ei]r | censing | thurib | frankincens | perfum | odour | odor |
+  ceremon | ornament | vestment | vesture | cross | crosses | light | lights
+
+Hits on the incense family, complete, all four:
+
+  1. PDF p. ~? (extraction line 4887) — "...frankincense, and myrrh." — Matthew
+     2, the Epistle for the Epiphany. Scriptural, not regulatory.
+  2. extraction line 20108 — "in thy sight as the incense :" — Psalm 141:2 in
+     the Psalter. Scriptural, not regulatory.
+  3. extraction line 24165 — "38. Of Incense." — the canon heading.
+  4. extraction line 24166 — "O incense or any substitution therefor," — the
+     canon text.
+
+Per the 260835-66 finding that hyphen-split words defeat full-text search, the
+negative-adjacent terms were re-run against hyphen-split fragments:
+  in-cens / incen-se / cen-ser / frankin-cense / thuri-ble / per-fume /
+  cere-mony / orna-ment
+No additional hits. There is no fifth occurrence of the incense family in the
+volume, and in particular NONE in the rubrics, the Preface, or the Articles.
+
+⚠️ NOT A FAILED EXTRACTION. The text layer of this PDF is good enough to
+return Psalm 141:2 and Matthew 2 correctly, so the absence of incense from the
+rubrics is a real absence and not an extraction artefact.
+
+=====================================================================
+§D. OWED WORK (this pass ran read-only and registered nothing)
+=====================================================================
+
+src/Book_of_Common_Prayer_(Church_of_Ireland,_1878).pdf is a new source in the
+repo and is NOT registered in SRC_Manifest.md and NOT registered in
+PROJECT_STATE.md §4.
+  file size : 19,607,519 bytes
+  page count: 514 PDF pages
+  sha256    : see the companion notes file for this pass; computed there.
+This is owed work. It was not done here.

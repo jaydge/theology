@@ -1,0 +1,244 @@
+CAPTURE HEADER — added by pass 260835-69, not part of the source.
+
+SOURCE: "The Canons of the Church of Ireland", the Church of Ireland's own
+  publication of Chapter IX of its Constitution, at
+  https://www.churchofireland.org/our-faith/the-canons
+  Retrieved 2026-09-08 by web fetch. This is the church's own official
+  publication of its own law and is treated as PRIMARY.
+  The site's own framing sentence: "The Church of Ireland has 43 Canons
+  (listed in Chapter IX of the Constitution) which cover how we conduct
+  services of worship (including Holy Communion), ordination and the duties
+  of clergy, the role of readers, and other aspects of governance, including
+  the consecration and use of churches and church yards."
+
+⚠️ LIMITATION OF THIS CAPTURE, STATED UP FRONT. The web page carries the
+  operative text of the canons but NO amendment footnotes, no date of last
+  amendment, and no note of which General Synod enacted which clause. The
+  authoritative PDF at
+  https://www.ireland.anglican.org/cmsfiles/pdf/Information/Constitution/09.pdf
+  (which does normally carry such notes) COULD NOT BE RETRIEVED by this pass:
+  direct fetch returned an empty body, and a browser attempt was stopped by a
+  Cloudflare bot-verification interstitial. ⛔ Dates of amendment below come
+  from a SECONDARY source (Ford 2022, captured separately) and are labelled as
+  such. Anyone needing the canon's enactment history from primary record must
+  obtain that PDF or the relevant General Synod journals.
+  ⛔ The capture below is SELECTIVE: canons bearing on ceremonial only.
+  Canons 1, 3-11, 10A, 11A, 14, 17-37 exist and are not reproduced here.
+CAPTURED: 2026-09-08.
+
+=====================================================================
+⭐ THE INSTRUMENT AS IT NOW STANDS
+=====================================================================
+
+    40. Use of incense forbidden
+
+    No incense or any substitution therefor or imitation thereof shall at any
+    time be used in any church or chapel or other place in which the public
+    services of the Church are celebrated.
+
+⭐ COMPARISON WITH THE 1878 PRINTING (Canon 38, captured separately):
+
+    1878 Canon 38: "NO incense or any substitution therefor, or imitation
+      thereof, shall, at any time, be used in any church or chapel, or other
+      place in which the Public Services of the Church are celebrated."
+    2026 Canon 40: "No incense or any substitution therefor or imitation
+      thereof shall at any time be used in any church or chapel or other
+      place in which the public services of the Church are celebrated."
+
+  WORD-FOR-WORD IDENTICAL. The only differences are the removal of the commas,
+  the lower-casing of "Public Services", and the canon number (38 → 40).
+  ⚠️ NOTE FOR ATTRIBUTION: the wording quoted in RJ_Incense_Analysis.md §8 —
+  unpunctuated, "public services" in lower case — matches the CURRENT canon,
+  not the 1878 printing. Whatever the §8 quotation was taken from, it was not
+  the 1878 book.
+
+=====================================================================
+THE SURROUNDING CEREMONIAL CANONS AS THEY NOW STAND
+(verbatim, in the order printed)
+=====================================================================
+
+    2. Restraint on unauthorised practices
+
+    It shall be competent for the ordinary to restrain and prohibit in the
+    conduct of public worship any practice not enjoined in the Book of Common
+    Prayer, or in any rubric or canon enacted by lawful authority of the
+    Church of Ireland.
+
+    5. The prescribed form of Divine Service to be used in Churches
+    [clauses (1) and (3)-(4) omitted here; clause (2) is the discretion clause]
+
+    (2) Members of the clergy may at their discretion make and use variations
+    which are not of substantial importance in any form of service prescribed
+    in the Book of Common Prayer or elsewhere.
+    (3) All variations in forms of service and all forms of service used or
+    made under the provisions of this canon shall be reverent and seemly and
+    shall be neither contrary to nor indicative of any departure from the
+    doctrine of the Church.
+    (4) If any question is raised concerning any such variation, or as to
+    whether it is "of substantial importance", the same shall be referred to
+    the bishop, who may give such pastoral guidance, advice or directions as
+    is thought fit, but without prejudice to the right of any person to
+    initiate proceedings in any ecclesiastical tribunal.
+
+    12. Ecclesiastical apparel
+
+    (1) Archbishops and bishops at all times of their public ministration of
+    the services of the Church shall use the customary ecclesiastical apparel
+    of their order.
+    (2) Every member of the clergy at all times when ministering publicly the
+    regular services of the Church in a church building
+    (a) may wear a cassock,
+    (b) shall wear a plain white surplice with sleeves and the customary black
+    scarf or a stole, and
+    (c) may wear bands, and the hood pertaining to any university degree or
+    other academic qualification held by that member of the clergy:
+    Provided that any member of the clergy shall be at liberty to wear a plain
+    black gown while preaching.
+    No member of the clergy shall wear any other ecclesiastical vestment or
+    ornament.
+    (3) If any question shall arise touching the suitableness of any vestment
+    or ornament worn by any member of the clergy during the public ministration
+    of the services of the Church, the same shall be decided by the ordinary,
+    subject to an appeal to the Court of the General Synod.
+    (4) The Church does not attach any doctrinal significance to the
+    diversities of apparel permitted by this Canon, and the apparel worn by
+    members of the clergy in accordance with the provisions of this Canon is
+    not to be understood as implying any doctrines other than those contained
+    in the formularies of the Church.
+
+    13. The celebration of Holy Communion
+    [clauses (1)-(2) omitted here]
+
+    (3) Members of the clergy when celebrating the Holy Communion shall so
+    stand that the people may conveniently hear them and observe the manual
+    acts, and shall not stand with their backs to the people at any time when
+    they are offering up public prayer.
+    (4) The elevation of the paten or chalice beyond what is necessary for
+    taking the same into the hands of the officiating member of the clergy,
+    and the ringing of bells during the time of the service, shall not be
+    permitted.
+    (5) The bread to be used in the service shall be such as is usually eaten,
+    of the best quality that can conveniently be procured; and the use of
+    wafer bread is prohibited except in cases of illness where it may be
+    desirable to administer the Holy Communion by means of intinction, subject
+    to any conditions which the ordinary may prescribe.
+
+    15. The Communion Table
+
+    The communion table shall be a movable table of wood or other suitable
+    material, and may have such covering as the ordinary shall approve. For
+    the administration of the Holy Communion it shall be covered as required
+    by the rubric.
+
+    38. Changes in the structure and furnishings of churches
+
+    No change shall be made in the structure, ornaments, furnishings or
+    monuments of any church (whether by introduction, alteration or removal),
+    unless with the consent of the incumbent and select vestry, and until an
+    accurate description or design of the proposed change shall have been
+    approved of by the ordinary: provided always that any person aggrieved by
+    any such proposed change, or by the refusal of the ordinary, incumbent or
+    the select vestry to consent or approve thereof, shall have a right of
+    appeal under Canon 42.
+
+    ⭐ 39. Crosses on or behind the Communion Table
+
+    A cross may be placed on the Communion Table, or on the covering thereof,
+    or may be erected or depicted on the wall or other structure behind the
+    Communion Table, in any of the churches or other places of worship of the
+    Church of Ireland: Provided that approval by faculty is obtained with the
+    consent of the incumbent and a majority of the select vestry, or the dean
+    and a majority of the chapter and of the cathedral board, as the case may
+    be.
+
+    [⭐ THE REVERSAL. 1878 Canon 36 read: "THAT there shall not be any cross,
+    ornamental or otherwise, on the Communion Table..." The current canon
+    PERMITS what the 1878 canon FORBADE, subject to faculty. The incense canon
+    beside it did not move.]
+
+    40. Use of incense forbidden
+    [text given above]
+
+    ⭐ 41. Processions
+
+    (1) Processions are permitted at the opening and close of any service,
+    unless forbidden by the ordinary, and in the course of such service at
+    such times as may be prescribed by the ordinary or are necessarily
+    required by the rubrics.
+    (2) It shall be lawful to carry a cross in any procession at the opening
+    or close of any service.
+    (3) It shall be lawful for the Archbishop of Armagh's cross to be carried
+    before that Archbishop anywhere in Ireland, and for the Archbishop of
+    Dublin's cross to be carried before that Archbishop anywhere in the
+    province of Dublin; Provided that on the invitation of the Archbishop of
+    Armagh, the Archbishop of Dublin's cross may be carried before that
+    Archbishop in the province of Armagh.
+    (4) It shall be lawful with the consent of the incumbent to carry a flag,
+    banner or picture in any procession at the opening or close of a service,
+    unless forbidden by the ordinary.
+
+    [⭐ THE SECOND REVERSAL. 1878 Canon 39 read: "IT shall be unlawful to carry
+    any cross, banner, or picture through any church or church-yard, in any
+    religious service or ceremonial." The current canon PERMITS all three.]
+
+    42. Right of Appeal
+
+    Any person aggrieved by the decision of the ordinary upon, or by the
+    ordinary's refusal to hear and determine, any matter left to the
+    ordinary's decision by these Canons, shall have the right to appeal to the
+    Diocesan Court, and from it to the Court of the General Synod.
+
+    43. Penalty for wilful breach of any Canon
+
+    Any lay member of the Church of Ireland accused of any violation of those
+    Canons may be charged before the Court of General Synod or the Diocesan
+    Court (as the circumstances of the case may require) in accordance with
+    the provisions of the Constitution.
+
+    [⚠️ Compare 1878 Canon 48, which provided the penalty for "any person
+    holding any Office" — i.e. clergy — of admonition or suspension up to three
+    months for a first offence and admonition, suspension or DEPRIVATION for a
+    second. The current Canon 43 is headed "Penalty for wilful breach of any
+    Canon" but on its face addresses only LAY members. ⛔ THIS PASS DID NOT
+    ESTABLISH where clerical discipline for canon-breach now sits; the current
+    Chapter VIII (ecclesiastical tribunals) is the obvious candidate and was
+    NOT examined. Do not assert from this capture that clergy are now
+    unpenalised — the capture does not show that, and Canon 43's own heading
+    suggests the Constitution locates clerical discipline elsewhere.]
+
+=====================================================================
+WHAT IS NOT IN THE CURRENT LIST — recorded as a negative
+=====================================================================
+
+There is NO canon on lights or candles at the Communion Table in the current
+43. The 1878 Canon 35 ("THERE shall not be any lighted lamps or candles on the
+Communion Table, or in any other part of the Church, during the celebration of
+the Services...") has no counterpart. Search of the fetched page text for
+"candle", "light", "lamp" as ceremonial regulation returns nothing.
+
+⚠️ The removal of the candles prohibition is dated by Ford (SECONDARY) to
+May 1984. This pass did NOT verify that date against a primary record.
+
+=====================================================================
+CANON HEADING LIST, current, as published
+=====================================================================
+Part I: 1 due observance of Sundays and Holy-days; 2 restraint on unauthorised
+practices; 3 Divine Service on Sundays and Holy-days; 4 the Book of Common
+Prayer; 5 prescribed form of Divine Service; 6 prayers and hymns not in the
+BCP; 7 duty of preaching; 8 distinct and audible voice; 9 Divine Service in
+Irish; 10 visiting ministers of Churches not in communion; 10A
+interchangeability with the Methodist Church in Ireland; 11 use of churches by
+other denominations; 11A local ecumenical partnerships; 12 ecclesiastical
+apparel; 13 celebration of Holy Communion; 14 Holy Communion in places other
+than churches; 15 the Communion Table; 16 exclusion from the Communion.
+Part III: 17-25 (ordination, orders, simony).
+Part IV: 26-34 (baptism, teaching, confirmation, error, visiting, marriage,
+burial, manner of life and occupations of clergy).
+Part V: 35 (readers).
+Part VI: 36 consecration of churches and churchyards; 37 other purposes to
+which a church may be put; 38 changes in structure and furnishings; 39 crosses
+on or behind the Communion Table; 40 use of incense forbidden; 41 processions;
+42 right of appeal; 43 penalty for wilful breach of any Canon.
+
+[The published page shows no "Part II"; the parts run I, III, IV, V, VI as
+printed. Recorded as observed, not corrected.]

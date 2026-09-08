@@ -1,0 +1,200 @@
+CAPTURE HEADER — added by pass 260835-69, not part of the source.
+
+SOURCES: legislation.gov.uk (The National Archives / King's Printer of Acts of
+  Parliament), Open Government Licence v3.0. Retrieved 2026-09-08.
+  (a) The Irish Church Act 1869 (32 & 33 Vict. c. 42), ORIGINAL "as enacted"
+      text — https://www.legislation.gov.uk/ukpga/1869/42/enacted
+  (b) Act of Union (Ireland) 1800 (40 Geo. 3 c. 38, Acts of the Old Irish
+      Parliament), LATEST REVISED text —
+      https://www.legislation.gov.uk/aip/Geo3/40/38
+      and Union with Ireland Act 1800 (39 & 40 Geo. 3 c. 67, Acts of the
+      Parliament of Great Britain).
+CAPTURED: 2026-09-08.
+
+=====================================================================
+§1. THE IRISH CHURCH ACT 1869 — verbatim, "as enacted"
+=====================================================================
+
+LONG TITLE and DATE:
+
+    An Act to put an end to the Establishment of the Church of Ireland, and to
+    make provision in respect of the Temporalities thereof, and in respect of
+    the Royal College of Maynooth.
+    [26th July 1869]
+
+PREAMBLE, opening recital:
+
+    WHEREAS it is expedient that the union created by Act of Parliament between
+    the Churches of England and Ireland, as by law established, should be
+    dissolved, and that the Church of Ireland, as so separated, should cease to
+    be established by law, and that after satisfying, so far as possible, upon
+    principles of equality as between the several religious denominations in
+    Ireland, all just and equitable claims, the property of the said Church of
+    Ireland, or the proceeds thereof, should be applied in such manner as
+    Parliament shall hereafter direct:
+
+SECTION 1 — Short title.
+
+    This Act may be cited for all purposes as "The Irish Church Act, 1869."
+
+⭐ SECTION 2 — Dissolution of legislative union between Churches of England and
+Ireland.
+
+    On and after the first day of January one thousand eight hundred and
+    seventy-one the said union created by Act of Parliament between the
+    Churches of England and Ireland shall be dissolved, and the said Church of
+    Ireland, herein-after referred to as "the said Church," shall cease to be
+    established by law.
+
+⭐ SECTION 19 — Repeal of laws prohibiting holding of synods, &c.
+
+    From and after the passing of this Act there shall be repealed and
+    determined any Act of Parliament, law, or custom whereby the archbishops,
+    bishops, clergy, or laity of the said Church are prohibited from holding
+    assemblies, synods, or conventions, or electing representatives thereto,
+    for the purpose of making rules for the well-being and ordering of the said
+    Church; and nothing in any Act, law, or custom shall prevent the bishops,
+    the clergy, and laity of the said Church, by such representatives, lay and
+    clerical, and to be elected as they the said bishops, clergy, and laity
+    shall appoint, from meeting in general synod or convention, and in such
+    synod or convention framing constitutions and regulations for the general
+    management and good government of the said Church, and property and affairs
+    thereof, and the future representation of the members thereof in diocesan
+    synods, general convention, or otherwise.
+
+⭐ SECTION 20 — Existing law to subsist by contract.
+
+    The present ecclesiastical law of Ireland, and the present articles,
+    doctrines, rites, rules, discipline, and ordinances of the said Church,
+    with and subject to such (if any) modification or alteration as after the
+    first day of January one thousand eight hundred and seventy-one may be duly
+    made therein according to the constitution of the said Church for the time
+    being, shall be deemed to be binding on the members for the time being
+    thereof in the same manner as if such members had mutually contracted and
+    agreed to abide by and observe the same, and shall be capable of being
+    enforced in the temporal courts in relation to any property which under and
+    by virtue of this Act is reserved or given to or taken and enjoyed by the
+    said Church or any members thereof, in the same manner and to the same
+    extent as if such property had been expressly given, granted, or conveyed
+    upon trust to be held, occupied, and enjoyed by persons who should observe
+    and keep and be in all respects bound by the said ecclesiastical law, and
+    the said articles, doctrines, rites, rules, discipline, and ordinances of
+    the said Church, subject as aforesaid; but nothing herein contained shall
+    be construed to confer on any archbishop, bishop, or other ecclesiastical
+    person any coercive jurisdiction whatsoever : Provided always, that no
+    alteration in the articles, doctrines, rites, or, save in so far as may be
+    rendered necessary by the passing of this Act, in the formularies of the
+    said Church, shall be binding on any ecclesiastical person now licensed as
+    a curate or holding any archbishopric, bishopric, benefice, or cathedral
+    preferment in Ireland, being an annuitant or person entitled to
+    compensation under this Act, who shall within one month after the making of
+    such alteration signify in writing to the Church body hereafter mentioned
+    his dissent therefrom, so as to deprive such person of any annuity or other
+    compensation to which under this Act he may be entitled.
+
+⭐ SECTION 21 — Abolition of ecclesiastical courts and ecclesiastical law.
+
+    On and after the first day of January one thousand eight hundred and
+    seventy-one all jurisdiction, whether contentious or otherwise, of all the
+    ecclesiastical, peculiar, exempt, and other courts and persons in Ireland
+    at the time of the passing of this Act having any jurisdiction whatsoever
+    exerciseable in any cause, suit, or matter, matrimonial, spiritual, or
+    ecclesiastical, or in any way connected with or arising out of the
+    ecclesiastical law of Ireland, shall cease ; and on and after the said
+    first day of January one thousand eight hundred and seventy-one the Act of
+    the session of the twenty-seventh and twenty-eighth years of the reign of
+    Her present Majesty, chapter fifty-four, shall be repealed, and on and
+    after the last-mentioned day the ecclesiastical law of Ireland, except in
+    so far as relates to matrimonial causes and matters, shall cease to exist
+    as law.
+
+SECTION 22 — Incorporation of Church body (opening).
+
+    If at any time it be shown to the satisfaction of Her Majesty that the
+    bishops, clergy, and laity of the said Church in Ireland ... have appointed
+    any persons or body to represent the said Church, and to hold property for
+    any of the uses or purposes thereof, it shall be lawful for Her Majesty by
+    charter to incorporate such body ...
+
+DEFINITION, from the interpretation section:
+
+    "Jurisdiction" shall mean legal and coercive power, and shall not extend to
+    or include any power or authority which may be exercised in a voluntary
+    religious association, upon the footing of mutual contract or agreement.
+
+=====================================================================
+§2. THE ACT OF UNION 1800 — ⚠️ THE UNITED-CHURCH WORDS ARE NOT CAPTURED
+=====================================================================
+
+The union that s. 2 of the 1869 Act dissolved was created by Article Fifth of
+the Acts of Union of 1800 (the parallel Irish and British Acts).
+
+⛔ THIS PASS DID NOT OBTAIN THE ORIGINAL WORDING OF ARTICLE FIFTH, AND DOES NOT
+SUPPLY IT FROM MEMORY. On legislation.gov.uk the LATEST REVISED text of the
+Act of Union (Ireland) 1800 reads, in full:
+
+    Article Fifth.
+    Church of Scotland to continue as at present established.
+    That it be the fifth article of union, that . . . [F12] the doctrine,
+    worship, discipline and government of the church of Scotland shall remain,
+    and be preserved as the same are now established by law, and by the acts
+    for the union of the two kingdoms of England and Scotland.
+
+    Textual Amendments
+    [F12] Words repealed by Statute Law Revision Act 1953 (2 & 3 Eliz. 2 c. 5),
+    Sch. 2
+
+The elision marked [F12] is where the churches-of-England-and-Ireland union
+clause stood; those words were repealed by the Statute Law Revision Act 1953
+and legislation.gov.uk's revised text therefore does not print them. The
+"as enacted" text of the parallel Union with Ireland Act 1800 (39 & 40 Geo. 3
+c. 67) is on that site as a scanned PDF only ("This item of legislation is only
+available to download and view as PDF"), which this pass did not extract.
+
+⚠️ CONSEQUENCE FOR CITATION: Article Fifth's original wording is OWED WORK.
+What IS in hand, and is sufficient for the jurisdictional point, is the 1869
+Act's own description of what it was dissolving — "the union created by Act of
+Parliament between the Churches of England and Ireland, as by law established"
+(preamble) and s. 2 in full. Cite the 1869 Act, not Article Fifth, until
+Article Fifth has been read.
+
+Also recorded, from the same revised text, Article Eighth (which survives and
+bears on ecclesiastical law at the union):
+
+    That it be the eighth article of union, that all laws in force at the time
+    of the union, and all the courts of civil and ecclesiastical jurisdiction
+    within the respective kingdoms, shall remain as now by law established
+    within the same, subject only to such alterations and regulations from time
+    to time as circumstances may appear to the parliament of the united kingdom
+    to require ...
+
+=====================================================================
+§3. ANGLICAN COMMUNION STANDING
+=====================================================================
+
+SOURCE: the Anglican Communion Office, https://www.anglicancommunion.org/province/ireland/
+  retrieved 2026-09-08. The Church of Ireland is listed as a MEMBER CHURCH of
+  the Anglican Communion, with an entry giving:
+    Archbishop of Armagh and Primate of All Ireland and Metropolitan
+    Archbishop of Dublin & Glendalough
+    Provincial Secretary
+    Geographical area: 70,270 km   Population: 3,800,000
+    Eleven dioceses: Armagh; Cashel, Ferns and Ossory; Clogher; Connor; Cork,
+      Cloyne & Ross; Derry & Raphoe; Down & Dromore; Dublin & Glendalough;
+      Kilmore, Elphin & Ardagh; Meath & Kildare; Tuam, Limerick & Killaloe.
+
+⚠️ The ACO page gives NO DATE for the Church of Ireland's admission to, or
+recognition within, the Communion, and no founding instrument. The question
+"and from when" is therefore NOT answered by this source. The Communion has no
+single constitutive instrument; the two datable facts in hand are the Church of
+Ireland's legal separation from the Church of England on 1 January 1871 (Irish
+Church Act 1869 s. 2, above) and the first Lambeth Conference of 1867 — the
+latter NOT verified by this pass and stated here only as the obvious place to
+look, not as a finding.
+
+⚠️ TERMINOLOGY TRAP, recorded so it is not walked into: "province" is used two
+ways. In Anglican Communion usage a member church is loosely called a province
+(the ACO's own URL is /province/ireland/ and its officer is a "Provincial
+Secretary"). Internally the Church of Ireland has TWO ecclesiastical provinces,
+Armagh and Dublin, each with an archbishop. Both usages are correct; conflating
+them in a sentence about jurisdiction will produce a wrong claim.

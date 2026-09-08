@@ -1,0 +1,263 @@
+CAPTURE HEADER — added by pass 260835-69, not part of the source.
+
+⛔⛔ SECONDARY. This is a modern scholarly article, used in this pass as a
+FINDING AID and as the source of AMENDMENT DATES that could not be obtained
+from primary record. It is NOT authority. Every date below that matters to an
+argument should be re-derived from the General Synod journals or the
+Constitution's own amendment footnotes before deployment.
+
+SOURCE: Alan Ford, "The Cost of Democracy: The Church of Ireland and Its Ritual
+  Canons, 1871-1974", Church History 91, no. 3 (September 2022): 575-595.
+  doi:10.1017/S000964072200213X. Open Access (CC BY 4.0), Cambridge University
+  Press on behalf of the American Society of Church History. Author: Emeritus
+  Professor of Theology, University of Nottingham.
+  Retrieved 2026-09-08 from the Cambridge Core PDF.
+CAPTURE METHOD: PDF fetched to text; the full 858-line extraction was read in
+  chunks by a delegated reader instructed to return verbatim quotation with the
+  article's own page numbers and to state explicitly where the article is
+  silent. The quotations below are that reader's return. ⚠️ They have NOT been
+  re-checked against the PDF by the pass author.
+CAPTURED: 2026-09-08.
+
+=====================================================================
+ON INCENSE — every passage the article contains
+=====================================================================
+
+p. 581, the 1871 enactment:
+  "Canon 37 banned the elevation of the host during communion, 38 incense, and
+  39 processions."
+
+p. 584, the Irish Church Union's complaints in the early twentieth century:
+  "For over forty years, it was a thorn in the side of any (even slightly)
+  ritualistic Irish churchman, regularly complaining about unlawful vestments,
+  uncanonical gestures, the use of candles and incense, genuflection, and
+  failure to stand at the north side of the altar."
+
+⭐ p. 591, the 1974 revision:
+  "Other prohibitions, however, on the use of incense, candles on the altar,
+  and the elevation of the host, were retained."
+
+⭐ p. 591, the position by the end of the twentieth century:
+  "And by the end of the twentieth century, even practices that were still
+  prohibited, such as the use of incense, were silently winked at. Churches
+  such as St. George's in Belfast, and St. Bartholomew's in Dublin could, as a
+  result, worship in a way that would have been unthinkable in the decades
+  after 1871."
+
+⚠️ THE ARTICLE NOWHERE STATES THAT THE INCENSE BAN WAS REPEALED OR AMENDED —
+not in 1964, not in 1974, not in 1984, not later. Its last word on incense is
+that it stood and was ignored. This is consistent with the primary finding that
+the canon's text is unchanged.
+
+=====================================================================
+ADOPTION, DATES, AND THE ANTI-RITUALIST CONTEXT
+=====================================================================
+
+p. 576: "The British Parliament ... in 1869 cut the Church of Ireland loose
+from the state" ... "Since disestablishment was to come into effect on January
+1, 1871, this posed some urgent questions."
+
+p. 577: "the representative Convention of bishops, clergy, and laity, which met
+between April and November 1870, and in the Church's first General Synod, which
+convened on April 13, 1871."
+
+p. 580: "In April 1870 the Convention appointed a Judicature Committee to revise
+the old Irish canons of 1634."
+
+⭐ p. 580, the point of the exercise:
+  "Disestablishment meant that the Church of Ireland was now free to draw up
+  its own canons, having since the Act of Union been bound by those of the
+  Church of England. Irish churchmen and women were concerned at the vagueness
+  of the existing ornaments rubric, and the way in which ritualist clergy in
+  the Church of England had flouted it. They thus drew up a new code that
+  defined precisely (and, they hoped, inescapably) church ornamentation and
+  clerical dress and behavior in a way that ruled out high-church practices."
+
+⭐ p. 581, the whole ritual-canon cluster in one sentence:
+  "New 'ritual canons' were drawn up by the Committee and debated by Synod
+  between April and May 1871. Canon 4 defined what clergy were to wear: 'a
+  plain white surplice' with 'the customary scarf of plain black silk.' At
+  communion, Canon 5 required that the minister to say the prayer of
+  consecration while standing at the north of the table—this was directed
+  against ritualists who prayed facing the altar with their backs to the
+  congregation. It also forbade the minister bowing to the table or making the
+  sign of the cross during service. Canon 35 prohibited lit candles during
+  service, unless needed for light. Canon 37 banned the elevation of the host
+  during communion, 38 incense, and 39 processions. Canon 40 made changes to
+  church ornaments dependent on the consent of incumbent, select vestry, and
+  bishop, with provision for aggrieved parties to appeal to the diocesan
+  court."
+
+p. 581, on Canon 36 (the cross):
+  "Canon 36 certainly marked an unusual, indeed unprecedented step for a church
+  in the Anglican communion: banning a central symbol of Christianity."
+  "This had not appeared in the draft prepared for the Synod but had been
+  proposed late in the day by a Clogher clergyman, George Finlay."
+
+pp. 579-580, the mood:
+  "A 'Memorial,' signed by over four thousand clergymen and vestrymen was
+  presented to the Convention, calling on it 'to prevent any departure from the
+  pure simplicity of our worship, and to guard against the introduction of
+  superstitious novelties tending to assimilate any of our services to those of
+  the Church of Rome.'"
+
+p. 578, the voting mechanism that made the canons hard to change:
+  "But the threat of lay dictatorship was offset by a further provision that
+  voting on important issues could be by order, and that for a measure to pass
+  it had to have two-thirds majority support among the clergy and the laity."
+
+⚠️ DISCREPANCY WITH PRIMARY RECORD, FLAGGED NOT RESOLVED. Ford dates the ritual
+canons throughout to April-May 1871 and the delegated reader reports that the
+article "contains NO reference to 1877 at all." The 1878 Prayer Book volume's
+own adoption line reads "at General Synods held in Dublin in the years of our
+Lord 1871 and 1877", and the volume prints, after Canon 48, a separate group
+headed "ADDITIONAL CANONS, 1877" (numbered I-VI, on repelling notorious sinners
+from Holy Communion). ⭐ THE MOST LIKELY RECONCILIATION — and it is a
+reconciliation, not a verified finding — is that the ritual canons proper
+(1-48, including Canon 38 on incense) are of 1871, and 1877 supplied only the
+appended Additional Canons, the composite volume therefore carrying both dates
+on its heading. This has NOT been confirmed against the General Synod journals.
+⛔ Until it is, cite Canon 38 as "the Constitutions and Canons Ecclesiastical
+of the Church of Ireland, agreed by the General Synods of 1871 and 1877 as
+printed in the 1878 Prayer Book volume" — which is exactly what the volume
+itself says and is true on either reconciliation.
+
+Ford's own citation for the canon text (n. 37, p. 581):
+  "The Statutes Passed in the General Synod of the Church of Ireland 1871
+  (Dublin: Edward Purdon, 1874), 8-9, 18-19: Bray, The Anglican Canons, lxviii,
+  838-856."
+  [⭐ These are the primary sources to obtain if the 1871/1877 question needs
+  settling.]
+
+=====================================================================
+LATER AMENDMENT — the dates, and what did NOT change
+=====================================================================
+
+FAILED attempts on Canon 36 (the cross):
+  1890s (p. 583): "Efforts were made by the PDA at General Synod to change the
+    wording of Canon 36 ... but they ran into the inevitable roadblock of the
+    voting system."
+  World War I (p. 585): "Warre Wells ... led a campaign to repeal 'that insult
+    to Christendom, commonly called the 36th Canon.'" ... "The campaign got
+    nowhere."
+  1930 (p. 585): "A concerted effort by Bishops Day of Ossory and Orr of Meath
+    to repeal Canon 36 reached General Synod in 1930. They secured majority
+    support from the clergy—83 to 32 ... but lost overwhelmingly among the
+    laity—32 in favor, 136 against."
+
+⭐ 1964 — the cross (pp. 588-589, and abstract p. 575):
+  "Finally, in 1964 a motion to revise Canon 36 came before the General Synod."
+  "two laymen, one from the north, the other from the south, proposed a motion
+  to allow the placing of a cross on the communion table or behind it,
+  providing that the incumbent and the select vestry obtained the permission of
+  the bishop."
+  "It was passed by the clergy by 153 votes to 10, and by the laity by 120
+  votes to 53."
+  Abstract, p. 575: "It was only in 1964 that the ban on the cross was
+  removed".
+  p. 589, argument used: "The Church of Ireland was alone among the twenty
+  churches in the Anglican communion in banning it."
+
+⭐ 1971-1974 — the general revision (pp. 590-591):
+  "In 1971 the Church finally took appointed a committee to revise the canons.
+  Meeting repeatedly from 1971 to 1974, it drew up a new set of canons, finally
+  approved by General Synod in 1974."
+  [The words "finally took appointed" appear so in the extraction; flagged, not
+  corrected.]
+  "The committee was chaired for its first two years by the new Bishop of
+  Clogher, Richard Hanson." ... his principle: the church should be governed
+  "by freedom of the gospel and not by yoke of law."
+  ⭐ "Some provisions of the 1871 canons were removed, such as the ban on the
+  sign of the cross at communion and on bowing to the table. Processions were
+  allowed at the beginning and end of service. Other prohibitions, however, on
+  the use of incense, candles on the altar, and the elevation of the host, were
+  retained. But the most contentious issue was that hoary chestnut, dating
+  right back to the reign of Edward VI, of clerical vestments."
+  "The final version stated that clergy might wear a cassock, and should wear a
+  white surplice and a black scarf or colored stole."
+  "There was a willingness to remove many of the prohibitions, but that was
+  tempered by the desire, particularly strong in the north of Ireland, to
+  preserve the 'Protestant' character of the Church of Ireland."
+  "The revision of the canons in 1974 represented a major shift in the church's
+  approach to regulating liturgical practice. It gave up trying to control
+  precisely what clergy did during services and allowed greater freedom."
+
+⭐ 1984 — candles (p. 591):
+  "In May 1984 the ban on candles on the altar was removed by General Synod."
+
+⚠️ The article says NOTHING about wafer bread, the mixed chalice, or the
+eastward position as distinct canonical items; gives no year for any change to
+the elevation prohibition after 1974; gives no year for any change to the
+north-side rule; and narrates no canonical change after 1984.
+
+=====================================================================
+ENFORCEMENT
+=====================================================================
+
+p. 582, the courts: "the Convention had established diocesan courts, with
+appeals to the Court of the General Synod." ... "the General Synod court had
+three episcopal and four lay members."
+p. 582: "as was all too evident in England, legal prohibition merely invited
+ingenious circumvention."
+p. 582, 1872: "an abortive attempt to prosecute William Maturin, perpetual
+curate of All Saints' Grangegorman in 1872".
+p. 583, 1892, Travers Smith, the leading Canon 36 case: "Smith was found guilty
+of having a cross behind the table, contrary to Canon 36, and ordered to remove
+it." ... "Smith then placed the cross before the communion table (exactly the
+kind of high-church slipperiness that antiritualists feared), and there it
+remained."
+p. 583, 1928: conviction of Walter Simpson in General Synod Court.
+pp. 583-584, Samuel Colquhoun, four appearances 1935, 1937, 1939, 1940: "In
+1937 he was convicted by the General Synod Court of bowing to the communion
+table, making the sign of the cross during service, and setting up stations of
+the cross in the church. His punishment—suspension for six months and payment
+of substantial costs—was a clear signal that episcopal tolerance had reached
+its limit."
+p. 588, the end of enforcement: "The last appeal concerning a ritual canons
+case was heard by the Court of the General Synod in 1941, when a charge against
+the dean of St. Patrick's was dismissed with costs."
+n. 60, p. 584, on evasion: a server at St. John's Sandymount 1940-48 "recalled
+that one of his duties before each Sunday service, was to check whether there
+were any 'strangers' in the congregation: if there were, the candles on the
+altar remained unlit, and the minister refrained from practices that breached
+the canons."
+
+⚠️ NO PROSECUTION FOR INCENSE IS NAMED ANYWHERE IN THE ARTICLE. The named
+convictions concern the cross, bowing, and the sign of the cross.
+
+=====================================================================
+RELATION TO THE CHURCH OF ENGLAND; STATUS OF THE CANONS
+=====================================================================
+
+p. 576: "As an established church, ultimate authority in the nineteenth-century
+Church of Ireland rested with the supreme governor, the English monarch, and
+with the English parliament."
+p. 580: "having since the Act of Union been bound by those of the Church of
+England."
+p. 579: "following disestablishment there was considerable resentment at what
+was seen as the 'betrayal' of its sister church by the Church of England, and
+this fueled hostility to the Church of England, which was seen as 'polluting'
+the Church of Ireland by exporting ritualism."
+p. 585: "ritualism remained a live and bitterly divisive issue in the Church of
+Ireland when it had long since faded into the background in the Church of
+England."
+⭐ p. 575 (abstract): "The empowerment of the laity left it with a distinctive,
+indeed unique, feature among the churches of the Anglican communion—a set of
+disciplinary canons designed to exclude high-church ritualism from its
+worship."
+⭐ p. 591: "The 1871 ritual canons were a unique experiment in the Anglican
+communion, seeking to use ecclesiastical democracy to regulate liturgical
+practice and church ornamentation."
+p. 592: "The ritual canons, according to Anthony Hanson, the Irish-born
+professor of theology in the University of Hull, marked the Church of Ireland
+as 'the laughing-stock of the Anglican communion.'"
+
+⚠️ The article does NOT discuss the civil-law status of the canons after
+disestablishment, and does not treat the Irish Church Act 1869 s. 20 contract
+provision. For that, see the primary capture of the 1869 Act.
+
+⭐ NOTE THE DOUBLE EDGE IN THE WORD "UNIQUE". Ford's judgement that the ritual
+canons were unprecedented and unique in the Anglican Communion cuts BOTH ways
+for anyone deploying Canon 38/40: it establishes that an Anglican church did
+prohibit incense outright, and in the same breath establishes that no other
+Anglican church did.
