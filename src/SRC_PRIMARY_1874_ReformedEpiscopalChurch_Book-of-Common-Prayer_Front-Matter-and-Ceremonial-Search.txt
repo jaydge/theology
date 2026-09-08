@@ -1,0 +1,761 @@
+================================================================================
+CAPTURE HEADER — added by pass 260835-66. Not part of the source.
+================================================================================
+
+SOURCE (primary copy worked from):
+  The Book of Common Prayer of the Reformed Episcopal Church.
+  Internet Archive identifier: bookofcommonpray00refo
+  Contributing library: Princeton Theological Seminary Library
+  (shelf mark BX 6075 .A1 1874; presentation inscription "PRESENTED BY
+  Thomas Powers, Esq. 6.19.78")
+  imagecount 642. Scanned 2009-06-30.
+  Full OCR derivative bookofcommonpray00refo_djvu.txt, size 805,976 bytes,
+  md5 6551d99c8e7dfabd3b73976694862c30,
+  sha1 7b9c841239fb0d6b792013a6c41d54e91630a272.
+
+CORROBORATING COPIES (independent scans, searched for cross-check):
+  bookofcommonpray00refo_0 — 1874, James A. Moore, Univ. of Illinois
+      Urbana-Champaign copy, 612 leaves, described "xvi, 588 pages ; 16 cm".
+      Same OCLC record (681627897) as the Princeton copy.
+  commonpray00refo — 1874, James A. Moore, Princeton copy, 842 leaves,
+      with "Hymns recommended for use in the Reformed Episcopal Church"
+      (Philadelphia: Charles W. Quick, 1874) bound in. Same OCLC record.
+  bookofcommonpray0000refo — 1932, Reformed Episcopal Publication Society.
+      NOT SEARCHABLE: lending-restricted, OCR derivatives flagged private,
+      full-text endpoints return an empty body. Nothing in this capture
+      extends to that edition.
+
+CAPTURE METHOD:
+  1. The complete _djvu.txt was requested but the fetcher truncated it at
+     74,690 of 805,976 characters (through printed p. 17 of Morning Prayer).
+     That truncated head IS the source of the verbatim front-matter
+     transcriptions in EXCERPTS 1-6 below, which are therefore read off the
+     actual OCR, not off a search snippet.
+  2. Whole-book term searching used the Internet Archive per-item full-text
+     index documented in the method note at the end of
+     src/SRC_PRIMARY_1904-2018_TEC_Ritual-Canon-Repeal_and_BOS-Incense-Form.txt:
+       https://ia600401.us.archive.org/fulltext/inside.php
+         ?item_id=bookofcommonpray00refo&doc=bookofcommonpray00refo
+         &path=/24/items/bookofcommonpray00refo&q=<TERM>
+  3. Single pages were pulled with BookReaderGetTextWrapper.php
+     (mode=djvu_xml). CONFIRMED IN THIS PASS: page=N returns the leaf
+     numbered N+1, and inside.php's "page" value is one LESS than the
+     BookReader page= that returns the same text. To fetch inside.php leaf L,
+     request page=L-1.
+
+  ⚠ INDEX RELIABILITY — TESTED, NOT ASSUMED. The index matches WHOLE TOKENS,
+  not substrings, and it does NOT support a wildcard (q=cens* returns zero).
+  Words hyphenated across a line break in the printed page are indexed as TWO
+  separate tokens. This was demonstrated, not supposed: q=ceremonies returns
+  ZERO, yet the word is plainly present in Article VI, because the page prints
+  it "Cere-/monies". Querying q=cere and q=monies each return it. Every
+  negative recorded below was therefore run against BOTH the whole word and
+  its plausible hyphen-split fragments. This is the same under-reporting
+  defect pass 260835-62 recorded for the 1874 Journal; here its exact
+  mechanism is identified.
+
+NO MODERNIZATION. All text below is as printed / as OCR'd, including obvious
+OCR corruption ("Hah. ii, 20" for "Hab.", "Mai. i, 11" for "Mal.", "MOKMNG
+P1'.:VYEK." for "MORNING PRAYER.", "Epit!-copal" for "Episcopal", "Pra>jtr-B>,ok"
+for "Prayer-Book", "rrovided" for "Provided", "Sansobi" for "Sansom",
+"Erformrti Episcopal (CljurcJj" for "Reformed Episcopal Church"). Nothing has
+been corrected or supplied. Double spacing between words is the OCR's.
+
+CAPTURED: 2026-09-07.
+
+================================================================================
+EXCERPT 1 — TITLE PAGE
+================================================================================
+
+  THE
+  BOOK
+  OF
+  COMMON  PRAYER
+
+  Erformrti  Episcopal  (CljurcJj*
+
+  ADOPTED,  A>^D  SET  FORTH  FOR  USE,  BY  THE  SECOND
+  GENERAL  COUNCIL  OF  THE  SAID  CHURCH,  HELD
+  IN  THE   CITY  OF   NEW  YORK,  IN  THE
+  MONTH  OF  MAY,  1874.
+
+  PHILADELPHIA:
+  James  A.  Moore,  1220  &  1222  Sansobi  Street.
+  1874.
+
+[The line rendered "Erformrti Episcopal (CljurcJj*" is the OCR's failure on a
+blackletter/ornamental setting of "Reformed Episcopal Church." The reading is
+not in doubt — the running title and the Certificate immediately following both
+give the name in plain roman.]
+
+================================================================================
+EXCERPT 2 — THE CERTIFICATE (adopting authority and publication warrant)
+================================================================================
+
+  CERTIFICATE,
+
+  rrniS  Book  of  Common  Prayer  having  been  adopted
+  i  and  set  forth  by  the  Second  General  Council  ot
+  the  Reformed  Episcopal  Church,  the  undersigned  were
+  appointed  a  Committee  to  superintend  the  publication
+  thereof,  "  with  power  to  make  corrections  in  grammar
+  orthography,  and  punctuation."  Agreeably  to  he  orrler
+  of  the  General  Council,  it  is  now  published  by  the  Com-
+  mittee as  The  Book  of  Common  Prayer  of  the
+  Reformed  Episcopal  Church.
+
+  B.  B.  Leacock,
+  Marshall  B.  Smith,
+  Thomas  H.  Powers,
+  Herbert  B.  Turner.
+
+  Philadelphia,  July,  1874.
+
+  Entered,  according  to  Act  of  Congress,  in  the  year  1874,  by
+  Thomas  H.  Powers,
+  in  the  Office  of  tl  e  Librarian  of  Congress,  at  Washington.
+
+NOTE. The publication committee's delegated power is expressly limited to
+"corrections in grammar orthography, and punctuation." It carried no authority
+to add, remove or alter matter of substance.
+
+================================================================================
+EXCERPT 3 — THE CONTENTS, COMPLETE AND IN ORDER
+================================================================================
+
+  CONTENTS.
+
+  Certificate,  .  .  .  .  .  .      li [= ii]
+  The  Preface,       .  .  .  .  .  .      \- [= v]
+  Declaration  of  Principles  of  the  Reformed  Episco-
+      pal Church,  .  ,  .  .  .X [= x]
+  Table  of  Lessous  of  Holy  Scripture,  that  may  be  read
+      at  Morning  and  Evening  Prayer  throughout  the
+      year, xi
+  The  Calendar,    ......  xiv
+  Canon  on  the  Use  of  this  Book  of  Common  Prayer,    xvi
+  The  Order  for  Morning  Prayer,           .            .            .1
+  The  Litany,  or  General  Supplication,  which  may  be
+      used  at  Morning  Service,  and  at  other  times,  as
+      the  Minister  shall  think  fit,          .            .            .     ig [= 19]
+  The  Order  for  Evening  Prayer,           .           .           ,28
+  An  Alternate  Order  of  Evening  Prayer,         .            .    44
+  Special  Prayers  and  Thanksgivings,  for  use  before  the
+      two  final  Prayers  of  Morning  and  Evening  Ser-
+      vice,   53
+  Tiie  Order  for  the  Administration  of  the  Lord's  Sup-
+      per, or  the  Holy  Communion,      .  .  .    76
+  The  Collects,  Epistles,  and  Gospels  lor  use  throu^li-
+      out  the  year,                                                    100
+  The  Psalter:  Selected  from  the  Psalms  of  David,      296
+  Selections  of  Psalms,  for  use  instead  of  the  Psalms
+      for  the  Day,  at  the  Discretion  of  the  Minister,   445
+  Special  Portions  of  the  Psalter,  ibr  use  at  Morning
+      and  Evening  Prayer,  on  Christmas-Day,  Easter-
+      Day,  etc.,                                                        480
+  Special  Anthems,  that  may  be  used  at  Morning
+      Prayer  instead  of  the  Venite  Exultemus,             489
+  The  Order  for  the  Administration  of  Baptism  to  In-
+      fants,                                                             496
+  The  Order  for  the  Administration  of  Baptism  to
+      Adults,                                                            502
+  The  Order  of  Confirmation,                                          512
+  The  Form  of  Solemnization  of  Matrimony,                            517
+  The  Order  for  the  Burial  of  the  Dead,                            522
+  The  Form  of  Ordaining  Deacons,                                      536
+  The  Form  of  Ordaining  Presbyters,                                   544
+  The  Form  of  Consecrating  a  Bishop,                                 560
+  The  Form  for  the  Public  Reception  of  Presbyters,                  572
+  The  Form  for  the  Installation  of  Pastors,                         575
+  The  Form  for  the  Consecration  or  Dedication  of  a
+      Church,  or  Chapel,                                               581
+
+⭐ TWO LOAD-BEARING OBSERVATIONS ON THIS LIST.
+
+(i) There is NO section answering to the 1662's "Of Ceremonies, why some be
+    abolished, and some retained," and no section of any comparable kind —
+    no essay, preface-appendix, article or rubric on ceremonial. The list
+    above is the whole book.
+
+(ii) There is NO entry for Articles of Religion. See EXCERPT 7 and the
+     EDITION NOTE — this matters.
+
+================================================================================
+EXCERPT 4 — THE PREFACE (relation to the 1785 Proposed Book, in the book's
+own words). Printed pp. v-ix. Given in full.
+================================================================================
+
+  THE  PREFACE.
+
+  i^  TT  is  a  most  invaluable  part  of  that
+  •^  blessed  '  liberty  whereivith  Christ  hath
+  made  us  free ' — ^that,  in  his  worship,  differ-
+  ent/or??is  and  usages  may  -uithout  olience
+  be  allowed,  pro\ided  the  substance  of  the
+  faith  be  kept  entire ;  and  that,  in  every
+  Church,  what  cannot  be  clearly  deter-
+  mined to  belong  to  doctrine  must  be  re-
+  ferred to  discipline;  and,  therefore,  by  com-
+  mon consent  and  authority  may  be  altered,
+  abridged,  enlarged,  amended,  or  other-
+  wise disposed  of,  as  may  seem  most  con-
+  venient for  the  edification  of  the  people,
+  '  according  to  the  various  exigencies  of
+  times  and  occasions.'  "*
+
+      *  The  quotations  in  this  Preface  are  from  the  Preface
+      to  the  "  Prayer  Book  of  1785."
+
+  The  Church  of  Midland  [= England],  and  the  Pro-
+  testant Episcopal  Church  in  the  United  States
+  of  America,  in  the  Prefaces  to  their  re-
+  spective Books  of  Common  Prayer,  have
+  declared  "  the  necessity  and  expediency  of
+  occasional  alterations  and  amendments "
+  in  Forms  of  Public  Worship;  indeed,
+  upon  the  principles  they  have  laid  down,
+  "  it  cannot  but  be  supposed  that  further
+  alterations  would  in  time  be  found  expe-
+  dient." By  the  Church  of  England.,  "the
+  Liturgy,  in  sundr}'  particulars,  hath  been
+  re^dewed,  altered  and  amended  about
+  eight  different  times,  from  its  first  publica-
+  tion, according  to  act  of  parliament  in
+  1594 ;  and  its  last  re^aew  was  in  1661,  as
+  it  now  stands,  according  to  the  Act  of
+  Uniformity. ^^  By  the  Protestant  Episcopal
+  Church  in  the  United  States  of  America,  the
+  Book  of  Common  Prayer  has  been  twice
+  revised;  in  1785,  when  the  "Proposed
+  Book  "  was  adopted  in  Convention,*  and
+  sent  to  England  as  a  basis  for  securing  the
+  Episcopate  ;t  and  in  1789,  when  the  pre-
+  sent Book  of  that  Church  was  adopted  and
+  set  forth  for  use.
+
+      *  See  Journal  of  Convention,  1785.
+      t  See  Journal  of  Conventions,  1785  and  1786.
+
+  On  the  13th  of  September,  1689,  "a
+  commission  for  a  further  review  of  the
+  Liturgy  and  Canons,  etc.,  was  issued  out  to
+  a  number  of  bishops  and  other  divines ;
+  '  than  whom  (it  hath  been  truly  acknowl-
+  edged) the  Church  of  England  was  never,
+  at  any  one  time,  blessed  with  either  wiser
+  or  better,  since  it  was  a  Church.'  "
+
+  The  chief  matters  proposed  for  a  review
+  at  that  time,  will  be  found  in  the  Preface
+  to  the  "Prayer  Book  of  1785."  "Mat-
+  ters were  well  considered,  freely  and
+  calmly  debated ;  and  all  was  digested  into
+  one  entire  correction  of  everything  that
+  seemed  liable  to  any  just  objection.  But
+  this  great  and  good  work  miscarried  at
+  that  time ;"  and  the  Protestant  Episcopal
+  Church  having,  in  1789,  retreated  from  the
+  position  taken  by  the  Convention  of  1785,
+  the  Prayer  Books  of  the  two  Churches
+  remain  substantially  unrevised.
+
+  When,  however,  in  the  course  of  Di-
+  vine Providence,  a  way  was  opened  for  a
+  revision  of  the  Liturgy  and  Offices,  that
+  should  more  fully  harmonize  them  "with
+  the  clear  teachings  of  the  Word  of  God,
+  as  enunciated  by  the  Protestant  Reform-
+  ers, The   Reformed   Episcopal   Church
+  "  could  not  but,  with  gratitude  to  God,
+  embrace  tlie  happy  occasion  which  was
+  offered  to  them,  (uninfluenced  and  unre-
+  strained by  any  worldly  authority  whatso-
+  ever,)" to  establish  such  alterations  and
+  amendments  therein  as  they  deemed  ne-
+  cessary and  expedient.
+
+  It  seems  unnecessary  to  enumerate  all
+  the  different  alterations  and  amendments,
+  among  which  will  be  found  most  of  those
+  sanctioned  by  "the  great  divines  of  1689."
+  They  will  readily  appear,  and  the  reason
+  of  them  also,  upon  a  comparison  of  this
+  Book  ^vith  that  of  the  Church  of  England;
+  Avith  the  "  Prayer  Book  of  1785,"  upon
+  which  this  revision  is  chiefly  based ;  and
+  with  the  present  Book  of  the  Protestant
+  Episcopal  Church  in  the  United  States  of
+  America,  ratified  in  1789.
+
+  The  principles  on  which  this  revision
+  has  been  conducted,  are  set  forth  in  the
+  "  Declaration  of  Principles  of  the  Be-
+  formed  Episcopal  Church"  adopted  De-
+  cember 2d,  1873.  It  is  hoped  that  this
+  Book,  as  now  set  forth  for  use,  "will  be
+  received  by  every  "  member  of  our  Church
+  and  ever}"  sincere  Christian,  with  a  meek,
+  candid,  and  charitable  frame  of  mind,
+  ^^^thollt  prejudice  or  prepossessions ;  seri-
+  ously considering  what  Christianity  is,  and
+  what  the  truths  of  the  Gospel  are ;  and
+  earnestly  beseeching  Almighty  God  to  ac-
+  company with  his  blessing  every  endea-
+  vor for  promulgating  them  to  mankind
+  in  the  clearest,  plainest,  most  affecting,
+  and  majestic  manner,  for  the  sake  of  Jesus
+  Christ,  our  blessed  Lord  and  Sa^dour."
+
+⭐ THE 1785 RELATION, ESTABLISHED FROM THE BOOK ITSELF, NOT FROM SECONDARY
+DESCRIPTION. Three independent statements inside the volume:
+  (a) the Preface's own footnote: "The quotations in this Preface are from
+      the Preface to the 'Prayer Book of 1785.'"
+  (b) the Preface's own words: the "Prayer Book of 1785," "upon which this
+      revision is chiefly based";
+  (c) Declaration of Principles III (EXCERPT 5), which accepts the Book of
+      Common Prayer "as it was revised, proposed, and recommended for use by
+      the General Convention of the Protestant Episcopal Church, A. D. 1785."
+
+⚠ NOTE THE PRECISE CLAIM. The Preface says "chiefly based," and names three
+comparators (England; 1785; 1789), not one. It does not say the 1874 book
+reprints the 1785 book. It also asserts a specific historical reading — that
+the PEC "in 1789, retreated from the position taken by the Convention of 1785."
+That is the REC's characterization, printed in its own Prayer Book. It is
+recorded here as the REC's stated position, not endorsed as a finding.
+
+================================================================================
+EXCERPT 5 — DECLARATION OF PRINCIPLES, as printed in the Prayer Book at p. x
+================================================================================
+
+  DECLARATION  OF  PRINCIPLES
+  OF  THE
+  REFORMED  EPISCOPAL  CHURCH.
+  Adopted  December  2d,  1873.
+
+  I.
+  The  Reformed  Episcopal  Church,  hoklina:  "the  faith
+  once  delivered  unto  the  saints,"  declares  its  belief  in  tiie
+  Holy  Scriptures  of  the  Old  and  New  Testanieuts  as  the
+  Word  of  God,  and  the  sole  Rule  of  Faith  and  Practice;
+  in  the  Creed  "commonly  called  the  Ajjostles' Creed;"
+  in  the  Divine  institution  of  the  SatTaments  of  Baptism
+  and  the  Lord's  Supper;  and  in  tiie  doctrines  of  grace
+  substantially  as  they  are  set  forth  in  the  Thirty-nine
+  Articles  of  Religion.
+
+  II.
+  This  Church  recognizes  and  adheres  to  Episcopacy,
+  not  as  of  divine  right,  but  as  a  very  ancient  and  desirable
+  form  of  church  violity  [= polity].
+
+  III.
+  This  Church,  retaining  a  Liturgy  which  shall  not  be
+  imi)erative  or  repressive  of  freedom  in  prayer,  accepts
+  the  Book  of  Common  Prayer,  as  it  was  revised,  proposed,
+  and  ricommended  for  use  by  the  General  Convention  of
+  the  Protestant  Episcojtal  Church,  A.  D.  1785,  reserving
+  full  liberty  to  alter,  abridge,  enlarge,  and  amend  the
+  same,  as  may  seem  most  conducive  to  the  edification  of
+  the  people,  "  provided  that  the  substance  of  the  faith  be
+  kept  entire."
+
+  IV.
+  This  Church  condemns  and  rejects  the  following  erro-
+  neous and  strange  doctrines  as  contrary  to  God's  Word;
+
+  First,  That  the  Church  of  Christ  exists  only  in  one
+  order  or  form  of  ecclesiastical  polity:
+
+  Second,  That  Christian  ministers  are  "priests"  in
+  another  sense  than  that  in  which  all  believers  are  "a
+  royal  priesthood :"
+
+  Third,  That  the  Lord's  Table  is  an  altar  on  which  the
+  oblation  of  the  Body  and  Blood  of  Christ  is  offered  anew
+  to  the  Father :
+
+  Fourth,  That  the  Presence  of  Christ  in  the  Lord's  Sup-
+  per is  a  presence  in  the  elements  of  Bread  and  Wine:
+
+  Fifth,  That  Regeneration  is  inseparably  connected
+  with  Baptism.
+
+NOTE. This is the ONLY prohibitory matter in the entire volume, and every one
+of its five clauses is a rejected DOCTRINE. Clause Third is the only occurrence
+of the word "altar" anywhere in the book outside quoted Scripture. It rejects
+an altar doctrine; it directs nothing about furniture, posture, or ceremonial
+act, and attaches no list of examples.
+
+================================================================================
+EXCERPT 6 — THE CANON ON THE USE OF THIS BOOK OF COMMON PRAYER
+Printed p. xvi — the last item of front matter, immediately preceding Morning
+Prayer. This is the closest thing in the volume to a provision governing what
+may be done in worship. Given in full.
+================================================================================
+
+  [Extract  from  the  Canons  of  the  Reformed  Epit!-
+  copal  Chitrrh.]
+
+  TITLE  I.
+
+  Canox  12.  — Of  the  Use  uf  the  Pra>jtr-B>,ok.
+  [= Canon 12. — Of the Use of the Prayer-Book.]
+
+  §  I.  On  occasions  of  public  worship,  invariably
+  on  the  morning  of  the  Lord's  day,  commonly  called
+  Sunday,  and  at  other  times  at  the  discretion  of  the
+  Minister,  the  Prayer-Book  set  forth  at  any  time  by
+  the  General  Council  is  to  be  used  in  the  congrega-
+  tions of  this  Church  ;  rrovided,  that  notliing  in  this
+  Canon  is  to  be  understood  as  precluding  extempore
+  prayer  before  or  after  sermons,  or  on  emergent
+  occasions.
+
+  §  II.  Congregations  in  the  Dominion  of  Canada,
+  and  in  other  countries,  shall  have  Uberty  to  insert
+  such  Prayers  and  Versicles  in  the  Service  as  are
+  most  accordant  with  their  respective  forms  of  civil
+  government ;  and  such  prayers  for  those  in  autho-
+  rity may  take  the  place  of  those  in  use  in  the  United
+  States ;  Provided,  that  no  printed  matter  shall  be
+  inserted  in  the  printed  Morning/  Service,  until  it
+  has  been  approved  by  the  Standing  Committee  on
+  Doctrine  and  Worship  of  the  General  Council.
+
+  XVI
+
+⭐ LOAD-BEARING. The one canon the REC chose to print inside its Prayer Book,
+at the very point where a reader begins the services, regulates WHICH BOOK IS
+TO BE USED and WHAT WORDS MAY BE INSERTED. It says nothing whatever about
+ceremonial, ornaments, vesture, posture, or ritual acts. The REC had the
+obvious opportunity to legislate ceremonial here and did not take it.
+
+================================================================================
+EXCERPT 7 — THE OPENING OF MORNING PRAYER
+The first page of the services. Transcribed from the OCR, in order, without
+omission from the office heading through the second Sentence.
+================================================================================
+
+  THE  ORDER  FOR
+  MORNING  PRAYER.
+
+  iy  The  Minister  shall  begin  the  Morning  Prayer
+      by  reading  one  or  more  of  the  following  Sen-
+      tences.
+
+  THE  Lord  is  in  his  holy  temple  ;  let  all
+  the  earth  keep  silence  before  him.
+  Hah.  ii,  20.
+
+  From  the  rising  of  the  sun  even  unto
+  the  going  down  of  the  same,  my  name
+  shall  he  great  among  the  Gentiles;  and  in
+  every  place  incense  shall  he  offered  unto
+  my  name,  and  a  pure  offering :  for  my
+  name  shall  he  great  among  the  heathen,
+  saith  the  Lord  of  hosts.     Mai.  i,  11.
+
+[The rubric marker rendered "iy" is the OCR's failure on the pilcrow ¶ used
+throughout this book for rubrics. "Hah." = "Hab."; "Mai." = "Mal."]
+
+⭐⭐ THIS IS THE SINGLE MOST CONSEQUENTIAL FINDING OF THE PASS. Malachi 1:11 —
+"in every place incense shall be offered unto my name, and a pure offering" —
+is the SECOND OPENING SENTENCE OF MORNING PRAYER in the Reformed Episcopal
+Church's own first Prayer Book. It stands second of the opening Sentences,
+immediately after Habakkuk 2:20, on the first page of the first service.
+
+VERIFIED INDEPENDENTLY, NOT INFERRED FROM A SEARCH SNIPPET. Three checks:
+  (a) It is read directly off the untruncated head of the OCR, in running
+      order, with the office heading and the rubric above it.
+  (b) The index places the Habakkuk sentence and the Malachi sentence on the
+      SAME leaf (47) — and the same pairing again on leaf 74, which is the
+      corresponding page of THE ORDER FOR EVENING PRAYER. The two Sentences
+      open both daily offices.
+  (c) Both other searchable 1874 scans reproduce the pair: leaves 19 and 46
+      in bookofcommonpray00refo_0; leaves 23 and 50 in commonpray00refo.
+
+⚠ ATTRIBUTION DISCIPLINE. What is established is placement, and only that: the
+REC printed this verse at the head of both daily offices. The book gives no
+gloss on it and draws no ceremonial conclusion from it. Any argument about what
+the REC thereby conceded, implied, or ought to have concluded is ANALYSIS, is
+this project's own, and must be labelled as such. It is not the REC's statement
+and must never be relayed as one.
+
+================================================================================
+EXCERPT 8 — ARTICLES OF RELIGION, and the EDITION NOTE
+================================================================================
+
+The Princeton copy contains, interpolated after the Declaration of Principles
+and before the Table of Lessons, a separately paginated (i-xiv+) section:
+
+  ARTICLES  OF  RELIGION,
+  AS  ADOPTED  BY  THE  GENERAL  COUNCIL  OF
+  THE  REFORMED  EPISCOPAL  CHURCH,  ON
+  THE  EIGHTEENTH  DAY  OF  MAY,  IN  THE
+  YEAR  OF  OUR  LORD  ONE  THOUSAND  EIGHT
+  HUNDRED  AND  SEVENTY-FIVE.
+
+  [Extract  from  the  Minutes  of  the  Third  General  Council
+  of  the  Reformed  Episcopal  Church,  held  at  Chicago,
+  May  18th,  1875]  :—
+
+  Whereas,  This  Church  has,  in  its  Declaration  of
+  Principles,  proclaimed  its  belief  in  the  doctrines
+  of  grace  substantially  as  they  were  set  forth  in  the
+  Thirty -nine  Articles;  therefore,
+
+  Resolved,  As  the  sense  of  this  Council,  that  the
+  Articles  reported  by  the  Committee  on  Doctrine
+  and  Worship,  and  accepted  at  this  Council,  be  and
+  are  hereby  adopted,  as  containing  substantially  the
+  great  truths  known  as  the  "  Doctrines  of  Grace."
+
+  Resolved,  That  the  foregoing  preamble  and  reso-
+  lution be  printed  as  a  prefatory  note  to  the  Arti-
+  cles of  Religion.
+
+⚠⚠ EDITION NOTE — MATERIAL, AND ESTABLISHED BY TEST.
+The copy carries an 1874 title page and an 1874 imprint, but the Articles bound
+into it were adopted at the THIRD General Council, Chicago, 18 May 1875. This
+copy is therefore NOT a pure first-issue 1874 text. Three independent
+confirmations that the Articles are an interpolation, not original matter:
+  (i)  The Contents (EXCERPT 3) does not list them.
+  (ii) They carry their own separate pagination (i-xiv+), running alongside
+       the front matter's own roman sequence.
+  (iii) The scanned page width changes across the section boundary — leaves
+       within the Articles measure 1727 px wide, leaves of the book proper
+       1686 px — consistent with a separately printed gathering.
+
+DECISIVE TEST AGAINST THE OTHER 1874 COPY. The University of Illinois copy
+(bookofcommonpray00refo_0, 612 leaves, "xvi, 588 pages") returns ZERO hits for
+"Supererogation" (the title and text of Article XVI), zero for "ceremony"
+(Article XXV), and zero for "cere" (Article VI). The Princeton copy returns
+those hits. The Illinois copy therefore CONTAINS NO ARTICLES OF RELIGION AT
+ALL. The 30-leaf difference between the two copies (642 vs 612) is the
+Articles gathering.
+
+CONCLUSION ON EDITION: the Book of Common Prayer as set forth by the Second
+General Council in 1874 contained NO Articles of Religion. The Princeton copy
+represents a later issue or a later binding-up, with the 1875 Articles added.
+EVERYTHING IN THIS CAPTURE THAT DEPENDS ON THE ARTICLES IS THEREFORE 1875
+MATTER, NOT 1874 MATTER, and is marked as such below.
+
+Two ceremonial-relevant Articles, from the 1875 section (Princeton copy only):
+
+  Art.  VI.     Of  the  Old  Testament.          [leaf 22]
+  ...  and  although  the  Law  given
+  from  God  by  Moses,  as  touching  Cere-
+  monies  and  Rites,  does  not  bind  Christian
+  men,  nor  the  Civil  precepts  thereof  ought
+  of  necessity  to  be  received  in  any  com-
+  monwealth; yet  notwithstanding,  as  a  rule
+  of  right  living,  no  Christian  man  whatso-
+  ever is  free  from  the  obedience  of  the
+  Commandments  which  are  called  Moral.
+
+  [Article on the authority of the Church — the REC's analogue to the
+  Thirty-Nine Articles' Article XX. Leaf 30, printed p. xiv.]
+  A  CHURCH  hath  power  to  decree  Cere-
+  monies,  and  to  establish  forms  of  wor-
+  ship,  and  laws  for  the  government  and  dis-
+  cipline of  its  members,  and  to  declare  its
+  own  faith;  yet  it  is  not  lawful  for  any
+  Church  to  ordain  or  decide  anything  that
+  is  contrary  to  God's  Word  written,  neither
+  may  it  so  expound  one  place  of  Scripture,
+  that  it  be  repugnant  to  another.  And
+  as  the  Church  ought  not  to  decree  any-
+  thing against  the  same,  so  besides  the
+  same  ought  it  not  to  enforce  anything  to
+  be  believed  for  necessity  of  salvation.
+  The  Mcene  [= Nicene]  Creed,  as  set  forth  in  the
+  Prayer-book  of  this  Church,  and  that
+  which  is  commonly  called  the  Apostles'
+
+  Art.  XXV  [Of the Sacraments].              [leaf 33]
+  Those  five  so-called  Sacraments,  that
+  is  to  say,  Confirmation,  Penance,  Or-
+  ders, Matrimony,  and  Extreme  Unction,
+  are  not  to  be  counted  for  Sacraments  of
+  the  Gospel,  ...  for  that  they  have  not
+  any  visible  sign  or  ceremony  ordained  of
+  God.
+
+⭐ NOTE ON THE ARTICLE XX ANALOGUE. The REC's version reads "A CHURCH hath
+power to decree Ceremonies" where the Thirty-Nine Articles read "The Church
+hath power to decree Rites or Ceremonies." The indefinite article generalizes
+the power to any church rather than vesting it in The Church. This is a
+POSITIVE GRANT of power to decree ceremonies, subject only to the limit that
+nothing be decreed contrary to God's written Word. It is not a restraint on
+ceremonial and it enumerates nothing. It is also, again, 1875 matter.
+
+================================================================================
+THE EXHAUSTIVE CEREMONIAL-VOCABULARY SEARCH RECORD
+================================================================================
+
+Every term below was run against the whole-book index of
+bookofcommonpray00refo. Hyphen-split fragments were run for every term whose
+syllable structure admits a line-break split. Leaf numbers are inside.php
+"page" values.
+
+--- THE BRIEF'S SEVENTEEN TERMS -------------------------------------------
+
+incense .......... 4 hits — leaves 47, 74, 407, 481. ALL FOUR ARE QUOTED
+                   SCRIPTURE, AND NONE IS A RUBRIC:
+                     leaf 47  — Malachi 1:11, second Opening Sentence of
+                                MORNING PRAYER (EXCERPT 7).
+                     leaf 74  — Malachi 1:11 again, Opening Sentence of
+                                EVENING PRAYER: "From the rising of the sun
+                                even nnto the going clown of the same, my Name
+                                shall be great among the Gentiles; and in every
+                                place incense shall be offered unto my Name,
+                                and a pure offering: for my Name shall be great
+                                among the heathen, saith the Lord of hosts.
+                                Mai. i, IL"
+                     leaf 407 — Psalm 66:15, Psalter: "I will offer unto thee
+                                fat burnt-sacrifices, with the incense of rams;
+                                I will offer bullocks and goats."
+                     leaf 481 — Psalm 141:2, Psalter: "Let my prayer be set
+                                forth in thy sight as the incense; and the
+                                lifting up'^of my hands as the evening
+                                sacrificed [= sacrifice]."
+cense ............ 0 hits.  [tests for a printed "in-/cense" split — none]
+censing .......... 0 hits.
+censer ........... 0 hits.
+censers .......... 0 hits.
+censed ........... 0 hits.
+perfume .......... 0 hits.
+perfumes ......... 0 hits.
+perfum ........... 0 hits.
+fume ............. 0 hits.
+odours ........... 0 hits.
+odour ............ 0 hits.
+odors ............ 0 hits.
+odor ............. 0 hits.
+frankincense ..... 1 hit — leaf 165. Matthew 2:8-12, the Gospel for the
+                   Epiphany: "...they presented unto him gifts ; gold, and
+                   frankincense, and myrrh." Quoted Scripture. Not a rubric.
+frankin .......... 0 hits.
+sweet savour ..... savour: 1 hit — leaf 196. Ephesians 5:1-2, an Epistle:
+                   "...hath given himself for us, an offering and a sacrifice
+                   to God for a sweet-smelling savour." Quoted Scripture. Note
+                   the book reads "sweet-smelling savour," not "sweet savour."
+                   savours 0; savor 0; vour 0.
+ceremony ......... 1 hit — leaf 33. Article XXV, "any visible sign or ceremony
+                   ordained of God." 1875 matter. Doctrinal, not directive.
+ceremonies ....... 0 hits AS A WHOLE TOKEN — but the word IS present twice,
+                   printed "Cere-/monies," and is found via its fragments:
+                     cere   — 2 hits, leaves 22 and 30
+                     monies — 3 hits, leaves 22, 30 and 457
+                   leaf 22 = Article VI ("as touching Cere-monies and Rites").
+                   leaf 30 = the Article XX analogue ("A CHURCH hath power to
+                     decree Cere-monies").
+                   leaf 457 = Psalm 119:2, "keep his testi-monies" — an
+                     unrelated hyphenation of "testimonies."
+                   BOTH REAL OCCURRENCES ARE IN THE 1875 ARTICLES. Neither is
+                   a rubric and neither forbids anything.
+ceremonial ....... 0 hits.   monial 0; mony 0.
+ornament ......... 0 hits.
+ornaments ........ 0 hits.   nament 0; naments 0.
+vestment ......... 0 hits.
+vestments ........ 0 hits.   vesture/vestures: vestures 0; vesture 5 hits —
+                   leaves 157, 244, 437, 533, 538 — ALL quoted Scripture
+                   (Hebrews 1:11-12 / Psalm 102, John 19:23-24, Psalm 22:18).
+                   No occurrence refers to clerical dress.
+altar ............ 9 hits — leaves 16, 129, 190, 299, 365, 386, 397, 456, 532.
+                   ONE is not Scripture: leaf 16, Declaration of Principles
+                   IV, Third — the rejected altar DOCTRINE (EXCERPT 5). The
+                   other eight are quoted Scripture: 1 Corinthians 9:13-14;
+                   Joel 2:12-17; Matthew 5:23-24; Psalms 26:6, 43:4, 51:19
+                   (twice, Psalter and Selections), 118:27.
+altars ........... 3 hits — leaves 419, 515, 526. All Psalm 84:3.
+candle ........... 2 hits — leaves 292, 357. Both quoted Scripture: Luke 15:8
+                   ("doth not light a candle") and Psalm 18:28 ("Thou also
+                   shalt light my candle").
+candles .......... 0 hits.   candlestick 0; taper 0; tapers 0.
+lights ........... 2 hits — leaves 265, 478. Both quoted Scripture: James 1:17
+                   ("the Father of Lights") and Psalm 136:7 ("To him that made
+                   great lights"). lamps: 1 hit, leaf 282, Revelation 4:5
+                   ("seven lamps of fire burning before the throne").
+
+--- ADDITIONAL TERMS RUN, NOT REQUIRED BY THE BRIEF ------------------------
+
+thurible 0; thuribles 0; ritual 0; ritualism 0; ritualistic 0; crucifix 0;
+chancel 0; surplice 0; cope 0.
+stole ............ 1 hit — leaf 326, Ephesians 4:28, the verb ("Let him that
+                   stole steal no more"). Not vesture.
+rites ............ 1 hit — leaf 22, Article VI. 1875 matter.
+rite ............. 1 hit — leaf 558, the exhortation in the Order of
+                   Confirmation: "...we have retained this rite of laying on
+                   of hands upon those who are baptized..." This is the ONLY
+                   occurrence in the whole book of a ceremonial act being
+                   named and retained, and it is laying on of hands.
+oblation ......... 4 hits — leaves 16, 36, 140, 366. leaf 16 = Declaration IV
+                   Third; leaf 36 = Article XXX title, "Of the one Oblation of
+                   Christ finished upon the Cross" (1875); leaf 140 = the
+                   Prayer of Consecration ("his one oblation of himself once
+                   offered"); leaf 366 = Psalm 27:6.
+sacrifice ........ 33 hits across leaves 18, 24, 25, 36, 37, 118, 120, 140,
+                   142, 143, 166, 196, 225, 240, 260, 343, 359, 383, 393, 396,
+                   397, 444, 454, 456, 500, 532, 538. Examined: Articles,
+                   Communion office, Epistles, Psalter. None ceremonial-
+                   directive.
+cross ............ 19 hits across leaves 36, 66, 122, 133, 140, 205, 209, 223,
+                   236, 238, 243, 244, 245, 318, 336, 546, 554. Examined: all
+                   are the Cross of Christ in doctrine, Scripture or prayer.
+                   NOT the manual act of signing. crucifix: 0.
+
+--- CROSS-CHECK AGAINST TWO INDEPENDENT SCANS -------------------------------
+
+bookofcommonpray00refo_0 (1874, Illinois, 612 leaves — NO Articles):
+  incense 4 hits, leaves 19, 46, 379, 453 — the same four Scripture passages,
+    Malachi 1:11 twice at the heads of Morning and Evening Prayer, Psalm
+    66:15, Psalm 141:2.
+  censer 0; censing 0; thurible 0; ceremonies 0; ceremony 0; cere 0;
+    ceremonial 0; ornaments 0; ornament 0; vestments 0; candles 0.
+  monies 1 hit — "testi-monies," Psalm 119. Not "ceremonies."
+  altar 9 match objects — leaf 12 is Declaration IV Third; the rest Scripture.
+
+commonpray00refo (1874, Princeton, 842 leaves — the 1874 HYMNS bound in):
+  incense 6 hits, leaves 23, 50, 383, 457 (the same four Scripture passages)
+    PLUS TWO IN THE BOUND-IN HYMNAL, which is a separate 1874 publication of
+    the Charles W. Quick press and NOT part of the Prayer Book:
+      leaf 700 — "0 that our thoughts and thanks may rise / As greatful
+                 incense to the skies ! / And draw from heaven that calm
+                 repose, / Which none but he who feels it knows."
+      leaf 752 — "Rising up to heaven above ; / Perfumed by the holy incense"
+    Both are metaphor in hymn verse. Neither directs any act.
+  censer 0; censing 0; thurible 0; ceremonies 0; ceremony 0; cere 0;
+    ceremonial 0; ornaments 0; ornament 0; vestments 0; candles 0.
+  altar — leaf 16 is Declaration IV Third; the rest Scripture.
+
+bookofcommonpray0000refo (1932, REC Publication Society): NOT SEARCHED.
+  Lending-restricted; OCR derivatives private; inside.php, the searchinside
+  API, and BookReaderSearch all returned an empty body, including for a
+  control term certain to be present. Two servers tried. NOTHING IN THIS
+  CAPTURE EXTENDS TO THE 1932 EDITION.
+
+================================================================================
+UNMATCHED / NOT DONE — recorded so it is not mistaken for done
+================================================================================
+
+1. The full 805,976-byte OCR was NOT read end to end. The fetcher truncates at
+   c. 75,000 characters and the per-page endpoint would require 642 calls.
+   Whole-book coverage rests on the index, whose one known failure mode
+   (hyphenation) was identified and systematically compensated for by
+   fragment queries, and on agreement across three independent scans.
+   A reader who wants absolute certainty on a term should re-run it against
+   the fragment list.
+2. The 1932 REC Prayer Book was not searched (above).
+3. The Journal of the Second General Council (New York, May 1874), which
+   would give the adopting resolution in its own words, was NOT consulted.
+   The adopting authority here rests on the title page and the Certificate,
+   which are the book's own statements and are primary, but they are the
+   book speaking about itself, not the Council's minutes.
+4. Byte offsets were NOT logged for this capture, and it is NOT registered in
+   SRC_Manifest.md — correctly, since this pass is forbidden to write to the
+   repository. Registration is owed at intake.
+
+================================================================================
+END OF CAPTURE
+================================================================================
