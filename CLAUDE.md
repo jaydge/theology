@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-**Last updated: 260728-2**
+**Last updated: 260835-72** *(260835-72: one line added under Source handling — Discord raw-file header-above orientation. Prior stamp 260728-2.)*
 
 > ⚠️ **REGISTERED IN `PROJECT_STATE.md` §4 ON 260728-2 (CL-5).** Until then this
 > file was tracked in git but appeared **zero times** in the registry, which put
@@ -62,6 +62,10 @@ tradition Reformed vs. Anglican disagreement).
 - Byte-offset extraction on long-line transcript files: use `grep -ob` and
   `dd`, not plain `grep`, which is unreliable on very long lines.
 - Verbatim quotes are byte-offset verified before being logged or deployed.
+- In `src/SRC_Discord_*-raw.txt` the poster's name and timestamp PRECEDE the
+  post text (header above, then that poster's text until the next header).
+  Before reading any Discord raw file, check the first post's orientation,
+  then read every post the same way. *(Added 260835-72.)*
   Never attribute a paraphrase as a direct quote.
 - **Anglican 101 capture policy (set 260726-1):** JD's room recording `[R]`
   is PRIMARY **permanently, by policy** for this series — it captures

@@ -11,7 +11,7 @@
  
 *Canonical working list (internal). Stable title, no version suffix; the working version lives in the line below and the permanent CHANGELOG at the end.*
  
-**Last updated: 260835-16 (v22)** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-72 (v23)** (date-stamped, format yymmdd-iteration) ⭐⭐ **260835-72 — ONE DATED BLOCK in the live-status section (Followup-thread question states; reserve item 4 queued as the next committal question behind the two open ones; the "instituted form" question superseded) and one dated note at item 1e. ⛔ No question drafted, altered, retired or posted.** *(Prior stamp retained: 260835-16 (v22).)*
 
 > ### ⚠️ POINTER — VOLATILE STATE IS NOT AUTHORITATIVE IN THIS FILE
 > **`PROJECT_STATE.md` is the single source of truth** for whose turn it is, what has been asked, what has been answered, which gates are open, and what version each document is at. Status language in this file is **commentary**, retained for its reasoning. **Where the two disagree, `PROJECT_STATE.md` wins and this file is stale.** Run `validate_project.py` after any edit.
@@ -190,6 +190,24 @@ The tension in Bucket A is therefore **not** "you're a crypto-Romanist on author
 > **⚠️ ADD NOTHING BEFORE HE ANSWERS.** One committal question per turn. **The DQ-10 exclusions question is queued behind this, not competing with it.**
 >
 > **Bump discipline:** his pattern on this thread is slow-batch — the 07-12 question drew a reply on 07-21, nine days later. **No bump due before roughly 07-30.**
+
+---
+
+> # ⭐⭐⭐ v23 UPDATE (260835-72, 2026-10-09) — THE FOLLOWUP THREAD'S QUESTIONS, THEIR STATES, AND THE NEXT COMMITTAL QUESTION QUEUED
+>
+> ⛔ **Live state lives in `PROJECT_STATE.md` §1/§3 and wins every conflict; this block records the question-list consequences only. No question below was drafted, altered, retired or posted by this pass.** The dialogue moved from the RPW thread to **"Followup questions"** (opened by JD 2026-09-05; `DQ-29`…`DQ-37` in `St_Francis_EMC_Distinctives.md`; JD's side at the `JD-RECORD` block there; byte offsets against `src/SRC_Discord_Followup-raw.txt`, sha256 `48bb0a58…`).
+>
+> **1. The 9/8 expectation question** — *where does the expectation come from: God expects the church as such to use incense (so something must institute it, the work Malachi 1:11 would do), or God expects us to keep the ceremonial our own church has ordered (Article 34 territory), or something else?* ([byte @19,543–19,744]; [byte @20,239–20,314]). ✅ **ANSWERED IN SUBSTANCE, never in those terms:** by his 9/12 hierarchy (`DQ-32`(b), level (1) *"Scripture: Yes (my position)"*) read with the 8/30 *"Correct."* (`DQ-28`(d)) — the expectation sits at Scripture as he reads it, and does not require. ⚠️ Treat as answered for sequencing; do not re-ask.
+>
+> **2. The 9/27 question** — *optional, prescribed, or something else?* (*"I'm not asking you to abandon either position. I'm asking which one you keep, because I don't see how both can be held at the same time."*, [byte @59,440–59,576]). ⏳ **OPEN.** His 10/4 reply was a clarifying question (`DQ-35`); JD restated it as standing 10/4 and left it standing 10/8.
+>
+> **3. The 10/8 question** — *what takes us from "someone other than Aaron's sons offers incense in these passages" to "the church may offer it in its worship"?* ([byte @76,426–76,556]). ⏳ **OPEN; RESTATED 10/9 in JD's own words and without quotation marks** (what takes incense from the Aaronic restriction disappearing to the sign itself continuing, when the sign did not continue for circumcision or the showbread? — [byte @82,666–82,824]). ⛔ **Not attributed to Rev. James in either form.** His 10/8 reply was the fulfillment dilemma (`DQ-37`), which JD answered 10/9.
+>
+> **4. QUEUED — the next committal question, BEHIND the two open ones: reserve item 4, the Heb 9:2-4 question** (`Incense_Conversational_Outline.md`, `260835-72` reserve register). Built on his own 8/21 rule (`DQ-19`(d): sin offerings drop *"precisely because of the Book of Hebrews, which means that if there is something along those lines on another component of worship we would follow suit"*): does the altar of incense, listed beside the table of showbread as first-tabernacle furniture, *"a figure for the time then present"* (Heb 9:9), count as something along those lines? ⛔ **Guard: he has not said Heb 9's list triggers his conditional — ask, never assert. Wording: "altar of incense (KJV 'golden censer')"; the θυμιατήριον rendering is disputed.** ⛔ **NOT drafted as posted text; not to go until the 10/8 question is answered.**
+>
+> **5. SUPERSEDED — "what is the instituted new covenant form of incense, and where is it given?"** He can answer *"Malachi 1:11"* and stop (he has, in effect: `DQ-37`(b), *"Malachi 1:11 is then sufficient"*). ⚠️ **The phrase does not occur verbatim in this file; its nearest forms are item 1e's two routing replies (*"who instituted this accompaniment?"* and *"a new symbolic rite that neither Christ nor the apostles instituted"*) and are marked superseded by a dated note at 1e.** The institution question survives only in the 10/8 form above, which asks for the STEP rather than the form.
+>
+> ⚠️ **One-question-per-turn:** two of JD's questions are open at once because his last two replies answered questions with questions; this is an observation about the record, logged in `PROJECT_STATE.md` §3, not a charge.
 
 ---
 
@@ -560,6 +578,8 @@ The tension in Bucket A is therefore **not** "you're a crypto-Romanist on author
  
 **[Sequencing — do not shortcut]** *⚠️ **Staged, not posted. Incense does not enter until the filter is on the record in his own words, and DQ-5 remains outstanding.** One committal question per turn; the pending Discord turn is the grounding question on the "of necessity" modal, and nothing here displaces it. This item is filed now so the argument is ready, not so it can be moved up.*
  
+> ⚠️ **DATED NOTE, 260835-72 (2026-10-09) — the two "instituted" routing replies above are SUPERSEDED as questions.** Asked "what is the instituted new covenant form of incense, and where is it given?", he can answer *"Malachi 1:11"* and stop — and on 2026-10-08 he did, in effect (`DQ-37`(b): *"Malachi 1:11 is then sufficient"*). ⭐ **The question survives only in the 10/8 form (`PROJECT_STATE.md` §3; v23 block above): what takes us from non-Aaronic offerers to "the church may offer it" — which asks for the step, not the form.** ⭐ **Also recorded: the Luke 1:9-10 datum this item rests on WAS deployed (9/17, 9/27, 10/8, 10/9), and the "it's just prayer" routing now has his own 8/21 "symbol of prayer" on the record as common ground (used so by JD, 10/9).** ⛔ The item's text is not altered.
+
 ---  
  
 ### 1a. Which Homilies do you take exception to? `[clarify → gates Q2]`
@@ -1134,6 +1154,8 @@ This pass sourced the list against the uploaded transcripts: Anglican 101 (a101-
  
 ---  
 # CHANGELOG (permanent — never deleted)  
+
+260835-72 (v23): **FOLLOWUP-THREAD QUESTION STATES RECORDED — ONE DATED BLOCK IN THE LIVE-STATUS SECTION, ONE DATED NOTE AT ITEM 1e, NOTHING ELSE TOUCHED.** ⚠️ **No question drafted, altered, retired or posted; Rev. James not contacted.** 9/8 expectation question: answered in substance (9/12 hierarchy + 8/30 *"Correct."*). 9/27 (optional / prescribed / something else): OPEN. 10/8 (non-Aaronic offerers → "the church may offer it"): OPEN, restated 10/9 in JD's own words. Reserve item 4 (the Heb 9:2-4 question) queued as the next committal question behind the two open ones, with its ask-never-assert guard and KJV-wording note. "What is the instituted new covenant form of incense, and where is it given?" marked superseded (he can answer "Malachi 1:11" and stop). Live state remains in `PROJECT_STATE.md`.
 
 260835-16 (v22): **`RC-6` RECOVERED (`File 64`, `SRC_Manifest.md`) — ONE DATED NOTE ADDED AT ITEM 16, NOTHING ELSE TOUCHED.** ⚠️ **No question drafted, altered, retired or posted; Rev. James not contacted.** This file was searched for the "2023" figure the brief expected to find propagated here in connection with `RC-6`; it does not occur — recorded rather than silently assumed. **Item 16's `RC-6`/`RC-4` answer summary gains a dated note:** `RC-6` upload confirmed 2022-07-30 (a corpus-wide "2023" guess corrected at `St_Francis_EMC_Distinctives.md` L363), and "explicitly fenced against improper Marian elevation" is corrected on JD's ear-check — the word he rejects is "divinization," not "veneration," and he raises it to name and reject a misreading, not as his own affirmed description. Companion edits, same stamp: `SRC_Manifest.md` (File 64 registration), `St_Francis_EMC_Distinctives.md` (retro-verification + date corrections), `PROJECT_STATE.md`, `SRC_Channel_Inventory.md` (decision cell). Full accounting in `passes/260835-16_rc6-registration-and-retro-verification_close-out.md`.
 
