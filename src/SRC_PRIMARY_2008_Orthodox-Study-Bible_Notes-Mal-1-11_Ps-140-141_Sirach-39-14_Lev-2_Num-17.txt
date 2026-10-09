@@ -1,0 +1,89 @@
+CAPTURE — 260835-70
+SOURCE: The Orthodox Study Bible (St. Athanasius Academy of Orthodox Theology /
+        Thomas Nelson; OT from the Septuagint). Study notes, not the biblical text.
+COPYRIGHT: © modern study apparatus. NOT public domain. Internal verification only.
+PROVENANCE AND VERIFICATION — read this before quoting anything below:
+  Two INDEPENDENT archive.org scans of the edition were OCR'd separately and
+  both were searched:
+    [A] item `the-orthodox-study-bible_202509`,
+        file `The Orthodox Study Bible_djvu.txt` (normalised len 7,682,575)
+    [B] item `the-orthodox-study-bible-2021-medium-quality-scan`,
+        file `The Orthodox Study Bible 2021 [Medium Quality Scan]_djvu.txt`
+  Both retrieved 2026-09-08. Hyphen-split normalisation applied before searching
+  (per 260835-66). "incense" returns 224 hits across [A].
+  The Malachi 1:11 note was located in BOTH and the two readings were diffed.
+  They agree, except that [A]'s OCR corrupts two words that [B] renders cleanly:
+        [A] "in every place OF church"   [B] "in every place or church"
+        [A] "nearly evel service"        [B] "nearly every service"
+  A third witness was obtained: page image leaf 1081 (= printed p. 1054) of [A],
+  fetched via the BookReader image endpoint and read on screen. It is legible at
+  the note and agrees with [B].
+  ⭐⭐ WORDING-CRITICAL. This is the load-bearing quotation of the whole pass.
+     Two OCR passes plus one page image is PROVISIONAL confidence only.
+     ⛔ FROZEN from outward deployment until read against a printed copy.
+
+--- BEGIN CAPTURE 1 — note at MALACHI 1:11, printed p. 1054 ---
+
+1:11 A remarkable and clear prophecy that the Gentiles, in their worship of God,
+in every place or church will burn incense before Him—as Israel had done. To this
+day, incense is offered in nearly every service of the Orthodox Church.
+
+--- END CAPTURE 1 ---
+
+--- BEGIN CAPTURE 2 — note at PSALMS 140; 141 (LXX numbering) ---
+
+140; 141 Ps 140 and 141 are the psalms of the evening incense. These two psalms
+are both sung at Vespers. Ps 141:2 was sung in Israel, and now in the Church,
+during the offering of incense to God. As Rev 5:8 teaches, incense is the visible
+sign of the prayers of all God's people. The prophet Malachi foretold its
+continued use in every place, including in the offering of worship by the
+Gentiles (Mal 1:11). Incense was brought to Christ as a gift at His birth, and it
+has been used in the worship of the Church from her very beginning.
+
+--- END CAPTURE 2 ---
+
+--- BEGIN CAPTURE 3 — note at SIRACH 39:14 ---
+⚠️ OCR here is visibly degraded (column bleed from the facing text); the
+   bracketed restorations are marked as such and are NOT verified.
+
+39:14 Incense has been an important aid to prayer and praise of God from time
+immemorial. [...] David wrote, "Let my prayer be set forth before You as incense"
+(Ps 140:2). The prophet Mala[chi] [...] predicted incense would be used in
+worship and prayer among the Gentile nations (Mal 1:1[1]) [and this] continues to
+be fulfilled in the Church. One of the gifts brought to the baby Jesus by the
+wise men [was] incense [...]
+
+--- END CAPTURE 3 ---
+
+--- BEGIN CAPTURE 4 — notes at LEVITICUS 2 (figurative register) ---
+
+[at 2:1] Frankincense was also added to the various grain offerings. It typified
+the prayers of the Church. In Vespers, the Church sings, "Let my prayer arise in
+Your sight as incense." Co-laboring with God must be accompanied by prayer.
+
+[at 2:13] Salt, a symbol of an indissoluble covenant, was added to this offering.
+The oil symbolized the Holy Spirit, and incense was a symbol of prayer.
+
+--- END CAPTURE 4 ---
+
+--- BEGIN CAPTURE 5 — note at NUMBERS 17:6-15 (typological/sacrificial register) ---
+
+17:6-15 The high priest Aaron took his censer, put hot coals in it, threw incense
+on the coals, then censed the people. This action made atonement for them, and the
+plague ceased. Christ our Great High Priest offered His life-giving body on the
+cross (the hot coals from the altar). The smoke of incens[e] [...]
+
+--- END CAPTURE 5 ---
+
+READING RECORDED (for the analysis document, not part of the source):
+  ⛔⛔ CAPTURE 1 IS THE COUNTEREXAMPLE THIS PASS WAS SENT TO LOOK FOR.
+     The Orthodox Study Bible reads the incense clause of Mal 1:11 LITERALLY,
+     locates its fulfilment in the CHURCH AGE and in the CHURCH's own worship,
+     and says so in as many words. It does NOT identify the pure offering with
+     the Eucharist at this verse — it does not mention the Eucharist here at all.
+  ⭐ Mal 1:11 recurs as an incense warrant in TWO further notes (Ps 140/141;
+     Sir 39:14), so its use is systematic in this commentary, not incidental.
+  ⚠️ But note the register in CAPTURE 2: the same commentary calls incense
+     "the visible sign of the prayers of all God's people" (Rev 5:8) — the
+     FIGURATIVE identification the Protestant commentators make — while holding
+     the physical practice. The two are not in tension for this writer.

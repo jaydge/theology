@@ -1,0 +1,34 @@
+CAPTURE — 260835-70
+SOURCE: St John of Damascus, An Exposition of the Orthodox Faith, Book IV,
+        Chapter 13, "Concerning the holy and immaculate Mysteries of the Lord."
+        English: S. D. F. Salmond, tr., Nicene and Post-Nicene Fathers,
+        Second Series, Vol. 9 (1899). PUBLIC DOMAIN.
+PROVENANCE: newadvent.org/fathers/33044.htm, read in-page 2026-09-08.
+            Page innerText length 128,307 chars. Book IV runs Chapters 1-27.
+            Scripture references shown inline are New Advent's editorial links.
+
+--- BEGIN CAPTURE ---
+
+With bread and wine Melchisedek, the priest of the most high God, received
+Abraham on his return from the slaughter of the Gentiles. Genesis 14:18 That
+table pre-imaged this mystical table, just as that priest was a type and image of
+Christ, the true high-priest. Leviticus xiv For you are a priest for ever after
+the order of Melchisedek. Of this bread the show-bread was an image. This surely
+is that pure and bloodless sacrifice which the Lord through the prophet said is
+offered to Him from the rising to the setting of the sun Malachi 1:11 .
+
+--- END CAPTURE ---
+
+⭐ NEGATIVE FINDING, DERIVED BY DIRECT SEARCH AND RECORDED AS SUCH:
+  The string "incense" occurs ZERO times in the whole of Book IV as New Advent
+  prints it (indexOf('incense') === -1 over all 128,307 chars). John of Damascus
+  cites Malachi 1:11 here for the EUCHARIST and does not quote, gloss, or allude
+  to the verse's incense clause anywhere in the book.
+
+READING RECORDED (for the analysis document, not part of the source):
+  Pure offering  = the Eucharist ("that pure and bloodless sacrifice"),
+                   typed by Melchizedek's bread and wine and the showbread.
+  Incense clause = NOT QUOTED. Not treated at all.
+  ⭐ This is the single most useful Orthodox witness for the project's purpose:
+     a first-rank Orthodox dogmatic authority reads the verse eucharistically,
+     in a public-domain English translation, and draws NO incense inference.

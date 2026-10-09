@@ -1,0 +1,63 @@
+CAPTURE — 260835-70
+SOURCE: Theodore of Mopsuestia, Commentary on the Twelve Prophets.
+        The Fathers of the Church: A New Translation, VOLUME 108.
+        Translated by Robert C. Hill. Catholic University of America Press.
+        Copyright © 2004. ISBN 0-8132-0108-X (pbk.).
+        All four data points read directly out of the volume's own front matter.
+COPYRIGHT: © modern translation. NOT public domain. Internal verification only.
+PROVENANCE: archive.org item `theodore-of-mopsuestia-commentary-on-the-twelve-prophets`,
+            file `Theodore of Mopsuestia - Commentary on the Twelve Prophets_djvu.txt`,
+            retrieved 2026-09-08 by in-page fetch from the archive.org origin.
+            Raw length 1,044,226 chars.
+            ⚠️ HYPHEN-SPLIT PRECAUTION APPLIED (per the 260835-66 finding): the
+            text was normalised with /-\s*\n\s*/ removed before searching, and
+            "incense" was searched as /in\s*-?\s*cense/i. On the normalised text
+            (1,035,201 chars) the term returns exactly THREE hits in the whole
+            volume: 213,550 / 249,662 / 976,219. Only the third is in Malachi.
+            Running headers in the captured span: "404 THEODORE OF MOPSUESTIA"
+            and "COMMENTARY ON MALACHI 2 405". Bracketed [608] is the edition's
+            marginal column reference.
+CAVEAT: OCR of a scan. Re-verify against print before outward quotation.
+
+--- BEGIN CAPTURE (pp. 404-405) ---
+
+[LEMMA, v.11]
+Because from the rising of the sun to its setting may my name be glorified by
+the nations, and in every place incense is offered to my name and a pure
+offering, because my name is great among the nations, says the Lord almighty
+(v.11):
+
+[COMMENT — the whole of it, uninterrupted, down to the next lemma]
+everywhere on earth all people wherever they may be found seek after my name,
+each of them anxious to reverence God and honor his name as master and Lord, as
+in fact I am, so that even if they are deceived in applying my name to what they
+should not, all still honor it as mine and in my name they perform their
+sacrifices, believing the divinity excels and surpasses everything. You, on the
+contrary, are seen to insult what is believed by everyone to be so mighty and
+venerable, since by treating my table as common and lacking anything beyond the
+ordinary, by believing what is placed on it to be worthy of no attention, and by
+offering such things to me you clearly insult my name and appear to set at
+nought the divinity, who is rightly regarded by everyone as so mighty, fearsome,
+august, and surpassing everything.
+
+[TRANSLATOR'S FOOTNOTE 12, printed on the same opening — captured because it is
+the translator speaking, NOT Theodore]
+This v.11 has been taken in various ways over the ages, from messianic and even
+eucharistic interpretation to an endorsement of other religious traditions. On
+first principles Theodore shows no interest in the former, and in a guarded
+fashion sees value in the latter, though principally seeing the words directed at
+the restored community's indifference.
+
+--- END CAPTURE ---
+
+READING RECORDED (for the analysis document, not part of the source):
+  Pure offering  = NOT identified with the Eucharist. Theodore reads the verse
+                   of the nations' universal (even mistaken) honouring of God's
+                   name: "in my name they perform their sacrifices."
+  Incense clause = PASSED OVER. It is quoted in the lemma and then never
+                   touched in the comment. Neither literal nor figurative
+                   gloss is offered.
+  ⛔ RECEPTION CAVEAT, load-bearing for this pass: Theodore of Mopsuestia was
+     condemned by name at the Second Council of Constantinople (553, the Three
+     Chapters). He cannot be cited as "an Orthodox commentator" without that
+     qualification, and the project should not lean on him.

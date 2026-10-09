@@ -1,0 +1,99 @@
+CAPTURE — 260835-70
+⛔⛔ ALL THREE SOURCES BELOW ARE **SECONDARY**. They are parish pages and a
+    priest's blog. They establish WHAT IS COMMONLY SAID in Orthodox popular
+    apologetics. They are NOT authority, they bind nobody, and no verdict in
+    the analysis document rests on them alone.
+    All three were retrieved 2026-09-08 and read in-page (each is
+    client-rendered; a plain fetch returns an empty shell).
+    They are three of the five URLs already listed, UNVERIFIED, in
+    `Protestant_Commentary_Survey_Malachi_1_11.md` Appendix §A6.
+
+================================================================
+1. Fr. John Peck, "Worship With Incense" — https://frjohnpeck.com/worship-with-incense/
+   (Orthodox priest, personal site. Page innerText 7,110 chars.)
+================================================================
+
+[the scriptural list he gives]
+Exodus 25,30,31,35,37,39,40 / Leviticus 4,16 / Numbers 4,7,16 / Deuteronomy 33 /
+1 Samuel (1 Kingdoms/Reigns LXX) 2 / 1 Chronicles 6,9,23 / 2 Chronicles 2,13,26,29 /
+Psalm 141 / Isaiah 60 / Jeremiah 17,41 / Malachi 1 / Luke 1 / Revelation 5,8
+
+[the Malachi move — verbatim]
+One of my favorite references to worship utilizing incense is found in Malachi
+1:11. This prophesies of the age of the new covenant, when God expands his
+blessings to the "Gentiles" or the world at large (in other words, the age of the
+Church): [NKJV text of Mal 1:11 follows]
+
+[after quoting Rev 8:2-4 — verbatim]
+Our prayers ascend to God with the smoke of incense. The Old Testament prophesied
+this, and the new testament reveals this with fulfillment in Christ. As a result,
+incense is fitting for the worship of God in both heaven and on earth.
+
+[the Ps 141 move — verbatim]
+Incense and prayer work the same way. They are two sides to the same coin, so to
+speak: Let my prayer arise in Thy sight as incense. And let the lifting up of my
+hands be an evening sacrifice. Psalm 141:2 [...] God wants to be worshiped on
+earth in the same way he is worshiped in heaven. Heavenly worship includes
+incense, in both the old testament (e.g. Isa. 6) an[d ...]
+
+GROUNDS PRESENT: OT continuity; Ps 141:2 (figure of prayer); Malachi 1:11;
+                 Revelation / heavenly worship; sensory-incarnational ("Orthodox
+                 worship involves the entire human person, including all five of
+                 one's senses").
+⛔ MAL 1:11 IS USED AS A WARRANT, and is the one he singles out as a favourite.
+
+================================================================
+2. "Why does the Church use Incense?" — https://www.orthodoxanswers.net/post/why-does-the-church-use-incense
+   (Page innerText 8,309 chars.)
+================================================================
+
+[verbatim]
+Incense is still offered to Christ by wise men around the world. Now this is
+actually prophesied in the Old Testament, centuries before Christianity has come
+on the scene, in the Book of Malachi. He quotes God as saying that "My name shall
+be great among the Gentiles, in every place incense shall be offered to My name,
+and a pure offering for My name shall be great among the nations". This
+straightforward prophecy has come true. Incense is being offered to God
+everywhere.
+
+[verbatim]
+Two references to incense in John's Book of Revelation seem to imply an early
+Christian use and familiarity with incense. [...] Three of the oldest Christian
+liturgies make many references to incense.
+
+GROUNDS PRESENT: the Magi's gift; Malachi 1:11; Revelation; antiquity of the
+                 liturgies (tradition per se); Zechariah in Luke 1.
+⛔ MAL 1:11 IS USED AS A WARRANT, and is called a "straightforward prophecy"
+   that "has come true."
+
+================================================================
+3. "Why is there incense in Orthodox services?" — St. Michael Antiochian
+   Orthodox Christian Church, https://stmichaeltx.org/orthodox-101/what-is-orthodoxy/why-is-there-incense-in-orthodox-services/
+   (Page innerText 5,436 chars.)
+================================================================
+
+[verbatim]
+God commanded Moses to build an altar specifically for burning incense in the
+tabernacle. Not optional. Not decorative. Required. Exodus 30 gives detailed
+instructions about keeping incense burning continually before the Lord. The
+Psalms make the connection explicit: "Let my prayer be counted as incense before
+thee, and the lifting up of my hands as an evening sacrifice" (Psalm 141:2). The
+smoke rises. So do our prayers. In Revelation, St. John sees this same reality
+from heaven's side. The elders hold golden bowls full of incense, "which are the
+prayers of the saints" (Revelation 5:8). An angel takes incense and adds it to
+the prayers of all the saints on the golden altar, and the smoke ascends before
+God (Revela[tion 8 ...])
+
+⭐ NEGATIVE FINDING, DERIVED BY DIRECT SEARCH: "Malachi" occurs ZERO times on
+   this page. GROUNDS PRESENT: OT continuity (Exodus 30); Ps 141:2; Revelation
+   5:8 and 8:3-4. No Malachi at all.
+
+================================================================
+⚠️ NOTE FOR THE PROJECT, NOT A FINDING: the St Michael page makes, in the
+   ritualist's favour, exactly the Revelation 8 move that
+   `Protestant_Commentary_Survey_Malachi_1_11.md` §6c already flagged as the
+   one the pre-1900 commentators do NOT uniformly foreclose ("An angel takes
+   incense and ADDS IT TO the prayers"). It is stated there beside Rev 5:8
+   ("which ARE the prayers") without noticing the tension. That is the live
+   seam, and it is not a Malachi question.
+================================================================

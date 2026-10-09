@@ -1,0 +1,46 @@
+CAPTURE — 260835-70
+SOURCE: Arch-Priest D. Sokolof, A Manual of the Orthodox Church's Divine
+        Services. Translated from the Russian. New York and Albany:
+        Wynkoop Hallenbeck Crawford Co., Printers, 1899. PUBLIC DOMAIN.
+        (Title page read directly from the OCR text.)
+PROVENANCE: archive.org item `amanualoftheorth00sokouoft`,
+            file `amanualoftheorth00sokouoft_djvu.txt`, retrieved 2026-09-08.
+            Normalised length 403,627 chars; /censing|censer|incense/i returns
+            36 hits. The doctrinal explanation is the section headed "Incense."
+            (Marginal "22" is the printed page number in the captured span.)
+WHY THIS SOURCE: it is the only ORTHODOX explanation of the censing that this
+            pass could obtain in a public-domain English text. The standard
+            modern Orthodox liturgical commentaries were located but are
+            access-restricted — see the UNMATCHED register in the analysis file.
+
+--- BEGIN CAPTURE ---
+
+Incense. — Besides the lampads, candlesticks and candelabra, with their burning
+candles and lamps, an important item of divine service is the burning and
+swinging of incense (a fragrant tree-gum). This swinging is performed sometimes
+before the altar and the ikons; then it expresses the wish of the worshippers
+that their prayer may ascend to Heaven, as the fumes of the incense mount aloft.
+Sometimes the incense is swung towards the worshippers; then it expresses the
+wish of the celebrant that the grace of the Holy Ghost may encompass these souls
+of the faithful as the fragrant cloud of the incense encompasses them. The vessel
+which holds the incense is called censer; it is a cup with a cover running on
+three slight chains, which all unite into one handle.
+
+--- END CAPTURE ---
+
+⭐ NEGATIVE FINDING, DERIVED BY DIRECT SEARCH AND RECORDED AS SUCH:
+  "Malachi" / "Malachy" occur ZERO times in the entire volume.
+  A search for /offer(ing)? (of )?incense|incense .{0,40}offer/i over the whole
+  normalised text returns ZERO hits. Sokolof never uses oblationary language of
+  the incense at all.
+
+READING RECORDED (for the analysis document, not part of the source):
+  Register = PURELY FIGURATIVE / EXPRESSIVE, in both directions of the censing:
+    upward   — it "expresses the wish ... that their prayer may ascend"
+    outward  — it "expresses the wish ... that the grace of the Holy Ghost may
+               encompass" the faithful
+  ⛔ Nothing is said to be OFFERED to God, and nothing is said to be RECEIVED by
+     Him. ⚠️ This manual therefore does NOT explain — and does not so much as
+     mention — the offering language of the Byzantine censing prayer captured at
+     260835-56 ("which do thou accept upon thy most heavenly Altar").
+     That silence is the finding, and it is why §3 lands PARTIAL.

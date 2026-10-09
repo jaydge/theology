@@ -1,0 +1,1203 @@
+# SRC_Discord_Followup.md
+
+**Thread:** Followup questions
+
+> ⭐⭐⭐ **ARCHIVE OF RECORD — BUILD STAMP `260835-74` (2026-10-09).** Built by script from the raw bytes of `src/SRC_Discord_Followup-raw.txt`; no message text was retyped. Format follows `src/SRC_Discord_RPW.md` (`### <date>, <time> — <speaker>` headings, `---` separators, changelog APPENDED at the end of the file per the `260835-29` offset-stability rule), with an explicit `message N` line added under each heading.
+>
+> | Field | Value |
+> |---|---|
+> | Raw file built from | `src/SRC_Discord_Followup-raw.txt`, sha256 `63920d327fbe759d5679cc1f8292533a7cf8e89c73e6f3c1effa0cad86c89f58`, 89,131 bytes, at `HEAD` `47a8a4b` (*"rj 10 9 reply"*) |
+> | Raw capture date | **2026-10-09**, by JD, manual copy/paste from the Discord client (never automated). ⛔ The raw carries **no `CAPTURED …` line** (the debt recorded at `260835-58` and `260835-72` continues). Bounded below by its last header (10/9, 5:24 PM) and above by commit `47a8a4b` (2026-10-09 17:32:17 -0400) |
+> | Prior raw (offset base of `DQ-29`…`DQ-37`) | sha256 `48bb0a586b7d69d3f053a840f0d7fb59d3f5b5fe15f5cb41e66bafd300d0d528`, 83,190 bytes (`f69fbd4`). Byte-identical to the current raw for bytes 0–82,963; every logged `DQ-29`…`DQ-37` and JD-record offset (maximum 82,824) therefore resolves to the same bytes in both. ⛔ Offsets are NOT re-based against this archive |
+> | Archive sha256 | **Message region** (from the first `###` heading through the final `---` separator before `## Changelog`): `899e36bc65621c78bb64c168a0249afa7d3cedadebab9bcfaec08259ce9a3c76`. ⚠️ A file cannot carry its own whole-file hash; the **whole-file sha256** is recorded in `SRC_Manifest.md` (the value validator check `C6 - archive hash integrity` reads) |
+> | Coverage | **2026-09-05, 9:55 AM (JD, OP) → 2026-10-09, 5:24 PM (Rev. James)** · **64 messages under 32 client headers** (JD 43 messages / 15 headers; Rev. James 21 messages / 17 headers) |
+> | Message breaks | ⭐ Consecutive same-poster messages share one client header. Inside a header block, the raw separates **paragraphs within a message by a blank line** and **messages by a single newline**. Rule applied by script: a single newline joining two non-empty lines is a message break when the earlier line ends a sentence (`.` `?` `!` `"` `”` `)` `'`, optional trailing spaces), **except** after a bare list marker (`(1)`), before a bullet (`-x`) or numbered item (`1) `), and at one recorded determination (message 58). ⭐ **Corroboration: every resulting message is ≤ 2,000 characters (maximum 1,996), Discord's standard per-message limit, while 12 of the 32 header blocks exceed it.** ⚠️ The breaks are inferences from the raw's layout, not Discord metadata; each is listed in the `260835-74` changelog entry below with its raw byte position |
+> | Normalisation | Header-only: each raw header (one line for Rev. James; `JD Smith` / `OP` / ` — <time>` for JD, the OP) folded into the heading form, and the header's **U+202F** before AM/PM written as a plain space (the `260833-1` whole-class ruling; all 32 U+202F in the raw are in headers, zero in bodies). Message text is byte-exact to the raw slice named on each message's line; the single newline that separated it from the next message, and the newline before each header, are structure and are dropped |
+> | Orientation | Poster name and timestamp sit **ABOVE** the post text (first post: `JD Smith` / `OP` / ` — 9/5/26, 9:55 AM`, then JD's text). Confirmed on the first post before reading, and every post read the same way |
+> | Emphasis and `(edited)` | Copy/paste strips italics, bold and `(edited)` markers silently (the `260834-4` limitation). None survives in this archive; their absence confirms nothing |
+
+---
+
+### 9/5/26, 9:55 AM — JD Smith (OP)
+
+`message 1` · resolved **2026-09-05 09:55 ET** · raw header 1 of 32 · raw bytes `[54–2,014)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Now that the classes have wrapped up, I was thinking we can use this thread for follow-up questions.
+
+@Athanasius325 / Fr James  Starting with incense, since that's the one I've kept reading about - you've been generous with a lot of questions from me, and I really appreciate that! 
+
+I noticed two things in my studies:
+
+The commentators - I haven't found a single pre-1900 Protestant commentator who reads Malachi 1:11 as warranting physical incense in Christian worship. Several rule it out explicitly; the rest read the clause figuratively and never take up censing at all.
+
+The American Episcopal church history - In October 1866, twenty-eight American bishops signed a declaration against ritual innovations that named the use of incense first on its list, calling such practices "usages that have never been known."
+
+That description seems accurate. James DeKoven, who seems to be the leading American ritualist of the period, told the 1874 General Convention that he had never once been in an American Episcopal church when incense was used, though he knew it was used in England. The earliest American use I can find a date for is Christmas 1877.
+
+33 years after that declaration, the Archbishops of Canterbury and York examined the question and concluded that liturgical incense "is not at present enjoined nor permitted by the law of the Church of England," asking the clergy using it to discontinue. That was English law and had no force here, but it's the same conclusion and was reached independently.
+
+None of this was treated as a small matter at the time; it produced formal proceedings in both churches - a bishops' declaration here, an archiepiscopal hearing there - and from my limited research it was one of the issues behind the Reformed Episcopal split in 1873.
+
+I raise it because I've had the sense that objecting to incense might come across as an unusual position, and I don't think it is. Happy to be shown otherwise on any of this.
+
+---
+
+### 9/5/26, 3:01 PM — Athanasius325 / Fr James
+
+`message 2` · resolved **2026-09-05 15:01 ET** · raw header 2 of 32 · raw bytes `[2,062–4,058)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+1) "I haven't found a single pre-1900 Protestant commentator who reads Malachi 1:11 as warranting physical incense in Christian worship. Several rule it out explicitly; the rest read the clause figuratively and never take up censing at all."
+
+^^^We do not exclude the rest of Church History in order to make arguments. As Anglicans, we consider our history of the Church to be 1000's of years, not 500 years. 
+
+2) "In October 1866, twenty-eight American bishops signed a declaration against ritual innovations that named the use of incense first on its list, calling such practices 'usages that have never been known.'"
+
+^^^Yes, and that has no jurisdictional authority. Canon 20, Title I, does.  When that canon was debated it had a proposed ban on incense. James DeKoven (the name I was trying to remember last Sunday; he actually was a Priest and not a Bishop) gave a speech to General Convention in 1874 and pleaded with them that if they want to ban incense, that's fine; just don't ban it by claiming that it's a sin to use it: "It (the proposed canon) does not simply forbid the use of incense-I wish that were all. What it does is to say that the use of incense symbolizes erroneous or doubtful doctrines, which is a dreadful thing to commit this House to. For this House to forbid the use of incense is a very proper thing, perhaps; but for this House to say that the use of incense symbolizes false doctrines, is for this House to put itself in utter and total opposition to the Holy Scriptures; for, remember, what does David say? 'Let my prayer be set forth in Thy sight as the incense, and let the lifting up of my hands be an evening sacrifice.' In other words, David says that the use of incense, to which that holy prophet and kind was accustomed, having not lived in our own days--symbolized prayer; and will this church say--is it prepared to say,--that the use of incense, which symbolizes prayer, symbolizes false doctrine?" The incense ban in the proposed canon was removed. 
+
+---
+
+### 9/5/26, 3:10 PM — Athanasius325 / Fr James
+
+`message 3` · resolved **2026-09-05 15:10 ET** · raw header 3 of 32 · part 1 of 2 under this client header · raw bytes `[4,106–5,859)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+3) "James DeKoven, who seems to be the leading American ritualist of the period, told the 1874 General Convention that he had never once been in an American Episcopal church when incense was used, though he knew it was used in England. The earliest American use I can find a date for is Christmas 1877."
+
+^^^ DeKoven, from that same exact speech: "I am a Presbyter of this Church of twenty years' standing, and I am accused of Ritualism. Allow me to say that, though I have attended Ritualistic services in England and this country--and I am well aware that incense is and has been used--I never was in any church in connection with the Protestant Episcopal Church at a time when incense was used." He is typically not seen as a Ritualist, but an Anglo-Catholic; those are not the same thing. As well, he himself states that he is well aware of incense having been used; this is, again, stated in 1874. 
+
+4) "That was English law and had no force here, but it's the same conclusion and was reached independently." 
+
+^^^Same conclusion as who/what? 
+
+5) "I raise it because I've had the sense that objecting to incense might come across as an unusual position, and I don't think it is."
+
+^^^No. Objecting to incense on grounds of prudence is one thing; DeKoven's point (accepted by the Episcopal Church, and I don't know where the Church of England agrees with you) is that to reject incense in principle on theological grounds is to blaspheme the Holy Scriptures. He is quite clear on that. His speech is precisely why the Episcopal Church changed the wording of the proposed canon; recall again that DeKoven said he wished that the canon would, "Simply forbid the use of incense." The Episcopal Church was proposing a ban on it, but never actually did.
+
+---
+
+### 9/5/26, 3:10 PM — Athanasius325 / Fr James
+
+`message 4` · resolved **2026-09-05 15:10 ET** · raw header 3 of 32 · part 2 of 2 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[5,860–6,218)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+I see two arguments being made: 
+
+1) Incense is imprudent, so for that reason one is opposed to it. 
+
+This is a perfectly acceptable argument, insofar as one does not step beyond his authoritative bounds. 
+
+2) Incense is, in principle theologically, sinful to use. 
+
+This is seen as a blasphemy of the Scriptures, as it calls evil what Scripture calls good. 
+
+---
+
+### 9/5/26, 6:34 PM — Athanasius325 / Fr James
+
+`message 5` · resolved **2026-09-05 18:34 ET** · raw header 4 of 32 · raw bytes `[6,266–6,421)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+As a side note: DeKoven explicitly points to Malachi 1:11, and indicates that people are using that passage in defense of incense. This is, again, in 1874.
+
+---
+
+### 9/5/26, 6:50 PM — Athanasius325 / Fr James
+
+`message 6` · resolved **2026-09-05 18:50 ET** · raw header 5 of 32 · part 1 of 4 under this client header · raw bytes `[6,469–7,684)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Also, I looked at the Archbishops' statement that you mentioned, that came out in 1899. This is their conclusion concerning incense: 
+
+"In conclusion, we are far from saying that incense in itself is an unsuitable or undesirable accompaniment to Divine worship. The injunction for its use by Divine authority in the Jewish Church would alone forbid such a conclusion. But this is not the question before us. We are not to determine what might be fitting or permissible at some future time; but whether, under the present directions of the Book of Common Prayer, the liturgical use of incense is lawful or unlawful in the Church of England. And we are obliged to come to the conclusion that the use of incense in the public worship, and as a part of that worship, is not at present enjoined nor permitted by the law of the Church of England; and it is our duty to request the Clergy who so use it to discontinue that use. If used at all, it must be used (in George Herbert's language) to sweeten the Church, and outside the worship altogether." 
+
+This is far, far from a complete rejection of incense. It in fact admits that incense can be used for worship, and that to deny that is to deny the Witness of Scripture.
+
+---
+
+### 9/5/26, 6:50 PM — Athanasius325 / Fr James
+
+`message 7` · resolved **2026-09-05 18:50 ET** · raw header 5 of 32 · part 2 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[7,685–9,189)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+This is also an interesting set of paragraphs from the Archbishops' statement: 
+
+Further, it must be remembered that the Church has never spoken of incense as an evil thing. There are some expressions in the Homilies which have that character. But the Homilies are hortatory rather than imperative, and have never been taken as having high authority on points of doctrine or of ritual. Incense was excluded from public worship, not as an evil thing, but as unsuited to the needs of the day. There were clearly three reasons present to the minds of the then Church authorities for its exclusion.
+
+First they felt the need of greater simplicity. The services were too complicated. The rule that the services [10/11] should be understanded by the people required that they should not only be in English, but that they should not be overloaded with symbolism, making a complete understanding difficult. Symbolism kept within strict limits helps the understanding. But symbolism may easily be pushed to lengths which divert the attention from what the symbolism is intended, to teach, to the symbolism itself. The Liturgical use of incense was described on the part of those who advocated it before us as very complicated in its detail. It might have been well under quite other circumstances to have simplified the ceremonial while still retaining it. But it is generally found easier and more effective to get rid of the danger contained in anything of this kind by disuse than by modification.
+
+(continued)
+
+> ⛔ **DATED NOTE, 260835-74 — ATTRIBUTION BOUNDARY (carried from the `260835-58` manifest note).** The unquoted *"Further, it must be remembered…"* / *"Secondly…"* / *"And, thirdly…"* text in this run of messages is Rev. James's transcription of the **1899 Archbishops' Opinion**, posted without quotation marks; the words are the Archbishops'. His `(continued)` markers are his own message-joining marks, not part of the Opinion.
+
+---
+
+### 9/5/26, 6:50 PM — Athanasius325 / Fr James
+
+`message 8` · resolved **2026-09-05 18:50 ET** · raw header 5 of 32 · part 3 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[9,190–10,585)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Secondly, the Liturgical use of incense was specially connected with the Office for the Holy Communion, in relation to which many serious errors had arisen, and the authorities had a strong desire to make that whole Office as nearly as it could suitably be made a precise repetition of the original institution. It was the main purpose of the then rulers of the Church to put prominently forward the supremacy of the Bible. It is clear that the more closely the ceremonial of the Eucharist was modelled on the Biblical account of the original institution the more fully was the authority of the Bible recognised. The difference between the time when the Bridegroom was with His disciples and the time when He had departed to share His Father's throne, was enough to account for the preference of kneeling over sitting when receiving the mysterious gift; but in other respects the ritual was as nearly as it could be made a repetition of the original Feast. Even the mixing of water with the wine was dropped for [11/12] the same reason. For though our Lord used the Wine of the Passover, which was a mixed cup, there is no record of His having mixed it afresh for the purpose of His Sacrament, nor is there any reason to believe that He did so. The mixing of the chalice as part of the ceremonial was therefore omitted, though nothing was said to prevent its being mixed beforehand.
+
+(continued)
+
+---
+
+### 9/5/26, 6:50 PM — Athanasius325 / Fr James
+
+`message 9` · resolved **2026-09-05 18:50 ET** · raw header 5 of 32 · part 4 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[10,586–11,209)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+And, thirdly and lastly, they had the less hesitation in emitting incense because it was certainly not in use in the Church for at least three hundred years from the Apostolic times. To get back to the earlier and purer days of Christianity, to make the primitive Church the model for the Church of England, was certainly part of the purpose which our Reformers cherished. It would have been a very strong reason for keeping incense in use could it have been shown that this use dated from Apostolic times, and had passed directly from the Jewish to the Christian Ritual. But the history pointed in quite another direction.
+
+---
+
+### 9/8/26, 9:18 AM — JD Smith (OP)
+
+`message 10` · resolved **2026-09-08 09:18 ET** · raw header 6 of 32 · part 1 of 2 under this client header · raw bytes `[11,245–12,871)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+@Athanasius325 / Fr James 
+Thanks for this, and I hope you had a nice long weekend! 
+
+I took a bit to reply since I wanted to read the sources first, and I ended up with kind of a long reply, so I've grouped it under the four things I'm actually saying, that way it's clear what each point is for.
+
+When the Church of England squarely faced the question, it ruled incense out of worship, for reasons I share.
+
+You're right that the 1899 Opinion doesn't call incense evil. Their ground for saying it isn't unsuitable in itself is the divine injunction for its use in the Jewish Church, and that's exactly where I'd put it too.
+
+But that's a judgment about the substance, not a permission for the ceremony. What they ruled is that the liturgical use is "not at present enjoined nor permitted", that the clergy using it should discontinue, and that if used at all it should be "outside the worship altogether."
+
+They also say they're not deciding what might be fitting at some future time. So whatever came later, that was the ruling as it stood.
+
+The three reasons you quoted, I agree with, and two of them especially. The second is that the liturgical use was specially connected with the Communion office, "in relation to which many serious errors had arisen." The third is that it was certainly not in use in the Church for at least three hundred years from the Apostolic times.
+
+On that third one, it wasn't only the Archbishops' view. Frere argued the case for incense in that same proceeding and conceded the same thing.
+
+So on where the Church of England agrees with me: those three reasons, and the ruling they produced.
+
+---
+
+### 9/8/26, 9:18 AM — JD Smith (OP)
+
+`message 11` · resolved **2026-09-08 09:18 ET** · raw header 6 of 32 · part 2 of 2 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[12,872–13,512)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+If the question is broader than England, the Church of Ireland (a province of the Anglican Communion, legally united with the Church of England from 1800-1871) prohibited incense outright by canon in the 1870s, as soon as disestablishment let it legislate for its own worship. 
+
+That's their own internal law and has no force anywhere else, but it's worth noting what happened to it since. Nearly every neighboring canon in that code was relaxed over the next century: crosses in 1964, candles in 1984. The incense canon is still there, word for word, in canon 40 of its current Constitution today, and it's one that they never walked back.
+
+---
+
+### 9/8/26, 9:26 AM — JD Smith (OP)
+
+`message 12` · resolved **2026-09-08 09:26 ET** · raw header 7 of 32 · part 1 of 3 under this client header · raw bytes `[13,548–15,382)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+In the American Episcopal Church, incense had no precedent, was censured when it appeared, was voted an example of error by the lower house, and was never authorized.
+
+That's what the 1866 declaration was evidence of. You asked, "the same conclusion as who": the twenty-eight bishops who signed it. Theirs was a declaration and the Archbishops' was a legal opinion, so they're different kinds of instrument, but both came down against the practice and neither church authorized it.
+
+DeKoven's fuller quotation makes my point - he's saying that despite attending ritualistic services in both countries, he was never in a Protestant Episcopal church when incense was used. My claim was about his own church, not American Christianity generally, and that's what he confirms.
+
+On the terminology, you're right that Ritualist and Anglo-Catholic aren't interchangeable as categories. Though DeKoven uses the word to describe himself in that speech, and calls himself the only clerical Ritualist in the House.
+
+On 1874: the House of Deputies adopted the canon with incense named as an example of a ceremony "symbolizing erroneous or doubtful doctrines," by large majorities in both orders, the morning after DeKoven's speech. So the chamber that heard him wasn't persuaded.
+
+The Bishops struck the examples two days later, and a conference committee restored two of the four but not incense. I found no recorded reason for the striking, so I read it as the Bishops declining to write incense into canon by name, not as a finding that the deputies were wrong.
+
+You're right that the church never banned it. It also never authorized it, and DeKoven said as much in the speech you quoted: if the Church "chooses to forbid the use of incense, I have nothing to say," and if it took away "lights, and incense, and vestments," then "we will obey."
+
+---
+
+### 9/8/26, 9:26 AM — JD Smith (OP)
+
+`message 13` · resolved **2026-09-08 09:26 ET** · raw header 7 of 32 · part 2 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[15,383–15,750)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+On Canon 20, which you mentioned as having jurisdictional authority: I did some digging, and found that it hasn't existed for over a century. It was renumbered over the years and repealed as Canon 24 in 1904, in a general recodification that re-enacted most of the canons that it repealed. But this one got no successor, and no canon on ritual has been enacted since.
+
+---
+
+### 9/8/26, 9:26 AM — JD Smith (OP)
+
+`message 14` · resolved **2026-09-08 09:26 ET** · raw header 7 of 32 · part 3 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[15,751–17,054)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Malachi 1:11 doesn't supply the warrant to burn incense, and the people you might expect to interpret it that way actually don't.
+
+On church history, agreed, and I'm not saying we should only look at the last 500 years. The early Church fathers do read the verse, and they read the pure offering as fulfilled in the Eucharist. Justin says as much, and so does Irenaeus.
+
+What I haven't found is any of them taking it as a warrant for burning incense in worship. The eucharistic reading and the incense reading aren't the same argument, and it's the second one I'm questioning.
+
+That's why the pre-1900 commentators seemed worth mentioning - not because Protestants are the only witnesses, but because on this verse they line up with the fathers rather than departing from them.
+
+And on your side note, notice what DeKoven does with the verse. Right after the Psalm 141 passage he quotes Malachi, says he is "not going to enter into the question whether that was a prophecy of something that was literally to take place," notes that "some people say it was, but I am afraid they are Ritualists," and then argues only from its symbolic meaning. He may well have held the literal reading himself. But arguing before the Convention for incense, with everything on the line, he didn't rest any weight on it. 
+
+---
+
+### 9/8/26, 9:35 AM — JD Smith (OP)
+
+`message 15` · resolved **2026-09-08 09:35 ET** · raw header 8 of 32 · part 1 of 2 under this client header · raw bytes `[17,090–19,006)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+My objection to the use of incense in worship is theological, but not for either of the two reasons you listed.
+
+I'm not saying incense is inherently evil. God commanded it in OT worship, and the Archbishops' reason for saying it isn't unsuitable in and of itself is the same reason I'd give.
+
+But your second option needs a phrase added before I can answer it. As written it says incense is sinful to use, and read flatly that would mean the substance is evil, a position I doubt anyone holds.
+
+What I'm saying is that offering it in Christian worship without warrant is wrong, the same way offering a lamb would be. Not because lambs or incense are evil, but because that worship was fulfilled, and nothing under the new covenant warrants either one. I don't think Malachi 1:11 supplies any warrant for incense either. Cyril of Alexandria reads the incense clause figuratively and puts material incense on the fulfilled side; the pre-1900 Protestant commentators land in the same place.
+
+That's why I wouldn't attend a service where incense is used. I'm not making a claim about anyone's guilt in using it — I'm sure most people who do have never been given a reason to think about it this way.
+
+Scripture treats uncommanded worship as a serious matter in its own right. The fire in Leviticus 10 is the case I keep coming back to. Fire wasn't the problem; fire belonged on that altar by God's own command. What made it strange fire, in the text's own words, was that He "commanded them not." 
+
+So my objection isn't that incense is imprudent. Yet it isn't calling evil what God called good either. It's saying He decides how He's worshipped.
+
+What God called good was commanded incense, in the sanctuary, under a priesthood, regulated by very specific rules given for its appropriate use. What I'm questioning is worship offered without warrant (uncommanded and unregulated incense.) Those aren't the same thing.
+
+---
+
+### 9/8/26, 9:35 AM — JD Smith (OP)
+
+`message 16` · resolved **2026-09-08 09:35 ET** · raw header 8 of 32 · part 2 of 2 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[19,007–19,413)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+I would also say that I'm going further than the Archbishops here. They excluded incense from worship without calling it evil. I'd put it more strongly than they did though, on grounds of warrant.
+
+The 1662 Prayer Book makes a related distinction in "Of Ceremonies": some things were abolished not as being bad in themselves but because "the abuses could not well be taken away, the thing remaining still."
+
+---
+
+### 9/8/26, 9:44 AM — JD Smith (OP)
+
+`message 17` · resolved **2026-09-08 09:44 ET** · raw header 9 of 32 · raw bytes `[19,449–20,315)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+-----
+
+One question, because the answer would really help me understand your position better. You've said incense is expected rather than required, and in the other thread that a parish declining it wouldn't be doing anything wrong. What I would like to know is where the expectation comes from.
+
+One possibility is that God expects the church as such to use incense, in which case something has to institute it for the church now, and that's the work Malachi 1:11 would be doing. 
+
+Another is that God expects us to keep the ceremonial our own church has ordered, which would be Article 34 territory, a ceremony "ordained only by man's authority" — and would be just as true of a parish that ordered none.
+
+Those seem to me like quite different claims, and I've been assuming the first. Would you say you hold the first or the second position, or something else? 
+
+---
+
+### 9/11/26, 6:51 PM — Athanasius325 / Fr James
+
+`message 18` · resolved **2026-09-11 18:51 ET** · raw header 10 of 32 · raw bytes `[20,364–22,339)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Concerning the 19th century documents: I am confused as to why you are bringing up these statements from other bodies, each from over 100 years ago. Are we in agreement that they don't condemn incense as sinful, and no longer apply to us even if we were in the same body as them? It seems enough for me to say that, whatever the Episcopal Church, Church of England, or Church of Ireland said in the 1800's, we here in the Episcopal Missionary Church and all of the other conservative jurisdictions allow for incense. Even the Reformed Episcopal Church and the United Episcopal Church of North America, two of the most Reformed-leaning jurisdictions in North American Anglicanism, allow for incense. In fact I know with certainty, as a former priest under Presiding Bishop Sutton, that incense is used at his cathedral. As well, a few years ago Presiding Bishop Peter Robinson (UECNA) posted his frustration with those in the UECNA who were fighting over questions like this (he called them "trifles"), and stated that everything from the rubrics of the 1549 BCP (as the maximum) to the Canons of 1604 (as the minimum) is allowed. Our jurisdiction, the EMC, allows incense, which should settle this on the question of canonical allowance. Furthermore, my Bishop is fine with incense, which settles the question of diocesan allowance. So I'm not exactly sure what the argument is, or why that part needs to continue. It doesn't even prove your position in the least, let alone give reason for me to believe that St Francis Anglican Church is sinning or in violation of our canons for using incense. Even the very documents we are looking at do not deny that incense, in principle, can be used. So in no way are these relevant to the main point of the discussion at hand. 
+
+You seem to be using the hierarchy I gave selectively, by ignoring the current jurisdictional/diocesan allowances and looking only to some of the past statements from other jurisdictions. More to follow. 
+
+---
+
+### 9/11/26, 9:50 PM — Athanasius325 / Fr James
+
+`message 19` · resolved **2026-09-11 21:50 ET** · raw header 11 of 32 · raw bytes `[22,388–24,109)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Concerning the Regulative Principle: It seems that the central issue is twofold: what the RPW is, and what the Biblical data allows. I believe it is abundantly clear that Anglicanism as a whole has accepted the allowance, in principle, of incense in Christian worship. 
+
+What the RPW is: I believe that there are two forms of the RPW being defended, one by me and one by you. My focus is upon the principles, yours seems to be not on the principles but rather explicit (to your satisfaction) examples based upon speculation. I want to cover this further: could you give me a fully-laid-out explanation of the Regulative Principle of Worship as you see it? I will lay out mine: 
+
+All principles of worship must be derived from the Commands of God in Scripture, or by consequence of the Biblical witness.
+
+Principles are defined, not as explicit examples, but as fundamental truths. This means that there is a distinction between, for instance, the fact of vestments and the particular kinds of vestments. So while particular kinds of vestments are laid out for the Old Testament worship, the principle of wearing vestments is what should be adhered to. This means that the pastor who stands before his congregation for worship with t-shirt and jeans is violating this principle in worship. The vestments must indicate that what we are doing is separate from our mundane lives. 
+
+I am asking because it does seem like you are holding to a view that could more rightly be called the Regulative Examples of Worship, where the only thing acceptable in worship is something in which there is an explicit Command or example in Scripture. This may seem like a minor difference, but it creates all sorts of issues. More to follow.
+
+---
+
+### 9/11/26, 10:13 PM — Athanasius325 / Fr James
+
+`message 20` · resolved **2026-09-11 22:13 ET** · raw header 12 of 32 · raw bytes `[24,159–25,369)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+What the Biblical Data is: The Biblical data here needs to be considered as an whole. There are multiple examples in Scripture I want to revisit, first focusing upon two: 
+
+1) Jesus celebrates Hannukah (John 10:22-23): I do not think this corresponds well with a RPW that demands explicit examples of something rather than general principles. Hannukah was not established in the Old Testament, precisely because it came from the Maccabean Revolt and was established in 1 Maccabees 4:56-59 (and repeated in 2 Maccabees 10:5-8). So either 1 Maccabees (at the least) is fully canonical Scripture, or we see Jesus joining in (as He did walk in to the Temple, precisely where the Hannukah celebration takes place; necessarily, in fact) a celebration in an unbiblical way, or His walking there established it and we must now celebrate specifically Hannukah on threat of punishment. 
+
+2) Our Lord and the Apostles Worship in the Synagogues: We see multiple Passages of Scripture showing this: Matthew 4:23, Mark 1:21, Luke 4:16, Acts 13:14-15, Acts 17:1-2, and Acts 18:4. Synagogues are not prescribed in the Old Testament. The arguments defending their use, I argue, in principle can be used for things like incense.
+
+---
+
+### 9/12/26, 2:14 AM — Athanasius325 / Fr James
+
+`message 21` · resolved **2026-09-12 02:14 ET** · raw header 13 of 32 · raw bytes `[25,418–26,549)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Two more things: 
+
+A) I personally asked Presiding Bishop Peter Robinson what the UECNA's stance towards incense was. He in no uncertain terms told me that incense is allowed, and that he finds the objections to it absolutely silly. The UECNA is, by far, the most Reformed/Puritan-leaning of the significant Anglican jurisdictions in the US. 
+
+B) To look back at that hierarchical structure I gave, what we now have concerning the allowance of incense is: 
+
+1) Scripture: Yes (my position)
+2) Tradition: Yes (the vast majority of Church history has allowed for its use)
+3) The established customs laid out by the gathered Bishops of a particular sect or jurisdiction: Yes, for our jurisdiction (the Episcopal Missionary Church)
+4) The Bishop Ordinary: Yes (Bishop Millsaps, who himself does not use incense, is fine with us using incense.)
+5) The Rector: Yes (I am the Rector.) 
+
+It seems you were trying to demonstrate 2) and 3) to be false, in part by pointing to the Reformation to the exclusion of the rest of Church history (for #2), and then by pointing to the statements of other jurisdictions in the 19th century (for #3). 
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 22` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 1 of 9 under this client header · raw bytes `[26,586–28,481)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Hi @Athanasius325 / Fr James - Thanks for the detailed post - I really appreciate your thoughtful engagement on these topics! 
+
+I was traveling a bit but finally got time to catch up on this. Couple things, and I’ll try to make this as brief as I can but give enough context to keep it clear and simple.
+
+First, since you asked, I want to lay out the regulative principle as I actually hold it. I don't think I've yet given you the version I hold, and I suspect we may be each answering a partially incorrect version of the other's position rather than the position itself.
+
+Then in a following post I will try to come back to the specific examples you gave — vestments, Hanukkah, the synagogue — and to a question about level 1 of your hierarchy.
+
+One thing before that, so it isn't left hanging. On the 19th-century material: yes, agreed on both counts.
+
+None of those documents calls incense sinful — I said that myself — and none of them binds the EMC. I was never claiming St Francis was violating its canons.
+
+I raised the broader Anglican history because I got the sense that objecting to incense in worship might come across as an unusual position, and because it bears on levels 1 and 2, Scripture and tradition. Levels 3 through 5 I've never disputed.
+
+On "Anglicanism as a whole has accepted the allowance, in principle" — I want to be careful what's being granted.
+
+If the point is that incense isn't unsuitable in itself, I agree, and so do the Archbishops. Their reason is the divine injunction for its use in the Jewish Church.
+
+But that's a judgment about the substance, not about the ceremony.
+
+The Church of Ireland forbids the liturgical use by canon and has since the 1870s, and Canon 40 is still in force. That's not an allowance in principle; it's a prohibition in principle.
+
+And Ireland doesn't call incense evil either. It just doesn't permit it in worship. 
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 23` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 2 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[28,482–29,821)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+So, on the Regulative principle - I think it’ll help to start with some underlying principles:
+
+Deuteronomy 12. The context is explicitly how God is to be served. Verse 30 warns against asking how the nations serve their gods "that I also may do likewise," verse 31 says “Thou shalt not do so,” and then 12:32: "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it."
+
+Add nothing, take nothing away. Stated about worship, in a passage about worship.
+
+Then Matthew 15:9, where Jesus quotes Isaiah 29:13 against the Pharisees: "in vain they do worship me, teaching for doctrines the commandments of men."
+
+And Colossians 2:23, where Paul condemns what the older versions call "will worship" — worship of one's own devising. The Greek is a single word, ethelothreskia, and it occurs nowhere else in the New Testament.
+
+Westminster cites all three at 21.1, along with Exodus 20:4-6 and Deuteronomy 4:15-20.
+
+There's a fourth I'd add, which Westminster cites under good works rather than worship. Saul spares the Amalekite spoil to sacrifice it, and Samuel answers: "Behold, to obey is better than sacrifice, and to hearken than the fat of rams" (1 Sam 15:22). Good intention, real sacrifice, and it wasn't what God asked for.
+
+Calvin quotes that verse in the same passage I'll cite below.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 24` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 3 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[29,822–31,705)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+That's what the Reformed confessions codify. Let me quote rather than paraphrase.
+
+WCF 21.1: "the acceptable way of worshipping the true God is instituted by Himself, and so limited by His own revealed will, that He may not be worshipped according to the imaginations and devices of men, or the suggestions of Satan, under any visible representation, or any other way not prescribed in the Holy Scripture."
+
+And 1.6, which gives both the sources of warrant and the limit on what needs it:
+
+"The whole counsel of God concerning all things necessary for His own glory, man's salvation, faith and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture... there are some circumstances concerning the worship of God, and government of the Church, common to human actions and societies, which are to be ordered by the light of nature, and Christian prudence, according to the general rules of the Word."
+
+Three sources of warrant, and one category that needs none.
+
+The principle itself is older than Westminster, and it isn't unique to the Puritans.
+
+The Belgic Confession of 1561 grounds it in sufficiency: "since the whole manner of worship which God requires of us is written in them at large, it is unlawful for anyone, though an Apostle, to teach otherwise than we are now taught in the Holy Scriptures" (Art. 7).
+
+Article 32 rejects "all human inventions, and all laws which man would introduce into the worship of God, thereby to bind and compel the conscience in any manner whatever."
+
+The Heidelberg Catechism of 1563 puts it in a clause — we are to worship God "in no other way than he has commanded in his word" (Q. 96).
+
+That sits in an answer about the second commandment and images, which is a separate conversation. 
+
+Both of those are continental rather than Puritan, and both predate Westminster by 80 years.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 25` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 4 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[31,706–33,645)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Calvin put it in 1544 as "the rule which distinguishes between pure and vitiated worship," which is "of universal application, in order that we may not adopt any device which seems fit to ourselves, but look to the injunction of him who alone is entitled to prescribe" (The Necessity of Reforming the Church).
+
+Put in one sentence: 
+
+God appoints the worship he will receive. What he has not appointed may not be offered to him as worship.
+
+I will give the three sources, with examples, because I think "explicit command or example only" is a fair description of some people who hold this, but it’s not my position.
+
+(1)
+Express command. "Preach the word" (2 Tim 4:2).
+
+(2) 
+Approved example. Where Scripture doesn't command something in those words, but the apostolic church plainly did it, and the practice is presented with approval. The Lord's Day is the usual case: no command names the first day, but the apostles gathered on it (Acts 20:7, 1 Cor 16:2) and the church has taken that as warrant.
+
+In practice this source usually settles the occasion or the form of something already commanded — assembly is commanded; the first day is when they assembled — rather than adding a wholly new act. The three sources together are narrower than they can be made to sound.
+
+(3) 
+Good and necessary consequence. Infant baptism, argued from the structure of the covenant. Or the Trinity, which no verse states in those terms but which follows from what Scripture says.
+
+That third source is a big reason why I don't see "Regulative Examples of Worship” as an accurate description of my position.
+
+I'm not asking for the exact act to appear verbatim in the text. I recite the creeds. I sing hymns written in the last century, not only psalms.
+
+No verse contains the Nicene Creed. But confessing Christ is commanded (Rom 10:9-10), and a creed is a form the church has given that act. Sung praise is commanded, and a hymn is a form of it.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 26` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 5 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[33,646–35,571)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+I mention it because you opened the other thread by describing exclusive psalmody and a cappella singing as the extreme version of this principle, and I want to be clear that I don't hold it.
+
+Plenty who hold the principle do, and the Westminster authors themselves sang psalms only. I don't think the principle requires that. It regulates the acts offered to God, not the verbatim form of a commanded act. Sung praise is the element, and which songs is the form. Many in the modern confessional mainstream read it the same way.
+
+
+The other half is the distinction 1.6 draws, and I think it's where we differ most in practice.
+
+The principle governs worship - what is offered to God as worship. It does not govern everything a congregation ever does. A meal after the service is not an act of worship just because the same people are in the building. That isn't a third rule of worship. It's the edge of the subject.
+
+In worship itself there are three kinds of thing.
+
+Elements are the acts themselves: the reading of Scripture, preaching and hearing the Word, prayer, sung praise, the sacraments, and the occasional acts 21.5 names, like oaths, vows, solemn fasts, thanksgivings. Elements need warrant.
+
+That list is what Westminster found warrant for, not a list of everything that needs it. Anything else offered to God as worship needs warrant too. 
+
+Circumstances are conditions common to human actions as such. Every act happens at some time, in some place, in some order, with some way of being heard. There was never a choice about whether to have those, only which. They are ordered by the light of nature and Christian prudence, under the general rules of the Word.
+
+Some helps sit with the circumstances because they are how an element is carried out, not a second offering. A pulpit. A microphone. A tune. A hymn as the form of sung praise. Take them away and the element is still the same act, only less audible.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 27` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 6 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[35,572–37,573)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+A “form” of worship is a way of performing the commanded act, not a second act that fits the same description. Singing a hymn is singing. Burning incense isn't praying — it's something done while prayer happens, which is why Luke 1 can have the two in different rooms.
+
+Calling something a circumstance does not make it one. If it is offered to God as itself, it is an element.
+
+There's a third thing, which is neither: things in the room that carry no Godward meaning. Flowers. The color of the walls. Those aren't offered and aren't worship, and they need no warrant because nobody claims they're anything.
+
+Prayer is the simple case. Prayer is an element. It cannot happen without a time and a place; those are circumstances. A spoken voice, or a microphone carrying that voice, is how the praying is done.
+
+Incense is not just a circumstance or form of some other act of worship. Remove the incense from the other acts and they can still be performed. The prayer, the preaching, the singing, the sacraments are all still there, complete. So incense is a further Godward offering beside them, which makes it its own element of worship.
+
+I'm not imposing the element  classification on incense myself. It's how incense is portrayed, even by Malachi, as an offering. Nobody argues that it’s only decoration there.
+
+Also a symbol of an element is not the same thing as the manner of performing it. Psalm 141 compares prayer to incense. It does not turn the burning of incense into the way the church prays. If it did, every congregation that prays without burning incense would be praying incompletely.
+
+That means incense isn't a circumstance. It's its own Godward offering, which is an act of worship, and acts of worship need warrant.
+
+That's my entire objection, and I think it's narrower than it's been taken to be.
+
+I'm not saying incense is inherently evil, or unreverent. I'm saying it's an act offered to God in worship, and I can't find where God asked for it under the new covenant.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 28` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 7 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[37,574–39,266)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+One last thing on the principle itself.
+
+Something in your wording I want to raise, because it may just be shorthand but I think it makes the difference between our two tests.
+
+You wrote that all principles of worship must be derived from Scripture. The Reformed confessions regulate worship itself, not principles of worship.
+
+Once the thing being regulated is a principle rather than an act, any practice that instantiates a derived principle passes, and the working test becomes "not forbidden, and traceable to some biblical image or theme."
+
+I take it you would not say resemblance requires the practice. You would say it permits it. Correct me if I’m wrong there.
+
+Here's why I think it matters. "Derived from the Commands of God in Scripture, or by consequence of the Biblical witness" would pass almost anything, because almost anything can be traced to some principle.
+
+Old Testament worship had animal sacrifice, a physical altar, a mediating priesthood standing between the people and God, and a holy place no layman entered.
+
+Each of those has a principle behind it, and each principle could be said to continue.
+
+I know your answer to those four is that Christ fulfilled them, and I agree. But that's a rule about what ended. It says nothing about what may be added. The question the formula leaves open is what constrains offering something that was never commanded and never fulfilled — something Scripture doesn't mention at all as an act of the church.
+
+I think you'd agree, because you argue this way yourself. On prayers to the saints you said what blocks the practice is that prayer is an act of worship directed to God alone — a principle reaching a particular act.
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 29` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 8 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[39,267–41,136)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+And when I asked what made Revelation 5:8 insufficient, your answer was that if Scripture gave an example of prayers to the saints that was lauded or not treated as sinful, "we would of necessity have to find it appropriate." You then gave a careful reading to show there's no such example.
+
+That's an act-level test. But it's also the part of that exchange I never quite got an answer to. I'd asked what specifically made the Roman and Eastern argument fail, since they defend the practice from the same kind of biblical imagery — the elders and the angel presenting the prayers of the saints. On a resemblance standard that seems to fit, and you didn't accept it, on grounds that the instance isn't there.
+
+So I don't think we differ on whether principles reach acts. And I don't think you actually operate on resemblance alone, because you didn't there. What I can't work out is what the restriction is - what makes the imagery sufficient in one case and not the other?
+
+Westminster's constraint is that the consequence must be good and necessary: it must follow, not merely fit, and not merely resemble. The phrase is not "good or necessary."
+
+That's why infant baptism is argued from the covenant's structure, and not just from the general principle that God loves children.
+
+So my position isn't "explicit command or example only." It's that consequence has to mean “what follows”, not “what resembles.”
+
+If the rule is that a practice may be offered in worship whenever it is not forbidden and can be shown to resemble something in Scripture, that is a real rule, but it is a different rule from how 21.1 defines the Regulative Principle. 21.1 asks whether the act was prescribed. The other asks whether the act is permitted.
+
+I think that's the difference, and I don't think it's only a matter of emphasis.
+
+More on your examples in a following post. 
+
+---
+
+### 9/17/26, 8:28 PM — JD Smith (OP)
+
+`message 30` · resolved **2026-09-17 20:28 ET** · raw header 14 of 32 · part 9 of 9 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[41,137–41,689)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+——————
+
+To recap:
+
+The regulative principle regulates  acts of worship, not merely principles of worship.
+
+It distinguishes between:
+-Acts of worship (like prayer)
+-Circumstances necessary to perform those acts of worship (like time of day when the prayer is prayed)
+-Things indifferent (not necessary to perform those acts of worship - like flowers decorating a church.)
+
+It says that God alone gets to decide how He is worshipped, and that people were never free to worship Him in a way He did not command, no matter what their position. 
+
+---
+
+### 9/18/26, 2:23 PM — Athanasius325 / Fr James
+
+`message 31` · resolved **2026-09-18 14:23 ET** · raw header 15 of 32 · raw bytes `[41,738–43,080)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+I'll wait for the rest of your response, but to deal with the Church of Ireland: When I speak of Anglicanism as a whole, I do not mean you cannot find one single objection ever. Sure, to this day, the Church of Ireland technically has on the books that incense is not allowed. This is, of course, the same Church of Ireland that allows for women's "ordination" for the three-fold Office en toto, and essentially allows for gay "marriage". This jurisdiction is not a good example of faithfulness in the least. 
+
+As well, none of this does enough to challenge #2: we look to the greater Church rather than limit to our particular post-Reformation form. 1500 years of the Church existed prior to the Reformation. That will far outweigh anything said post-Reformation. So even granting the strongest claims you point to, and going a few degrees beyond that, will not challenge the fact that #2 strongly, strongly supports the usage of incense. 
+
+So it comes down to Scripture, and you hold the burden in demonstrating it is, in point of fact, sinful for Christians to use incense in the context of worship. The lower tiers all point in one direction, and that direction is opposite what you claim. 
+
+Again, I'll address your other points once you are finished. I just wanted to clear this part out because it seems that it will resolve entirely. 
+
+---
+
+### 9/27/26, 5:32 AM — JD Smith (OP)
+
+`message 32` · resolved **2026-09-27 05:32 ET** · raw header 16 of 32 · part 1 of 3 under this client header · raw bytes `[43,117–44,811)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Thanks @Athanasius325 / Fr James - I was on a fishing trip for the past week so didn’t get a chance to get back to this until this weekend. I realize it's the Lord's Day morning, so whenever you get to this is fine. I do appreciate your continued help in understanding this!
+
+Before the examples, here's a short reply to your note.
+
+On the Church of Ireland: I was citing the canon for what it is, a settled Anglican prohibition from the 1870s that three later revisions left alone and which is still in force today. I wasn't citing the modern body as an authority on anything.
+
+Its later positions on other matters don't reach back to 1871, any more than the Church of England's later positions reach back to the 1899 Opinion you quoted.
+
+On the 1500 years: the Archbishops, in the passage you quoted, put it at three hundred years short of that. Incense wasn't in liturgical use for the first three centuries, and Frere conceded the same.
+
+So the tradition is real. But it's a fourth-century tradition at earliest, not an apostolic one, and that's a different weight.
+
+On the burden: let me be exact about what I claim, because I don't want to soften it.
+
+I do hold that offering incense in Christian worship is wrong, in the sense that it's an act God hasn't asked for, and Scripture treats uncommanded worship as a serious matter.
+
+But I don't attribute guilt to anyone who does it in good conscience or without having had the question put to them. A wrong act and a culpable person are different things, and I only claimed the first.
+
+Under the principle I hold, the absence of a warrant in Scripture is enough to disqualify an act of worship, and that's what the last post aimed to do. 
+
+---
+
+### 9/27/26, 5:32 AM — JD Smith (OP)
+
+`message 33` · resolved **2026-09-27 05:32 ET** · raw header 16 of 32 · part 2 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[44,812–45,965)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+You've asked me instead to show a prohibition. I think it's worth saying plainly what that difference is, because we've been circling it for a while.
+
+"A worship practice may be offered unless Scripture forbids it": that is the burden as the normative principle has always stated it.
+
+"A worship practice needs warrant before it's offered": that is the regulative principle.
+
+You've stated the burden the first way. I hold it the second.
+
+I'm not trying to relabel you. You've framed your position as the regulative principle and I take that as sincere. But the burden you've just described is that of the normative principle, and for any single act it can only run one way.
+
+Whether the burden you proposed is the right one, or whether it falls on the one offering the act, is the thing we're actually disagreeing about.
+
+If it's the other way, which I believe Scripture shows, most directly where God forbids His people from adding to or taking away from anything He commanded them, then the statement would actually read: "you hold the burden in demonstrating it is, in point of fact, allowed for Christians to use incense in the context of worship."
+
+---
+
+### 9/27/26, 5:32 AM — JD Smith (OP)
+
+`message 34` · resolved **2026-09-27 05:32 ET** · raw header 16 of 32 · part 3 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[45,966–47,486)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+To be fair to the normative principle, it isn't "anything goes." It has real guardrails for anything the church adds beyond what God commands: nothing contrary to Scripture, done decently and in order, edifying, agreeable to the church's peace and general practice, and never imposed as necessary to salvation or binding on the conscience.
+
+But notice where those guardrails sit. Each one is a test applied to something already presumed permissible. They narrow what may be done. None of them asks whether God has asked for it.
+
+So the burden still runs one way: a practice is allowed unless it fails one of those tests. The regulative principle runs it the other way: a practice needs warrant before it's offered.
+
+Anything Scripture expressly forbids, we both reject. That part is common ground, so examples where God judged someone for breaking an express command don't really separate our positions. Either principle condemns them.
+
+Calvin gives an example that does separate them. Ahaz copied an altar from Damascus for the Temple (2 Kings 16:10), for God alone, and more splendid than the old one. Calvin says the Spirit detested it "for no other reasons but because human inventions are in the worship of God impure corruptions" (Institutes 4.10.23).
+
+What separates us is what isn't forbidden. And there the one express command that speaks to it directly is Deuteronomy 12:32. It doesn't forbid a particular act. Deuteronomy 12:32 forbids adding to what God commanded, in a passage about how He is to be served. 
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 35` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 1 of 6 under this client header · raw bytes `[47,523–48,582)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Calvin puts this directly. The question he's answering is the one between us: whether the Church has authority to institute new forms of worship.
+
+He's arguing against Rome's claim to that authority, and I'm not putting you in Rome's position. But the argument itself is about church authority over worship, which is what levels 3 through 5 are. Institutes 4.10.17:
+
+"it will readily appear that it is not a property of the Church to disregard the limits of the word of God, and wanton and luxuriate in enacting new laws. Does not the law which was once given to the Church endure for ever? 'What things soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it' (Deut. 12:32). And in another place, 'Add thou not unto his words, lest he reprove thee, and thou be found a liar' (Prov. 30:6). Since they cannot deny that this was said to the Church, what else do they proclaim but their contumacy, when, notwithstanding of such prohibitions, they profess to add to the doctrine of God, and dare to intermingle their own with it?"
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 36` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 2 of 6 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[48,583–49,822)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+He then raises the obvious objection against himself, and answers it:
+
+"In the above passage there is nothing involved, nothing obscure, nothing ambiguous; the whole Church is forbidden to add to, or take from the word of God, in relation to his worship and salutary precepts. But that was said merely of the Law, which was succeeded by the Prophets and the whole Gospel dispensation! This I admit, but I at the same time add, that these are fulfilments of the Law, rather than additions or diminutions. Now, if the Lord does not permit anything to be added to, or taken from the ministry of Moses... why should we not suppose that we are much more strictly prohibited from making any addition to the Law, the Prophets, the Psalms, and the Gospel?"
+
+That answers the objection I'd expect first, that Deuteronomy 12:32 governs the Law rather than worship. The later Scriptures fulfill the Law rather than add to it, so the prohibition on adding binds us more tightly, not less.
+
+So which does that sound like: allowed unless forbidden, or forbidden unless permitted? I believe scripture is clear that no one may approach God in a way He has not authorized.
+
+On "it comes down to Scripture": yes. That's where these next messages are going. 
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 37` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 3 of 6 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[49,823–51,511)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Here are the examples, as promised.
+
+Vestments
+
+I agree that reverence is required, and that coming to the Lord's Table with no thought for it is not right.
+
+But I don't think reverence is the principle the priestly garments teach.
+
+Exodus 28 makes them for Aaron and his sons, "that he may minister unto me in the priest's office." This includes the ephod, the breastplate, the Urim and Thummim, and the plate engraved with "HOLINESS TO THE LORD."
+
+Every part of it is priestly and mediatorial, and the people wore none of it.
+
+Your example was the pastor, not the congregation, and that fits the text. But the garments mark the priest out as mediator, the man who goes in on the people's behalf, where they cannot go.
+
+Clothing as such is a circumstance. You cannot assemble without it. A distinctive sacred garment offered as holiness-to-the-Lord is an element, and the element Scripture attached those garments to is set-apart mediatorial priesthood.
+
+That's the thing I'd most want to ask about, because it's what Hebrews treats as fulfilled rather than continued.
+
+Reverence is commanded, and yet no particular vesture follows from it.
+
+What shows reverence differs by culture and circumstance. If a poor man is wearing the only clothes he owns and comes reverently to worship, even if he is the pastor, he isn't guilty of irreverence.
+
+I would note one other thing. "The pastor in a T-shirt is violating this principle" is a strong claim, stronger than "allowed." It says something is required in worship. I'm not objecting to that form of argument; I make one myself.
+
+I only notice that it's the same form of argument you've told me is out of bounds when I make it about incense.
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 38` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 4 of 6 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[51,512–52,802)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Hanukkah
+
+The feast was a national commemoration: lamps, feasting, psalms of thanksgiving.
+
+It added no rite of worship to the sanctuary. The priests' duties that day were the same as on any other.
+
+A people keeping a day by common consent, the way Esther 9 records the Jews doing with Purim, isn't the introduction of a new act of worship.
+
+And John 10 places Jesus in Solomon's porch during the feast, where he taught at other times too. It tells us where he was, not what he did. Presence at a national feast is not the church instituting a new cultic rite.
+
+So I don't think it shows that the church may institute new acts of worship.
+
+The synagogue
+
+You led with this as biblical data, so I want to take it that way and not as a side argument.
+
+The synagogue supplied a building and a schedule for something already commanded. Leviticus 23:3 requires a holy convocation in all our dwellings, and Deuteronomy 31 requires the Law to be read publicly.
+
+What the synagogue added was a form, a circumstance, for a commanded element. It didn't add a new element.
+
+The synagogue never had an altar, a sacrifice, or incense. Incense doesn't appear in synagogue use until several centuries after the Temple fell, and when it did, it was as a conscious commemoration of something that had ended.
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 39` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 5 of 6 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[52,803–53,732)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+It's worth noting that the same objection arose inside Judaism. When incense did eventually appear in synagogues, the Karaites, a minority Jewish sect, objected that burning incense belongs to the Temple and shares the status of sacrifice. That's an argument from the same Torah, about their own worship, with no Protestant involved.
+
+For the synagogue parallel to reach incense, incense would have to be the form, or circumstance, of some act of worship.
+
+If that act is prayer, Luke 1 becomes a difficulty, because the whole multitude prayed outside while Zechariah offered the incense inside.
+
+I know the traditional reading joins the two, with the incense carrying the people's prayers up. But I think that reading supports my point.
+
+It has the priest doing something on their behalf, inside, that they couldn't do themselves. That's mediation, not prayer as such.
+
+And Hebrews 10 says the restricted access has now changed.
+
+---
+
+### 9/27/26, 5:41 AM — JD Smith (OP)
+
+`message 40` · resolved **2026-09-27 05:41 ET** · raw header 17 of 32 · part 6 of 6 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[53,733–55,199)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Each of those answers came down to the same distinction, so let me put it as plainly as I can.
+
+The simplest way to test whether something is an element (an act of worship) or a circumstance (a way of performing an act of worship) is to change or remove it and see what breaks. If the act is still there, you changed a circumstance. If the act is gone, you changed the act.
+
+Pray standing instead of kneeling and you have still prayed. Kneel and say nothing and you haven't.
+
+Or ask what you'd be disobeying. Skip the kneeling and you haven't skipped anything God commanded. Skip the prayer and you have.
+
+Calvin draws the line in the same place: "it is of no consequence what the days and hours are, what the nature of the edifices, and what psalms are sung on each day" (Institutes 4.10.31).
+
+Now apply the test to incense. Remove it, and every commanded act is still complete. The prayer, the preaching, the singing, and the sacraments are all still there, so incense isn't a circumstance of any of them.
+
+The only thing missing is the act of offering incense itself. So if incense belongs in worship at all, it belongs there as its own act, and acts of worship need warrant.
+
+Calvin asks the same question in a single line: "For what end do they bring forward their ceremonies but just that God may be worshipped by them?" (4.10.9). If incense is brought forward so that God may be worshipped by it, that is the classification, and whoever offers it has made it.
+
+---
+
+### 9/27/26, 5:49 AM — JD Smith (OP)
+
+`message 41` · resolved **2026-09-27 05:49 ET** · raw header 18 of 32 · part 1 of 3 under this client header · raw bytes `[55,236–55,998)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+So I want to put this more directly than a question, because I don’t see how the two positions you’ve stated can both apply to the same ceremonial act.
+
+At level 1 you've said Scripture allows incense. You distinguished a practice the first three levels demand, "the reading of Scripture as part of public worship," from one where they "allow for a practice but do not demand it (incense, for instance)." 
+
+I asked whether a parish that never used incense at all "wouldn't be failing at levels 1 through 3 the way they would if they never read Scripture," and you said, "Correct."
+
+In the other thread you put it more strongly: that Malachi 1:11 prophesies incense as part of the New Testament church's worship. And you've defended it as a Godward offering. 
+
+---
+
+### 9/27/26, 5:49 AM — JD Smith (OP)
+
+`message 42` · resolved **2026-09-27 05:49 ET** · raw header 18 of 32 · part 2 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[55,999–57,252)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Take the first. If incense is optional altogether, a thing indifferent, then it cannot be worship.
+
+By optional I mean what you confirmed, that a parish could never use it at all and not be failing.
+
+I don’t mean an act of worship offered at one time and not another. Prayer can be offered freely, beyond anything required on a given day, and it’s still worship, because God has commanded that kind of act.
+
+What matters is whether the kind of act has any warrant, not whether a particular instance was required.
+
+Incense would then be the kind of thing kneeling is to prayer: a way of doing something, not an offering in its own right.
+
+That isn’t my rule, it’s the Lutheran one. The Formula of Concord says genuine adiaphora “in and of themselves, are no worship of God, nor any part of it, but must be properly distinguished from such as are.”
+
+So if incense is optional in that sense, it can't rest on Malachi, and it shouldn't be described as an offering to God, even symbolically.
+
+Take the second. If it is worship prescribed by Scripture, then it cannot be optional.
+
+A parish may decide how often to hold the Supper, but a parish that never held it would be failing, which is exactly the comparison you drew with reading Scripture. 
+
+---
+
+### 9/27/26, 5:49 AM — JD Smith (OP)
+
+`message 43` · resolved **2026-09-27 05:49 ET** · raw header 18 of 32 · part 3 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[57,253–58,748)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+And Malachi can't do the work of the second option on its own. The verse is never in the imperative. It tells no one to do anything, and it gives no instruction about how.
+
+So it can't supply the general command that even Calvin's permission for church ordering requires, since his test is that a lawful ordinance "specially determines what was indicated in general" (4.10.30).
+
+And if Malachi foretells incense in every place, I can't see how a church that knows the prophecy and believes it is literal can treat observing it as a matter of preference.
+
+I know worship is offered imperfectly everywhere. But where prayer falls short we can name the reason: prayer is commanded, and we disobey. You've said a parish declining incense isn't doing anything wrong, so there's no disobedience to account for the gap.
+
+And if the answer is that incense is optional, that doesn't resolve it either. Calvin defines the human traditions the church must reject as laws made without God's word "for the purpose either of prescribing the mode of divine worship, or laying a religious obligation on the conscience" (Institutes 4.10.16).
+
+He states the first ground on its own earlier in that same chapter: "all constitutions are impious in the observance of which the worship of God is pretended to be placed" (4.10.8).
+
+Those are two separate grounds, and either is enough. 
+
+Making incense optional means no one's conscience is bound. It doesn't change the fact that it's being offered to God as worship. 
+
+---
+
+### 9/27/26, 6:09 AM — JD Smith (OP)
+
+`message 44` · resolved **2026-09-27 06:09 ET** · raw header 19 of 32 · part 1 of 2 under this client header · raw bytes `[58,785–59,577)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+There's a middle position I can imagine: that incense isn't required of other parishes, but that conviction binds St Francis to it. I don't think that escapes the question, because a conviction has to rest on something.
+
+If it rests on Malachi, it's grounded in Scripture as an act of worship, and then it binds other parishes as much as yours. But if it only rests on fittingness or beauty, then it's a thing indifferent, and it cannot be worship.
+
+Romans 14 does leave room for personal conviction, but in things indifferent, and it governs what each believer does with his own liberty. It doesn't establish an act of worship for a whole congregation.
+
+I'm not asking you to abandon either position. I'm asking which one you keep, because I don't see how both can be held at the same time. 
+
+---
+
+### 9/27/26, 6:09 AM — JD Smith (OP)
+
+`message 45` · resolved **2026-09-27 06:09 ET** · raw header 19 of 32 · part 2 of 2 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[59,578–59,662)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+-----
+Again, take your time, and I hope you have a restful and joyful Lord’s Day! 
+
+---
+
+### 9/28/26, 5:20 PM — Athanasius325 / Fr James
+
+`message 46` · resolved **2026-09-28 17:20 ET** · raw header 20 of 32 · raw bytes `[59,711–61,599)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+This is a lengthy response you've given, and there are a few points I feel you've misrepresented. Just skimming this quickly, you falsely claimed I was saying that incense has been used for the whole 1500 years prior to the Reformation. That is not even slightly what I said. What I did say was that, "1500 years of the Church existed prior to the Reformation. That will far outweigh anything said post-Reformation." Your rebuttal implies I was claiming all 1500 years universally had incense. My point was about focusing only upon post-Reformation sources. Also, as a side note, it's impossible to prove that NO incense was EVER used liturgically for the first 300 years. That's not how history works. 
+
+"If the point is that incense isn't unsuitable in itself, I agree, and so do the Archbishops. Their reason is the divine injunction for its use in the Jewish Church."
+
+This is an outright misrepresentation of their words. They use the Jewish Church as an example of why they can't call its usage today, in point of fact, sinful. They in fact give reasoning that shows the possibility of it being allowed at some point; the question concerns English Canon Law, not Divine Law, for them. Here is the quote: 
+
+"In conclusion, we are far from saying that incense in itself is an unsuitable or undesirable accompaniment to Divine worship. The injunction for its use by Divine authority in the Jewish Church would alone forbid such a conclusion. But this is not the question before us. We are not to determine what might be fitting or permissible at some future time; but whether, under the present directions of the Book of Common Prayer, the liturgical use of incense is lawful or unlawful in the Church of England." (emphasis mine)
+
+If this is going to work, I need to not have to constantly spend so much time going back and correcting claims you make about what I or others have said.
+
+---
+
+### 9/28/26, 5:32 PM — Athanasius325 / Fr James
+
+`message 47` · resolved **2026-09-28 17:32 ET** · raw header 21 of 32 · raw bytes `[61,648–62,380)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Here is another one: 
+
+Me: "So it comes down to Scripture, and you hold the burden in demonstrating it is, in point of fact, sinful for Christians to use incense in the context of worship. The lower tiers all point in one direction, and that direction is opposite what you claim."
+
+You: "You've asked me instead to show a prohibition."
+
+That is not what I asked, here. I asked for you to "demonstrat(e) it is, in point of fact, sinful for Christians to use incense in the context of worship". That is very different from a demand that you "show a prohibition". 
+
+1) My statement allows for a (proper, logically consistent) Regulative Principle. 
+
+2) Your misrepresentation of my statement presupposes a Normative Principle approach.
+
+---
+
+### 9/28/26, 7:41 PM — JD Smith (OP)
+
+`message 48` · resolved **2026-09-28 19:41 ET** · raw header 22 of 32 · raw bytes `[62,417–62,874)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+You're right on the 1500 years, and I'm sorry for the misreading. I see that your point was about weighing the pre-Reformation Church, not about how long incense was used.
+
+In a thread this long I'm sure I'll misread you at times. I never want to misquote you, so please flag anything and I'll gladly correct it.
+
+I really appreciate you taking the time on this, especially now that the classes have wrapped up. I'll reply to the rest once you've finished. 
+
+---
+
+### 10/4/26, 12:42 AM — Athanasius325 / Fr James
+
+`message 49` · resolved **2026-10-04 00:42 ET** · raw header 23 of 32 · raw bytes `[62,924–63,676)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+For clarification: Do you believe that, "demonstrating it is, in point of fact, sinful for Christians to use incense in the context of worship" and a request for you to show a prohibition are the same request? That might help clarify some of the differences. 
+
+In asking for you to show it's sinful, I'm not asking you to show a verse that says, "Using incense in the context of worship is sinful". We agree that my requesting that is a Normative Principle request. In that way, it would be the same as me asking you to show a prohibition. 
+
+What I'm asking is the proof that your interpretation of the Regulative Principle, that includes your understanding of incense, is Biblical, and there you are justified in your claim that incense is prohibited.
+
+---
+
+### 10/4/26, 6:35 PM — JD Smith (OP)
+
+`message 50` · resolved **2026-10-04 18:35 ET** · raw header 24 of 32 · part 1 of 3 under this client header · raw bytes `[63,713–65,632)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+@Athanasius325 / Fr James Thanks for clarifying, and that does help. As you've now explained it, no, they aren't the same request. I read "demonstrate it is sinful" as asking me to show a prohibition, since sinful things are prohibited, but I can see you meant something broader.
+
+We agree that asking for a verse saying "incense in worship is sinful" would be a normative-principle request, and you've said that isn't what you're asking. You're asking for "the proof that your interpretation of the Regulative Principle, that includes your understanding of incense, is Biblical." That's a good way to put the question, and most of the answer is already above - where it is, I'll point to it by referring to the date of the post instead of repeating it.
+
+On the Archbishops, I was only giving their reason for saying incense isn't unsuitable in itself, which is the sentence you quoted. You're right that they were deciding English canon law, not divine law, and that they left the future open. I agreed with that on 9/8: "They also say they're not deciding what might be fitting at some future time."
+
+The principle itself, from Scripture (9/17): Deuteronomy 12:32, in a passage about how God is to be served, forbids adding to what He commanded.
+
+Jesus carries it into the New Testament in Matthew 15:9: "in vain they do worship me, teaching for doctrines the commandments of men."
+
+And Paul warns in Colossians 2:22-23 against rules "after the commandments and doctrines of men," which have "a shew of wisdom in will worship." "Will worship" renders the single word I mentioned on 9/17, ethelothreskia.
+
+Leviticus 10 (9/8) shows how God Himself states the reason. Nadab and Abihu offered incense with fire He had not appointed. Commentators connect it to Exodus 30:9, which forbids "strange incense" using the same Hebrew word, but the text doesn't cite that. It says they offered fire "which he commanded them not."
+
+---
+
+### 10/4/26, 6:35 PM — JD Smith (OP)
+
+`message 51` · resolved **2026-10-04 18:35 ET** · raw header 24 of 32 · part 2 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[65,633–67,109)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Jeremiah 7:31 does the same thing more plainly, in God's own voice. The worship condemned there included child sacrifice, the worst of pagan practices, and I'm not comparing incense to it in any way.
+
+What makes the wording notable is that child sacrifice was expressly forbidden, in Leviticus 18:21 and in the verse just before Deuteronomy 12:32. God had the plainest possible prohibition to cite.
+
+Instead He calls it worship "which I commanded them not, neither came it into my heart." Even there, the reason He gives is the absence of His command.
+
+In both passages, the emphasis is placed on the same thing: worship God did not ask for. Those texts are the biblical basis for the principle, and here's why I think they also decide between your version and mine.
+
+Every one of those texts judges an act: a fire, an offering, a practice. Principles follow from them, but what each one tests is whether a particular act was commanded.
+
+"What thing soever I command you" is about things done. So when Scripture states the rule, it states it at the level of acts, and that's why I hold that the warrant has to reach the act. It's what I meant on 9/17 by "the regulative principle regulates acts of worship, not merely principles of worship."
+
+Scripture does give the church discretion in worship, over order: "Let all things be done decently and in order" (1 Cor 14:40). That's where the circumstance category comes from. It isn't something I've added; it comes from the text.
+
+---
+
+### 10/4/26, 6:35 PM — JD Smith (OP)
+
+`message 52` · resolved **2026-10-04 18:35 ET** · raw header 24 of 32 · part 3 of 3 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[67,110–68,552)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+The application to incense is on 9/8 and 9/27: it's offered to God as an act, it has no New Testament command, example, or necessary consequence, and Malachi 1:11 is a prophecy rather than a command. The Old Testament command in Exodus 30 was to Aaron's priesthood in the sanctuary, and Hebrews calls that whole service "a figure for the time then present" (9:9-10), which is the same reason none of us offers actual lambs.
+
+By my understanding of the regulative principle, any act of worship God hasn't warranted is prohibited. That's the sense in which I've called incense prohibited, the one Deuteronomy 12:32 gives it.
+
+The question I put at the end on 9/27 still stands whenever you get to it: whether incense is optional, or prescribed worship, or something else. It's the one that would most help me see how the pieces of your position fit together.
+
+What would change my mind is a New Testament command, example, or necessary inference for incense. I think that's the one question between us. I'm not expecting that we will settle it beyond dispute, but I welcome as much understanding as I can get about the pro-incense position and your understanding of the regulative principle.
+
+I've valued this a great deal and learned from it even where we land differently. With the classes over, please don't feel any obligation to keep going on these threads on my account. I'd be glad to continue here as you have the time, or over a beer! 
+
+---
+
+### 10/7/26, 1:43 PM — Athanasius325 / Fr James
+
+`message 53` · resolved **2026-10-07 13:43 ET** · raw header 25 of 32 · raw bytes `[68,601–69,425)` · dating: client-rendered full date (Discord's own rendering; strongest class this file has)
+
+Your application of the RPW is inconsistent with Scripture, for multiple reasons, but I want to focus upon two: 
+
+1) Malachi 1:11
+
+2) Revelation 8:3–5
+
+In both of these Passages, creatures not descended from Aaron are offering incense to God in the context of worship. Let's focus upon those two Passages first, with the recognition that everything in that hierarchy I pointed to earlier, from the majority of Church History to the local parish, is on my side. In other words: pointing to the idea that people in certain centuries held to something somewhat closer to your position isn't enough to counter the whole of Church History, as the majority of Church History the majority of the Church has not objected to incense; certainly not on your grounds. So in light of that, let's look only at the Biblical data, itself.
+
+---
+
+### 10/8/26, 1:28 PM — JD Smith (OP)
+
+`message 54` · resolved **2026-10-08 13:28 ET** · raw header 26 of 32 · part 1 of 4 under this client header · raw bytes `[69,466–71,152)` · dating: client rendered the relative `Yesterday` form in the 2026-10-09 recapture (`47a8a4b`), so 2026-10-08; agrees with the `260835-72` resolution of the same header from `d410db3`→`f69fbd4` (SRC_Manifest.md)
+
+@Athanasius325 / Fr James Thanks, and I'm glad to look only at the biblical data. I'll try to speak to each of those passages here, and the point in general.
+
+I agree that much of the church has used incense since the fourth century, Rome and the East especially. But I think that's a different question from ours.
+
+Much of that history didn't hold the regulative principle at all, so I don't think its practice can settle what the principle requires. The question between us is whether the principle, applied consistently, warrants the use of incense in new covenant worship.
+
+You said my application of the regulative principle is inconsistent with Scripture, so let me first explain why I think it isn't.
+
+An application of the RPW would be inconsistent with Scripture if Scripture showed God approving worship He had not appointed. I don't think either passage does that.
+
+You're right that in both passages the ones offering incense aren't descended from Aaron. I think that observation actually points somewhere important.
+
+My point on 10/4 was about who the command in Exodus 30 was given to. If God receives incense from hands outside Aaron's line, then that law no longer stands as written, and Hebrews gives the reason: "the priesthood being changed, there is made of necessity a change also of the law" (7:12).
+
+That's the fulfillment I've been pointing to, so I don't think the observation goes against my position. What it leaves open is what the changed law appoints for the church.
+
+So for each passage, the question I'd ask is whether it tells the church to offer incense, shows the church doing it, or requires it by necessary consequence (the three tests of the RPW.) 
+
+---
+
+### 10/8/26, 1:28 PM — JD Smith (OP)
+
+`message 55` · resolved **2026-10-08 13:28 ET** · raw header 26 of 32 · part 2 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[71,153–73,146)` · dating: client rendered the relative `Yesterday` form in the 2026-10-09 recapture (`47a8a4b`), so 2026-10-08; agrees with the `260835-72` resolution of the same header from `d410db3`→`f69fbd4` (SRC_Manifest.md)
+
+--
+Malachi 1:11
+
+If this verse described the Mosaic rite carried into the new age, it would break two Mosaic rules at once: offerers outside Aaron's line, and "in every place" rather than the one place God chose (Deut 12:14).
+
+I take that as a sign the prophet isn't describing the Mosaic rite at all. But I don't take it as instituting a new rite either, because the prophets regularly describe the worship of the new covenant in the language of the old.
+
+Isaiah says the Lord will take "priests and Levites" from those gathered from the nations (Isa 66:20-21), and that foreigners' "burnt offerings and their sacrifices shall be accepted upon mine altar" (Isa 56:6-7). Zechariah has the nations going up "to keep the feast of tabernacles" (Zech 14:16).
+
+Each of those has worshippers outside Aaron's line offering in Temple terms. None of us reads them as instituting Levites from the nations, Gentile burnt offerings, or the Feast of Tabernacles for the church.
+
+In the same clause as the incense is "a pure offering," the grain offering (minchah).
+
+No one takes that as the actual Levitical grain offering. The fathers read it as fulfilled in the Eucharist (9/8), which isn't the Levitical offering.
+
+That is inconsistent with reading the incense in the same clause literally, whether as the Mosaic rite's incense or as a new rite for the church, because unlike the Eucharist, no new rite was instituted for incense.
+
+What would be consistent is to read it figuratively, as fulfilled in the prayers of the saints, which is how Revelation 5:8 interprets the image. Cyril of Alexandria reads it that way.
+
+Peter writes to the whole church, the "elect according to the foreknowledge of God the Father" (1 Pet 1:2), and tells all of them that they are "an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ" (2:5). And Jesus says the hour has come when worship is neither "in this mountain, nor yet at Jerusalem," but "in spirit and in truth" (John 4:21-23). 
+
+---
+
+### 10/8/26, 1:28 PM — JD Smith (OP)
+
+`message 56` · resolved **2026-10-08 13:28 ET** · raw header 26 of 32 · part 3 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[73,147–74,873)` · dating: client rendered the relative `Yesterday` form in the 2026-10-09 recapture (`47a8a4b`), so 2026-10-08; agrees with the `260835-72` resolution of the same header from `d410db3`→`f69fbd4` (SRC_Manifest.md)
+
+--
+Revelation 8:3-5
+
+Here the one offering is an angel, in heaven, in a vision. And whatever he does there, he does by God's appointment: "there was given unto him much incense, that he should offer it" (8:3).
+
+That's a warrant for him. What I don't see is what turns it into a command, or even a permission, for the church on earth.
+
+When I mentioned approved example on 9/17, I meant the practice of the apostolic church, like gathering on the first day (Acts 20:7). An angel's act in a vision of heaven is a different kind of thing.
+
+Verse 5, in the passage you cited, has the same angel fill the censer with fire and cast it to the earth. None of us takes that, or the trumpets and bowls that follow, as a pattern for the church's liturgy.
+
+Revelation also says what the incense is, not only what it goes with. In 5:8 the golden bowls full of incense are "the prayers of saints," and in 8:3 it's offered "with the prayers of all saints," so the saints' part is prayer, and someone else presents it.
+
+So the type has its antitype named in the text itself. The church offers that incense whenever it prays, and Paul uses Malachi's own phrase for it: "I will therefore that men pray every where" (1 Tim 2:8), the same "in every place" as the Greek of Malachi 1:11.
+
+That's the same picture as Luke 1 (9/27): the people pray, and another offers the incense on their behalf. Hebrews places that work in Christ, who entered "heaven itself, now to appear in the presence of God for us," and "ever liveth to make intercession" (Heb 9:24; 7:25).
+
+So I agree that in both passages incense is offered by someone other than Aaron's sons. What I don't see yet is either passage showing the church offering it, or telling the church to.
+
+---
+
+### 10/8/26, 1:28 PM — JD Smith (OP)
+
+`message 57` · resolved **2026-10-08 13:28 ET** · raw header 26 of 32 · part 4 of 4 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[74,874–76,802)` · dating: client rendered the relative `Yesterday` form in the 2026-10-09 recapture (`47a8a4b`), so 2026-10-08; agrees with the `260835-72` resolution of the same header from `d410db3`→`f69fbd4` (SRC_Manifest.md)
+
+--
+I also don't see that it's a necessary consequence from either passage that the church burn physical incense in its worship. But the regulative principle requires one of those three (a command, an example, or a necessary consequence) if these passages are going to provide the warrant.
+
+So here is where I think we stand. In Malachi the incense is God's own declaration of what He will receive, and in Revelation the incense is given to the angel by God's appointment.
+
+Neither is worship of human devising, so neither contradicts the principle. What remains open is what each passage appoints for the church now, and that is the question I've been trying to ask.
+
+One more thing about those three tests, since it bears on my 9/27 question. They aren't tests for what God permits in worship; they're how we know what He has prescribed.
+
+The Confession's phrase is "good and necessary consequence" (WCF 1.6), and a necessary consequence is required, not merely allowed. Its rule for worship is that the acceptable way of worshipping God is "instituted by himself" and limited to what is "prescribed in the holy Scripture" (21.1).
+
+So whatever passes the tests is appointed worship and binds every church, and whatever fails them isn't worship the church may offer. There's no category for a new act of worship that is permitted but not required.
+
+Scripture does give the church liberty over circumstances (1 Cor 14:40), but a circumstance isn't offered to God, and incense is.
+
+Since we both hold that worship needs warrant, my one question is this: what takes us from "someone other than Aaron's sons offers incense in these passages" to "the church may offer it in its worship"? Whether you'd call that step a command, an example, a necessary consequence, or something else, I'd like to understand it.
+
+I'll leave my 9/27 question where it is, since your answer here may settle it anyway. Thanks again for staying with this.
+
+---
+
+### 10/8/26, 2:18 PM — Athanasius325 / Fr James
+
+`message 58` · resolved **2026-10-08 14:18 ET** · raw header 27 of 32 · raw bytes `[76,855–78,243)` · dating: client rendered the relative `Yesterday` form in the 2026-10-09 recapture (`47a8a4b`), so 2026-10-08; agrees with the `260835-72` resolution of the same header from `d410db3`→`f69fbd4` (SRC_Manifest.md)
+
+So, I'm confused: is the New Covenant worship a fulfillment of the Old Covenant worship, or is it not?
+The reason I ask is if New Covenant worship is the fulfillment of Old Covenant worship, then the foreshadowing restrictions no longer remain. Malachi 1:11 is then sufficient to show that there will be (now is) no longer a limitation of who can burn incense for worship. 
+
+
+If New Covenant worship is not the fulfillment of Old Covenant worship, then either we need to go fully back to Old Covenant worship (as it has not yet been fulfilled), or we must reject Old Covenant worship in some way and insist that New Covenant worship is disjointed from Old Covenant worship.
+
+As well, given that the Aaronic priesthood itself is put aside, that certainly goes along with my interpretation of Malachi 1:11. It makes sense that the widening of the Covenant (the fulfillment is always more and greater than the foreshadow) would allow for more than just Aaron's descendants to use incense. The Mark of the Covenant has been made wider and greater (women can receive it now, and it does not give pain), the whole of the People of God partake in the Bread of the Presence, not just the priests, etc. So when the Scriptures give a prophecy of incense and a Grain Sacrifice being offered in the Name of God, I need a strong case to deny the literal meaning of it for the sake of the allegorical. 
+
+> ⚠️ **DATED NOTE, 260835-74 — ARCHIVED AS ONE MESSAGE BY DETERMINATION, NOT BY RULE.** The raw joins *"…or is it not?"* to *"The reason I ask…"* by a single newline (raw byte 76,957), which the split rule used for this archive would otherwise read as a message boundary. JD reported at `260835-72` that this message later showed `(edited)` and that the edit added a blank line after its first sentence; Discord trims trailing whitespace, so an added blank line can persist only INSIDE a message. ⛔ Recorded as a determination for JD's review; the committed raw does not itself show the added blank line (see `SRC_Manifest.md`).
+
+---
+
+### 10/9/26, 3:08 PM — JD Smith (OP)
+
+`message 59` · resolved **2026-10-09 15:08 ET** · raw header 28 of 32 · part 1 of 2 under this client header · raw bytes `[78,271–79,584)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+Yes, without hesitation: new covenant worship is the fulfillment of old covenant worship. That's what I meant on 10/4 when I quoted Hebrews calling the old service "a figure for the time then present" (9:9), and Paul calls the whole ceremonial "a shadow of things to come; but the body is of Christ" (Col 2:17).
+
+I also agree the fulfillment is more and greater than the shadow, and that the Aaronic restriction is gone. So we agree on the frame; the difference is what fulfillment does to the sign.
+
+I'll try to respond to your comments as briefly as possible here.
+
+Your own examples answer that. Circumcision wasn't widened to women as circumcision; it ceased, and Christ gave a new sign in its place (Matt 28:19; Col 2:11-12). When the nations came in, the apostles didn't extend circumcision to them; they declined it (Acts 15; Gal 5:2).
+
+The Bread of the Presence works the same way. You've said the Eucharist is its fulfillment (8/24) and that the particular showbread practices aren't done (8/25). Even the frankincense that sat on the loaves (Lev 24:7) didn't come forward with it.
+
+So in both cases the restrictions no longer remain because the sign no longer remains. What continues is a rite Christ instituted, and baptism and the Supper continue for that reason, not because fulfillment spared them. 
+
+---
+
+### 10/9/26, 3:08 PM — JD Smith (OP)
+
+`message 60` · resolved **2026-10-09 15:08 ET** · raw header 28 of 32 · part 2 of 2 under this client header (continuation message: the client renders no timestamp of its own for it; the time shown is the header's, a lower bound) · raw bytes `[79,585–81,358)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+That's the step I don't see supported. A rite's rules ending with the rite doesn't by itself license the rite again under looser rules. If it did, the same would hold for the ark, which sits in the same verse as the censer (Heb 9:4), or for the veil, which continues only as Christ's flesh (Heb 10:20): everyone now passes through it, and nobody hangs one.
+
+And it isn't only things Scripture never mentions again. The ark itself appears in heaven's temple (Rev 11:19), as the incense does in 8:3, and Zechariah 14:16 has the nations keeping the Feast of Tabernacles in the age of the nations' worship, as Malachi 1:11 has incense. Neither the ark nor the Feast of Tabernacles are taken as a rite for the church, so being shown in heaven or named in prophecy can't be what decides it.
+
+Under the principle we both hold, taking up a fulfilled rite again is a new act of worship, and it needs its own warrant. That's why I don't think the wider priesthood yields wider incense permission. The priesthood changed and the law with it (Heb 7:12), and Hebrews lists the altar of incense (the KJV's "golden censer") beside the table of showbread as furniture of the first tabernacle (9:2-4).
+
+The grain sacrifice shows the same thing. The fathers read the pure offering as fulfilled in the Eucharist (9/8), and I'd agree. But the Leviticus 2 rite itself (fine flour, oil and frankincense, a memorial portion burned on the altar) may be kept in the antitype; it is certainly not kept literally, by either of us.
+
+So what is the fulfillment of the incense? I'm not reading it allegorically; I'm reading it the way the text reads it. Revelation 5:8 says the golden bowls full of incense are "the prayers of saints," and you've said yourself that incense is a symbol of prayer (8/21).
+
+---
+
+### 10/9/26, 3:23 PM — JD Smith (OP)
+
+`message 61` · resolved **2026-10-09 15:23 ET** · raw header 29 of 32 · raw bytes `[81,386–83,223)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+The fathers who comment on Malachi's incense clause read it the same way. Irenaeus cites the verse for the church's oblation and then says, "John, in the Apocalypse, declares that the 'incense' is 'the prayers of the saints'" (Against Heresies 4.17.6). Cyril of Alexandria, on this verse, counts "animal sacrifice and incense" as the shadow now set aside, and reads the incense of the new age as spiritual incense: faith, hope, love and good works (Commentary on Malachi, on 1:11).
+
+And that fulfillment is wider and greater, exactly as you'd expect. The people who stood outside praying at the hour of incense (Luke 1:10) now "enter into the holiest" themselves (Heb 10:19), in every place (1 Tim 2:8), through a priest who "ever liveth to make intercession" (Heb 7:25). That's more than a wider censer. It's the thing the censer stood for, given to everyone.
+
+So I don't think "literal or allegorical" is really the choice. Fulfillment isn't figurative; Christ our Passover is more real than the lamb. The question is whether the old sign continues alongside its fulfillment, and in every example we've both used, it didn't, unless Christ instituted it anew.
+
+So my question from the other day still stands, and here is the form of it that this exchange has brought into focus: what takes incense from the Aaronic restriction disappearing to the sign itself continuing, when the sign didn’t continue for circumcision or the showbread?
+
+One more thing follows from your own reading. If Malachi 1:11 institutes incense for the church in any sense, then it's required, because any worship that God institutes, He also requires it to be performed; and as a result, if it only permits incense, then it doesn't institute it. That's my 9/27 question again. Thanks for pressing on this; I'm getting more clarity on where we actually differ. 
+
+> ⚠️⚠️ **DATED NOTE, 260835-74 — THIS MESSAGE WAS EDITED BY ITS AUTHOR (JD) AFTER THE `f69fbd4` CAPTURE AND BEFORE REV. JAMES QUOTED IT.** Raw-vs-raw `f69fbd4`→`47a8a4b`: the final paragraph's clause *"because God doesn't institute worship yet not require it; and if it only permits incense"* now reads *"because any worship that God institutes, He also requires it to be performed; and as a result, if it only permits incense"*. The two captures are byte-identical up to raw byte 82,964 and diverge there. ⭐ **Rev. James's 10/9 5:24 PM message (message 64) quotes the EDITED wording, so the text archived here is the text he answered** (the Assurance-thread `8/24/26, 12:02 PM` disposition). ⛔ The prior wording is preserved in git at `f69fbd4`/`c0177c2` (raw sha256 `48bb0a58…`, bytes 82,872–83,012 for the sentence through *"require it"*). ⛔ No `(edited)` marker is in the raw; per the standing clipboard-capture limitation that confirms nothing.
+
+---
+
+### 10/9/26, 4:49 PM — Athanasius325 / Fr James
+
+`message 62` · resolved **2026-10-09 16:49 ET** · raw header 30 of 32 · raw bytes `[83,263–85,215)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+You are reading Old to New Covenant in a disjointed manner. Rather than seeing Baptism as the fulfillment of Circumcision, you see Circumcision as something gotten rid of and this other thing called Baptism replacing it. That is not fulfillment; ironically, that is the (false) assessment by Dispensationalists of what we are saying. 
+
+When I speak of Baptism as a fulfillment of Circumcision, I mean that what Circumcision pointed to, Baptism brings us to. When I speak of it being wider, I don't need to find an explicit Passages explicitly commanding infants be Baptized (which is, by the way, an act of worship). It has been made wider. Applying some of your contentions here to, instead, infant Baptism, you would be insisting that if we were to do Baptism for infants we NEED to do it on the 8th day, and that blood and a knife somehow still be involved. Why do you not insist that an infant be Baptized on the 8th day and that a knife and bleeding be involved? This touches a fundamental difference in how you and I both look at fulfillment; I honestly don't see how your approach as you have described it is fulfillment. It seems very clearly a Dispensationalist understanding of what they think we think fulfillment is. 
+
+Your resistance to understanding Malachi 1:11 in its plain reading can just as easily be applied to infant Baptism, or even to women receiving Baptism. I can simply make Lydia an allegorical Passage and say it's not really showing a female getting Baptized literally, but is just a sign pointing to Gentiles being allowed to be Baptized. Allegory can be thrown at almost anything to make it fit one's theology. 
+
+We don't have an explicit command to Baptize women or infants. We have one explicit example for women, and some implied examples for infants. But we don't need it, because the very concept of marking the People of God has already been established, and we carry over and widen its application from Old to New.
+
+---
+
+### 10/9/26, 5:08 PM — Athanasius325 / Fr James
+
+`message 63` · resolved **2026-10-09 17:08 ET** · raw header 31 of 32 · raw bytes `[85,255–87,238)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+"Neither the ark nor the Feast of Tabernacles are taken as a rite for the church, so being shown in heaven or named in prophecy can't be what decides it."
+
+^^^That simply isn't true. We continually have the Feast of the Tabernacles. John 1:5. We have the Ark continually before, in, with, and through us. The Presence of God within, the Reception of Christ in both Word and Sacrament, etc. This is what it means for it to be a fulfillment. It is more real. 
+
+You point to the Shewbread's precise ingredients as a counter example; unless you believe that it would be a sin to make Communion Bread in precisely that manner, your argument does not seem to work and is, rather, another demonstration of "missing the forest for the trees"; or, looking at precisely the exact acts rather than seeing how they are fulfilled. 
+
+"A rite's rules ending with the rite doesn't by itself license the rite again under looser rules. If it did, the same would hold for the ark, which sits in the same verse as the censer (Heb 9:4), or for the veil, which continues only as Christ's flesh (Heb 10:20): everyone now passes through it, and nobody hangs one."
+
+^^^It does if the Scriptures give us warrant to believe that. Malachi 1:11 and both Revelation Passages do. 
+
+"Under the principle we both hold, taking up a fulfilled rite again is a new act of worship, and it needs its own warrant."
+
+^^^100% disagreement. This is what I mean when I say you don't see this as fulfillment but disjointment. We do not need to start from scratch with Baptism, simply because the sign itself is not Circumcision. This is the grave error of the Baptists. 
+
+And, again, you are reading Malachi 1:11 allegorically when you do not allow for the literal, plain meaning and in fact claim that the literal, plain reading is SINFUL if followed. I know you are denying that, but when the words aren't describing the scene in the way a person describing a picture of the scene would, it is difficult to call that literal. 
+
+---
+
+### 10/9/26, 5:24 PM — Athanasius325 / Fr James
+
+`message 64` · resolved **2026-10-09 17:24 ET** · raw header 32 of 32 · raw bytes `[87,278–89,131)` · dating: bare time in the 2026-10-09 recapture; resolved to 2026-10-09 by commit-timestamp-plus-elimination (`47a8a4b` committed 2026-10-09 17:32:17 -0400, after the last header at 5:24 PM). ⛔ Weaker than the capture-line class; not to be cited as such
+
+"So my question from the other day still stands, and here is the form of it that this exchange has brought into focus: what takes incense from the Aaronic restriction disappearing to the sign itself continuing, when the sign didn’t continue for circumcision or the showbread?"
+
+^^^The sign did continue for Shewbread: bread. Malachi 1:11 is, again, where I point to. 
+
+"One more thing follows from your own reading. If Malachi 1:11 institutes incense for the church in any sense, then it's required, because any worship that God institutes, He also requires it to be performed; and as a result, if it only permits incense, then it doesn't institute it. That's my 9/27 question again. Thanks for pressing on this; I'm getting more clarity on where we actually differ."
+
+^^^As I said before in the class, I was bending over backwards trying to accommodate people with where they were, and have continually encouraged people to use incense as a part of worship; at the least as part of Holy Communion. Again, this is why we use it for every joining together for worship. I talk especially with my fellow Sacramental ministers and encourage them to use it more. The Baptists don't even Baptize their infants, so I focus on that (which is more foundational). The Presbyterians often reject any understanding of the Eucharist as joining us to the Sacrifice of Christ, which is why I focus on things like that. Is it a sin? What I do, when we talk about this, is try to avoid judgement of it myself, and simply point them to the Scriptures and say, "This is what it says." 
+
+Also, is it your understanding that since Communion is instituted, to not have Communion every time the Body of Christ gathers for corporate worship is to sin? Not even I would say that, and I even more strongly insist upon Communion being every time we gather for corporate worship.
+
+---
+
+## Changelog
+
+- 260835-74 (2026-10-09): **Initial build — the archive of record owed since `260835-58`.** Built by script (`parse_raw.py` / `build_archive.py`, copies in `staging-74/work/`) from `src/SRC_Discord_Followup-raw.txt` at `HEAD` `47a8a4b` (sha256 `63920d327fbe759d…`, 89,131 bytes). 64 messages under 32 client headers. ⭐ **Three Rev. James messages of 10/9 (4:49, 5:08, 5:24 PM; messages 62–64) are archived here and are NOT yet logged as findings; no `DQ` number is minted by this pass.** ⚠️ **JD's 10/9 3:23 PM message (message 61) was edited in place between captures; dated note beside it.** ⚠️ **Message 52 (Rev. James, 10/8, 2:18 PM) is archived as one message by determination; dated note beside it.** Date resolutions: 9/5–10/7 headers client full dates; JD 10/8 1:28 PM and Rev. James 10/8 2:18 PM from the client's `Yesterday` form in the 10/9 capture (agreeing with `260835-72`); all 10/9 headers bare, resolved by commit-timestamp-plus-elimination against `47a8a4b`. Internal message breaks inferred at raw bytes: 5,859, 7,684, 9,189, 10,585, 12,871, 15,382, 15,750, 19,006, 28,481, 29,821, 31,705, 33,645, 35,571, 37,573, 39,266, 41,136, 44,811, 45,965, 48,582, 49,822, 51,511, 52,802, 53,732, 55,998, 57,252, 59,577, 65,632, 67,109, 71,152, 73,146, 74,873, 79,584. Joins kept inside one message: list markers and bullets in the 9/17 8:28 PM and 9/12 2:14 AM blocks, the rule-line openers (`--`, `-----`) that begin JD's continuation messages, the `@mention` line opening JD's 9/8 9:18 AM post, and raw byte 76,957 (message 58). No analysis, no source tags.

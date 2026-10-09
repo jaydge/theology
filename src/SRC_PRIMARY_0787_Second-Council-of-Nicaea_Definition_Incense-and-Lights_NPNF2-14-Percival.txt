@@ -1,0 +1,55 @@
+CAPTURE — 260835-70
+SOURCE: The Second Council of Nicaea (787), The Decree / Definition of the
+        Holy Great and Ecumenical Synod, the Second of Nice.
+        English: Henry R. Percival, ed., Nicene and Post-Nicene Fathers,
+        Second Series, Vol. 14, "The Seven Ecumenical Councils" (1900).
+        PUBLIC DOMAIN.
+PROVENANCE: newadvent.org/fathers/3819.htm, read in-page 2026-09-08.
+            Page innerText length 121,915 chars. "incense" occurs exactly
+            TWICE on the page, at char 22,364 and char 69,111. Both captured.
+
+--- BEGIN CAPTURE 1 (char 22,364) — from the epistle/profession material,
+    the imperial-portrait analogy ---
+
+For if the people go forth with lights and incense to meet the laurata and images
+of the Emperors when they are sent to cities or rural districts, they honour
+surely not the tablet covered over with wax, but the Emperor himself.
+
+--- END CAPTURE 1 ---
+
+--- BEGIN CAPTURE 2 (char 69,111) — THE DEFINITION ITSELF, the load-bearing text ---
+
+We, therefore, following the royal pathway and the divinely inspired authority of
+our Holy Fathers and the traditions of the Catholic Church (for, as we all know,
+the Holy Spirit indwells her), define with all certitude and accuracy that just
+as the figure of the precious and life-giving Cross, so also the venerable and
+holy images, as well in painting and mosaic as of other fit materials, should be
+set forth in the holy churches of God, and on the sacred vessels and on the
+vestments and on hangings and in pictures both in houses and by the wayside, to
+wit, the figure of our Lord God and Saviour Jesus Christ, of our spotless Lady,
+the Mother of God, of the honourable Angels, of all Saints and of all pious
+people. For by so much more frequently as they are seen in artistic
+representation, by so much more readily are men lifted up to the memory of their
+prototypes, and to a longing after them; and to these should be given due
+salutation and honourable reverence (ἀσπασμὸν καὶ τιμητικὴν προσκύνησιν), not
+indeed that true worship of faith (λατρείαν) which pertains alone to the divine
+nature; but to these, as to the figure of the precious and life-giving Cross and
+to the Book of the Gospels and to the other holy objects, incense and lights may
+be offered according to ancient pious custom. For the honour which is paid to the
+image passes on to that which the image represents, and he who reveres the image
+reveres in it the subject represented.
+
+--- END CAPTURE 2 ---
+
+⭐ NEGATIVE FINDING, DERIVED BY DIRECT SEARCH AND RECORDED AS SUCH:
+  "Malachi" occurs ZERO times on the page; "Malachias" likewise ZERO.
+  The one conciliar text in the Orthodox corpus that legislates the offering of
+  incense grounds it in (i) the veneration of images and (ii) "ancient pious
+  custom" — NOT in Malachi 1:11, and not in any prophetic warrant.
+
+⚠️ DISTINCTION THAT MUST NOT BE BLURRED (logged before it is fallen into):
+  The verb here IS oblationary — incense "may be offered." But the terminus of
+  that offering is the IMAGE (and the Cross, the Gospel book, the other holy
+  objects), under τιμητικὴ προσκύνησις and expressly NOT under λατρεία. This is
+  not a text about offering incense to God as a sacrifice, and it must not be
+  quoted as though it were — in either direction.

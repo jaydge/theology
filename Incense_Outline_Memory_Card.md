@@ -9,14 +9,17 @@
 
 <!-- END PURPOSE HEADER -->
 
-**Last updated: 260835-73** (date-stamped, format yymmdd-iteration)
+**Last updated: 260835-74** (date-stamped, format yymmdd-iteration)
 
 > **DERIVATION POINTER.** Derived from `Incense_Conversational_Outline.md` at its stamp **260835-72** (repo HEAD `a5d8cc9`): every step, the Deployment map, the `260835-72` overlay, its sixteen-item reserve register, and the dated notes. Question state is taken from `PROJECT_STATE.md` §1 to §3 and `RJ_Final_Question_List.md` v23, both at `260835-72`. Quotations attributed to Rev. James are taken from `St_Francis_EMC_Distinctives.md` and, for the Followup thread, checked against `src/SRC_Discord_Followup-raw.txt` (sha256 `48bb0a58…`).
 >
 > **This card changes nothing in the outline. If the card and the outline ever disagree, the outline wins and the card is stale.** Once the outline's stamp moves past `260835-72`, treat the card as stale until it is re-derived.
+>
+> ⚠️ **DATED NOTE, 260835-74:** the outline's stamp moved to `260835-74` (its C11 `DQ`/`IP` review and dated notes); this card was **not** re-derived, so by its own rule above it is **stale until it is**. The pointer above is left at `260835-72`.
 
 ## Changelog
 
+- **260835-74 (2026-10-09):** One dated note added below the Layer A table: Step 2's prescribed-not-permitted point was posted on 10/9 in JD's own words, byte-verified in both captures of the Followup raw, with the wording JD later edited recorded beside the wording that now stands. One dated stale note added beside the derivation pointer, because the outline's stamp moved to `260835-74` and the card was not re-derived. No row of any table was edited.
 - **260835-73 (2026-10-09):** Card created. It has four layers: (A) the logical flow, one line per step in the outline's order, each with a cue, a one-sentence claim, an anchor and the step's state from the Deployment map; (B) the branch map for twelve anticipated replies, each ending at one of the two open questions; (C) a Mermaid flowchart with SPENT, RESERVE and DO NOT DEPLOY AT RJ subgraphs; (D) the spoken core verbatim, a labeled 60-second compression, and the three-question drill. Four brief items were corrected against the record rather than carried. (1) Luke 1:9-10 puts the people outside and Zacharias inside; the brief's cue had them reversed. (2) Cyril's reading is Tier 1, verified by JD against the page on 2026-10-09 (`260835-72`); the brief's "print check pending" is stale. (3) The brief's guard "he has stated no sorting rule" is superseded by `DQ-37`(b), "fulfillment widens"; the three-pattern sort remains the project's. (4) "Instituted means required" is not used as a cue, because that phrase was never posted (grep 0, `260835-72`). The brief's cue "nobody keeps Leviticus 2" is also replaced by a modal-split cue, because "nobody keeps" has the same shape as the "nobody performs" clause the outline retired at `260835-3`. The only other edits are in `PROJECT_STATE.md`: a new §4 row for this card, one changelog line, and that file's own stamp and §4 row bumped to `260835-73` so that its version check (C3) stays in agreement.
 
 **How to read the tags.** `[Stated, tag]` means his own words, on the record. `[Analysis]` means the project's inference, never his. "JD" marks JD's own posted words. Quotations are here so a reply is recognized on the spot; before any of them is quoted back at him, check it against its source.
@@ -45,6 +48,14 @@
 | 8 | Dignity and flexibility both | Warranted human ordering wants divine dignity and human flexibility at once and cannot say which governs. | Articles 20 and 34; [Stated, `IP-12`] | DO NOT DEPLOY AT RJ (he affirmed the RPW, `DQ-4`); third parties only |
 | 9 | Three centuries, no censer | English worship was incense-free from the late 1540s to the 1850s, and the practice was condemned when tested. | *Elphinstone v. Purchas* 1870; the 1899 Opinion; Church of Ireland canon | SPENT 9/5, 9/8, 9/17, 9/27; closed by JD 9/17 |
 | 10 | Burden rule is not a warrant | A rule for who must argue, or for what was received, gives no positive grounds for incense. | [Stated, `DQ-19`(a), `DQ-24`(b), `DQ-33`(b)] | RESERVE; trigger: "the onus is on the innovator" |
+
+> ⭐ **DATED NOTE, 260835-74 (2026-10-09) — STEP 2's PRESCRIBED-NOT-PERMITTED POINT WAS ALSO POSTED ON 10/9, IN JD's OWN WORDS. THE TABLE ROW ABOVE IS NOT EDITED.** Its State cell reads *"PART-SPENT 10/8 (WCF line); framework unspent"*. **Add: SPENT 10/9 as well as 10/8.** JD's 10/9 3:23 PM post closes with the point stated as a consequence of Rev. James's own reading (archive message 61 of `src/SRC_Discord_Followup.md`).
+>
+> - **As first posted** (raw capture sha256 `48bb0a58…`, the `f69fbd4` state): *"If Malachi 1:11 institutes incense for the church in any sense, then it's required, because God doesn't institute worship yet not require it"* — **[byte @82,872–83,012]**, uniqueness-checked (1 occurrence). The cue *"God doesn't institute worship yet not require it"* is **[byte @82,964–83,012]** in that capture.
+> - ⚠️⚠️ **As it now stands** (raw capture sha256 `63920d32…`, `HEAD` `47a8a4b`): JD **edited the post in place** after the `f69fbd4` capture. The sentence now reads *"If Malachi 1:11 institutes incense for the church in any sense, then it's required, because any worship that God institutes, He also requires it to be performed"* — **[byte @82,872–83,032]**. The paragraph continues *"; and as a result, if it only permits incense, then it doesn't institute it."* ⛔ **The brief's wording, *"God doesn't institute worship yet not require it"*, does NOT occur in the current capture (0 occurrences).** ⭐ **Rev. James's 10/9 5:24 PM post quotes the EDITED wording** (**[byte @87,696–87,856]**, archive message 64), so the edited form is the text he answered.
+> - **Available Step 2 cues, both JD's own words:** *"God doesn't institute worship yet not require it"* (as first posted; short and memorable; no longer in the posted text) and *"any worship that God institutes, He also requires it to be performed"* (as it now stands; the form on the record and the form he quoted). ⏳ **Which to carry as the cue is JD's choice.** Recorded rather than chosen.
+> - ⚠️ **The point is no longer unanswered in the thread.** Rev. James's 5:24 PM post (archive message 64) quotes this paragraph and replies to it. ⛔ That reply is **not yet minted** (no `DQ-38`), so the card does not characterise it. Read it in the archive before relying on this cue.
+> - *(The 260835-74 C11 review also found that Step 2's three-category framework was posted in full on 9/17, which the row's "framework unspent" does not reflect. See the outline's `260835-74` REVIEWED block. The row is left as derived.)*
 
 ## Standing guards (these travel with every layer)
 
