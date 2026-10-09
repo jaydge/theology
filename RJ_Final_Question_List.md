@@ -11,7 +11,7 @@
  
 *Canonical working list (internal). Stable title, no version suffix; the working version lives in the line below and the permanent CHANGELOG at the end.*
  
-**Last updated: 260835-72 (v23)** (date-stamped, format yymmdd-iteration) ⭐⭐ **260835-72 — ONE DATED BLOCK in the live-status section (Followup-thread question states; reserve item 4 queued as the next committal question behind the two open ones; the "instituted form" question superseded) and one dated note at item 1e. ⛔ No question drafted, altered, retired or posted.** *(Prior stamp retained: 260835-16 (v22).)*
+**Last updated: 260835-75 (v24)** (date-stamped, format yymmdd-iteration) ⭐⭐ **260835-75 — ONE DATED v24 BLOCK in the live-status section, after the v23 block: the 10/8 question ANSWERED and the 9/27 question ANSWERED IN SUBSTANCE (both 2026-10-09, 5:24 PM, `DQ-40`); his counter-question to JD OUTSTANDING TO JD; the queued Heb 9 question held behind it. ⛔ No question drafted, reworded, retired or posted.** *(Prior stamp retained: 260835-72 (v23).)* ⭐⭐ **260835-72 — ONE DATED BLOCK in the live-status section (Followup-thread question states; reserve item 4 queued as the next committal question behind the two open ones; the "instituted form" question superseded) and one dated note at item 1e. ⛔ No question drafted, altered, retired or posted.** *(Prior stamp retained: 260835-16 (v22).)*
 
 > ### ⚠️ POINTER — VOLATILE STATE IS NOT AUTHORITATIVE IN THIS FILE
 > **`PROJECT_STATE.md` is the single source of truth** for whose turn it is, what has been asked, what has been answered, which gates are open, and what version each document is at. Status language in this file is **commentary**, retained for its reasoning. **Where the two disagree, `PROJECT_STATE.md` wins and this file is stale.** Run `validate_project.py` after any edit.
@@ -208,6 +208,20 @@ The tension in Bucket A is therefore **not** "you're a crypto-Romanist on author
 > **5. SUPERSEDED — "what is the instituted new covenant form of incense, and where is it given?"** He can answer *"Malachi 1:11"* and stop (he has, in effect: `DQ-37`(b), *"Malachi 1:11 is then sufficient"*). ⚠️ **The phrase does not occur verbatim in this file; its nearest forms are item 1e's two routing replies (*"who instituted this accompaniment?"* and *"a new symbolic rite that neither Christ nor the apostles instituted"*) and are marked superseded by a dated note at 1e.** The institution question survives only in the 10/8 form above, which asks for the STEP rather than the form.
 >
 > ⚠️ **One-question-per-turn:** two of JD's questions are open at once because his last two replies answered questions with questions; this is an observation about the record, logged in `PROJECT_STATE.md` §3, not a charge.
+
+> # ⭐⭐⭐ v24 UPDATE (260835-75, 2026-10-09) — THE FOLLOWUP THREAD AFTER REV. JAMES'S THREE 10/9 REPLIES (`DQ-38`…`DQ-40`)
+>
+> ⛔ **Live state lives in `PROJECT_STATE.md` §1–§3 and wins every conflict; this block records the question-list consequences only. The v23 block above is retained as written. No question below is reworded, drafted, retired or posted by this pass.**
+>
+> **2. The 9/27 question** (v23 item 2, wording unchanged). ✅ **ANSWERED IN SUBSTANCE, 2026-10-09, 5:24 PM** (`DQ-40`(b); archive message 64 of `src/SRC_Discord_Followup.md`). His answer, in his words: he has *"continually encouraged people to use incense as a part of worship; at the least as part of Holy Communion"*, *"this is why we use it for every joining together for worship"*, and, of whether it is a sin, *"What I do, when we talk about this, is try to avoid judgement of it myself, and simply point them to the Scriptures"*. ⛔⛔ **He did not select among the three options the question offered.** His 8/30 *"Correct."* (`DQ-28`(d)) stands beside the answer. ⚠️ v23 item 2's **OPEN** state is superseded by this note and left as written.
+>
+> **3. The 10/8 question** (v23 item 3, wording unchanged in both its 10/8 and 10/9 forms). ✅ **ANSWERED, 2026-10-09, 5:24 PM** (`DQ-40`(a)). His answer, in his words: *"The sign did continue for Shewbread: bread. Malachi 1:11 is, again, where I point to."* `[Analysis]` The answer relocates the question to institution (why bread continued) rather than resolving it; that is for JD to judge. ⚠️ v23 item 3's **OPEN** state is superseded by this note and left as written.
+>
+> **6. NEW, AND IN THE OTHER DIRECTION: his counter-question to JD, OUTSTANDING TO JD.** *"Also, is it your understanding that since Communion is instituted, to not have Communion every time the Body of Christ gathers for corporate worship is to sin?"* (`DQ-40`(c), [byte @88,848–89,007]). ⛔ **A question addressed to JD; never restated as an assertion. No answer is drafted here.** It presses the posted Step 2 point (the outline's `260835-75` dated note at Step 2).
+>
+> **4. The queued next committal question** (v23 item 4, the Heb 9:2-4 question, wording unchanged). Its stated trigger (the 10/8 question answered) is now met. ⛔⛔ **It still does not go next: under one-question-per-turn, nothing new goes to him until JD has answered item 6. Queued; wording is JD's; not drafted in this pass.**
+>
+> ⚠️ **One-question-per-turn, as of this block:** none of JD's questions is open in this thread; one of his is open, to JD. `PROJECT_STATE.md` §2 carries the turn gate.
 
 ---
 
@@ -1154,6 +1168,8 @@ This pass sourced the list against the uploaded transcripts: Anglican 101 (a101-
  
 ---  
 # CHANGELOG (permanent — never deleted)  
+
+260835-75 (v24): **FOLLOWUP-THREAD QUESTION STATES AFTER REV. JAMES'S THREE 10/9 REPLIES — ONE DATED v24 BLOCK IN THE LIVE-STATUS SECTION, AFTER THE v23 BLOCK; NOTHING ELSE TOUCHED.** ⚠️ **No question drafted, reworded, retired or posted; Rev. James not contacted.** 9/27 (optional / prescribed / something else): ANSWERED IN SUBSTANCE 10/9 5:24 PM (`DQ-40`(b)); he encourages it, uses it at every gathering, declines to judge non-use as sin, and selects no option. 10/8 (as restated 10/9): ANSWERED 10/9 5:24 PM (`DQ-40`(a)), *"The sign did continue for Shewbread: bread. Malachi 1:11 is, again, where I point to."* His counter-question to JD (`DQ-40`(c)) recorded as OUTSTANDING TO JD. The queued Heb 9 question held behind it; wording JD's; not drafted. The v23 OPEN states are superseded by note, not edited.
 
 260835-72 (v23): **FOLLOWUP-THREAD QUESTION STATES RECORDED — ONE DATED BLOCK IN THE LIVE-STATUS SECTION, ONE DATED NOTE AT ITEM 1e, NOTHING ELSE TOUCHED.** ⚠️ **No question drafted, altered, retired or posted; Rev. James not contacted.** 9/8 expectation question: answered in substance (9/12 hierarchy + 8/30 *"Correct."*). 9/27 (optional / prescribed / something else): OPEN. 10/8 (non-Aaronic offerers → "the church may offer it"): OPEN, restated 10/9 in JD's own words. Reserve item 4 (the Heb 9:2-4 question) queued as the next committal question behind the two open ones, with its ask-never-assert guard and KJV-wording note. "What is the instituted new covenant form of incense, and where is it given?" marked superseded (he can answer "Malachi 1:11" and stop). Live state remains in `PROJECT_STATE.md`.
 
